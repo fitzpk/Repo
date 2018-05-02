@@ -3029,6 +3029,149 @@
                 "Time": "Wed May 02 01:38:41 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/928141681500635136/ufNVZBKR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chasepwilliams", 
+                "Name": "Chase Williams WPXI", 
+                "Tweet": "19+ Points in first 9 games of #StanleyCup Playoffs\n\nJake Guentzel     19      2018\nMario Lemieux    19      1992\nM\u2026 https://t.co/nyRuIFGiqr", 
+                "TweetLink": "991492930794860545", 
+                "Place": "Pittsburgh", 
+                "Time": "Wed May 02 01:41:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/887779559453732865/I2Dr5GT__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PabloMurphy", 
+                "Name": "PabloMurphy\u00ae", 
+                "Tweet": "His name... Sidney Crosby. Enough said. \n\n#teamadidas | #StanleyCup \n\nhttps://t.co/SvvrYlTSu5", 
+                "TweetLink": "991492945990696960", 
+                "Place": "Portland", 
+                "Time": "Wed May 02 01:41:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/931703319264763910/7dlMW-R1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BurghPSUFaninPA", 
+                "Name": "Donald\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "3rd Period is Underway! #Pens #3elieve #LetsGoPens #StanleyCup #WSHvsPIT https://t.co/e6lXoQRPMD", 
+                "TweetLink": "991493100441923584", 
+                "Place": "Pennsylvania", 
+                "Time": "Wed May 02 01:42:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991140994325340160/AN7JiNp6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DenisGorman", 
+                "Name": "Denis Gorman", 
+                "Tweet": "@pens_andthe_pen @NHL I wrote earlier tonight that I didn\u2019t think Wilson was going to fight. Here\u2019s my rationale: https://t.co/SDAyDxZhXk", 
+                "TweetLink": "991493150576398337", 
+                "Place": "Queens", 
+                "Time": "Wed May 02 01:42:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/724079759270010880/BQ6gkOBp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BurghPSUFaninPA", 
+                "Name": "Donald\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "Let's Go #Pens! #3elieve #StanleyCup #WSHvsPIT https://t.co/6f8Afv2GSg", 
+                "TweetLink": "991493201239396352", 
+                "Place": "Pennsylvania", 
+                "Time": "Wed May 02 01:42:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991140994325340160/AN7JiNp6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-63.2933345, 46.2631115]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ppbutler", 
+                "Name": "Patrick Butler", 
+                "Tweet": "Maybe it\u2019s just me but the whiteout seems to have a different effect when the home team wears dark. https://t.co/Aphq1w8VDB", 
+                "TweetLink": "991493516458123264", 
+                "Place": "Lot 31", 
+                "Time": "Wed May 02 01:44:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985884551070220289/npaLsopA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PabloMurphy", 
+                "Name": "PabloMurphy\u00ae", 
+                "Tweet": "His name... Sidney Crosby. Enough said. \n\n#teamadidas | #CreateHistory | #StanleyCup \n\nhttps://t.co/SvvrYlTSu5", 
+                "TweetLink": "991493597626228739", 
+                "Place": "Portland", 
+                "Time": "Wed May 02 01:44:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/931703319264763910/7dlMW-R1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.9940185, 42.2276835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ijensen4", 
+                "Name": "Isaac Jensen", 
+                "Tweet": "Go capitals #ALLCAPS #StanleyCup", 
+                "TweetLink": "991493918968729600", 
+                "Place": "Cherry Valley", 
+                "Time": "Wed May 02 01:45:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988955327193321472/XUZnsedv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.979809, 40.770097]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "fieldthomas53", 
+                "Name": "thomasdtd", 
+                "Tweet": "I swear that last dude scares me https://t.co/9MFv0F7Oo1", 
+                "TweetLink": "991493925994160129", 
+                "Place": "East Patchogue", 
+                "Time": "Wed May 02 01:45:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990192330463502338/pxd8mYPy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "#MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators #NHLJets #NHLPlayoffs\u2026 https://t.co/IFVxawIjjt", 
+                "TweetLink": "991494076871589888", 
+                "Place": "Winnipeg", 
+                "Time": "Wed May 02 01:46:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rickac99", 
+                "Name": "Rick Acosta", 
+                "Tweet": "Way to go, Jets! #StanleyCup #WPGWhiteout #WPGvsNSH https://t.co/IgbGAfvNeG", 
+                "TweetLink": "991494514371002368", 
+                "Place": "Los Angeles", 
+                "Time": "Wed May 02 01:48:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/949896626746748928/84urAdYj_normal.jpg"
+            }
         }
     ]
 }
