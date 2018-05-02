@@ -2821,6 +2821,214 @@
                 "Time": "Wed May 02 01:29:49 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980207816093904897/wlpPy97L_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "Zoooom Zooom Zzzooooooom GOAL!!! :)\n#MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo\u2026 https://t.co/D32hj5XG9d", 
+                "TweetLink": "991489971562233856", 
+                "Place": "Winnipeg", 
+                "Time": "Wed May 02 01:30:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bmozzonimaz", 
+                "Name": "bmozzonimaz", 
+                "Tweet": "@RyanMill just cranked the outdoor speakers for the 3rd period need to hear that horn and goal called a couple more\u2026 https://t.co/tT2v4WVgzR", 
+                "TweetLink": "991490046854291457", 
+                "Place": "Henderson", 
+                "Time": "Wed May 02 01:30:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2657153309/c6f345cd94ee374c51f7318722e8fae7_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.95791, 37.2744885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TweeterTeej", 
+                "Name": "T.J. Young", 
+                "Tweet": "Yo @NBCSports you gonna mention this too? Dudes out here spitting on people. #CapsPens #StanleyCup https://t.co/OxClzOsAP9", 
+                "TweetLink": "991490374219784192", 
+                "Place": "Roanoke", 
+                "Time": "Wed May 02 01:31:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984612130057015296/EXg-iwz4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-64.155035, 45.0510285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "threepeaksexp", 
+                "Name": "jimmy craig", 
+                "Tweet": "I went to the washroom with the Jets down by 3...serves me right lol https://t.co/hImFGY4l48", 
+                "TweetLink": "991490817595527168", 
+                "Place": "West Hants", 
+                "Time": "Wed May 02 01:33:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987252492219092992/1c9o3hmz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caylinnnieto", 
+                "Name": "Caylin N", 
+                "Tweet": "Dirty Caps need to take a chill pill. #stanleycup", 
+                "TweetLink": "991490883169193991", 
+                "Place": "Brooklyn", 
+                "Time": "Wed May 02 01:33:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849072353908797444/siVdLELl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "llsed31", 
+                "Name": "Ed", 
+                "Tweet": "Hey show shit bag Tom Wilson\u2019s hit again, garage league https://t.co/JcymYd7zcN", 
+                "TweetLink": "991490921706479616", 
+                "Place": "Pittsburgh", 
+                "Time": "Wed May 02 01:33:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990543682108645377/pRGlL78B_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shawx10", 
+                "Name": "Austin Shaw", 
+                "Tweet": "\ud83d\ude31\ud83d\ude31\ud83d\ude31 https://t.co/ihpdlJzs3F", 
+                "TweetLink": "991490969160814592", 
+                "Place": "Pittsburgh", 
+                "Time": "Wed May 02 01:34:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/923790103608250368/JI2zXzHT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mistochristopho", 
+                "Name": "One Media Member", 
+                "Tweet": "Puck on a fucking string https://t.co/WBl3Cg2408", 
+                "TweetLink": "991491054431080451", 
+                "Place": "Florida", 
+                "Time": "Wed May 02 01:34:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982800613762314242/Y5IDKmYs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.546916, 43.4821515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jrhockeyfan", 
+                "Name": "jrhockeyfan", 
+                "Tweet": "#humboldtbroncosstrong\ud83d\udc9a\ud83c\udfd2\ud83d\udc9b\ud83c\udfd2\ud83d\ude2a https://t.co/9gzVpeotrE", 
+                "TweetLink": "991491064451215360", 
+                "Place": "Waterloo", 
+                "Time": "Wed May 02 01:34:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907766666104373249/69Ewxvzm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "@TexSR_Tanner1 This series is RIDONKULOUS!!! #NSHvsWPG #StanleyCup", 
+                "TweetLink": "991491212141088768", 
+                "Place": "Arlington", 
+                "Time": "Wed May 02 01:35:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bklynsportsguy", 
+                "Name": "BklynSportsGuy", 
+                "Tweet": "Winnipeg Jets have so much fight to their game. #StanleyCup", 
+                "TweetLink": "991491225772548097", 
+                "Place": "Brooklyn", 
+                "Time": "Wed May 02 01:35:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974750454000291840/s1SQSUk6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "#MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators #NHLJets #NHLPlayoffs\u2026 https://t.co/xnkK2YOKFl", 
+                "TweetLink": "991491372313018368", 
+                "Place": "Winnipeg", 
+                "Time": "Wed May 02 01:35:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.510207, 36.1395275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jpinky17", 
+                "Name": "Justin Pinkston", 
+                "Tweet": "I'm still speechless..... https://t.co/Bfh1jN1w36", 
+                "TweetLink": "991491441925984256", 
+                "Place": "Cookeville", 
+                "Time": "Wed May 02 01:35:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964001740487086080/FO0PhHBS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BuckI_Joe", 
+                "Name": "Kent Corgi", 
+                "Tweet": "We all know the phrase \u201cif you see something say something!\u201d Well #ALLCaps Tom Wilson is intentionally trying to hu\u2026 https://t.co/t3MtJ4jKkx", 
+                "TweetLink": "991491488893882370", 
+                "Place": "Columbus", 
+                "Time": "Wed May 02 01:36:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/924069027659567104/gEgth4Tb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BurghPSUFaninPA", 
+                "Name": "Donald\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "\ud83d\udc4d #Pens #3elieve #LetsGoPens #StanleyCup #WSHvsPIT https://t.co/aed3GPuKYN", 
+                "TweetLink": "991491624659247106", 
+                "Place": "Pennsylvania", 
+                "Time": "Wed May 02 01:36:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991140994325340160/AN7JiNp6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0020855, 42.295065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tateharris9", 
+                "Name": "Ginger Journalist", 
+                "Tweet": "After a few looks I have to say I think the refs made the right call on the Wilson hit. Looks like contact to shoul\u2026 https://t.co/sItASpAYl9", 
+                "TweetLink": "991492138620858370", 
+                "Place": "Windsor", 
+                "Time": "Wed May 02 01:38:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/928141681500635136/ufNVZBKR_normal.jpg"
+            }
         }
     ]
 }
