@@ -2288,6 +2288,539 @@
                 "Time": "Wed May 02 01:19:54 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990739722350673921/qljhbYBo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0020855, 42.295065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JesseTayVigneux", 
+                "Name": "p-Jesse Taylor-Vigneux", 
+                "Tweet": "Well.... The Jets are giving us a run for our money when it comes to being loud.... ALRIGHT SMASHVILLE LETS MAKE SO\u2026 https://t.co/fsXxsnIuMc", 
+                "TweetLink": "991487646512898048", 
+                "Place": "Windsor", 
+                "Time": "Wed May 02 01:20:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960429593621618688/eiEhn6cs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoseAItuve", 
+                "Name": "\u3164", 
+                "Tweet": "#StanleyCup https://t.co/KTPTzRp3Ik", 
+                "TweetLink": "991487715454660609", 
+                "Place": "Houston", 
+                "Time": "Wed May 02 01:21:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983507704332341249/g1ajDdtI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Henry101", 
+                "Name": "Jared Hooyer", 
+                "Tweet": "If the Caps are gonna survive this series they need to shut down Geuntzel. He\u2019s been better than Crosby this postse\u2026 https://t.co/i8nxudBig3", 
+                "TweetLink": "991487747213930501", 
+                "Place": "Lawrenceville", 
+                "Time": "Wed May 02 01:21:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774649555707109376/G_2t4r2b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Henry101", 
+                "Name": "Jared Hooyer", 
+                "Tweet": "Because, let\u2019s be honest, that move and pass made that goal possible. #WSHvsPIT #StanleyCup", 
+                "TweetLink": "991487956895653888", 
+                "Place": "Lawrenceville", 
+                "Time": "Wed May 02 01:22:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774649555707109376/G_2t4r2b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "zac_harvey", 
+                "Name": "Zac Harvey", 
+                "Tweet": "The dirtiest goal of the playoffs so far. Wow. #StanleyCup https://t.co/45Sz88FlQI", 
+                "TweetLink": "991488030832775169", 
+                "Place": "Charlotte", 
+                "Time": "Wed May 02 01:22:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/978251019711909889/wGZiJTCa_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1031385, 33.030083]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TexSR_Tanner1", 
+                "Name": "Tanner Wilson", 
+                "Tweet": "@caotk Another PP opportunity for #WSH late in the 2nd period! #Capitals #Penguins #WSHvsPIT #StanleyCup", 
+                "TweetLink": "991488141637939202", 
+                "Place": "Flower Mound", 
+                "Time": "Wed May 02 01:22:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #NHLJets down 3-2", 
+                "TweetLink": "991488181244760067", 
+                "Place": "Queens", 
+                "Time": "Wed May 02 01:22:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Pens with too many men and the Caps have the power play. #WSHvsPIT #StanleyCup", 
+                "TweetLink": "991488320432570368", 
+                "Place": "Nevada", 
+                "Time": "Wed May 02 01:23:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.520209, 36.221709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "therachelmayo", 
+                "Name": "Rachel Mayo \u2600\ufe0f", 
+                "Tweet": "I am not okay. #standwithus #stanleycup https://t.co/aPxAwhpfVk", 
+                "TweetLink": "991488430197624833", 
+                "Place": "Mount Juliet", 
+                "Time": "Wed May 02 01:23:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/804542695767212032/RHKGMj9A_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "srossburns", 
+                "Name": "Stephen Burns", 
+                "Tweet": "Ooooooooooooooo we got a game! #NHLJets #StanleyCup", 
+                "TweetLink": "991488461776433152", 
+                "Place": "Winnipeg", 
+                "Time": "Wed May 02 01:24:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946108332447645697/waR-xRB2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOOOOOOOAL BYFUGLIEN!!!! JETS TRAIL 3-2. #NSHvsWPG #StanleyCup", 
+                "TweetLink": "991488472434257920", 
+                "Place": "Arlington", 
+                "Time": "Wed May 02 01:24:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOOOOOOOOOOOOOOOOAL TROUBA!!!!! TIE GAME BITCHES!!!!! HOLY SHITBALLS!!! #NSHvsWPG #StanleyCup", 
+                "TweetLink": "991488569737871363", 
+                "Place": "Arlington", 
+                "Time": "Wed May 02 01:24:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup East 2nd Round Game 3 #Pens 3-2 End of 2nd Period", 
+                "TweetLink": "991488578449559552", 
+                "Place": "Queens", 
+                "Time": "Wed May 02 01:24:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CRDelcambre", 
+                "Name": "Cody Delcambre", 
+                "Tweet": "Wooww... wasn\u2019t it just 3-0? @PredsNHL @NHL #StanleyCup", 
+                "TweetLink": "991488587949576192", 
+                "Place": "Nashville", 
+                "Time": "Wed May 02 01:24:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838162952884793344/pZoonc4b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "WHAT?!?!?! THE WINNIPEG JETS HAVE JUST TIED THE GAME UP AFTER BEING DOWN 3-0 SINCE THE START OF THE SECOND PERIOD!!\u2026 https://t.co/dJftUQoFGs", 
+                "TweetLink": "991488637899436032", 
+                "Place": "Nevada", 
+                "Time": "Wed May 02 01:24:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.40961, 35.84742]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "Why can't I be wrong https://t.co/Yq8loWTI4r", 
+                "TweetLink": "991488665632296960", 
+                "Place": "Murfreesboro", 
+                "Time": "Wed May 02 01:24:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SirAndrew710", 
+                "Name": "Andrew", 
+                "Tweet": "Someone get one of those decibel-reader thingies into Bell MTS Place. I\u2019d love to know how loud the #WPGWhiteout is\u2026 https://t.co/tUniN02yPQ", 
+                "TweetLink": "991488688285765635", 
+                "Place": "Winnipeg", 
+                "Time": "Wed May 02 01:24:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983786858957205505/KQVXP318_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0020855, 42.295065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hedstrombacon", 
+                "Name": "John Hedstrom \ud83e\udd53", 
+                "Tweet": "@danali2003 Jim Hughson and Craig Simpson are the gold standard of today\u2019s broadcasters IMHO... https://t.co/5oYxWQNcN8", 
+                "TweetLink": "991488725812240384", 
+                "Place": "Windsor", 
+                "Time": "Wed May 02 01:25:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/815788694888189952/PhEmWFUF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #NHLJets have tied it https://t.co/PEgXvdpZvZ", 
+                "TweetLink": "991488741473771520", 
+                "Place": "Queens", 
+                "Time": "Wed May 02 01:25:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-91.1308055, 40.810943]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wreedradio13", 
+                "Name": "Wyatt Reed", 
+                "Tweet": "#StanleyCup #NSHvsWPG https://t.co/LKkaWf6wBZ", 
+                "TweetLink": "991488783383191552", 
+                "Place": "Burlington", 
+                "Time": "Wed May 02 01:25:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/861246251513327617/9v6kjTGd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BurghPSUFaninPA", 
+                "Name": "Donald\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "2nd Intermission: #Pens lead the Capitals 3-2! #3elieve #LetsGoPens #StanleyCup #WSHvsPIT https://t.co/HUNVaTNLb0", 
+                "TweetLink": "991488848160067585", 
+                "Place": "Pennsylvania", 
+                "Time": "Wed May 02 01:25:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991140994325340160/AN7JiNp6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "@David_W29 @RoxStar @Kanes_Inferno @drhockeyntacos @dougie0216 @tyler_skippy13 @soon2bnurse @margueritwrites\u2026 https://t.co/BO78bAPV5A", 
+                "TweetLink": "991488908100800514", 
+                "Place": "Arlington", 
+                "Time": "Wed May 02 01:25:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FotoSharkz", 
+                "Name": "Teri Di-Lauro", 
+                "Tweet": "Jets have tied it up and we're right fired up now!!! 2 goals 18 seconds apart! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\n#WPGWhiteout #StanleyCup", 
+                "TweetLink": "991488944960258048", 
+                "Place": "Toronto", 
+                "Time": "Wed May 02 01:26:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985705637622370305/DuBsoGla_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.520209, 36.221709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chsklly", 
+                "Name": "CHAS KELLY", 
+                "Tweet": "You would love this wouldn\u2019t you, @NHL? https://t.co/yo2yLBtPje", 
+                "TweetLink": "991489002904670211", 
+                "Place": "Mount Juliet", 
+                "Time": "Wed May 02 01:26:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989521111246430208/rJmvlyky_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.40961, 35.84742]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "Please stop the bleeding. \n#StanleyCup", 
+                "TweetLink": "991489120567480320", 
+                "Place": "Murfreesboro", 
+                "Time": "Wed May 02 01:26:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.920117, 38.6035215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dmddusseau", 
+                "Name": "Washington Caps News", 
+                "Tweet": "https://t.co/R6Z6x2MWcX\n\n#ALLCAPS #CapsPens \n#Caps  #StanleyCup \n\n\"He's such a dynamic player\"!\nHow Tom Wilson went\u2026 https://t.co/O2lZdmwOCE", 
+                "TweetLink": "991489291992911872", 
+                "Place": "St Charles", 
+                "Time": "Wed May 02 01:27:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/732297003124834304/NDhA1FTR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.805198, 53.701514]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SourEnvy", 
+                "Name": "Elliot", 
+                "Tweet": "Winnipeg! \ud83d\udc40 #StanleyCup https://t.co/S9SoyF00Cd", 
+                "TweetLink": "991489295201570816", 
+                "Place": "Much Hoole", 
+                "Time": "Wed May 02 01:27:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990680662410711049/9QaZVXOz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.947887, 33.9248815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "karenfanfan", 
+                "Name": "Karen Fan", 
+                "Tweet": "This. This right here is beautiful!!! That dangle and pass by @jakenbake20 to Crosby for the goal, beautiful!\u2026 https://t.co/XuOfGtibtd", 
+                "TweetLink": "991489315292131328", 
+                "Place": "La Habra", 
+                "Time": "Wed May 02 01:27:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986731836423286785/T6fVQK62_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.96655, 48.083168]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bry1111", 
+                "Name": "Bryan Bendix", 
+                "Tweet": "Stanley Cup Playoffs, Pittsburgh 3 Washington 2, second intermission.\n#StanleyCup", 
+                "TweetLink": "991489333021392896", 
+                "Place": "Granite Falls", 
+                "Time": "Wed May 02 01:27:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/775393523373789184/_pjSslvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "@lclsportsluvver @David_W29 @RoxStar @Kanes_Inferno @drhockeyntacos @dougie0216 @tyler_skippy13 @soon2bnurse\u2026 https://t.co/jAdcQXVGvF", 
+                "TweetLink": "991489352743227392", 
+                "Place": "Arlington", 
+                "Time": "Wed May 02 01:27:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.4771055, 39.0311595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NolanHarrison74", 
+                "Name": "Nolan Harrison MBA \ud83d\ude45\ud83c\udffe\u200d\u2642\ufe0f", 
+                "Tweet": "Fun fun fun!!! https://t.co/Y6826m05yj", 
+                "TweetLink": "991489357231030273", 
+                "Place": "Ashburn", 
+                "Time": "Wed May 02 01:27:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979340683688497154/uvrUj-5l_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.6887695, 33.469634]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jimmy_aggro", 
+                "Name": "jimmy_aggro", 
+                "Tweet": "Effing crazy https://t.co/8CrilY30UD", 
+                "TweetLink": "991489451795738631", 
+                "Place": "Dana Point", 
+                "Time": "Wed May 02 01:28:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/877726992812056576/nqsKM1TW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.39715, 42.4739475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "itskatimarie", 
+                "Name": "\u2022 kati marie \u2022", 
+                "Tweet": "As soon an the opposing team scores, the Preds completely lose their grip. Went from 3-1 to 3-3 in less than 3 minu\u2026 https://t.co/LSpFMUoPvP", 
+                "TweetLink": "991489492736294912", 
+                "Place": "Sioux City", 
+                "Time": "Wed May 02 01:28:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/882742461151535104/m7F2WhXx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Henry101", 
+                "Name": "Jared Hooyer", 
+                "Tweet": "If I was Wilson, I would be on the look out for a chance to hit Geuntzel. He\u2019s too comfortable. Not advocating for\u2026 https://t.co/UF8K7yiAYo", 
+                "TweetLink": "991489518816591872", 
+                "Place": "Lawrenceville", 
+                "Time": "Wed May 02 01:28:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774649555707109376/G_2t4r2b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.1593885, 42.4895265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShaunBeacham", 
+                "Name": "Shaun Beacham", 
+                "Tweet": "Oh... Hello, @NHLJets. \u2708\ufe0f\u2708\ufe0f\u2708\ufe0f\n\n#NSHvsWPG #StanleyCup https://t.co/VmqdU6G7Td", 
+                "TweetLink": "991489548537466881", 
+                "Place": "Woburn", 
+                "Time": "Wed May 02 01:28:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/967979305748672515/j4Htz5g5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "3 goals in 4 minutes by the #WPGWhiteout. UNBELIEVABLE COMEBACK BY THE WINNIPEG JETS. \ud83e\udd2f #NSHvsWPG #StanleyCup", 
+                "TweetLink": "991489550110277632", 
+                "Place": "Nevada", 
+                "Time": "Wed May 02 01:28:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheRealLeeCraft", 
+                "Name": "The Real Lee Craft \ud83c\udf20 \u2116 1 \u2741", 
+                "Tweet": "Wait what? I went to the restroom and all of a sudden we are tied? @PredsNHL  #StanleyCup #StandWithUs https://t.co/CrmEvxVlEI", 
+                "TweetLink": "991489596088299520", 
+                "Place": "Nashville", 
+                "Time": "Wed May 02 01:28:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/491697531575750656/BqIL4dkc_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.600576, 38.3604215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BaltiMurri", 
+                "Name": "Alex Murri", 
+                "Tweet": "Sidney Crosby \ud83d\udc10 #3ELIEVE https://t.co/RN20qVbor1", 
+                "TweetLink": "991489628413857792", 
+                "Place": "Salisbury", 
+                "Time": "Wed May 02 01:28:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/847616437342453762/wznU2xGt_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4316365, 45.595639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DanMelancon", 
+                "Name": "Daniel Melan\u00e7on", 
+                "Tweet": "Deux demi-finales d\u2019Association qui pourraient \u00eatre des finales de par la qualit\u00e9 des forces en pr\u00e9sence...\u2026 https://t.co/btjrYyvNCJ", 
+                "TweetLink": "991489669127950336", 
+                "Place": "Boucherville", 
+                "Time": "Wed May 02 01:28:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929134280130875392/NQHIHuXj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.134986, 26.3739755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AuntieNees", 
+                "Name": "Nina", 
+                "Tweet": "That escalated quickly. #StandWithUs #NSHvsWPG #StanleyCup #Smashville https://t.co/kL7g0Kw7KU", 
+                "TweetLink": "991489823209873409", 
+                "Place": "Boca Raton", 
+                "Time": "Wed May 02 01:29:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/949123640645201921/2kRg7d3l_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.065563, 47.907497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IAmLegend_23", 
+                "Name": "Kyle Schmitz", 
+                "Tweet": "Yes, we know. https://t.co/oEG7QhSLY8", 
+                "TweetLink": "991489906986889216", 
+                "Place": "Grand Forks", 
+                "Time": "Wed May 02 01:29:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980207816093904897/wlpPy97L_normal.jpg"
+            }
         }
     ]
 }
