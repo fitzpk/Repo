@@ -845,6 +845,110 @@
                 "Time": "Thu May 03 02:39:41 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980627691387965440/UvLTWcJv_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.9880225, 32.85118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "janadiamond9", 
+                "Name": "J'Ana Diamond\u271e", 
+                "Tweet": "SHARKS GOALLLLLLL\ud83e\udd88\ud83c\udfd2 #LetsGoSHARKS #StanleyCup", 
+                "TweetLink": "991871304935460864", 
+                "Place": "Santee", 
+                "Time": "Thu May 03 02:45:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948093472761724928/WzKjQB-r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.8300175, 41.2430865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wcrosher", 
+                "Name": "Wyatt Crosher", 
+                "Tweet": "Sauce \ud83d\udd25\ud83d\udd25 https://t.co/PJ3AO1JRLl", 
+                "TweetLink": "991871392718163968", 
+                "Place": "Brunswick", 
+                "Time": "Thu May 03 02:45:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986813290872524800/yeFSkfU4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1031385, 33.030083]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TexSR_Tanner1", 
+                "Name": "Tanner Wilson", 
+                "Tweet": "@holly_holl Wish the #IIHFWorlds weren't at the same time as the #StanleyCup. This event is highly underrated and pretty important.", 
+                "TweetLink": "991871449307660289", 
+                "Place": "Flower Mound", 
+                "Time": "Thu May 03 02:45:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
+                "Tweet": "Holy #shotskoi #Donskoi! #StanleyCup", 
+                "TweetLink": "991871991589335040", 
+                "Place": "Columbus", 
+                "Time": "Thu May 03 02:48:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.5774485, 40.194934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JDejuan2", 
+                "Name": "Jeff Ravishing", 
+                "Tweet": "Donskoi with the nutmeg and a goal #VGKvsSJS#StanleyCup https://t.co/zkPvT2lxXc", 
+                "TweetLink": "991872197529567238", 
+                "Place": "Kirksville", 
+                "Time": "Thu May 03 02:48:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970227039344218112/kGnKs4M6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.9880225, 32.85118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "janadiamond9", 
+                "Name": "J'Ana Diamond\u271e", 
+                "Tweet": "OMG WHAT A GOAL!!!!!! \ud83d\udc99\ud83c\udfd2\ud83e\udd88 THAT WAS AMAZING #SanJoseSharks #SJSHARKS #StanleyCup #LetsGoSHARKS", 
+                "TweetLink": "991872200268398592", 
+                "Place": "Santee", 
+                "Time": "Thu May 03 02:48:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948093472761724928/WzKjQB-r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "WELP that's an OOF for Vegas #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991872410919096322", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:49:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.1573375, 33.99507]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AugieRunGood", 
+                "Name": "Augie", 
+                "Tweet": "How @SavagePoker reacts to every goal in the #VGKvsSJS game! #VegasBorn #SJSharks #NHL #StanleyCup https://t.co/bvzzRpRJ57", 
+                "TweetLink": "991872419693449217", 
+                "Place": "Commerce", 
+                "Time": "Thu May 03 02:49:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/766373937848606720/ob-bBQ4J_normal.jpg"
+            }
         }
     ]
 }
