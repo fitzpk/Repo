@@ -702,6 +702,149 @@
                 "Time": "Thu May 03 02:26:27 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/984055741970571264/cvy9XLUM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "julia_fransson", 
+                "Name": "julia fransson", 
+                "Tweet": "Oooh Tom Wilsons hit on Aston-Reese was nothing but real filth #StanleyCup", 
+                "TweetLink": "991867479776481281", 
+                "Place": "Tampa", 
+                "Time": "Thu May 03 02:30:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987054818668802049/SeUI_Su8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jdean316", 
+                "Name": "Jimmy Dean", 
+                "Tweet": "I have seen all different opinions on this hit. Some say shoulder to shoulder. I don't see it. Looked like a head h\u2026 https://t.co/ojIYGradU8", 
+                "TweetLink": "991868258331648001", 
+                "Place": "Raleigh", 
+                "Time": "Thu May 03 02:33:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989647477258244096/3m0G1lrR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.2344355, 36.0188045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kylesaidthis", 
+                "Name": "Kyle Harris", 
+                "Tweet": "What\u2019s scary is the @SanJoseSharks are actually playing pretty good and we\u2019re so sloppy right now. #VegasBorn #StanleyCup", 
+                "TweetLink": "991868908507348992", 
+                "Place": "Enterprise", 
+                "Time": "Thu May 03 02:35:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991228372775682048/GZ4TldkG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TOareaFan", 
+                "Name": "Toarea Fan", 
+                "Tweet": "I think they mean that will be a moment he will always remember.  A memory, by definition, is remembered \ud83d\ude09 https://t.co/S5XmidWrrq", 
+                "TweetLink": "991868986538196992", 
+                "Place": "Brampton", 
+                "Time": "Thu May 03 02:36:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/620601758939762692/04Oi0pT9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.735476, 40.4144955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LucasLee45", 
+                "Name": "LucasLee.", 
+                "Tweet": "Sorensen. What a freaking goal, oh my god. #StanleyCup", 
+                "TweetLink": "991869185444667394", 
+                "Place": "Greeley", 
+                "Time": "Thu May 03 02:36:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980247694047305728/0MMXl6jd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheTomGeorge", 
+                "Name": "Tom George", 
+                "Tweet": "You know you\u2019re #VegasBorn when you\u2019re saying \u201cbraving chilly temps\u201d when it\u2019s 65 degrees out! \ud83c\udf35 https://t.co/xSNtqYYbvm", 
+                "TweetLink": "991869376872656898", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 03 02:37:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991485304832847872/uN590Huq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Sharks fans were mad for a second about the no-call but Sorensen makes all of them happy with a goal for themselves\u2026 https://t.co/IH6GttXqzx", 
+                "TweetLink": "991869568682348545", 
+                "Place": "Summerlin South", 
+                "Time": "Thu May 03 02:38:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.3154215, 37.552481]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Fullypaced15", 
+                "Name": "Dillon", 
+                "Tweet": "Goooaaaal @sorensenmarcus!! #SJSharks #PlayoffModeON #stanleycup", 
+                "TweetLink": "991869602870181888", 
+                "Place": "San Mateo", 
+                "Time": "Thu May 03 02:38:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984248007179747328/lrXsMHwW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1031385, 33.030083]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TexSR_Tanner1", 
+                "Name": "Tanner Wilson", 
+                "Tweet": "@Kent_Wilson @ElSus5 One of the biggest playoff surprises for the @SanJoseSharks 4th goal of the #StanleyCup Playoffs. #SJSvsVGK", 
+                "TweetLink": "991869767110873088", 
+                "Place": "Flower Mound", 
+                "Time": "Thu May 03 02:39:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.5311, 38.7675855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoolbawSports", 
+                "Name": "adam", 
+                "Tweet": "oh behave https://t.co/c9iPZeEjY9", 
+                "TweetLink": "991869855178592257", 
+                "Place": "Bull Run", 
+                "Time": "Thu May 03 02:39:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/871166932866793472/rcdNH5wb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KenCostlow", 
+                "Name": "Ken Costlow", 
+                "Tweet": "Marcus Sorenson just scored a goal that was Gretzsky-esque. #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991869875818717184", 
+                "Place": "Arlington", 
+                "Time": "Thu May 03 02:39:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980627691387965440/UvLTWcJv_normal.jpg"
+            }
         }
     ]
 }
