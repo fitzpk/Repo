@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-75.8001415, 45.248791]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RidinPineShow", 
-                "Name": "Ridin Pine Show", 
-                "Tweet": "\ud83d\udea8\ud83d\udea8 This just in! \ud83d\udea8\ud83d\udea8\n\nlocal podcast goes viral with rendition of NHL draft lottery\n\n#StanleyCup #NHLDraftLottery\n\nhttps://t.co/Zr9NuCmJdy", 
-                "TweetLink": "990328764549746696", 
-                "Place": "Ottawa", 
-                "Time": "Sat Apr 28 20:35:51 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786916350845476864/cA0rjFsL_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "pradiggitydog", 
-                "Name": "Ryan \ud83d\udc96", 
-                "Tweet": "Wow. Boston was about to get another goal to make it 3-1, but it gets nullified by a cross-check that came half a s\u2026 https://t.co/7W2uT9BcxZ", 
-                "TweetLink": "990328824679153664", 
-                "Place": "Nevada", 
-                "Time": "Sat Apr 28 20:36:05 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-111.8609655, 40.5724555]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "AmberDeRose", 
-                "Name": "Amber DeRose \ud83e\udddc\ud83c\udffc\u200d\u2640\ufe0f", 
-                "Tweet": "\u201cNobody panic\u201d? I think she\u2019s confused. \ud83e\udd14 https://t.co/80bi0dlrKp", 
-                "TweetLink": "990329514080325635", 
-                "Place": "Sandy", 
-                "Time": "Sat Apr 28 20:38:50 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/964361731580428288/p22ErNH1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "bruinsfan3725", 
-                "Name": "That Bruins Kid", 
-                "Tweet": "KILLED IT! THERE WE GO BOYS! #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "TweetLink": "990329714006024194", 
-                "Place": "Boston", 
-                "Time": "Sat Apr 28 20:39:37 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-71.4218325, 41.817084]}, 
             "type": "Feature", 
             "properties": {
