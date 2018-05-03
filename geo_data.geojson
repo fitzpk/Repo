@@ -351,6 +351,123 @@
                 "Time": "Thu May 03 01:58:37 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000615008776/0e455faefa62757794afbc101974bf88_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickRickles", 
+                "Name": "Nick Rickles", 
+                "Tweet": "Let\u2019s go @GoldenKnights \ud83c\udfd2\ud83e\udd45 #VegasBorn\u00a0#StanleyCup https://t.co/9oNDDyKzpj", 
+                "TweetLink": "991861232931147777", 
+                "Place": "New York", 
+                "Time": "Thu May 03 02:05:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/977643158178795520/6CPVI66q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bokeypunk", 
+                "Name": "Eric Holland", 
+                "Tweet": "GO BOLTS!!! https://t.co/R4a2ZtdqOX", 
+                "TweetLink": "991861427588751360", 
+                "Place": "Florida", 
+                "Time": "Thu May 03 02:06:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/875405113334128641/M488RQWm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.3306025, 47.614817]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dljhwk11", 
+                "Name": "Your obedient servant, D.S.", 
+                "Tweet": "Hello, again, home-ice advantage! #BeTheThunder #StanleyCup\n\nhttps://t.co/ml7g7zOLZk", 
+                "TweetLink": "991861467069624320", 
+                "Place": "Seattle", 
+                "Time": "Thu May 03 02:06:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/731217723192016896/6jX4ikDI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.8737305, 37.331159]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "EricaKaiser_", 
+                "Name": "Erica Kaiser", 
+                "Tweet": "Nothing Like Playoff Hockey ~ Round 2, Game 4! #VGKvsSJS #VegasBorn #SJSharks #StanleyCup #BarkAndr\u00e9Furry\u2026 https://t.co/IvOwyY8HPv", 
+                "TweetLink": "991861478906097664", 
+                "Place": "San Jose", 
+                "Time": "Thu May 03 02:06:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943701111847903232/yRdaO1DI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.260186, 36.068735]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Chloeee316", 
+                "Name": "Chloe", 
+                "Tweet": "Game 4 ready! \n#Goknightsgo #vegasborn #stanleycup #noteal #squishthefish come watch the game with @985KLUC\u2026 https://t.co/TAeHiPRGMD", 
+                "TweetLink": "991861585571295237", 
+                "Place": "PT's Gold", 
+                "Time": "Thu May 03 02:06:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988829437180264448/_wTphv4K_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "egoddess1", 
+                "Name": "Bmore Fan", 
+                "Tweet": "Eeeee...love watching them come out of the shark's mouth! #SanJoseSharks #StanleyCup", 
+                "TweetLink": "991861905680674816", 
+                "Place": "Baltimore", 
+                "Time": "Thu May 03 02:08:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984055741970571264/cvy9XLUM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.0251105, 40.521189]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TerriPalumbo1", 
+                "Name": "Terri Palumbo", 
+                "Tweet": "LET\u2019S GO, GOLDEN KNIGHTS! How about another shutout, FLOWER \ud83c\udf3a?\n\ud83d\udda4\ud83d\udc9b\ud83d\udc10\ud83e\udd45\u2764\ufe0f\ud83c\udf3a\u2694\ufe0f\ud83d\udee1\ud83d\udc27 https://t.co/M5q0jAhi70", 
+                "TweetLink": "991861924169207808", 
+                "Place": "Ross Township", 
+                "Time": "Thu May 03 02:08:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/729524647121846273/fT00Mica_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.5883815, 38.5881625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickEicher", 
+                "Name": "Nick Eicher", 
+                "Tweet": "Three games is a slap on the wrist, but the @penguins can \u2014 and will \u2014 turn this into a suspension for the rest of\u2026 https://t.co/390wVmNNdx", 
+                "TweetLink": "991861936504664064", 
+                "Place": "Ellisville", 
+                "Time": "Thu May 03 02:08:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935213057424351232/GWO3UXn3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "ALL RIGHT BOYS. LET\u2019S GO. BRING THIS 3-1 SERIES LEAD BACK TO VEGAS!!!! #VGKvsSJS #StanleyCup #VegasBorn https://t.co/GiPL6uadvX", 
+                "TweetLink": "991862308258304001", 
+                "Place": "Nevada", 
+                "Time": "Thu May 03 02:09:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
         }
     ]
 }
