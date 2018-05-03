@@ -468,6 +468,214 @@
                 "Time": "Thu May 03 02:09:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.95791, 37.2744885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TweeterTeej", 
+                "Name": "T.J. Young", 
+                "Tweet": "San Jose killing that pre-game intro! The battle isn\u2019t just on the ice anymore! #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991862472549298176", 
+                "Place": "Roanoke", 
+                "Time": "Thu May 03 02:10:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984612130057015296/EXg-iwz4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "I bet she didn\u2019t hear that \u201cKNIGHT!!!!\u201d shout coming. That\u2019s why she said \u201cSTAR\u201d. #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991862545311911938", 
+                "Place": "Nevada", 
+                "Time": "Thu May 03 02:10:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.99376, 40.302751]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "noelle_brianne_", 
+                "Name": "noelle.", 
+                "Tweet": "You\u2019ve gotta give props to the San Jose Sharks... They know how to put on a show. What an intro. WOW! #VGKvsSJS\u2026 https://t.co/H1VpGi5wj2", 
+                "TweetLink": "991862550433288192", 
+                "Place": "South Park Township", 
+                "Time": "Thu May 03 02:10:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989292185412603905/9h_pS40E_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.901271, 37.332716]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VinceSapienza", 
+                "Name": "Vince Sapienza", 
+                "Tweet": "Two games in a row the San Jose Sharks boo during the national anthem, not my opinion, a fact... sounded like it th\u2026 https://t.co/a0dDm1NfNL", 
+                "TweetLink": "991862589746376704", 
+                "Place": "SAP Center at San Jose", 
+                "Time": "Thu May 03 02:10:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984628569300058112/fx3tzhBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "GAME 4 IS UNDERWAY. #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991862674072813568", 
+                "Place": "Nevada", 
+                "Time": "Thu May 03 02:11:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.396076, 40.9307885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SA3886", 
+                "Name": "Steve \ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "@senna1 @IslesWhiteSUV I was just saying the very same thing .....Vegas and San Jose's are spectacular...#Isles\n#StanleyCup", 
+                "TweetLink": "991862824145178624", 
+                "Place": "Eatons Neck", 
+                "Time": "Thu May 03 02:11:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990343336614682624/wnNQblO9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "The Bruins now have a 20-19 all-time record in Game 3s of best-of-7 series in which they have been tied 1-1. They a\u2026 https://t.co/v8LFKXiRMK", 
+                "TweetLink": "991863057428119553", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:12:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1031385, 33.030083]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TexSR_Tanner1", 
+                "Name": "Tanner Wilson", 
+                "Tweet": "@caotk @SanJoseSharks Nothing will ever be as bad as guys like Rosane Barr. Don't even remind me of that ever again. #VGKvsSJS #StanleyCup", 
+                "TweetLink": "991863075400814597", 
+                "Place": "Flower Mound", 
+                "Time": "Thu May 03 02:12:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.7375655, 33.4057545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JuStJeNn45", 
+                "Name": "Jenn \ud83e\udd1f\ud83c\udffc", 
+                "Tweet": "Let\u2019s Go @GoldenKnights!!! #StanleyCup #VegasBorn https://t.co/44QSld4C7i", 
+                "TweetLink": "991863258511327232", 
+                "Place": "Mesa", 
+                "Time": "Thu May 03 02:13:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/942048897706237958/HJvhxpg8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "WELP that was an OOF\n\nWe'll bounce back on Friday, no doubt #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "TweetLink": "991863488921374723", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:14:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "julia_fransson", 
+                "Name": "julia fransson", 
+                "Tweet": "Oooh Tom Wilsons hit on Aston-Reese tonight was nothing but real filth #StanleyCup", 
+                "TweetLink": "991863655363997696", 
+                "Place": "Tampa", 
+                "Time": "Thu May 03 02:14:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987054818668802049/SeUI_Su8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "B's are 16-15 in Game 4s when they trail a series 2-1. Lightning are 8-6 in Game 3s that have been tied at 1; they\u2026 https://t.co/lMej9t0Px4", 
+                "TweetLink": "991863703946563584", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:15:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.1972755, 28.588445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JimmyTOnAir", 
+                "Name": "James Reynolds", 
+                "Tweet": "Game winning goal was scored 3 minutes in, how about that defense was cranked up instead? https://t.co/LiiN7Ll5o1", 
+                "TweetLink": "991863960654766080", 
+                "Place": "University", 
+                "Time": "Thu May 03 02:16:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984500135626444800/_0aPyuMn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Being on the PK so often really hurt Boston in Game 3: they were 4 for 5 on the PK but only 1 for 1 on their lone P\u2026 https://t.co/9Ld2j0Oq9o", 
+                "TweetLink": "991864297214095360", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:17:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.552161, 35.4828435]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RealBeauDacious", 
+                "Name": "Beau Blanton", 
+                "Tweet": "How \u2018bout another W tonight!#GoKnightsGo #StanleyCup #VGK #VegasBorn https://t.co/WyGKVT1aX0", 
+                "TweetLink": "991864491552985088", 
+                "Place": "Oklahoma City", 
+                "Time": "Thu May 03 02:18:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/956973612296220672/69K2USls_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Girardi finished a game-high +3 for TB while Backes, Krug &amp; Miller were all a game-low -2 for Boston #NHLBruins\u2026 https://t.co/ePxGcQJeF9", 
+                "TweetLink": "991864803437268992", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 02:19:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
         }
     ]
 }
