@@ -1001,6 +1001,58 @@
                 "Time": "Thu May 03 02:58:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990739722350673921/qljhbYBo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Needless to say, Boston has to shoot way better in Game 4 and beyond: they had 19 shots blocked tonight &amp; another 1\u2026 https://t.co/9OMNzkqWSZ", 
+                "TweetLink": "991875708401209344", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 03:02:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LasVegas_Texan", 
+                "Name": "Eric", 
+                "Tweet": "#vegasborn #StanleyCup @GoldenKnights", 
+                "TweetLink": "991876592782663681", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 03 03:06:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979350997926473728/_WYDNjcC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.3004255, 37.980826]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CullinsDevin", 
+                "Name": "Devin Cullins", 
+                "Tweet": "This is amazing!! https://t.co/UHFyJWKSVp", 
+                "TweetLink": "991877342703190016", 
+                "Place": "Stockton", 
+                "Time": "Thu May 03 03:09:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976097625693810688/RaZ5YSU3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.972705, 28.049601]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AJCarver", 
+                "Name": "Amanda", 
+                "Tweet": "\ud83d\udc4f\ud83c\udffb \ud83d\udc4f\ud83c\udffb \ud83d\udc4f\ud83c\udffb https://t.co/iGBZgz39qr", 
+                "TweetLink": "991877502783053824", 
+                "Place": "Lakeland", 
+                "Time": "Thu May 03 03:09:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989136439362367490/lrRBAumL_normal.jpg"
+            }
         }
     ]
 }
