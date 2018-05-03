@@ -143,6 +143,214 @@
                 "Time": "Thu May 03 01:50:00 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dan_biles", 
+                "Name": "Dan Biles", 
+                "Tweet": "#GoBolts #StanleyCup", 
+                "TweetLink": "991857420166189056", 
+                "Place": "Florida", 
+                "Time": "Thu May 03 01:50:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/931622616502239232/lbPSIe3J_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KrystalMcFly", 
+                "Name": "krys", 
+                "Tweet": "6 down...\u26a1\ufe0f #StanleyCup\u00a0\u00a0\u00a0 #GoBolts", 
+                "TweetLink": "991857446204387328", 
+                "Place": "Florida", 
+                "Time": "Thu May 03 01:50:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/655923864002785281/pjeTW-CZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.1185025, 38.981337]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davefeinman", 
+                "Name": "David Feinman", 
+                "Tweet": "6 down, 10 to go \u26a1\ufe0f #BecauseItsTheCup #StanleyCup https://t.co/eHHW3NB1ho", 
+                "TweetLink": "991857666149507072", 
+                "Place": "Bethesda", 
+                "Time": "Thu May 03 01:51:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983150015039205376/-CmAlv1e_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Amazingly, that empty-netter by Stamkos was the 1st point of the series for Tampa Bay's top line #NHLBruins\u2026 https://t.co/kN2RLGiIln", 
+                "TweetLink": "991857674282205185", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 01:51:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "scott_edwards18", 
+                "Name": "Scott Edwards Jr.\u2122", 
+                "Tweet": "That was awful #StanleyCup #NHLBruins", 
+                "TweetLink": "991857722005118976", 
+                "Place": "Massachusetts", 
+                "Time": "Thu May 03 01:51:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988799565053689857/ANYITq01_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup East 2nd Round Game 3 #TBLightning 4 #NHLBruins 1 Final.  #TBLightning leads series 2-1.  Game 4 Friday\u2026 https://t.co/8L5h0bS6CL", 
+                "TweetLink": "991857789189476352", 
+                "Place": "Queens", 
+                "Time": "Thu May 03 01:51:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991795007341432840/lGnlp0Ik_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8808735, 33.2824505]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tbhardon90", 
+                "Name": "Official Tom Hardon", 
+                "Tweet": "I would like that 2 hours and 49 minutes of my life back Bruins, please and thank you. #NHLBruins #StanleyCup", 
+                "TweetLink": "991857792465031168", 
+                "Place": "Chandler", 
+                "Time": "Thu May 03 01:51:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Zak4B", 
+                "Name": "Zak", 
+                "Tweet": "This pleases me https://t.co/sPI0rGhNfS", 
+                "TweetLink": "991857981238272003", 
+                "Place": "Queens", 
+                "Time": "Thu May 03 01:52:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983176144576024576/LQoYoJjO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.1421555, 42.323239]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NHLFoil", 
+                "Name": "x y - \ud83d\udea8NHLFoil \ud83c\udfd2\ud83d\udc4a\ud83c\udffb\ud83d\udea8", 
+                "Tweet": "Welp, the #NHLBruins wanted this one less than they wanted Game 2 @BigBadBruins88 @BlackNGoldPod @BlackAndGold277\u2026 https://t.co/mioNPjNw0G", 
+                "TweetLink": "991858099286958082", 
+                "Place": "Brookline", 
+                "Time": "Thu May 03 01:52:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957962441651990529/MOQm06Bh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.501283, 27.5430435]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanWade24", 
+                "Name": "Ryan Wade", 
+                "Tweet": "Suck it @NHLBruins you fans suck. Remember when you guys thought you had the series won after one game? Pepperidge\u2026 https://t.co/euo399PlGr", 
+                "TweetLink": "991858122284257280", 
+                "Place": "Ellenton", 
+                "Time": "Thu May 03 01:52:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946798203927781381/-Tot7TNv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kaydianne_", 
+                "Name": "KH.", 
+                "Tweet": "F*** Boston. https://t.co/vP80GbPR2W", 
+                "TweetLink": "991858295659884544", 
+                "Place": "Hamilton", 
+                "Time": "Thu May 03 01:53:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/717004028153044992/GpZLIAVB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.266174, 30.4762155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "McKinleyPLewis", 
+                "Name": "McKinley Lewis", 
+                "Tweet": "GO BOLTS \u26a1\ufe0f https://t.co/WgnxiEd7ew", 
+                "TweetLink": "991858512962650113", 
+                "Place": "Tallahassee", 
+                "Time": "Thu May 03 01:54:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/909234425195622400/fa43leQO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "6mulcahy", 
+                "Name": "6mulcahy", 
+                "Tweet": "@NHL @TBLightning #GoBolts way to control passing. #StanleyCup", 
+                "TweetLink": "991858669557043200", 
+                "Place": "Dallas", 
+                "Time": "Thu May 03 01:55:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/868672787468218372/C29dpAIU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RochieWBZ", 
+                "Name": "Dan Roche", 
+                "Tweet": "#NHLBruins with a disappointing night pretty much from start to to finish here @tdgarden in Game 3 - only down 2-1\u2026 https://t.co/xq2Px4HbsO", 
+                "TweetLink": "991858947677093888", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 01:56:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "anthonymm26", 
+                "Name": "Anthony Martinez", 
+                "Tweet": "Marty \ud83e\udd1f\ud83c\udffc https://t.co/2zm5349V9I", 
+                "TweetLink": "991859445272662017", 
+                "Place": "Arlington", 
+                "Time": "Thu May 03 01:58:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/978310139798224896/zirhVrb3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Brian_Messenger", 
+                "Name": "Brian Messenger", 
+                "Tweet": "Tampa Bay looks like a #StanleyCup contender. Boston looks overmatched by their speed, depth and stout defense. The\u2026 https://t.co/BscWOUfwDR", 
+                "TweetLink": "991859542169448450", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 01:58:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000615008776/0e455faefa62757794afbc101974bf88_normal.jpeg"
+            }
         }
     ]
 }
