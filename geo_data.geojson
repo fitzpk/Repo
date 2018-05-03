@@ -676,6 +676,32 @@
                 "Time": "Thu May 03 02:19:31 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "krechenmacher", 
+                "Name": "Kate", 
+                "Tweet": "Hope the Sharks tie up this series! #7Games #StanleyCup #MoreHockey", 
+                "TweetLink": "991866293161689088", 
+                "Place": "Illinois", 
+                "Time": "Thu May 03 02:25:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985260029900181508/Nf3YckgE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "egoddess1", 
+                "Name": "Bmore Fan", 
+                "Tweet": "Love when Twitter *knows* me...and the games I care about tonight...#Orioles #StanleyCup https://t.co/l0vy6k9pX7", 
+                "TweetLink": "991866547437293569", 
+                "Place": "Baltimore", 
+                "Time": "Thu May 03 02:26:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984055741970571264/cvy9XLUM_normal.jpg"
+            }
         }
     ]
 }
