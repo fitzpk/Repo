@@ -1287,6 +1287,45 @@
                 "Time": "Thu May 03 03:48:09 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991313020910522370/yNu0ziod_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "YIKES. #VGKvsSJ #StanleyCup", 
+                "TweetLink": "991887728454258689", 
+                "Place": "Summerlin South", 
+                "Time": "Thu May 03 03:50:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.158936, 29.668301]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BKankel", 
+                "Name": "Brandan \ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "KNIGHTS! https://t.co/CLsQJxI665", 
+                "TweetLink": "991889255445151744", 
+                "Place": "Pasadena", 
+                "Time": "Thu May 03 03:56:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/824475303477125121/Bd13Dii0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "I PICKED THE PENS AND KNIGHTS TO REACH THE #StanleyCup FINALS AND THEY\u2019RE BOTH GETTING OWNED BY REFS. SERIOUSLY, I\u2026 https://t.co/XPHMiX6WdD", 
+                "TweetLink": "991889553798529024", 
+                "Place": "Nevada", 
+                "Time": "Thu May 03 03:57:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
         }
     ]
 }
