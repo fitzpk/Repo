@@ -1053,6 +1053,110 @@
                 "Time": "Thu May 03 03:09:59 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/989136439362367490/lrRBAumL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.3247015, 28.2245025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GOURDEousVladdy", 
+                "Name": "\u2b50\ufe0f\u26a1\ufe0f\u042d\u0432\u0435\u043b\u0438\u043d\u0430\u26a1\ufe0f\u2b50\ufe0f", 
+                "Tweet": "@divergent_spn35 this is the famed walkoff https://t.co/Jxccigreeu", 
+                "TweetLink": "991877713743958018", 
+                "Place": "Wesley Chapel", 
+                "Time": "Thu May 03 03:10:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/978008742196404224/pmLHWGrw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.3972225, 33.8648365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davidmlipinski", 
+                "Name": "David M. Lipinski", 
+                "Tweet": "This @SanJoseSharks 4th line is exactly what you need to win the #StanleyCup. Amazing shift by that line. Go Sharks\u2026 https://t.co/byAxLH1wHZ", 
+                "TweetLink": "991878074743455745", 
+                "Place": "Hermosa Beach", 
+                "Time": "Thu May 03 03:12:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/825443541467877376/rSXYr-EM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.3972225, 33.8648365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davidmlipinski", 
+                "Name": "David M. Lipinski", 
+                "Tweet": "What an amazing shift, and this @SanJoseSharks 4th line is exactly what you need to win the #StanleyCup\n\nGo Sharks!\u2026 https://t.co/62wMcSGLvO", 
+                "TweetLink": "991878446925037568", 
+                "Place": "Hermosa Beach", 
+                "Time": "Thu May 03 03:13:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/825443541467877376/rSXYr-EM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.731181, 40.3753095]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "H00kerwithapen1", 
+                "Name": "@H00kerwithapenis", 
+                "Tweet": "Hold on SHARKS!!!!!! #StanleyCup https://t.co/770Jm5nIUL", 
+                "TweetLink": "991879405864599552", 
+                "Place": "Evans", 
+                "Time": "Thu May 03 03:17:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986377728130670592/G2YpwDHp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup Logan Couture G", 
+                "TweetLink": "991879439708438528", 
+                "Place": "Queens", 
+                "Time": "Thu May 03 03:17:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991795007341432840/lGnlp0Ik_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup chants of Fleury", 
+                "TweetLink": "991879764637093888", 
+                "Place": "Queens", 
+                "Time": "Thu May 03 03:18:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991795007341432840/lGnlp0Ik_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.811715, 55.1598345]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "byjoshuasantos", 
+                "Name": "Joshua Santos", 
+                "Tweet": "That was in game 3. Today, the Sharks \ud83e\udd88 are crushing it!!! 3-0 in they second quarter! #VGKvsSJS https://t.co/qqOABTyQTz", 
+                "TweetLink": "991879797352484864", 
+                "Place": "Grande Prairie", 
+                "Time": "Thu May 03 03:19:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989000390266970112/T0IDFMrG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kylesaidthis", 
+                "Name": "Kyle Harris", 
+                "Tweet": "WHAT THE HELL ARE WE DOING??? #VegasBorn #StanleyCup", 
+                "TweetLink": "991879830093230081", 
+                "Place": "Nevada", 
+                "Time": "Thu May 03 03:19:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991228372775682048/GZ4TldkG_normal.jpg"
+            }
         }
     ]
 }
