@@ -1196,6 +1196,45 @@
                 "Time": "Thu May 03 03:28:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981920280951119873/DY8FoNzJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanMcKinnell", 
+                "Name": "Ryan McKinnell", 
+                "Tweet": "I don't think anyone would argue with this. \n\nAnd as much as I like Tatar,  and believe he'll be a successful part\u2026 https://t.co/ridcA9x316", 
+                "TweetLink": "991883558435209216", 
+                "Place": "Henderson", 
+                "Time": "Thu May 03 03:34:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986431807577968640/aupnPAH9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-46.544744, -21.820472]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ax_adriano78654", 
+                "Name": "Adriano Xavier", 
+                "Tweet": "#VegasBorn #StanleyCup", 
+                "TweetLink": "991883781106626561", 
+                "Place": "Po\u00e7os de Caldas", 
+                "Time": "Thu May 03 03:34:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991467832998318080/vr7raKFW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MaybeImThatDude", 
+                "Name": "Sam", 
+                "Tweet": "@ovi8 I\u2019m rooting for you!!  Go get that #StanleyCup", 
+                "TweetLink": "991884973828325376", 
+                "Place": "Brooklyn", 
+                "Time": "Thu May 03 03:39:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893551763923628033/Epjp9Vw9_normal.jpg"
+            }
         }
     ]
 }
