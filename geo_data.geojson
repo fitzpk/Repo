@@ -1157,6 +1157,45 @@
                 "Time": "Thu May 03 03:19:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991228372775682048/GZ4TldkG_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.901271, 37.332716]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Sunbun", 
+                "Name": "Sunny", 
+                "Tweet": "let's-a go sharks\n#sjsharks #StanleyCup https://t.co/J6FrDcPI3S", 
+                "TweetLink": "991880137414033409", 
+                "Place": "SAP Center at San Jose", 
+                "Time": "Thu May 03 03:20:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988288786592231424/o26UJMlA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Bruce Cassidy said after the game that Adam McQuaid was fine health-wise but he only skated 9:46 tonight (12 shifts\u2026 https://t.co/f8f375w3FZ", 
+                "TweetLink": "991881918902874113", 
+                "Place": "Boston", 
+                "Time": "Thu May 03 03:27:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.062081, 42.366028]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GethinCoolbaugh", 
+                "Name": "Gethin Coolbaugh", 
+                "Tweet": "Palat\u2019s pair push Lightning past Bruins. My recap for @FieldLevelMedia (via @ReutersSports)...\u2026 https://t.co/f9r1qzkILX", 
+                "TweetLink": "991882049987403776", 
+                "Place": "TD Garden", 
+                "Time": "Thu May 03 03:28:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981920280951119873/DY8FoNzJ_normal.jpg"
+            }
         }
     ]
 }
