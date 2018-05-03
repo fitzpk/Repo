@@ -949,6 +949,58 @@
                 "Time": "Thu May 03 02:49:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/766373937848606720/ob-bBQ4J_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.3154215, 37.552481]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Fullypaced15", 
+                "Name": "Dillon", 
+                "Tweet": "Goooaaaal @Joonas_Donskoi @SanJoseSharks up 2-0 at the emd of the 1st period #SJSharks #stanleycup", 
+                "TweetLink": "991872497195732993", 
+                "Place": "San Mateo", 
+                "Time": "Thu May 03 02:50:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984248007179747328/lrXsMHwW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.045939, 32.9144245]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MiamiMigue", 
+                "Name": "Miguel", 
+                "Tweet": "Nice goal but go Knights https://t.co/Gj8Ei8UKg6", 
+                "TweetLink": "991873222692880384", 
+                "Place": "North Charleston", 
+                "Time": "Thu May 03 02:52:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982096382390611969/ocvHyPNU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.8922455, 43.808878]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stevekouleas", 
+                "Name": "Steve Kouleas", 
+                "Tweet": "What a goal! \ud83d\udea8\n@SiriusXMNHL https://t.co/ZS5jGMLknm", 
+                "TweetLink": "991873921430339584", 
+                "Place": "Whitby", 
+                "Time": "Thu May 03 02:55:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925541983535403008/SVqB0TMh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BarkAndre_Furry", 
+                "Name": "y - Bark-Andr\u00e9 Furry", 
+                "Tweet": "FIRST INTERMISSION:                           @GoldenKnights 0                           @SanJoseSharks 2\u2026 https://t.co/K76Id5sftZ", 
+                "TweetLink": "991874682197458944", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 03 02:58:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990739722350673921/qljhbYBo_normal.jpg"
+            }
         }
     ]
 }
