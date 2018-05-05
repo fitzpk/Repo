@@ -1950,6 +1950,71 @@
                 "Time": "Sat May 05 18:37:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RochieWBZ", 
+                "Name": "Dan Roche", 
+                "Tweet": "@Bmarch63 on \u201cnotice\u201d - #NHLBruins #WBZ #StanleyCup https://t.co/lURZ7A8ovK", 
+                "TweetLink": "992836793694375937", 
+                "Place": "Massachusetts", 
+                "Time": "Sat May 05 18:41:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.8001415, 45.248791]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RidinPineShow", 
+                "Name": "Ridin Pine Show", 
+                "Tweet": "Who's thinks the Tom Wilson hit a beauty?\n\n#StanleyCup\n\nhttps://t.co/zpSAMMhwsw", 
+                "TweetLink": "992837763044126720", 
+                "Place": "Ottawa", 
+                "Time": "Sat May 05 18:45:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786916350845476864/cA0rjFsL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "whoasamantha18", 
+                "Name": "\u2764Reylo\ud83d\udda4", 
+                "Tweet": "The @penguins have to win tonight since I put a $20 bet on them. #WSHvsPIT  #stanleyCup https://t.co/SYLT8E9zl3", 
+                "TweetLink": "992837985019355137", 
+                "Place": "Paradise", 
+                "Time": "Sat May 05 18:46:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990452517925412864/TP2sE3cS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0020855, 42.295065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JesseTayVigneux", 
+                "Name": "p-Jesse Taylor-Vigneux", 
+                "Tweet": "WE NEED HARTNELL IN!!!! WHY?!?! #Preds #StanleyCup #WPGvsNSH #StandWithUs", 
+                "TweetLink": "992838164040638465", 
+                "Place": "Windsor", 
+                "Time": "Sat May 05 18:47:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960429593621618688/eiEhn6cs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.9220935, 39.713563]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ronNcaphill", 
+                "Name": "Ron - SuperBowl SuperFan", 
+                "Tweet": "I'm waiting for a clever candy company like @TootsieRoll to tweet at #Bruins Brad Marchand that it has a much more\u2026 https://t.co/kvoYYBVgjB", 
+                "TweetLink": "992838717088776193", 
+                "Place": "Denver", 
+                "Time": "Sat May 05 18:49:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983637308745199616/7mdReGhv_normal.jpg"
+            }
         }
     ]
 }
