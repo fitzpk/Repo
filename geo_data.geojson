@@ -1781,6 +1781,45 @@
                 "Time": "Sat May 05 17:38:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917955633869189121/HNFTkJvU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SuzieCanuck", 
+                "Name": "SuzieCanuck", 
+                "Tweet": "#HockeyFans who wins today? #StanleyCup", 
+                "TweetLink": "992822419269210112", 
+                "Place": "Vancouver", 
+                "Time": "Sat May 05 17:44:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983345086179115008/UuwhCI5i_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SuzieCanuck", 
+                "Name": "SuzieCanuck", 
+                "Tweet": "#HockeyFans who wins tonight? #StanleyCup", 
+                "TweetLink": "992822667374804992", 
+                "Place": "Vancouver", 
+                "Time": "Sat May 05 17:45:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983345086179115008/UuwhCI5i_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-108.193367, 36.75742]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "christymcadrain", 
+                "Name": "Christy Cadrain", 
+                "Tweet": "Don\u2019t lick!!! \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/rNIfeM2DrF", 
+                "TweetLink": "992823503110881280", 
+                "Place": "Farmington", 
+                "Time": "Sat May 05 17:49:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/906846884874002434/iZL0FeDB_normal.jpg"
+            }
         }
     ]
 }
