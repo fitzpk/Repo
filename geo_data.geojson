@@ -1521,6 +1521,32 @@
                 "Time": "Sat May 05 02:52:18 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/862279302284402690/EZQ5Moti_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GreekGoalie35", 
+                "Name": "Moshtradomus", 
+                "Tweet": "Curious if some people flipping out over Hartnell being out tonight are the same ones that flipped out over him bei\u2026 https://t.co/xerScJ5pc8", 
+                "TweetLink": "992802235129237506", 
+                "Place": "North Carolina", 
+                "Time": "Sat May 05 16:24:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/977123857638313984/zXctMt51_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.8512035, 41.604577]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarBombBoom13", 
+                "Name": "Daniel Carcillo", 
+                "Tweet": "What do fans think is a more serious infraction?  @NHL @NHLPlayerSafety @NHLonNBCSports @NHLPA @StanleyCup\u2026 https://t.co/qq9SJK0686", 
+                "TweetLink": "992803056696942593", 
+                "Place": "Orland Park", 
+                "Time": "Sat May 05 16:27:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/850210825109331970/8Hs0SToq_normal.jpg"
+            }
         }
     ]
 }
