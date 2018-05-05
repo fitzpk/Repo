@@ -1326,6 +1326,136 @@
                 "Time": "Thu May 03 03:57:52 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "B's are 0-22 all-time in best-of-7 series when they have trailed 3-1 &amp; 7-15 in Game 5s in those series. Lightning a\u2026 https://t.co/6axMljcr1a", 
+                "TweetLink": "992595391160954880", 
+                "Place": "Boston", 
+                "Time": "Sat May 05 02:42:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GethinCoolbaugh", 
+                "Name": "Gethin Coolbaugh", 
+                "Tweet": "Had the wrong Ryan on my tongue when I asked @Bmarch63 about what Ryan CALLAHAN said about being licked. It was Rya\u2026 https://t.co/yhKnSU4wyK", 
+                "TweetLink": "992595456193630209", 
+                "Place": "Boston", 
+                "Time": "Sat May 05 02:42:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981920280951119873/DY8FoNzJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "B's fall to 57-73-3 in playoff OTs (45-62 in 1OT). Lightning improve to 12-8 in playoff OTs (9-6 in 1OT) #NHLBruins\u2026 https://t.co/XQKaoM1Wfy", 
+                "TweetLink": "992595933245341696", 
+                "Place": "Boston", 
+                "Time": "Sat May 05 02:44:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "WHAT A WAY TO END THE FIRST PERIOD AS JAMES NEAL THE REAL DEAL SCORES IT OFF A REBOUND!!!! KNIGHTS LEAD 1-0!!!!\u2026 https://t.co/BaHYSK0bm9", 
+                "TweetLink": "992596197045977088", 
+                "Place": "Nevada", 
+                "Time": "Sat May 05 02:45:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.178239, 36.102741]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Andymoog137", 
+                "Name": "Andrew", 
+                "Tweet": "Thanks for the t-shirt @jbecher! It\u2019s loud in here but you can still hear the @SanJoseSharks fans! #StanleyCup #SJSharks #SJSvsVGK", 
+                "TweetLink": "992596267950788608", 
+                "Place": "T-Mobile Arena", 
+                "Time": "Sat May 05 02:46:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2891352241/0cffe43acb866bb51331ed9ffd60b4ed_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "B_Mac_27", 
+                "Name": "Bridgette McClure", 
+                "Tweet": "The real deal @jneal_18 with the finish. #goal #NHLPlayoffs #StanleyCup @GoldenKnights", 
+                "TweetLink": "992596304118169601", 
+                "Place": "Henderson", 
+                "Time": "Sat May 05 02:46:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961009289404887041/8cyPnpSW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LVBleedMagenta", 
+                "Name": "James Guibara", 
+                "Tweet": "The REAL DEAL delivers! #GoKnightsGo #StanleyCup #VegasBorn https://t.co/NiS2ggwIy2", 
+                "TweetLink": "992596730800558080", 
+                "Place": "Nevada", 
+                "Time": "Sat May 05 02:47:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987730128607182849/42JcxpEc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.069946, 36.8025415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "We3HckyNuts", 
+                "Name": "\u24c2addog \ud83d\udc36\ud83d\udc3e\ud83d\udc15\u267f", 
+                "Tweet": "Can't wait to go to Washington DC tomorrow to see the @Capitals vs @penguins #CantWait #CapsPens #Game5 #StanleyCup\u2026 https://t.co/maMCT0EMFy", 
+                "TweetLink": "992596812690313216", 
+                "Place": "Virginia Beach", 
+                "Time": "Sat May 05 02:48:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990779289493786625/J6wZKqlk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tchan101", 
+                "Name": "tyler", 
+                "Tweet": "Me before VGK: hockey has sticks and pucks and skates and ice, right? \nMe after VGK: CMON MARCHESSAULT COULD'VE MAD\u2026 https://t.co/fqGwaN6Vpq", 
+                "TweetLink": "992597182011207680", 
+                "Place": "Paradise", 
+                "Time": "Sat May 05 02:49:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986764258661711872/px3wEQuB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BSalSportsGuyRJ", 
+                "Name": "Bryan Salmond", 
+                "Tweet": "How bout that? The man I spoke with today @jneal_18 scores just before the end of the 1st period. 3rd of playoffs\u2026 https://t.co/zudjO5nDcJ", 
+                "TweetLink": "992597208221368321", 
+                "Place": "Paradise", 
+                "Time": "Sat May 05 02:49:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/701548145755430912/CXth8Jvd_normal.jpg"
+            }
         }
     ]
 }
