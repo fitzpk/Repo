@@ -2015,6 +2015,19 @@
                 "Time": "Sat May 05 18:49:30 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983637308745199616/7mdReGhv_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VegasSquares", 
+                "Name": "VegasSquaresPodcast", 
+                "Tweet": "Today\u2019s Picks: brought to you by @ActionNetworkHQ \n\n#freepicks #MLBpicks @MLB @ForwardMileMLB #gamblingtwitter\u2026 https://t.co/3Qnkn30vnN", 
+                "TweetLink": "992843508946907137", 
+                "Place": "Las Vegas", 
+                "Time": "Sat May 05 19:08:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958516649572802560/W3_5z7Ck_normal.jpg"
+            }
         }
     ]
 }
