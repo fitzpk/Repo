@@ -1820,6 +1820,32 @@
                 "Time": "Sat May 05 17:49:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/906846884874002434/iZL0FeDB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "judgep15", 
+                "Name": "Patrick Judge", 
+                "Tweet": "Pace yourselves today: #CincoDeMayo #KentuckyDerby #StanleyCup playoffs #NBAPlayofffs https://t.co/NhpjiQNZzt", 
+                "TweetLink": "992827368350846977", 
+                "Place": "Washington", 
+                "Time": "Sat May 05 18:04:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852677557073924098/386TSvWc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.011054, 41.363685]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CMBern", 
+                "Name": "Christa B.", 
+                "Tweet": "#Smashville #StandWithUs #Preds #WPGvsNSH #PredsPride #WeWantTheCup #BestFans #GetLoud #Carrie #Catfish #TitanUp \ud83d\udc9b\ud83c\udfd2\u2026 https://t.co/kx0BvTCvPa", 
+                "TweetLink": "992828534522564608", 
+                "Place": "Woodbridge", 
+                "Time": "Sat May 05 18:09:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983392794529148929/90h7PI5d_normal.jpg"
+            }
         }
     ]
 }
