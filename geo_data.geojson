@@ -1846,6 +1846,58 @@
                 "Time": "Sat May 05 18:09:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983392794529148929/90h7PI5d_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.497913, 41.557321]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Cameron_Vaughn", 
+                "Name": "Cameron Vaughn", 
+                "Tweet": "Preds are America\u2019s team. https://t.co/83SJFjBEMj", 
+                "TweetLink": "992829113139388416", 
+                "Place": "Rhode Island", 
+                "Time": "Sat May 05 18:11:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/842409164353724416/fd6w4B17_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "40ozKeating", 
+                "Name": "Shaun kEating", 
+                "Tweet": "Puig on licking his bats? MLB? \ud83e\udd14 @street_brice https://t.co/1SGrwQ7gHZ", 
+                "TweetLink": "992829151395680256", 
+                "Place": "Pennsylvania", 
+                "Time": "Sat May 05 18:11:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985648926522007554/I1Rl4EGc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.9638415, 35.9824705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SachZless", 
+                "Name": "Zach", 
+                "Tweet": "LEEEETTTTTTSSSSS GOOOOOOOOOOOOOOOOOOOO https://t.co/fz1bGHCuTp", 
+                "TweetLink": "992829995021107201", 
+                "Place": "Knoxville", 
+                "Time": "Sat May 05 18:14:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979181520224178179/ULSnETT5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.7553405, 27.9927105]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ZachRosenswag", 
+                "Name": "[9]-Zach \u26a1\u26a1\u26a1", 
+                "Tweet": "In the midst of lick gate lets not forget that if it wasnt for paquette we would have probably lost. His hand may o\u2026 https://t.co/euNKsQL7La", 
+                "TweetLink": "992830252920516610", 
+                "Place": "Clearwater", 
+                "Time": "Sat May 05 18:15:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983721201611804672/9wF3AgYJ_normal.jpg"
+            }
         }
     ]
 }
