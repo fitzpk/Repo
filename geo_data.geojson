@@ -1677,6 +1677,58 @@
                 "Time": "Sat May 05 17:15:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/960650823742222336/zuY1BHN9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.3302695, 29.6731715]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MattZagoory", 
+                "Name": "matthew zagoory", 
+                "Tweet": "Anyone else just get this hilarious @espn notification?? #NHL #Bruins #StanleyCup #Playoffs https://t.co/IyUJMFptI9", 
+                "TweetLink": "992817416253198337", 
+                "Place": "Gainesville", 
+                "Time": "Sat May 05 17:24:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/831899795975454721/ZEfsbWoN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.34712, 25.671986]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "themoose0221", 
+                "Name": "Max Horowitz", 
+                "Tweet": "First round of checks on the new contract came early eh... https://t.co/nWUMKXsnqC", 
+                "TweetLink": "992817436092223489", 
+                "Place": "Kendall", 
+                "Time": "Sat May 05 17:24:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/678288759658577920/GfwQ-hRy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarBombBoom13", 
+                "Name": "Daniel Carcillo", 
+                "Tweet": "That\u2019s a wonderful question good sir @NHLPlayerSafety @NHLPA @NHL @NHLonNBCSports #NHLPlayoffs2018 @StanleyCup #NHL\u2026 https://t.co/S1XsHoLQUz", 
+                "TweetLink": "992817589456949250", 
+                "Place": "New Lenox", 
+                "Time": "Sat May 05 17:25:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/850210825109331970/8Hs0SToq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.032309, 32.342708]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SchreiberEvan", 
+                "Name": "Evan Schreiber", 
+                "Tweet": "Why hockey is awesome... #StanleyCup #NHLBruins @Bmarch63 https://t.co/2V3BnOwboB", 
+                "TweetLink": "992817795682349056", 
+                "Place": "Casas Adobes", 
+                "Time": "Sat May 05 17:26:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/967979694409768960/1YQ3IQ0U_normal.jpg"
+            }
         }
     ]
 }
