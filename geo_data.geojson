@@ -2210,6 +2210,19 @@
                 "Time": "Sat May 05 20:12:11 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/886225002080632832/o-gxaopG_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VGKFlamingo", 
+                "Name": "Victory Flamingo", 
+                "Tweet": "The @GoldenKnights' future is so bright...\n\n#vegasborn #GoldenKnights #GoKnightsGo #vgk #KnightUp\u2026 https://t.co/XviQFuSK66", 
+                "TweetLink": "992865355184852993", 
+                "Place": "Nevada", 
+                "Time": "Sat May 05 20:35:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981074572664451072/Z_jYii7J_normal.jpg"
+            }
         }
     ]
 }
