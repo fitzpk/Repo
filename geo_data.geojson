@@ -1638,6 +1638,32 @@
                 "Time": "Sat May 05 16:56:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991494953984446465/ICI9D1Nk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.6004395, 42.169285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "djamorelli", 
+                "Name": "Debbie Amorelli", 
+                "Tweet": "Is this a serious question Dan-O? https://t.co/PkqPhysSrs", 
+                "TweetLink": "992811705242734592", 
+                "Place": "Upton", 
+                "Time": "Sat May 05 17:02:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876267858988290052/gJEao21G_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chetbuchanan", 
+                "Name": "Chet Buchanan", 
+                "Tweet": "PT's at Buffalo and 215! #NoTeal #NoWaySanJose #SquishTheFish #VegasBorn #StanleyCup #CupIn1 #FINISHTHEJOB https://t.co/EAx1n6m4Cd", 
+                "TweetLink": "992813550795042818", 
+                "Place": "Summerlin South", 
+                "Time": "Sat May 05 17:09:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952587724069814272/H8-oCT0F_normal.jpg"
+            }
         }
     ]
 }
