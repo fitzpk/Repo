@@ -2028,6 +2028,45 @@
                 "Time": "Sat May 05 19:08:33 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/958516649572802560/W3_5z7Ck_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VegasSquares", 
+                "Name": "VegasSquaresPodcast", 
+                "Tweet": "Today\u2019s Picks: brought to you by @ActionNetworkHQ \n#freepicks #MLBpicks @MLB @ForwardMileMLB #gamblingtwitter\u2026 https://t.co/ooIfNC5aqz", 
+                "TweetLink": "992844749223608321", 
+                "Place": "Las Vegas", 
+                "Time": "Sat May 05 19:13:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958516649572802560/W3_5z7Ck_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.3312725, 28.2993695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SportsandRving", 
+                "Name": "DJ Verhoest", 
+                "Tweet": "Works for me. #GoBolts #StanleyNeedsATan #StanleyCup https://t.co/COBS2gZUVN", 
+                "TweetLink": "992845488104886272", 
+                "Place": "Pasco", 
+                "Time": "Sat May 05 19:16:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964689874271047680/APlX6QgX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.510207, 36.1395275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "at_banks2", 
+                "Name": "A.T. Banks", 
+                "Tweet": "I\u2019m Ready For #NHLFACEOFF #WPGvsNSH #Stanleycup #StanleyCupPlayoffs2018 #nhlonnbcsports #PredsNHL #PredsPride\u2026 https://t.co/MB2kWPCcVr", 
+                "TweetLink": "992846378454999041", 
+                "Place": "Cookeville", 
+                "Time": "Sat May 05 19:19:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
+            }
         }
     ]
 }
