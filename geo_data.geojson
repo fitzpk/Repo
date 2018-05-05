@@ -1664,6 +1664,19 @@
                 "Time": "Sat May 05 17:09:30 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/952587724069814272/H8-oCT0F_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JeffEisenband", 
+                "Name": "Jeff Eisenband", 
+                "Tweet": "@garrettgreen @ZacheriahW @NashSportsRadio If you play the Penguins or Bruins for this #StanleyCup, of course.", 
+                "TweetLink": "992814999553953793", 
+                "Place": "Manhattan", 
+                "Time": "Sat May 05 17:15:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960650823742222336/zuY1BHN9_normal.jpg"
+            }
         }
     ]
 }
