@@ -1456,6 +1456,71 @@
                 "Time": "Sat May 05 02:49:50 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/701548145755430912/CXth8Jvd_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "End of 1\n\n\ud83e\udd88: \ud83d\udeab\n\ud83d\udc9b\u2694\ufe0f: \ud83d\udd25\n\nMood: IT\u2019S KNIGHT TIME!!!!\n\n#SJSvsVGK #StanleyCup #VegasBorn https://t.co/wQnIy0NzQp", 
+                "TweetLink": "992597262273470464", 
+                "Place": "Nevada", 
+                "Time": "Sat May 05 02:50:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Dbn1012", 
+                "Name": "Dean", 
+                "Tweet": "\ud83d\ude44Brady u gotta stop acting dumb https://t.co/KnrDcDEfpb", 
+                "TweetLink": "992597422584057856", 
+                "Place": "Florida", 
+                "Time": "Sat May 05 02:50:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/956986549983432704/OgrbQph1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.743164, 40.9507045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VGKRULES", 
+                "Name": "Jonathan Bradley", 
+                "Tweet": "The Real Deal Big Deal James Neal #StanleyCup #vegasgoldenknights #Vegasborn", 
+                "TweetLink": "992597583704018944", 
+                "Place": "Mamaroneck", 
+                "Time": "Sat May 05 02:51:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/881187058529824768/_3AamjTx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.1421555, 42.323239]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NHLFoil", 
+                "Name": "x y - \ud83d\udea8NHLFoil \ud83c\udfd2\ud83d\udc4a\ud83c\udffb\ud83d\udea8", 
+                "Tweet": "At least I still have  #VegasBorn\u00a0 #KnightUp #StanleyCupPlayoffs #StanleyCup\u00a0\u00a0  @GoldenKnights 1 - @SanJoseSharks 0\u2026 https://t.co/Udro8Xixbw", 
+                "TweetLink": "992597827237924865", 
+                "Place": "Brookline", 
+                "Time": "Sat May 05 02:52:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992482075453210624/cDVxaabh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MissyoungSports", 
+                "Name": "MissYoungSports", 
+                "Tweet": "@GoldenKnights #Neal gooooooal 1-0 \ud83c\udfd2\ud83d\udc4a #GoKnightsGo  #vegasborn #StanleyCup #Playoffs2018 #NHLPlayoffs https://t.co/BUjDtRlz9u", 
+                "TweetLink": "992597829158821889", 
+                "Place": "Las Vegas", 
+                "Time": "Sat May 05 02:52:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/862279302284402690/EZQ5Moti_normal.jpg"
+            }
         }
     ]
 }
