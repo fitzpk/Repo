@@ -2158,6 +2158,19 @@
                 "Time": "Sat May 05 19:43:10 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/936390438839300102/c6pPSISL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.9220935, 39.713563]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ronNcaphill", 
+                "Name": "Ron - SuperBowl SuperFan", 
+                "Tweet": "#NHL #StanleyCup refs problem is blessing and curse:\n1 Everyone loves playoff hockey, there's nothing better.\n2 Dif\u2026 https://t.co/gKe0o69jY4", 
+                "TweetLink": "992854139762700288", 
+                "Place": "Denver", 
+                "Time": "Sat May 05 19:50:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983637308745199616/7mdReGhv_normal.jpg"
+            }
         }
     ]
 }
