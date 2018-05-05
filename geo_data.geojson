@@ -1599,6 +1599,45 @@
                 "Time": "Sat May 05 16:48:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.9103445, 38.016752]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sonofthegeneral", 
+                "Name": "Bill Stack", 
+                "Tweet": "Sunday can't get here soon enough. Sharks in 7! #SJSvsVGK #SJSharks #StanleyCup", 
+                "TweetLink": "992809361905872896", 
+                "Place": "Pittsburg", 
+                "Time": "Sat May 05 16:52:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/969417781853675521/py3UMf2x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.1056485, 44.9415155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "johncmaher", 
+                "Name": "John", 
+                "Tweet": "Hockey Gods weigh in on licking (\"Bruins take a licking in OT\"?) (\"Bolts issue tongue-lashing\"?) https://t.co/BUUNBogY6m", 
+                "TweetLink": "992810023624564736", 
+                "Place": "St Paul", 
+                "Time": "Sat May 05 16:55:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954965308762152960/cA3rppy0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ToryMazza", 
+                "Name": "tory", 
+                "Tweet": "I\u2019m also in this https://t.co/NpTn4vhfgA", 
+                "TweetLink": "992810353854590976", 
+                "Place": "Summerlin South", 
+                "Time": "Sat May 05 16:56:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991494953984446465/ICI9D1Nk_normal.jpg"
+            }
         }
     ]
 }
