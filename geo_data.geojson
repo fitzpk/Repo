@@ -2197,6 +2197,19 @@
                 "Time": "Sat May 05 20:04:15 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990506269625614336/VE-UXuWP_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CookTBL", 
+                "Name": "Ryan Cook", 
+                "Tweet": "Sooooo good! \ud83d\udd25 This is definitely a video you don\u2019t want to scroll past - Watch It! \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f #GOBOLTS https://t.co/MSBEaP9qNO", 
+                "TweetLink": "992859522984275969", 
+                "Place": "Tampa", 
+                "Time": "Sat May 05 20:12:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/886225002080632832/o-gxaopG_normal.png"
+            }
         }
     ]
 }
