@@ -1729,6 +1729,58 @@
                 "Time": "Sat May 05 17:26:22 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/967979694409768960/1YQ3IQ0U_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.0086235, 43.1759265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dcarder10", 
+                "Name": "David Carder", 
+                "Tweet": "He\u2019s so disgusting and scummy like wtf suspend him already https://t.co/EcIRFbNzfn", 
+                "TweetLink": "992819013049778179", 
+                "Place": "Lewiston", 
+                "Time": "Sat May 05 17:31:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989591095569940482/F8ZJWmv-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.2426865, 40.0239815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BaylorBradac", 
+                "Name": "Baylor Bradac", 
+                "Tweet": "I hate Brad Marchand just as much as the next hockey fan (maybe even more) but I feel licking is a strong improveme\u2026 https://t.co/yI118G5AgF", 
+                "TweetLink": "992819668036468736", 
+                "Place": "Boulder", 
+                "Time": "Sat May 05 17:33:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960020983758209025/bmsO5buI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[34.9684285, 31.342253]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JacobDonnelly31", 
+                "Name": "Jake Donnelly", 
+                "Tweet": "Man... how I love #BradMarchand. This is one of the greatest #ESPN updates ever. #NHLBruins #NHL #StanleyCup https://t.co/ziUSwfRB2K", 
+                "TweetLink": "992819837360640001", 
+                "Place": "Israel", 
+                "Time": "Sat May 05 17:34:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/482370163774210048/5lRWuvnY_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.699604, 33.1946515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ncase10", 
+                "Name": "Casebolt", 
+                "Tweet": "Happy greatest day in sports of the year to everyone! \n#KentuckyDerby \n#StanleyCup \n#NBAPlayoffs \n#GGG \n\nSO MUCH SPORTS!!!!!", 
+                "TweetLink": "992820779984261120", 
+                "Place": "McKinney", 
+                "Time": "Sat May 05 17:38:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917955633869189121/HNFTkJvU_normal.jpg"
+            }
         }
     ]
 }
