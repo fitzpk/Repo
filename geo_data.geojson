@@ -2132,6 +2132,32 @@
                 "Time": "Sat May 05 19:37:00 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.7428735, 27.7205685]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bmartjellyfish", 
+                "Name": "Brittany Martinez", 
+                "Tweet": "My heart https://t.co/ZL5ONpqRQV", 
+                "TweetLink": "992851975619432448", 
+                "Place": "St Pete Beach", 
+                "Time": "Sat May 05 19:42:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985260313116381184/SgZHzR6E_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.7104695, 42.510656]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LicenseToGill", 
+                "Name": "Ryan Gill", 
+                "Tweet": "The fact that the NHL has to force a 28 year old man that he has to stop licking people is sad and embarrassing https://t.co/upF5Hg5xX9", 
+                "TweetLink": "992852219354664962", 
+                "Place": "Dubuque", 
+                "Time": "Sat May 05 19:43:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/936390438839300102/c6pPSISL_normal.jpg"
+            }
         }
     ]
 }
