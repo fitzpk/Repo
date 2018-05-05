@@ -2223,6 +2223,71 @@
                 "Time": "Sat May 05 20:35:21 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981074572664451072/Z_jYii7J_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brianfink", 
+                "Name": "Brian Fink", 
+                "Tweet": "That moment after the first body bump!!!! \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/uYegRUnkwF", 
+                "TweetLink": "992866542613356544", 
+                "Place": "Florida", 
+                "Time": "Sat May 05 20:40:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "ONLY IN THE NHL https://t.co/0rZc1QubEI", 
+                "TweetLink": "992867119686737920", 
+                "Place": "Boston", 
+                "Time": "Sat May 05 20:42:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.510207, 36.1395275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "at_banks2", 
+                "Name": "A.T. Banks", 
+                "Tweet": "I\u2019m Ready For #NHLFACEOFF #WPGvsNSH #StanleyCup #Game5 #StanleyCupPlayoffs2018 #StandWithUs #PredsNHL\u2026 https://t.co/Lbr2W0Xvd4", 
+                "TweetLink": "992867435291258880", 
+                "Place": "Cookeville", 
+                "Time": "Sat May 05 20:43:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KingMiles79NHL", 
+                "Name": "JimLittle79-NBA-NHL", 
+                "Tweet": "Wow @SinBinVegas you believe this.... It no joke https://t.co/6krtl9KBSt", 
+                "TweetLink": "992868622384189445", 
+                "Place": "Memphis", 
+                "Time": "Sat May 05 20:48:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849117048944775168/dJ3igVll_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[34.9684285, 31.342253]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LeafsJaysnRaps", 
+                "Name": "Afek", 
+                "Tweet": "Disgrace to Hockey. #ExterminateTheRat https://t.co/fDhyrqZpVS", 
+                "TweetLink": "992868995832467461", 
+                "Place": "Israel", 
+                "Time": "Sat May 05 20:49:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987813712814923776/R93syJIZ_normal.jpg"
+            }
         }
     ]
 }
