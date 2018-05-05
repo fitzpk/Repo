@@ -1547,6 +1547,58 @@
                 "Time": "Sat May 05 16:27:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/850210825109331970/8Hs0SToq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "zklaassen_md", 
+                "Name": "Zach Klaassen", 
+                "Tweet": "Add this to the reasons \"to go\":\n1) Someone makes fun of your mom/wife/sister\n2) Someone is derogatory towards your\u2026 https://t.co/hpI0DhM2VL", 
+                "TweetLink": "992806955616948224", 
+                "Place": "Toronto", 
+                "Time": "Sat May 05 16:43:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904732333714100224/7nGlT5vN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AmyPredsfan", 
+                "Name": "Amy D.", 
+                "Tweet": "I've went one step further from Ryjo's pre playoff game drinking 2 cups of coffee this morning.... I drank four cup\u2026 https://t.co/W1bs1j9tl6", 
+                "TweetLink": "992807632393199616", 
+                "Place": "Nashville", 
+                "Time": "Sat May 05 16:45:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/832769499480850432/PFosioop_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1491725, 26.150368]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DMATBHockeyClub", 
+                "Name": "DirtyMike&TheBoys HC", 
+                "Tweet": "It has been an overload of awesomeness so far in May... First we have more killer #StanleyCup playoffs, then\u2026 https://t.co/0i5a9qsGTc", 
+                "TweetLink": "992808099873476608", 
+                "Place": "Fort Lauderdale", 
+                "Time": "Sat May 05 16:47:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.103709, 26.136002]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DMATBHockeyClub", 
+                "Name": "DirtyMike&TheBoys HC", 
+                "Tweet": "It has been an overload of awesomeness so far in May... First we have more killer #StanleyCup\u00a0 playoffs, then\u2026 https://t.co/wMBRg0kO7j", 
+                "TweetLink": "992808333101944834", 
+                "Place": "Fort Lauderdale Air Show", 
+                "Time": "Sat May 05 16:48:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg"
+            }
         }
     ]
 }
