@@ -2288,6 +2288,32 @@
                 "Time": "Sat May 05 20:49:49 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/987813712814923776/R93syJIZ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.2670745, 49.0869965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tjjassam", 
+                "Name": "Andrew Knight", 
+                "Tweet": "Suspend him https://t.co/bvrlBYvJYf", 
+                "TweetLink": "992869346216050688", 
+                "Place": "Abbotsford", 
+                "Time": "Sat May 05 20:51:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866651879882846208/T4FGWrmU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Zach_Stratton29", 
+                "Name": "Zach Stratton", 
+                "Tweet": "Go Preds!!! #StandWithUs https://t.co/r2wC9rysIz", 
+                "TweetLink": "992869503389372417", 
+                "Place": "Memphis", 
+                "Time": "Sat May 05 20:51:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962831637317849090/eCWFsBjL_normal.jpg"
+            }
         }
     ]
 }
