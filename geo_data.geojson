@@ -2106,6 +2106,32 @@
                 "Time": "Sat May 05 19:27:31 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.1873045, 40.8085105]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "01Starblazer", 
+                "Name": "starblazer", 
+                "Tweet": "@lsuwcd2016 We are getting close to our Final. Lightning up 3-1, Golden Knights up 3-2.#StanleyCup", 
+                "TweetLink": "992850657337139200", 
+                "Place": "Bloomfield", 
+                "Time": "Sat May 05 19:36:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/500032883268919297/JzEDVJYY_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.510207, 36.1395275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "at_banks2", 
+                "Name": "A.T. Banks", 
+                "Tweet": "I\u2019m Ready For #WPGvsNSH #StanleyCup #StanleyCupPlayoffs2018 #PredsNHL #StandWithUs #game5 #ThanksPaul #Smashville\u2026 https://t.co/UpqxGWNT1S", 
+                "TweetLink": "992850670448467969", 
+                "Place": "Cookeville", 
+                "Time": "Sat May 05 19:37:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983404848015126528/NRPaVe1N_normal.jpg"
+            }
         }
     ]
 }
