@@ -3627,6 +3627,175 @@
                 "Time": "Sun May 06 03:49:34 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/856964926920736769/6tBkFGQk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.215119, 41.400245]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "believeland19", 
+                "Name": "Erick Marcucci", 
+                "Tweet": "@JKinCLE we\u2019re gonna have to work on this play https://t.co/DrrADMbItg", 
+                "TweetLink": "992974875965972481", 
+                "Place": "Amherst", 
+                "Time": "Sun May 06 03:50:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959087250381398016/QQHI_enq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarthageYM", 
+                "Name": "Justin Mauldin", 
+                "Tweet": "The @PredsNHL out here looking like the Hawks defense against the Mighty Ducks Flying V by standing around and not\u2026 https://t.co/ppssetfCw5", 
+                "TweetLink": "992974946736443397", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:50:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/820322768650702848/Z5s6ym7Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.377181, 42.4842785]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KyleZachmann", 
+                "Name": "Kyle Zachmann", 
+                "Tweet": "@KyleConnor18 is tearing it up. #StanleyCup", 
+                "TweetLink": "992974994551558145", 
+                "Place": "Farmington Hills", 
+                "Time": "Sun May 06 03:51:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992897011182702593/5Fc_jXMS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7349005, 33.0612425]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Royer966", 
+                "Name": "Rob Royer", 
+                "Tweet": "Good gracious https://t.co/Voz8GkzT3k", 
+                "TweetLink": "992975053385097223", 
+                "Place": "Plano", 
+                "Time": "Sun May 06 03:51:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/431900142522748928/YFSbVY3d_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "srossburns", 
+                "Name": "Stephen Burns", 
+                "Tweet": "@CBC @Sportsnet Please show reactions from the country stars in attendance tonight please. #NHLJets #StanleyCup", 
+                "TweetLink": "992975481791221760", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:52:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946108332447645697/waR-xRB2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "How about...\n\n4. Play Smooth Criminal on repeat and just hope goals happen after the guy speaking in the song (not\u2026 https://t.co/1VaDV8nEHV", 
+                "TweetLink": "992975730551111682", 
+                "Place": "Nevada", 
+                "Time": "Sun May 06 03:53:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "srossburns", 
+                "Name": "Stephen Burns", 
+                "Tweet": "@CBC @Sportsnet Please show reactions from the country stars in attendance tonight please. #NHLJets #StanleyCup", 
+                "TweetLink": "992976000995790848", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:55:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946108332447645697/waR-xRB2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.3106585, 40.541073]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Mike_The_Mayor_", 
+                "Name": "Mike", 
+                "Tweet": "Washington will again host a game 7 #StanleyCup", 
+                "TweetLink": "992976189466857472", 
+                "Place": "Fords", 
+                "Time": "Sun May 06 03:55:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939168826112999424/s1q1-ANw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jamin_Wilson", 
+                "Name": "Jamin Wilson", 
+                "Tweet": "Worth watching over again. And over.  And over.  And over.  And over.  And over. #NHLJets #GoJetsGo #WeAreWinnipeg\u2026 https://t.co/m6MTwDoKqu", 
+                "TweetLink": "992976208303443969", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:55:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987033525059649536/NIZwyBbR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickKaplan41", 
+                "Name": "Nick Kaplan", 
+                "Tweet": "#WPGvsNSH OMG! #WPGWhiteout is \ud83d\udd25\ud83d\udd25a 6-2 lead over #StandWithUs 10 to go in the 3rd. I'm calling game here. #Winnipeg\u2026 https://t.co/BuLCVDXPTf", 
+                "TweetLink": "992976234933112832", 
+                "Place": "Brooklyn", 
+                "Time": "Sun May 06 03:55:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859187377931259905/R7noMtNY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.573675, 27.4739745]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NikhailGogia311", 
+                "Name": "nikhail gogia \ud83d\udef8", 
+                "Tweet": "Winnipeg swankin\u2019 all over Smashville tonight https://t.co/4j5k3KgKvI", 
+                "TweetLink": "992976264653950976", 
+                "Place": "Bradenton", 
+                "Time": "Sun May 06 03:56:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/955285512805388288/7PCulfZT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nagelmason", 
+                "Name": "Nagel", 
+                "Tweet": "@Roll_Pirates https://t.co/BnLDid2LAp", 
+                "TweetLink": "992976476315283456", 
+                "Place": "Raleigh", 
+                "Time": "Sun May 06 03:56:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/767547273966346240/PRd7qsnm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.140914, 39.6210755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AndyKOASports", 
+                "Name": "Andy Lindahl", 
+                "Tweet": "Pretty pretty pretty pretty good https://t.co/YqC0IW6l4Q", 
+                "TweetLink": "992977165493854208", 
+                "Place": "Dakota Ridge", 
+                "Time": "Sun May 06 03:59:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/836443399557427200/Y2D8bLMQ_normal.jpg"
+            }
         }
     ]
 }
