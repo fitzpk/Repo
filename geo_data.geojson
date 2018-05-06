@@ -2691,6 +2691,318 @@
                 "Time": "Sun May 06 02:59:13 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983786858957205505/KQVXP318_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "The Pens\u2019 1st &amp; 2nd round opponents in 2018 #StanleyCup Playoffs is exactly the same in 2009. The results were also\u2026 https://t.co/wWQl5quxrI", 
+                "TweetLink": "992962329212993536", 
+                "Place": "Nevada", 
+                "Time": "Sun May 06 03:00:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "#BUFF Zoooom GOAL!!!\n #MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators\u2026 https://t.co/2tJAVVCaL7", 
+                "TweetLink": "992962345751195649", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:00:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jamiewestbrook", 
+                "Name": "Jamie Westbrook", 
+                "Tweet": "Weber goal \ud83e\udd45 celebration. Go Preds! #StandWithUs #StanleyCup @PredsNHL https://t.co/JcMCQZsd3k", 
+                "TweetLink": "992962438260776961", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:01:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854453286442852352/kHS49pI7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "OMG WOW THAT EFFORT BY THE WINNIPEG JETS AND THEY SCORE TO MAKE IT 3-1. GEEZ. #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992962508938858502", 
+                "Place": "Nevada", 
+                "Time": "Sun May 06 03:01:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.7646315, 43.0091165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JMisercolaDBSF", 
+                "Name": "James Misercola", 
+                "Tweet": "Welcome to the #StanleyCup Playoffs Kyle Connor!! @KyleConnor18 @umichhockey @NHLJets #GoBlue #ProBlue https://t.co/1WstH1BxzN", 
+                "TweetLink": "992962536889778176", 
+                "Place": "Amherst", 
+                "Time": "Sun May 06 03:01:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991378083214168064/VMT-yTpe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.4451735, 35.222301]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ralager_Wx", 
+                "Name": "Ryan Lagerquist", 
+                "Tweet": "When Nashville's stupid choreographed goalie chant gets interrupted by the go-ahead goal. \ud83d\udcaf #WPGWhiteout #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992962562458292224", 
+                "Place": "Norman", 
+                "Time": "Sun May 06 03:01:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838681936503582721/iwG1xMNW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOOOOOOAL BYFUGLIEN!!!! 3-1 JETS!!!!! The Jets woke up and the Preds fell asleep!!!! Plain and Simple!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992962656331030528", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 03:02:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.95791, 37.2744885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TweeterTeej", 
+                "Name": "T.J. Young", 
+                "Tweet": "Same old #Caps would have lost that game. Can we please retire this now?  Can we support this team no matter what?\u2026 https://t.co/LiI4nOPe1y", 
+                "TweetLink": "992962721061761024", 
+                "Place": "Roanoke", 
+                "Time": "Sun May 06 03:02:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984612130057015296/EXg-iwz4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-91.1308055, 40.810943]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wreedradio13", 
+                "Name": "Wyatt Reed", 
+                "Tweet": "This game went from 0-0 to 3-1 in the blink of an eye. My goodness!! #NHL #StanleyCup #NSHvsWPG", 
+                "TweetLink": "992962762841165824", 
+                "Place": "Burlington", 
+                "Time": "Sun May 06 03:02:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/861246251513327617/9v6kjTGd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1027215, 35.2001595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RabbWill", 
+                "Name": "Will Rabb", 
+                "Tweet": "#NHLJets getting sustained zone time and traffic in front and that\u2019ll lead to goals. Both of course are on the\u2026 https://t.co/rc9SA2odBn", 
+                "TweetLink": "992962902171758592", 
+                "Place": "Winchester", 
+                "Time": "Sun May 06 03:02:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979122645336764417/RYpAAtwZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TimKernell1", 
+                "Name": "Tim Kernell", 
+                "Tweet": "Not sure where he Preds defense has gone...they are no where to be found in this period. #Preds #StanleyCup", 
+                "TweetLink": "992962928134541312", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:03:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922226560391897090/RPzimNfU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "I love that guy ... #BUFF\n #MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators\u2026 https://t.co/6gLOUST7MD", 
+                "TweetLink": "992962928826609664", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:03:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jannaherbison", 
+                "Name": "Janna Fite Herbison", 
+                "Tweet": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f https://t.co/9Yk1Vpl5UR", 
+                "TweetLink": "992963010527363072", 
+                "Place": "Memphis", 
+                "Time": "Sun May 06 03:03:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/892592299401674752/zovh0l7Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.7646315, 43.0091165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JMisercolaDBSF", 
+                "Name": "James Misercola", 
+                "Tweet": "1st career #StanleyCup playoff goal from the @umichhockey alum. @KyleConnor18 #GoBlue #ProBlue https://t.co/P5r1Jqr0Jb", 
+                "TweetLink": "992963044685893632", 
+                "Place": "Amherst", 
+                "Time": "Sun May 06 03:03:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991378083214168064/VMT-yTpe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nicjamescurry", 
+                "Name": "Nic Curry", 
+                "Tweet": "I think the coffees are finally kicking in for the #NHLJets \n\nBack to back gols from @KyleConnor18 &amp; Byfuglien\u2026 https://t.co/9Rl3rfykVB", 
+                "TweetLink": "992963134670290946", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:03:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/856964926920736769/6tBkFGQk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "Zoooom GOAL!!!\n #MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators #NHLJets\u2026 https://t.co/Jv5exdGky3", 
+                "TweetLink": "992963139632234496", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:03:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "Never go full Perds.\n#StanleyCup", 
+                "TweetLink": "992963148603904001", 
+                "Place": "Tennessee", 
+                "Time": "Sun May 06 03:03:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickKaplan41", 
+                "Name": "Nick Kaplan", 
+                "Tweet": "#WPGvsNSH this is amazing hockey! 3-1 #WPGWhiteout #Winnipeg must be going crazy. Remember! I picked #GOJETS to win #StanleyCup", 
+                "TweetLink": "992963199128473603", 
+                "Place": "Brooklyn", 
+                "Time": "Sun May 06 03:04:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859187377931259905/R7noMtNY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SundelinCory", 
+                "Name": "Cory Sundelin #WPGWhiteout  \ud83c\udfb8\ud83d\ude09\ud83c\udde8\ud83c\udde6\ud83c\udfb6", 
+                "Tweet": "Wide awake now. #GoJetsGo #WPGWhiteout #StanleyCup https://t.co/zo5LPiatLu", 
+                "TweetLink": "992963255344795650", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:04:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/801918387412758529/ZXLLqRt1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[1.7099815, 48.975076]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Aielossa78200", 
+                "Name": "Lossa_Pronos", 
+                "Tweet": "Belle cote \ud83d\udd25\u2705\u2705\n\n#teamParieur #parionsSport #fdj #WPGvsNSH #StanleyCupPlayoffs2018 #StanleyCup https://t.co/jifbV5Gkat", 
+                "TweetLink": "992964334606340097", 
+                "Place": "Mantes-la-Ville", 
+                "Time": "Sun May 06 03:08:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907395419369590784/rifxS7fF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOOOOOAL CONNOR AGAIN!!!! 4-1 JETS!!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992964428646797313", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 03:09:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MKECapsFan32", 
+                "Name": "y-Zach Jachowicz \u2b55", 
+                "Tweet": "Love the Birdwalk celly, @Kuzya92 https://t.co/fOeDcZoNtW", 
+                "TweetLink": "992964539762270213", 
+                "Place": "Milwaukee", 
+                "Time": "Sun May 06 03:09:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/966576184434872320/CElMunLN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.815934, 41.9232245]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexaMaraviglia", 
+                "Name": "Alexa Maraviglia", 
+                "Tweet": "4-1 Jets \ud83d\ude4c\ud83c\udffb #StanleyCup", 
+                "TweetLink": "992964551602733056", 
+                "Place": "Elmwood Park", 
+                "Time": "Sun May 06 03:09:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972998414878298113/ywziBC89_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.880967, 46.6898575]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Patrick_Dunlop", 
+                "Name": "ExpressDunlop", 
+                "Tweet": "\ud83d\ude02\ud83d\ude02 4-1 #Jets vs #Preds #StanleyCup", 
+                "TweetLink": "992964576609173504", 
+                "Place": "Shawinigan", 
+                "Time": "Sun May 06 03:09:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984198248893173760/XKbcm9Zf_normal.jpg"
+            }
         }
     ]
 }
