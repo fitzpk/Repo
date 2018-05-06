@@ -2314,6 +2314,19 @@
                 "Time": "Sat May 05 20:51:50 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/962831637317849090/eCWFsBjL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Oh well. Maybe this is a blessing in disguise for the Pens. #PITvsWSH #StanleyCup #3elieve https://t.co/Ny4Ml7eqji", 
+                "TweetLink": "992956886998630400", 
+                "Place": "Nevada", 
+                "Time": "Sun May 06 02:39:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
         }
     ]
 }
