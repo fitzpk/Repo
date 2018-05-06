@@ -3211,6 +3211,58 @@
                 "Time": "Sun May 06 03:20:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/922226560391897090/RPzimNfU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.4041415, 38.7662295]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RennyRenfro", 
+                "Name": "Blake Renfro", 
+                "Tweet": "Johansen with the short hand. Preds putting up 3 in the third and winning this bitch. Let's go. https://t.co/fny3B8OV9T", 
+                "TweetLink": "992967250532601856", 
+                "Place": "Madison", 
+                "Time": "Sun May 06 03:20:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/862115729616850944/UD4ggIRF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4754, 44.6891045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BWhitesell_", 
+                "Name": "Bradley", 
+                "Tweet": "\u2018Top shelf\u2019 https://t.co/mxnuI0FLSm", 
+                "TweetLink": "992967624207360000", 
+                "Place": "Plattsburgh", 
+                "Time": "Sun May 06 03:21:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970029367882600448/1XVavvIa_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.3244645, 38.8969455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CurtisHouck", 
+                "Name": "Curtis Houck", 
+                "Tweet": "Yikes. I just realized - the Toronto Raptors are the NBA's version of my Washington Capitals #NBAPlayoffs #StanleyCup", 
+                "TweetLink": "992968212961775616", 
+                "Place": "Oakton", 
+                "Time": "Sun May 06 03:24:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968176849212919808/8e7LFKFe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.79451, 43.231831]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AgriNutrient", 
+                "Name": "ANS", 
+                "Tweet": "It is a disgrace for someone paid Millions playing a game. Get off the ice Marchand https://t.co/13dfJB64L9", 
+                "TweetLink": "992968719918710784", 
+                "Place": "East Zorra-Tavistock", 
+                "Time": "Sun May 06 03:26:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/631549222328795136/-sODLC4R_normal.png"
+            }
         }
     ]
 }
