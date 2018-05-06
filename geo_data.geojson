@@ -3003,6 +3003,214 @@
                 "Time": "Sun May 06 03:09:38 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/984198248893173760/XKbcm9Zf_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "This isn't even Game 1, this is the 2nd Period of Game 3 level of butt kicking. \n#StanleyCup", 
+                "TweetLink": "992964689851305984", 
+                "Place": "Tennessee", 
+                "Time": "Sun May 06 03:10:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.822218, 43.8309855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FotoSharkz", 
+                "Name": "Teri Di-Lauro", 
+                "Tweet": "Jets r on \ud83d\udd25 right now!! \n\n#StanleyCup #wpgwhiteout", 
+                "TweetLink": "992964773343002624", 
+                "Place": "Oshawa", 
+                "Time": "Sun May 06 03:10:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985705637622370305/DuBsoGla_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "Tonight's Three Amigos count them... one, two... third one's the charm #BigBuff #Buffman\n #MyJets #WinnipegWhiteOut\u2026 https://t.co/V9eVxb5PdG", 
+                "TweetLink": "992964799557521409", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:10:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarthageYM", 
+                "Name": "Justin Mauldin", 
+                "Tweet": "This team will self-destruct in\u2026 wait already happened. \ud83d\ude12#StanleyCup #Smashville", 
+                "TweetLink": "992964806473863168", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:10:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/820322768650702848/Z5s6ym7Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "LULLLLLLLLL\n#StanleyCup", 
+                "TweetLink": "992965018873487360", 
+                "Place": "Tennessee", 
+                "Time": "Sun May 06 03:11:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "#MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators #NHLJets #NHLPlayoffs\u2026 https://t.co/E7cCu4PtRa", 
+                "TweetLink": "992965021671088128", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:11:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-91.1308055, 40.810943]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wreedradio13", 
+                "Name": "Wyatt Reed", 
+                "Tweet": "The #Preds worked so hard to tie the series and steal a game in Winnipeg to regain home ice...only to get blitzed b\u2026 https://t.co/6EvOSZ3YIi", 
+                "TweetLink": "992965098623860738", 
+                "Place": "Burlington", 
+                "Time": "Sun May 06 03:11:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/861246251513327617/9v6kjTGd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOAL JOHANSSEN!!!!! 4-2 NOW!!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992965158615085056", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 03:11:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickKaplan41", 
+                "Name": "Nick Kaplan", 
+                "Tweet": "#WPGvsNSH amazing period! #standwithus get the shorty and it's now 4-2 #WPGWhiteout with less than a minute to go in the 2nd #StanleyCup", 
+                "TweetLink": "992965551273250816", 
+                "Place": "Brooklyn", 
+                "Time": "Sun May 06 03:13:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859187377931259905/R7noMtNY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "What a crazy 2nd period!!! Jets lead 4-2 after 40 min!!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992966163255750662", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 03:15:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Wendy_50", 
+                "Name": "Wendy", 
+                "Tweet": "Kinda nice to watch hockey when you really don't care who wins.\ud83d\ude0a #nopressure  #StanleyCup #myteamisout", 
+                "TweetLink": "992966482890969088", 
+                "Place": "Calgary", 
+                "Time": "Sun May 06 03:17:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914292754280103936/zke5XEgm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.153947, 40.572376]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dud_mar", 
+                "Name": "Marek Dudek", 
+                "Tweet": "Co ci goscie z Nashville ?\nPrzymarzli do lodu czy w dziury wpadli? \ud83d\ude09\n#NHLpl\n https://t.co/FnAsQChNjs", 
+                "TweetLink": "992966575086071808", 
+                "Place": "Staten Island", 
+                "Time": "Sun May 06 03:17:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/844244705475006467/3gD1bES4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarthageYM", 
+                "Name": "Justin Mauldin", 
+                "Tweet": "My wife just messaged me to see if I was coming home early. I told her we\u2019re only down and have them right where we\u2026 https://t.co/8Zs8ysuzC3", 
+                "TweetLink": "992966847212515328", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:18:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/820322768650702848/Z5s6ym7Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SuzieCanuck", 
+                "Name": "SuzieCanuck", 
+                "Tweet": "Well that was entertaining #StanleyCup", 
+                "TweetLink": "992966877541384192", 
+                "Place": "Vancouver", 
+                "Time": "Sun May 06 03:18:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983345086179115008/UuwhCI5i_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarthageYM", 
+                "Name": "Justin Mauldin", 
+                "Tweet": "My wife just messaged me to see if I was coming home early. I told her we\u2019re only down two and have them right wher\u2026 https://t.co/xvjXyTK0g2", 
+                "TweetLink": "992966993065271296", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:19:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/820322768650702848/Z5s6ym7Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TimKernell1", 
+                "Name": "Tim Kernell", 
+                "Tweet": "Here's hoping the real Preds show up in the 3rd...huge period coming up! #Preds #StanleyCup", 
+                "TweetLink": "992967202277134336", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:20:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922226560391897090/RPzimNfU_normal.jpg"
+            }
         }
     ]
 }
