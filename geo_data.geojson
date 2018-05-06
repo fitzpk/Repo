@@ -3796,6 +3796,19 @@
                 "Time": "Sun May 06 03:59:39 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/836443399557427200/Y2D8bLMQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JayRoySor", 
+                "Name": "J.R.SOAR[406]\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "@The7thPred What a worthless trophy \ud83c\udfc6 who cares about Reg season? #WeWantTheCup #StanleyCup #StandWithUs", 
+                "TweetLink": "992977303218073601", 
+                "Place": "New York", 
+                "Time": "Sun May 06 04:00:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988124292209696769/Nyjxx8fS_normal.jpg"
+            }
         }
     ]
 }
