@@ -2327,6 +2327,123 @@
                 "Time": "Sun May 06 02:39:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.815934, 41.9232245]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexaMaraviglia", 
+                "Name": "Alexa Maraviglia", 
+                "Tweet": "Playoff hockey makes me happy #StanleyCupPlayoffs #StanleyCup", 
+                "TweetLink": "992958467332804609", 
+                "Place": "Elmwood Park", 
+                "Time": "Sun May 06 02:45:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972998414878298113/ywziBC89_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4231185, 37.6587985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "benjaminhk01", 
+                "Name": "Benjamin Kassel", 
+                "Tweet": "Something incredible will happen to conclude this #PITvsWSH series. Either:\n-The Penguins #3elieve will win a serie\u2026 https://t.co/Im1h1h81V8", 
+                "TweetLink": "992958477524860928", 
+                "Place": "South San Francisco", 
+                "Time": "Sun May 06 02:45:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991176193054408704/Raq0O3J__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.920117, 38.6035215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dmddusseau", 
+                "Name": "Washington Caps News", 
+                "Tweet": "@russianmachine \nWashington DC will be the first city to have a parade, after defeating the Penguins in just the 2n\u2026 https://t.co/dtxthd579j", 
+                "TweetLink": "992958539680440322", 
+                "Place": "St Charles", 
+                "Time": "Sun May 06 02:45:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/732297003124834304/NDhA1FTR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "realtorwinnipeg", 
+                "Name": "PierrePrest REALTOR\u00ae", 
+                "Tweet": "Zoooom GOAL!!!\n #MyJets #WinnipegWhiteOut  #WPGvsNSH #WpgWhiteout #Preds #GoJetsGo #NashvillePredators #NHLJets\u2026 https://t.co/XcJ9yhZzY9", 
+                "TweetLink": "992959341975220224", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 02:48:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929731970875060225/xtPIBaY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOAL LAINE!!!! 1-0 JETS!!!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992959360535056384", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 02:48:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #NHLJets 1-0", 
+                "TweetLink": "992959375965937664", 
+                "Place": "Queens", 
+                "Time": "Sun May 06 02:48:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991795007341432840/lGnlp0Ik_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "natecvaughan", 
+                "Name": "Nathan", 
+                "Tweet": "Unlucky there for Rinne. Hockey is half skill, half deflections.\n#StanleyCup", 
+                "TweetLink": "992959442974060546", 
+                "Place": "Tennessee", 
+                "Time": "Sun May 06 02:49:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976922945380585472/_QEVtPF-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "caotk", 
+                "Name": "K-Twizzle", 
+                "Tweet": "GOOOOOOOOOOOOOOOOOOAL STASTNY!! 1-0 JETS!!! #WPGvsNSH #StanleyCup", 
+                "TweetLink": "992959508812099584", 
+                "Place": "Arlington", 
+                "Time": "Sun May 06 02:49:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449013884205010944/rbJFM42z_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.4926175, 53.5558195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ProAmJack", 
+                "Name": "Jack Cookson", 
+                "Tweet": "#OldSchoolGear https://t.co/xUxCXCacMG", 
+                "TweetLink": "992959540025946112", 
+                "Place": "Edmonton", 
+                "Time": "Sun May 06 02:49:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/783843799327838209/MoATDpDI_normal.jpg"
+            }
         }
     ]
 }
