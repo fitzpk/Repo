@@ -3471,6 +3471,162 @@
                 "Time": "Sun May 06 03:39:33 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/992945797900718081/lmp8yQXT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sheldons465", 
+                "Name": "Sheldon Smith", 
+                "Tweet": "No https://t.co/mom3YGoNOO", 
+                "TweetLink": "992972430745321473", 
+                "Place": "Calgary", 
+                "Time": "Sun May 06 03:40:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922868196096458753/HmRFazj5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.552628, 38.418209]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CameronWright", 
+                "Name": "Cam", 
+                "Tweet": "Omg @bbovaconti19 https://t.co/YdC39IeHUI", 
+                "TweetLink": "992972501394378752", 
+                "Place": "House Springs", 
+                "Time": "Sun May 06 03:41:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/940688071288348675/F--SQjUu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-110.9155735, 32.1893905]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jayasagae", 
+                "Name": "Jessi Rose", 
+                "Tweet": "#nsfw https://t.co/uS3mRBx4XS", 
+                "TweetLink": "992972539415556097", 
+                "Place": "Tucson", 
+                "Time": "Sun May 06 03:41:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854177170473734145/-Tde75RD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-108.562922, 45.7974455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ds", 
+                "Name": "Dave Simon", 
+                "Tweet": "Just filthy. https://t.co/rOpT3N7ZYw", 
+                "TweetLink": "992972651604787200", 
+                "Place": "Billings", 
+                "Time": "Sun May 06 03:41:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/936564571690565632/UCWfIe_9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Andysimmons615", 
+                "Name": "Andy Simmons", 
+                "Tweet": "\ud83d\ude10 that was filthy by Kyle Connor. https://t.co/pYgzyu0B89", 
+                "TweetLink": "992972679236997120", 
+                "Place": "Nashville", 
+                "Time": "Sun May 06 03:41:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/874105094916243456/iLLyGsYI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "agobs_", 
+                "Name": "Andy Golebiewski", 
+                "Tweet": "Papa bless... https://t.co/4nTz7VfwSv", 
+                "TweetLink": "992973022003908608", 
+                "Place": "Tennessee", 
+                "Time": "Sun May 06 03:43:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991251092452372481/GemKfezS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.7646315, 43.0091165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JMisercolaDBSF", 
+                "Name": "James Misercola", 
+                "Tweet": "Absolutel filth from the @umichhockey alum. @Buccigross @KyleConnor18 #GoBlue #ProBlue https://t.co/y6aAzT5qrB", 
+                "TweetLink": "992973052265852928", 
+                "Place": "Amherst", 
+                "Time": "Sun May 06 03:43:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991378083214168064/VMT-yTpe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1027215, 35.2001595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RabbWill", 
+                "Name": "Will Rabb", 
+                "Tweet": "Can we please stop with this crap. Winning a trophy has nothing to do with proceeding the playoffs with a month of\u2026 https://t.co/VLv5EcwiwF", 
+                "TweetLink": "992973292045729793", 
+                "Place": "Winchester", 
+                "Time": "Sun May 06 03:44:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979122645336764417/RYpAAtwZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jamin_Wilson", 
+                "Name": "Jamin Wilson", 
+                "Tweet": "Live view of RINNE leaving the net. \n\n#NHLJets #GoJetsGo #WeAreWinnipeg #RiseTogether #WPGWhiteOut #StanleyCup https://t.co/EICsHj7lU9", 
+                "TweetLink": "992974169192136704", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:47:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987033525059649536/NIZwyBbR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup just realize this #SJSharks have to win last 2 games to keep California WCF streak alive", 
+                "TweetLink": "992974180210696193", 
+                "Place": "Queens", 
+                "Time": "Sun May 06 03:47:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992969212321726464/WRda-MUi_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.319192, 44.0123485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "maybo01", 
+                "Name": "Chris Mayberry", 
+                "Tweet": "@Burkie2020 is so right.  Just when you think a team has got a handle on a series, the next game sees the opposite. #StanleyCup", 
+                "TweetLink": "992974348909662213", 
+                "Place": "Whitchurch-Stouffville", 
+                "Time": "Sun May 06 03:48:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990124560006594561/vnMIT4wN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nicjamescurry", 
+                "Name": "Nic Curry", 
+                "Tweet": "Hey, #smashville, how many times has Rinne been pulled this series?\n\nAsking for a friend\n\n#GoJetsGo #WpgWhiteout\u2026 https://t.co/UBftkn7noD", 
+                "TweetLink": "992974629588406273", 
+                "Place": "Winnipeg", 
+                "Time": "Sun May 06 03:49:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/856964926920736769/6tBkFGQk_normal.jpg"
+            }
         }
     ]
 }
