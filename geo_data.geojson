@@ -3601,6 +3601,110 @@
                 "Time": "Tue May 08 04:30:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.1600205, 42.837309]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "monicaschafer_", 
+                "Name": "mon\ud83c\udf4c", 
+                "Tweet": "crosby didn\u2019t make it through cuz his partner in crime is on a different team \ud83d\ude2b https://t.co/9BEVBqW8Ja", 
+                "TweetLink": "993709840718589952", 
+                "Place": "Atkinson", 
+                "Time": "Tue May 08 04:31:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988225496067596288/k3U94M0n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.5702365, 42.1713475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "fentondn", 
+                "Name": "David Fenton", 
+                "Tweet": "@cmace30 @Skillsy75 @pfenton22 @TN9696 Insider Information! \ud83d\ude09 #NSHvsWPG #StanleyCup https://t.co/PCa2j2rIN4", 
+                "TweetLink": "993710057765339136", 
+                "Place": "Chicopee", 
+                "Time": "Tue May 08 04:31:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984462006177746945/3DWshjmb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichardTrionfo", 
+                "Name": "Richard Trionfo", 
+                "Tweet": "Thanks to Justin Timberlake, we have to wait until Thursday for Game 7 in Nashville.  #StanleyCup", 
+                "TweetLink": "993710239148134401", 
+                "Place": "Florida", 
+                "Time": "Tue May 08 04:32:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1301569756/More_DP_Signage_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iron_aodhan", 
+                "Name": "Aodhan", 
+                "Tweet": "Me when the Coyotes finally amount to something in the next few years https://t.co/KBENQ1AOZG", 
+                "TweetLink": "993710701532217345", 
+                "Place": "Ontario", 
+                "Time": "Tue May 08 04:34:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985259437936947200/kQFjCTiy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.242564, 35.0919545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KieserNick", 
+                "Name": "Nick Kieser", 
+                "Tweet": "Day 2 complete. Both @VSCCPioneersBSB &amp; @VSCCPioneersSB won there first games so far and the cherry on top is PREDS\u2026 https://t.co/Jo27JXBN6a", 
+                "TweetLink": "993711149031010304", 
+                "Place": "Chattanooga", 
+                "Time": "Tue May 08 04:36:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993347853383815168/urGWX8Xu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChanceNHL", 
+                "Name": "Chance", 
+                "Tweet": "Im confused... Am I working on Thursday or Nah? \n\nCC: @Gnash00 \n#StanleyCup https://t.co/nANOUEKIsh", 
+                "TweetLink": "993711262054805505", 
+                "Place": "Las Vegas", 
+                "Time": "Tue May 08 04:36:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919346847201636352/hpEMKas4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DeLoachJW", 
+                "Name": "J-Dub", 
+                "Tweet": "Looks like the #WPGWhiteout was a #WPGWipeout causing a \u00a0#NHLJetsFlameOut...so quiet folks asked if they were pipin\u2026 https://t.co/xUXhj2ah79", 
+                "TweetLink": "993711263703236608", 
+                "Place": "Tennessee", 
+                "Time": "Tue May 08 04:36:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/903317788831440898/s976xMNW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.068782, 35.1101325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "C_Chakamian", 
+                "Name": "Claudia Chakamian", 
+                "Tweet": "Wow I can't stop watching https://t.co/WVIHcW6NAv", 
+                "TweetLink": "993711968103084033", 
+                "Place": "Lake Wylie", 
+                "Time": "Tue May 08 04:39:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/847136217384783872/TD-vU5Pi_normal.jpg"
+            }
         }
     ]
 }
