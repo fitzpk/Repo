@@ -2522,6 +2522,305 @@
                 "Time": "Tue May 08 03:59:49 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/961399599926738946/UeUfaGhH_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.95791, 37.2744885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TweeterTeej", 
+                "Name": "T.J. Young", 
+                "Tweet": "#Caps fans be like... #StanleyCup #CapsYear #ALLCAPS https://t.co/pKGzWCkFXB", 
+                "TweetLink": "993702214433673216", 
+                "Place": "Roanoke", 
+                "Time": "Tue May 08 04:00:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984612130057015296/EXg-iwz4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sandram51807", 
+                "Name": "sandra mcconnell", 
+                "Tweet": "@THEMikeGarrett You know the preds always pull thru!!! \ud83d\ude00 guess we will have to wait and see #gopreds #StandWithUs  #StanleyCup", 
+                "TweetLink": "993702343551143936", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:01:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990054164569915392/gjTmamPG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.339198, 43.1542055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thefinalSTRAW", 
+                "Name": "Jake Strawhecker", 
+                "Tweet": "Just stop. \ud83d\ude31 https://t.co/G3ZnHO9wGx", 
+                "TweetLink": "993702412698488832", 
+                "Place": "Baldwinsville", 
+                "Time": "Tue May 08 04:01:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/748992437209575425/qcR0MZTk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.706102, 35.2483635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "coachdynoF5", 
+                "Name": "Coach Dyno", 
+                "Tweet": "Different angle. Setting up a Game 07 back in Smashville. The chase for the chalice continues; the oldest trophy in\u2026 https://t.co/YQ1JjRQTOQ", 
+                "TweetLink": "993702480176386049", 
+                "Place": "Brevard", 
+                "Time": "Tue May 08 04:01:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/894366682176794624/PzVv8ftW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.975687, 40.373021]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kenziee_baker", 
+                "Name": "McKenzie Baker \ud83d\udc95", 
+                "Tweet": "The Sabres had been to the conference final more recently than the Caps \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/mBsQXbQEmW", 
+                "TweetLink": "993702751954784257", 
+                "Place": "Brentwood", 
+                "Time": "Tue May 08 04:02:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991831126950936577/7zFLpdm4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.4926175, 53.5558195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jgletain", 
+                "Name": "Jesse Letain", 
+                "Tweet": "\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e https://t.co/lvF3IExsQL", 
+                "TweetLink": "993702906955055106", 
+                "Place": "Edmonton", 
+                "Time": "Tue May 08 04:03:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/778322969055617025/iEKRELH7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Austin13Coleman", 
+                "Name": "Austin Coleman", 
+                "Tweet": "FILIP HE HAS A FAMILY https://t.co/2zhWkBnI1h", 
+                "TweetLink": "993703044264136704", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:04:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939542303890378757/h9BaGS48_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.4926175, 53.5558195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Metheral", 
+                "Name": "Shawn Metheral", 
+                "Tweet": "Oh oh #Jets fans, this series is going back to #Smashville for game 7 and super fan @trishayearwood will be live tw\u2026 https://t.co/WJ9uDAiFx4", 
+                "TweetLink": "993703154578440192", 
+                "Place": "Edmonton", 
+                "Time": "Tue May 08 04:04:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988236738135928835/_nhJxhzn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.543989, 33.43562]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mkerob", 
+                "Name": "Mike R", 
+                "Tweet": "The sting of the #NHLBruins losing was made a tad less hurtful watching the Penguins prepare for a tee time next we\u2026 https://t.co/FYP4kMk6et", 
+                "TweetLink": "993703257334689792", 
+                "Place": "Buckeye", 
+                "Time": "Tue May 08 04:04:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963214871243513856/CT1Ly3lQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.9290095, 38.6608815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kevlarmoose", 
+                "Name": "Benjamin Bezayiff", 
+                "Tweet": "Thank god! Last thing I wanted to hear was the Pens moving on. Hopefully @ovi8 gets that Cup this year! https://t.co/Iv2eFlxRhT", 
+                "TweetLink": "993703323860484096", 
+                "Place": "Shingle Springs", 
+                "Time": "Tue May 08 04:05:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/778432342905921538/ghLBV1Ia_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jwallman_4", 
+                "Name": "Josh Wallman", 
+                "Tweet": "Straight nastiness #preds https://t.co/OT4DL9BXv2", 
+                "TweetLink": "993703393481908224", 
+                "Place": "Tennessee", 
+                "Time": "Tue May 08 04:05:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943489486805184512/oa5eOJSf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.552871, 40.652444]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "e_munson", 
+                "Name": "sporty spice[8]", 
+                "Tweet": "Let\u2019s do this. https://t.co/UXW4NsNWmI", 
+                "TweetLink": "993703397202321408", 
+                "Place": "Merrick", 
+                "Time": "Tue May 08 04:05:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980996369434505217/cpxMxl3v_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jdawnainge", 
+                "Name": "Jillian Dawn Ainge", 
+                "Tweet": "@NHLJets Its not like they aren\u2019t trying #rinne is just on tonight #WPGvsNSH but #WpgWhiteout fans are leaving unli\u2026 https://t.co/0zuqOz14vk", 
+                "TweetLink": "993703786957983745", 
+                "Place": "Winnipeg", 
+                "Time": "Tue May 08 04:06:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990036594882154496/37caG_eo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.882482, 47.273022]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MilyVanilly", 
+                "Name": "Jimmy Milstead \ud83d\udcec", 
+                "Tweet": "I want @_StarDESTROYER to be with us @Capitals Fans now ! Hope to hear his theme many times in the Eastern Conferen\u2026 https://t.co/C24CYmx0u1", 
+                "TweetLink": "993703812740235264", 
+                "Place": "Washington", 
+                "Time": "Tue May 08 04:07:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990499198960193536/n97V1xXk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.453494, 41.659482]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexisRaeCampos", 
+                "Name": "Alexis Rae", 
+                "Tweet": "This. Is. Beautiful. My oh my. https://t.co/NwdORv5QlA", 
+                "TweetLink": "993703935558017026", 
+                "Place": "Oregon", 
+                "Time": "Tue May 08 04:07:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/918890089148796929/d8G71tHB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.520209, 36.221709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "matt_sircy", 
+                "Name": "Matt Sircy", 
+                "Tweet": "Ugh I hate when they can\u2019t get original content. https://t.co/CpH4mKMAhr", 
+                "TweetLink": "993703967690543105", 
+                "Place": "Mount Juliet", 
+                "Time": "Tue May 08 04:07:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/768163689824477186/toviEdS0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.319192, 44.0123485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "maybo01", 
+                "Name": "Chris Mayberry", 
+                "Tweet": "This is as exciting as watching shadows lengthen.  But props to the #Preds for \u2014 again \u2014 executing a perfect road p\u2026 https://t.co/tNELx7vDm2", 
+                "TweetLink": "993704046191042560", 
+                "Place": "Whitchurch-Stouffville", 
+                "Time": "Tue May 08 04:08:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990124560006594561/vnMIT4wN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "V_Kat41", 
+                "Name": "Vasilios Katsaitis (61:35)", 
+                "Tweet": "Sorry. Just can\u2019t stop watching this. https://t.co/sa9Aq3sBUH", 
+                "TweetLink": "993704088452943874", 
+                "Place": "Franklin", 
+                "Time": "Tue May 08 04:08:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935351500494303232/1Hdy-FVB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[15.2851415, 59.2397305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "linushugosson", 
+                "Name": "Linus Hugosson", 
+                "Tweet": "Han g\u00f6r bara dr\u00f6mm\u00e5l nuf\u00f6rtiden, k\u00e4nns det som. https://t.co/jP5X9hakmZ", 
+                "TweetLink": "993704177552580608", 
+                "Place": "\u00d6rebro", 
+                "Time": "Tue May 08 04:08:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/741685289480007681/6M42fgie_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jdawnainge", 
+                "Name": "Jillian Dawn Ainge", 
+                "Tweet": "@NHLJets its not like #NHLJets aren\u2019t trying just a #hot #rinne #WpgWhiteout fans are #loyal and aren\u2019t leaving unl\u2026 https://t.co/VsYm5RyYRD", 
+                "TweetLink": "993704349602861056", 
+                "Place": "Winnipeg", 
+                "Time": "Tue May 08 04:09:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990036594882154496/37caG_eo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Calichusetts274", 
+                "Name": "Parker W. Mason", 
+                "Tweet": "The obnoxious overrated posterchild of one league has at long last been eliminated; now it\u2019s time to take care of t\u2026 https://t.co/EtXl8srf9z", 
+                "TweetLink": "993704354950467584", 
+                "Place": "Los Angeles", 
+                "Time": "Tue May 08 04:09:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/966631805980831744/W-_r6jB2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.01799, 51.454107]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "themib", 
+                "Name": "Martin Bentley", 
+                "Tweet": "I *MAY* have put the mockers on the Winnipeg Jets. Soz. #StanleyCup https://t.co/GDnHZ0Jjf0", 
+                "TweetLink": "993704364790427649", 
+                "Place": "Lewisham", 
+                "Time": "Tue May 08 04:09:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/668059357867876352/leldRH0t_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bhalins", 
+                "Name": "LiveGive", 
+                "Tweet": "Ridiculous goal https://t.co/OZKJTvMnZq", 
+                "TweetLink": "993704390203600896", 
+                "Place": "Los Angeles", 
+                "Time": "Tue May 08 04:09:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991733991391686656/H4j79MxV_normal.jpg"
+            }
         }
     ]
 }
