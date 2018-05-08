@@ -3159,6 +3159,448 @@
                 "Time": "Tue May 08 04:19:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/930627701639188480/gdysJY_d_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.2739375, 43.147571]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BeLEAFingWithJB", 
+                "Name": "#LetsGoMarlies #GoCanadaGo \ud83c\udfd2\ud83c\udfc0\ud83c\udde8\ud83c\udde6\ud83d\udc99", 
+                "Tweet": "WOW I did NOT expect the @PredsNHL to shut down the @NHLJets like this in Game 6,what a series and we get ONE MORE\u2026 https://t.co/PHXvgpQM05", 
+                "TweetLink": "993707079951990784", 
+                "Place": "Brantford", 
+                "Time": "Tue May 08 04:20:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993692908921409536/nWqHm5tG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AGMSports", 
+                "Name": "Sen. Brant Feldman", 
+                "Tweet": "Going to #Game7 for the right to play #VegasBorn will it be #WPGWhiteout or #StandWithUs ? #StanleyCup", 
+                "TweetLink": "993707097001902080", 
+                "Place": "Los Angeles", 
+                "Time": "Tue May 08 04:20:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973136543820013570/vPr4aEIJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.5631295, 36.2332615]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hartjshirley", 
+                "Name": "Harriet Shirley \ud83d\udc9b\ud83d\udc99", 
+                "Tweet": "Nothing like a shutout in #Winnipeg! #NSHvsWPG #StanleyCup #Preds #StanleyCup https://t.co/typx6Yymwp", 
+                "TweetLink": "993707131290509312", 
+                "Place": "Green Hill", 
+                "Time": "Tue May 08 04:20:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984467050218360833/VCMUtvV-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.7972215, 39.4219875]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "reMIKEis", 
+                "Name": "Michael Remeikis", 
+                "Tweet": "#StanleyCup Playoffs Night 27:\nWSH def. PIT 2-1 OT, WIN 4-2\nNSH def. WPG 4-0, tied 3-3", 
+                "TweetLink": "993707165725745153", 
+                "Place": "Owings Mills", 
+                "Time": "Tue May 08 04:20:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984121028837339137/mH93urID_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sandram51807", 
+                "Name": "sandra mcconnell", 
+                "Tweet": "Bring it on back to Smashville!!! #StandWithUs  #StanleyCup  #NSHvsWPG", 
+                "TweetLink": "993707196939669505", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:20:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990054164569915392/gjTmamPG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TaraBelle76", 
+                "Name": "Tara Adams", 
+                "Tweet": "Hands Go Up!!! #StandWithUs #StanleyCup #bringitongame7 \ud83d\ude4c\ud83c\udffb\ud83d\ude4c\ud83c\udffb\ud83c\udfd2\ud83e\udd45", 
+                "TweetLink": "993707221660860416", 
+                "Place": "Franklin", 
+                "Time": "Tue May 08 04:20:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984448614335434753/BmFUzKXX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.240004, 42.981638]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tess_Harker", 
+                "Name": "Tess Harker", 
+                "Tweet": "Whew!!!  Game 7 here we come!!!  #StandWithUs https://t.co/LoVlcFPEMG", 
+                "TweetLink": "993707240040337408", 
+                "Place": "Waukesha", 
+                "Time": "Tue May 08 04:20:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1767847162/Tess_Dip_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3407565, 45.1080955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TomHMinor", 
+                "Name": "Tom Minor", 
+                "Tweet": "Ha Ha Jets!! Ok #Predators please close this out on Thursday at home! #WINvsNSH  #StanleyCup #StanleyCupPlayoff @carrieunderwood", 
+                "TweetLink": "993707266669993984", 
+                "Place": "Brooklyn Park", 
+                "Time": "Tue May 08 04:20:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/851828313341538304/c2RujsU7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.5508905, 38.997936]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kateydid1983", 
+                "Name": "Katelyn Adams \ud83c\udf0e \ud83c\udf0a", 
+                "Tweet": "That. Was a game. Preds...hold onto this for Thursday night. \n#StandWithUs \n#SmashvilleProud \n#StanleyCup https://t.co/b67cYmnMss", 
+                "TweetLink": "993707282193055744", 
+                "Place": "Colorado", 
+                "Time": "Tue May 08 04:20:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/955993993975918597/Xltjn6Xl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShirleyAlaine", 
+                "Name": "Shirley", 
+                "Tweet": "Hell yeah !!! https://t.co/G91gZuy3Z4", 
+                "TweetLink": "993707327198023681", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:21:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/969993763367145472/MQCTKUDi_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-42.4348645, -19.2572585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thaysquecida", 
+                "Name": "Thays Telles", 
+                "Tweet": "Olha isso mano \u2764 https://t.co/6siv3mUOiw", 
+                "TweetLink": "993707398664728578", 
+                "Place": "Belo Oriente", 
+                "Time": "Tue May 08 04:21:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987400555470475264/6OidWF3H_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Yukstin", 
+                "Name": "Justin Steele \ud83c\udf7b", 
+                "Tweet": "Gulp, I\u2019m not ready yet https://t.co/W5Y2ujlOwP", 
+                "TweetLink": "993707438506434560", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:21:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/486545647760199680/PiH5Q0j7_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AmamaBailey", 
+                "Name": "p-Amanda Marie Bailey", 
+                "Tweet": "#HandsUp #PredsWin @PredsNHL #Smashville #Preds #NSHvsWPG #WeWantTheCup #StanleyCup #Playoffs #StandWithUs https://t.co/7S5sxmZ0fB", 
+                "TweetLink": "993707440599392256", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:21:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993690311506452480/hKkYmP2q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "OuterHeavenXXX", 
+                "Name": "THETA WAVE", 
+                "Tweet": "Back to Smashville on Jersday \ud83d\udd95\ud83c\udffd https://t.co/pM9sDZ669k", 
+                "TweetLink": "993707460954226688", 
+                "Place": "Phoenix", 
+                "Time": "Tue May 08 04:21:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970763671302320128/Z66DCjsW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.4256625, 28.361774]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_DBladek", 
+                "Name": "Dariusz Bladek", 
+                "Tweet": "Love watching #WinnipegJets  lose at home #StanleyCup\n#Goriders \ud83c\udf3e\ud83d\ude01", 
+                "TweetLink": "993707559285555200", 
+                "Place": "Hunters Creek", 
+                "Time": "Tue May 08 04:21:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/878125981738971136/rQoiCdOS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Predators spoil the party in Winnipeg, shutting out the Jets 4-0 and they will fly back home to Smashville for a Ga\u2026 https://t.co/aTaNBW36d6", 
+                "TweetLink": "993707565149179904", 
+                "Place": "Nevada", 
+                "Time": "Tue May 08 04:22:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GreekGoalie35", 
+                "Name": "Moshtradomus", 
+                "Tweet": "#smashville.... You have two off days to get ready for the first ever game 7 at @BrdgstoneArena.... Soak it in. #StanleyCup #StandWithUs", 
+                "TweetLink": "993707568525651968", 
+                "Place": "North Carolina", 
+                "Time": "Tue May 08 04:22:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/977123857638313984/zXctMt51_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.9209165, 41.39347]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AKHastings", 
+                "Name": "Andrew H", 
+                "Tweet": "Strong game. Now let's have some #Smashville magic for game 7. #StanleyCup #WeWantTheCup #StandWithUs https://t.co/g34iohPI7Y", 
+                "TweetLink": "993707573932048384", 
+                "Place": "Hamden", 
+                "Time": "Tue May 08 04:22:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/873001921572941824/FBCCTkCV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.6564475, 38.989258]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BillyPrickett2", 
+                "Name": "Billy Prickett", 
+                "Tweet": "I. AM. PUMPED. https://t.co/mWhsFVaG4d", 
+                "TweetLink": "993707616365924358", 
+                "Place": "Florence", 
+                "Time": "Tue May 08 04:22:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993168185569488897/CMHoOyay_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Zach_Stratton29", 
+                "Name": "Zach Stratton", 
+                "Tweet": "PK APPROVED!!!\n\nWe will have a Game 7 folks. \n\nFinal (Game 6)\n\n#Preds 4\n#Jets 0\n\nGoals: Arvidsson (2) &amp; Forsberg (2\u2026 https://t.co/qXRBcmeROL", 
+                "TweetLink": "993707623966003200", 
+                "Place": "Memphis", 
+                "Time": "Tue May 08 04:22:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962831637317849090/eCWFsBjL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.672903, 27.7957195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "madalynmh", 
+                "Name": "Madalyn Hoerr", 
+                "Tweet": "It was beautiful. #GoPreds #LetsGoPreds https://t.co/P0V0krGlaY", 
+                "TweetLink": "993707718593732610", 
+                "Place": "St Petersburg", 
+                "Time": "Tue May 08 04:22:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/795339268067573760/2ZUXsVls_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gliverpool9966", 
+                "Name": "The G.F. Liverpool\u2122\u00a9", 
+                "Tweet": "Game seven Thursday Night. How do you like that Winnipeg and the rest of Canada #StanleyCup #WPGWhiteout", 
+                "TweetLink": "993707771664130048", 
+                "Place": "Winnipeg", 
+                "Time": "Tue May 08 04:22:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993604318501785603/qy_vm8vj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.9256115, 35.7297115]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HowsItGoin_eh", 
+                "Name": "Dave", 
+                "Tweet": "#NSHvsWPG #StandWithUs #StanleyCup Go Preds! https://t.co/Ow2yge69gj", 
+                "TweetLink": "993707851439837185", 
+                "Place": "Spring Hill", 
+                "Time": "Tue May 08 04:23:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986611520950947840/0AWkFk-V_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.826269, 38.9876915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "seanpcarragher", 
+                "Name": "Sean Carragher", 
+                "Tweet": "Can\u2019t recall an #NHL #StanleyCup Playoffs in recent memory with this many road team wins. (Although it would\u2019ve bee\u2026 https://t.co/CmuawQVBQP", 
+                "TweetLink": "993708357855965185", 
+                "Place": "Wildwood", 
+                "Time": "Tue May 08 04:25:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959407423999107072/CkMpg5-v_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.11082, 42.424952]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MikeRicc1023", 
+                "Name": "Mike Ricciuti", 
+                "Tweet": "This isn't even the best goal he's scored these playoffs https://t.co/3yhlrJoQWf", 
+                "TweetLink": "993708447337238528", 
+                "Place": "Medford", 
+                "Time": "Tue May 08 04:25:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972822158140477441/bAQDP_0q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jenniferlynn726", 
+                "Name": "Jennifer", 
+                "Tweet": "MY. BOYS.\ud83d\udc9b\ud83d\udc99 LETS GET THAT GAME 7 W!!! Go @PredsNHL!!!!!! #StandWithUs #preds #stanleycup https://t.co/cxjxQ1i48w", 
+                "TweetLink": "993708708633997312", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:26:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973584281837686784/iTOAu6Ue_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.510207, 36.1395275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hockeygrrrl", 
+                "Name": "p Hockeygrrrl Loveshockey \ud83c\udfd2", 
+                "Tweet": "#Preds actually won and shut out jets #standwithus #StanleyCup", 
+                "TweetLink": "993708882915667968", 
+                "Place": "Cookeville", 
+                "Time": "Tue May 08 04:27:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/861364165172236289/J2TGvezk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sandram51807", 
+                "Name": "sandra mcconnell", 
+                "Tweet": "@bendersun Yea they did and he said hell yea we got game 7!!! Just gotta have faith and good things come your way\ud83d\ude00\u2026 https://t.co/9KfCfQwZtE", 
+                "TweetLink": "993708955615596544", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 04:27:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990054164569915392/gjTmamPG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.79243, 44.801847]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Carebearcarrie", 
+                "Name": "Danielle Cornwell", 
+                "Tweet": "Nothing makes me more happy tonight than the @penguins being knocked out of the #StanleyCup &amp; the @Preds winning to\u2026 https://t.co/x9I8p6J6w5", 
+                "TweetLink": "993708964482203648", 
+                "Place": "Stayton", 
+                "Time": "Tue May 08 04:27:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/912488273641037825/Q185itqJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "GAME 7 HERE WE COMEEEEEE https://t.co/HH6o5eAowm", 
+                "TweetLink": "993709069960732674", 
+                "Place": "Boston", 
+                "Time": "Tue May 08 04:27:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JayRoySor", 
+                "Name": "J.R.SOAR[406]\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "@GoldenKnights should be able to rust... I mean rest up. #StandWithUs https://t.co/sndlQUkH4N", 
+                "TweetLink": "993709111463247874", 
+                "Place": "New York", 
+                "Time": "Tue May 08 04:28:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988124292209696769/Nyjxx8fS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CourtAChambers", 
+                "Name": "Courtney Chambers", 
+                "Tweet": "How about no. https://t.co/MKAcNGdvUy", 
+                "TweetLink": "993709129293279232", 
+                "Place": "Winnipeg", 
+                "Time": "Tue May 08 04:28:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989734402484662272/x1-uxah9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.5631295, 36.2332615]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hartjshirley", 
+                "Name": "Harriet Shirley \ud83d\udc9b\ud83d\udc99", 
+                "Tweet": "Alright, Tweeps...let the begging begin! Can't afford tickets - plumber coming out for third time in 3 weeks to dea\u2026 https://t.co/ddZC85WBsF", 
+                "TweetLink": "993709137648406528", 
+                "Place": "Green Hill", 
+                "Time": "Tue May 08 04:28:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984467050218360833/VCMUtvV-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
+                "Tweet": "Fucking siiiiiiiiick #Forsberg #StanleyCup", 
+                "TweetLink": "993709594793926656", 
+                "Place": "Upper Arlington", 
+                "Time": "Tue May 08 04:30:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
+            }
         }
     ]
 }
