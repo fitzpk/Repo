@@ -2483,6 +2483,45 @@
                 "Time": "Sun May 06 04:00:12 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/988124292209696769/Nyjxx8fS_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DomSanity27", 
+                "Name": "Dom Slobodian", 
+                "Tweet": "As a Jets fan this sucks but as a hockey fan holy fucking shit #filthy \ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/jFnYYu0kxS", 
+                "TweetLink": "993701963111034880", 
+                "Place": "Winnipeg", 
+                "Time": "Tue May 08 03:59:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/902003250706227200/V48wOIMn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Wendy_50", 
+                "Name": "Wendy", 
+                "Tweet": "I said my hockey season was done when my team was eliminated from playoffs...I lied.\ud83d\ude01 #StanleyCup", 
+                "TweetLink": "993701970308296709", 
+                "Place": "Calgary", 
+                "Time": "Tue May 08 03:59:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914292754280103936/zke5XEgm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BuckReising", 
+                "Name": "Buck Reising", 
+                "Tweet": "Again, even when the Caps win...they lose https://t.co/qHAA4GUAhK", 
+                "TweetLink": "993701983574986753", 
+                "Place": "Nashville", 
+                "Time": "Tue May 08 03:59:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961399599926738946/UeUfaGhH_normal.jpg"
+            }
         }
     ]
 }
