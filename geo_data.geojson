@@ -1222,6 +1222,19 @@
                 "Time": "Mon May 14 03:09:38 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/994206279685066752/vG6FlSyI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.2784865, 37.758798]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HiFromYuki", 
+                "Name": "WCF Super Yuki\ud83c\udf38\ud83d\udc9b\u2694\ufe0f\ud83d\udda4\ud83c\udfd2", 
+                "Tweet": "Wow! Caps! Excellent job!!!!!! Great call by @WaltonCaps ! What a fantastic way to celebrate Mother\u2019s Day! #AllCaps #StanleyCup", 
+                "TweetLink": "995864108825174016", 
+                "Place": "Alameda", 
+                "Time": "Mon May 14 03:11:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/564504633955983360/E66FD44p_normal.jpeg"
+            }
         }
     ]
 }
