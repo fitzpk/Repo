@@ -559,6 +559,435 @@
                 "Time": "Mon May 14 02:49:58 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991485057461374977/eM17gojb_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Giosp13", 
+                "Name": "Gio Lopez", 
+                "Tweet": "Tbh Ovechkin is too good not to have at least one #StanleyCup", 
+                "TweetLink": "995858865106366465", 
+                "Place": "Houston", 
+                "Time": "Mon May 14 02:50:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/864428473363845122/WTFI8jYs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sromano712", 
+                "Name": "Samantha Romano", 
+                "Tweet": "I\u2019m loving the play by the @Capitals. They are #allin. #ALLCAPS #StanleyCup", 
+                "TweetLink": "995859057478111232", 
+                "Place": "Virginia", 
+                "Time": "Mon May 14 02:51:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/720799797930803200/Ed0f9gQW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "titorolo", 
+                "Name": "Tito Rolo", 
+                "Tweet": "However it has a been a home team \"disadvantage\" which has been reflected in a lot of these 2018 series #StanleyCup", 
+                "TweetLink": "995859291658735618", 
+                "Place": "Detroit", 
+                "Time": "Mon May 14 02:52:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/670093555994656768/wBTbFCmp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.328113, 44.3147895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Aaron_Harman", 
+                "Name": "#ALLCAPS #RockTheRed", 
+                "Tweet": "All quiet in Tampa for some reason. \ud83d\ude09 \n\n#ALLCAPS #CapsBolts #Round3 #StanleyCup #RockTheRed #CapitalsTalk #NHL\u2026 https://t.co/jPPGnfMJmI", 
+                "TweetLink": "995859367231713281", 
+                "Place": "Peterborough", 
+                "Time": "Mon May 14 02:52:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988913118645452800/1KN_5l5y_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0323765, 42.399371]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Tweet": "Is Vasilevskiy worn out from playing so much this season or just pooping his pants on a big stage? #Capitals\u2026 https://t.co/H30FYoFQYk", 
+                "TweetLink": "995859496735072257", 
+                "Place": "Chelsea", 
+                "Time": "Mon May 14 02:53:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "Thank you refs for just piling the penalties on the Lightning, pls keep this up and let them see what it's like #WSHvsTBL #StanleyCup", 
+                "TweetLink": "995859576993075200", 
+                "Place": "Boston", 
+                "Time": "Mon May 14 02:53:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RobCarlinNBCS", 
+                "Name": "Rob Carlin", 
+                "Tweet": "It is quiet &amp; empty in here.. #Caps have ruined a lot of people\u2019s night.. \n\nThey just announced, \u201cLast minute to pl\u2026 https://t.co/rgaYWp1Ytl", 
+                "TweetLink": "995859731158831104", 
+                "Place": "Tampa", 
+                "Time": "Mon May 14 02:53:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914816713623003137/5jlN9AEB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "titorolo", 
+                "Name": "Tito Rolo", 
+                "Tweet": "I dunno.. whatever. Just as long as @NHLJets wins the games that they need to in wherever city.\u2026 https://t.co/qNIv58E45e", 
+                "TweetLink": "995859822120701957", 
+                "Place": "Detroit", 
+                "Time": "Mon May 14 02:54:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/670093555994656768/wBTbFCmp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sromano712", 
+                "Name": "Samantha Romano", 
+                "Tweet": "I\u2019ll take these wins in #tampabay! #allcaps #StanleyCup @Capitals", 
+                "TweetLink": "995859859169054721", 
+                "Place": "Virginia", 
+                "Time": "Mon May 14 02:54:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/720799797930803200/Ed0f9gQW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.529616, 38.9140855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drewbedewbe", 
+                "Name": "Drew Johnson", 
+                "Tweet": "Game 4 might have to be a lock #StanleyCup #ALLCAPS", 
+                "TweetLink": "995859893419675648", 
+                "Place": "Selby-on-the-Bay", 
+                "Time": "Mon May 14 02:54:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939550465108398080/ZLByRRgk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.2306765, 42.6109005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AndreaGinsburg", 
+                "Name": "Andrea", 
+                "Tweet": "Nice https://t.co/Wuh3VVGIcB", 
+                "TweetLink": "995859941113155584", 
+                "Place": "Tewksbury", 
+                "Time": "Mon May 14 02:54:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961429502902657025/Goo2Vwbd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.47181, 37.3162225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ladrama", 
+                "Name": "Leigh-Ann \ud83c\udfd2\ud83d\udc69\ud83c\udffb\u200d\ud83c\udfeb\u2744", 
+                "Tweet": "Go #ALLCAPS woo hoo #AnyoneButVegas #StanleyCup", 
+                "TweetLink": "995859976043167744", 
+                "Place": "Merced", 
+                "Time": "Mon May 14 02:54:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985528680146333696/irqOF70h_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #ECF Game 2 #Caps 6 #TBLightning 2 Final.  #Caps leads series 2-0.  Game 3 Tuesday 8pm-NBCSN https://t.co/D0TcI2kDQo", 
+                "TweetLink": "995860026534359040", 
+                "Place": "Queens", 
+                "Time": "Mon May 14 02:55:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995485066078965760/EeJwBUHL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Zach_Stratton29", 
+                "Name": "Zach Stratton", 
+                "Tweet": "Final (Game 2)\n\n#ALLCAPS 6 #GoBolts 2\n\n\u2022Capitals lead the series 2-0\n\u2022Game 3 is on Tuesday \n\n#StanleyCup #WSHvsTBL", 
+                "TweetLink": "995860057920299013", 
+                "Place": "Memphis", 
+                "Time": "Mon May 14 02:55:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962831637317849090/eCWFsBjL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.4471605, 28.219121]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JasonCCroft", 
+                "Name": "\ud83c\uddfa\ud83c\uddf8Jason C. Croft", 
+                "Tweet": "I had Tampa in 6.... that\u2019s not happening... If Tampa wins they will need a 7th... not beating Washington 4 in a row #StanleyCup", 
+                "TweetLink": "995860102312792064", 
+                "Place": "Land O' Lakes", 
+                "Time": "Mon May 14 02:55:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990067644400373761/cGB2Q28H_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.255686, 36.895082]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JesseWTKR", 
+                "Name": "Jesse Varner", 
+                "Tweet": "ITS LIT!!!!! #ALLCAPS #Capitals #StanleyCup https://t.co/utMYLtKoMp", 
+                "TweetLink": "995860155928666112", 
+                "Place": "Norfolk", 
+                "Time": "Mon May 14 02:55:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2511232123/206237_897568997626_25501067_43977938_861439_n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.9238215, 39.620282]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "typicalburghfan", 
+                "Name": "Page, the Baby t-Rex \ud83e\udd96", 
+                "Tweet": "Wth. https://t.co/cK1yEVxLDL", 
+                "TweetLink": "995860158537285632", 
+                "Place": "Greenwood Village", 
+                "Time": "Mon May 14 02:55:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995413561835847680/zN4XmWfK_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SBSmith10", 
+                "Name": "Stephen Smith", 
+                "Tweet": "And just like that, 2 wins away. #ALLCAPS #StanleyCup https://t.co/MchIM2aeTs", 
+                "TweetLink": "995860182054965248", 
+                "Place": "Philadelphia", 
+                "Time": "Mon May 14 02:55:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960366984339902466/DNOlYo7s_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FoxyOxymoron", 
+                "Name": "Kimmie G.", 
+                "Tweet": "Wow @Capitals way to go home from Tampa!! NBC don\u2019t know what to do with themselves. This is SO amazing. #allcaps\u2026 https://t.co/CJYEOZAJP7", 
+                "TweetLink": "995860230738194432", 
+                "Place": "Virginia", 
+                "Time": "Mon May 14 02:55:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/969768699052871681/IffsJLQK_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.2369685, 38.8051145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ailis_roose", 
+                "Name": "ailis roose", 
+                "Tweet": "trying not to get too excited that we are 2 games from the #StanleyCup \ud83d\ude2c\ud83d\ude2c @Capitals https://t.co/AZHJb4zzbN", 
+                "TweetLink": "995860295548653568", 
+                "Place": "Maryland", 
+                "Time": "Mon May 14 02:56:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/901610943368585216/xXWSjUUJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.368235, 41.5328125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tlmartin_20", 
+                "Name": "Trever Martin", 
+                "Tweet": "Damn the Caps are looksing good!! #ALLCAPS #StanleyCup", 
+                "TweetLink": "995860320253042688", 
+                "Place": "Genoa", 
+                "Time": "Mon May 14 02:56:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988632103880462336/TuViRyJc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.804748, 42.1690755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KCase_Closed", 
+                "Name": "Kevin Case", 
+                "Tweet": "The Washington Capitals just won an Eastern Conference Finals Game by 4 goals. \n\nSo uh, I\u2019m going to open a 3rd bee\u2026 https://t.co/jEE92IVe1w", 
+                "TweetLink": "995860348711374848", 
+                "Place": "Horseheads", 
+                "Time": "Mon May 14 02:56:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/753980097682673664/IM6SuVks_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[8.968907, 46.192162]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "OfficialScansky", 
+                "Name": "Reto Scandella", 
+                "Tweet": "@Capitals #ALLCAPS #CapsBolts #StanleyCup https://t.co/CRmN9idM5g", 
+                "TweetLink": "995860347700510721", 
+                "Place": "Sementina", 
+                "Time": "Mon May 14 02:56:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/686753317867880449/giRpc3nC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[104.2525225, 52.307016]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tyurnev", 
+                "Name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0422\u044e\u0440\u043d\u0435\u0432", 
+                "Tweet": "\u042d\u0442\u043e \u0431\u043b\u0435\u0441\u043a ! \u0412\u0437\u044f\u0442\u044c \u0443 \u0422\u0430\u043c\u043f\u044b \u0434\u0432\u0435 \u0438\u0433\u0440\u044b \u0432 \u0438\u0437 \u0433\u043e\u0440\u043e\u0434\u0435 ! #CapsBolts #StanleyCup #AllCaps https://t.co/iWTH2rP0AB", 
+                "TweetLink": "995860413152661505", 
+                "Place": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
+                "Time": "Mon May 14 02:56:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/730240934370226176/V8d0wos6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "And after another brutal game for the Bolts in Tampa Bay, the Caps win game 2 on the road, 6-2, and now they go bac\u2026 https://t.co/JD1QZNHzNo", 
+                "TweetLink": "995860698797293569", 
+                "Place": "Nevada", 
+                "Time": "Mon May 14 02:57:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.400973, 30.124856]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JDejuan2", 
+                "Name": "\u201897 Shawn Michaels", 
+                "Tweet": "Just sumn light. That\u2019s two. #WSHvsTB #StanleyCup https://t.co/68Prdxwv3Z", 
+                "TweetLink": "995860781874012160", 
+                "Place": "Oak Ridge North", 
+                "Time": "Mon May 14 02:58:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970227039344218112/kGnKs4M6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-41.216505, -20.53356]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "giancolodeti", 
+                "Name": "Gianluca Colodeti", 
+                "Tweet": "Est\u00e1 dif\u00edcil n\u00e3o se empolgar com o @Capitals na #StanleyCup. Venceu os dois primeiros jogos da final de conferencia\u2026 https://t.co/VqepERF16P", 
+                "TweetLink": "995860794016452608", 
+                "Place": "Castelo", 
+                "Time": "Mon May 14 02:58:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/897613596619886592/_cwsgRsn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RandipJanda", 
+                "Name": "Randip Janda", 
+                "Tweet": "Alex Ovechkin now has 109 pts in 111 career #NHL playoff games. A P/GP of .98 (the same as Kucherov).\n\nOnly 2 activ\u2026 https://t.co/pp7IP9SoLY", 
+                "TweetLink": "995860796369391617", 
+                "Place": "Vancouver", 
+                "Time": "Mon May 14 02:58:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/903629350729269249/PayO34_n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.1725435, 32.650102]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mgbraun9", 
+                "Name": "Mary Grace Braun", 
+                "Tweet": "Caps looking SOOOO good! \ud83d\udd25\ud83d\udd25\ud83d\udd25 #ALLCAPS #StanleyCup #CapsBolts Now 7-1 on the road, love to see it!", 
+                "TweetLink": "995860838681427968", 
+                "Place": "Coronado", 
+                "Time": "Mon May 14 02:58:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919295321561165824/f-Y3Hu-Z_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "geekinterrupted", 
+                "Name": "\u272dRondra\u272d", 
+                "Tweet": "Whooooa. https://t.co/bu9R5hD2jX", 
+                "TweetLink": "995860904406216710", 
+                "Place": "Arlington", 
+                "Time": "Mon May 14 02:58:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995421893191663617/lr2_9rdI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.4926175, 53.5558195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MarkPavelich", 
+                "Name": "Mark Pavelich", 
+                "Tweet": "\ud83c\udfd2@OVI8\ud83d\udcb0 https://t.co/HEpQPAKXJM", 
+                "TweetLink": "995861018105462785", 
+                "Place": "Edmonton", 
+                "Time": "Mon May 14 02:59:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989022906041614336/kmewGOTm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.8457275, 50.185401]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CaseAbbott", 
+                "Name": "GodSent \u2652\ufe0f", 
+                "Tweet": "Caps just demoralized the Lightning at home... wow. #NHL #StanleyCup", 
+                "TweetLink": "995861093430931456", 
+                "Place": "Nicola Mameet 1", 
+                "Time": "Mon May 14 02:59:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995399113133862912/MRFkY9dc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.4367735, 38.3045585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sam_HGA116", 
+                "Name": "Sam AuBuchon", 
+                "Tweet": "Big win @Capitals!! Build on this and take G3! #ALLCAPS #StanleyCup https://t.co/Y5gEhnXQw8", 
+                "TweetLink": "995861171138957312", 
+                "Place": "Missouri", 
+                "Time": "Mon May 14 02:59:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/875918955180937220/JWT6MpzQ_normal.jpg"
+            }
         }
     ]
 }
