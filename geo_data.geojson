@@ -1599,6 +1599,19 @@
                 "Time": "Wed May 16 02:47:57 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990067644400373761/cGB2Q28H_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jrgemma53", 
+                "Name": "Y - Janis Gemma", 
+                "Tweet": "Tell ya what if the Caps come back n beat the Bolts when you have a PP chance to Shut the Door you Do it\u2026 https://t.co/rPWAqxy0pP", 
+                "TweetLink": "996583799159861248", 
+                "Place": "Henderson", 
+                "Time": "Wed May 16 02:51:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/978504047324905473/G430THUr_normal.jpg"
+            }
         }
     ]
 }
