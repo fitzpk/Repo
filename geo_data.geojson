@@ -1235,6 +1235,123 @@
                 "Time": "Mon May 14 03:11:20 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/564504633955983360/E66FD44p_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #ECF Game 3 #TBLightning 1-0 End of 1st Period", 
+                "TweetLink": "996554248069566465", 
+                "Place": "Queens", 
+                "Time": "Wed May 16 00:53:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996490751335858178/OHAfQT5C_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Astone_112", 
+                "Name": "Drew \ud83c\udfd2\u26be\ud83c\udfc8\u26bd\ufe0f", 
+                "Tweet": "J\n E\n  S\n   U\n    S\n#StanleyCup https://t.co/FtZujhw4Ry", 
+                "TweetLink": "996554414411444224", 
+                "Place": "Georgia", 
+                "Time": "Wed May 16 00:54:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922484507583885312/GvsO_j1__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.5455845, 42.1130625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Vladdiefan", 
+                "Name": "CharM", 
+                "Tweet": "Doc also has no idea what \"recoil\" means. Hint: It's not \"regroup.\" #Argh #StanleyCup", 
+                "TweetLink": "996554433826869248", 
+                "Place": "Springfield", 
+                "Time": "Wed May 16 00:54:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/827223481632841730/tckrYkF6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.7011465, 28.1095625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bernieborges", 
+                "Name": "Bernie Borges", 
+                "Tweet": "That\u2019s the way to start game 3! #StanleyCup https://t.co/wguuaWCbp5", 
+                "TweetLink": "996554511941500929", 
+                "Place": "East Lake", 
+                "Time": "Wed May 16 00:54:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/891832923707539456/fppJSa4A_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[127.7639295, 26.3737995]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ZatinOkinawa", 
+                "Name": "Sean Overzat", 
+                "Tweet": "When your in a Meeting at work, and your boss is glaring at you... I thought I said Fu*K in my head, must have slip\u2026 https://t.co/bWA5vgmgiJ", 
+                "TweetLink": "996554731597189120", 
+                "Place": "Kadena-cho", 
+                "Time": "Wed May 16 00:55:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961105923346501632/k37a3Rp5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DJohnnieM", 
+                "Name": "DJohnnyM", 
+                "Tweet": ".Hey Beer Nerds, this won GOLD in World Beer Cup in Wood &amp; Barrel Aged strong beer category. That's mighty impressi\u2026 https://t.co/DS9dvEJOwe", 
+                "TweetLink": "996554740736675841", 
+                "Place": "Milwaukee", 
+                "Time": "Wed May 16 00:55:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000425660915/6f472bb57bf158bbe892c80c1df4802f_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parkerandtheman", 
+                "Name": "Parker andTheMan", 
+                "Tweet": "@TheSmak has set the price.  He wants #VegasBorn  and the Crapitals in the #NHL #StanleyCup finals.  HE... has spok\u2026 https://t.co/R2Kxju3n7A", 
+                "TweetLink": "996555008349847552", 
+                "Place": "Paradise", 
+                "Time": "Wed May 16 00:56:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.5688185, 51.177144]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kimteramoto", 
+                "Name": "Kim Teramoto", 
+                "Tweet": "Nice to see the Bolts with the lead in the 1st...great goal by Stamkos. @marism21 @Leafgal78 https://t.co/QaKbYfdiUJ", 
+                "TweetLink": "996555027211698176", 
+                "Place": "Banff", 
+                "Time": "Wed May 16 00:56:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994046235198734336/J8v39Tns_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.7960125, 28.0814005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Reece_2121", 
+                "Name": "Cap'n Reece \u2693\ufe0f", 
+                "Tweet": "That puck was.... lightning fast https://t.co/KdUc2KFfzL", 
+                "TweetLink": "996555654730051584", 
+                "Place": "Auburndale", 
+                "Time": "Wed May 16 00:59:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991078416593154048/pzx65yx7_normal.jpg"
+            }
         }
     ]
 }
