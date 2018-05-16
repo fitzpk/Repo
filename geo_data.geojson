@@ -1456,6 +1456,110 @@
                 "Time": "Wed May 16 01:08:23 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/935543728634245120/eMSxYuM4_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.15217, 38.6208665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChrisLicodo", 
+                "Name": "RedAlert", 
+                "Tweet": "Whoooop https://t.co/dDNSxUUXlJ", 
+                "TweetLink": "996558495922245632", 
+                "Place": "Long Neck", 
+                "Time": "Wed May 16 01:10:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/913047892771901441/EujIkk4-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoeyAdams0925", 
+                "Name": "Joey Adams", 
+                "Tweet": "Shame on the @WhiteHouse for being clad in @TBLightning blue today. #ALLCAPS #StanleyCup", 
+                "TweetLink": "996559039680122880", 
+                "Place": "North Carolina", 
+                "Time": "Wed May 16 01:12:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000011851014/9d4818230b316e31138066bc43a47ae3_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.61342, 28.062051]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GatorMAB", 
+                "Name": "GatorMAB", 
+                "Tweet": "LIGHTNING POWER PLAY GOAL!!!!! 2-0!!!\n\ud83d\udea8\u26a1\ufe0f\ud83d\udea8\u26a1\ufe0f\ud83d\udea8\u26a1\ufe0f\ud83d\udea8\u26a1\ufe0f\ud83d\udea8\u26a1\ufe0f\ud83d\udea8\u26a1\ufe0f\n\n#GoBolts\u00a0\n#StanleyCup", 
+                "TweetLink": "996559553159364608", 
+                "Place": "Westchase", 
+                "Time": "Wed May 16 01:14:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/653764899273863168/tjE2x9Qu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup Nikita Kucherov PPG.  #TBLIghtning 2-0", 
+                "TweetLink": "996559678548140033", 
+                "Place": "Queens", 
+                "Time": "Wed May 16 01:15:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996490751335858178/OHAfQT5C_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.761426, 40.494116]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BSmithWV", 
+                "Name": "Brady Smith\u2122", 
+                "Tweet": "I know Tampa Bay is winning but if they can\u2019t figure out a way to score at even strength, they won\u2019t win this series. #StanleyCup", 
+                "TweetLink": "996559686177558528", 
+                "Place": "Plum", 
+                "Time": "Wed May 16 01:15:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/936821549247602689/Uq9AS6gZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.255686, 36.895082]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JesseWTKR", 
+                "Name": "Jesse Varner", 
+                "Tweet": "This team is taking tooooo many dumb penalties #ALLCAPS #Capitals #StanleyCup", 
+                "TweetLink": "996559826921680897", 
+                "Place": "Norfolk", 
+                "Time": "Wed May 16 01:15:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2511232123/206237_897568997626_25501067_43977938_861439_n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.422292, 41.025146]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Mr_B93", 
+                "Name": "mike burvee", 
+                "Tweet": "I guess I got my wish \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f Lightning is surrounding the Capital and the @TBLightning are up 2-0 on the Caps! Go Bolts! #StanleyCup #NHL", 
+                "TweetLink": "996559960069804032", 
+                "Place": "Ottumwa", 
+                "Time": "Wed May 16 01:16:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/734881313023361024/2LInJw-X_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Leopluridan", 
+                "Name": "Ray Yoon", 
+                "Tweet": "So...  Bolts check out for two games straight at home and somehow in game 3 they start playing?  lol COME ON CAPS s\u2026 https://t.co/MLRpePP5yb", 
+                "TweetLink": "996559969901252608", 
+                "Place": "Pennsylvania", 
+                "Time": "Wed May 16 01:16:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849410933604720640/Fxt1mzVU_normal.jpg"
+            }
         }
     ]
 }
