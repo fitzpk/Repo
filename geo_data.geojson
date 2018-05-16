@@ -1560,6 +1560,19 @@
                 "Time": "Wed May 16 01:16:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/849410933604720640/Fxt1mzVU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SuzieCanuck", 
+                "Name": "SuzieCanuck", 
+                "Tweet": "#GoBolts 3-0 #StanleyCup", 
+                "TweetLink": "996561825385754624", 
+                "Place": "Vancouver", 
+                "Time": "Wed May 16 01:23:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983345086179115008/UuwhCI5i_normal.jpg"
+            }
         }
     ]
 }
