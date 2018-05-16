@@ -1573,6 +1573,32 @@
                 "Time": "Wed May 16 01:23:49 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983345086179115008/UuwhCI5i_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.931711, 34.1682535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChrisJK_21", 
+                "Name": "Chris \ud83c\udfd2\ud83e\udd86", 
+                "Tweet": "Weren\u2019t Caps fans talking shit about Lightning fans leaving with 7 min left in the game while losing 6-2? Well....t\u2026 https://t.co/Uva2GDyneP", 
+                "TweetLink": "996581932912668672", 
+                "Place": "Arizona", 
+                "Time": "Wed May 16 02:43:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986846441715806208/hlJ3wzxL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.4471605, 28.219121]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JasonCCroft", 
+                "Name": "\ud83c\uddfa\ud83c\uddf8Jason C. Croft", 
+                "Tweet": "Oh look... we have a Hockey Game now #StanleyCup", 
+                "TweetLink": "996582998811160577", 
+                "Place": "Land O' Lakes", 
+                "Time": "Wed May 16 02:47:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990067644400373761/cGB2Q28H_normal.jpg"
+            }
         }
     ]
 }
