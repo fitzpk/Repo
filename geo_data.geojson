@@ -3159,6 +3159,149 @@
                 "Time": "Thu May 17 04:09:43 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/983458783228715008/1iIQnwXA_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[29.860386, 60.0278535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sharonainvegas", 
+                "Name": "\ud83d\udc52Sharon Murphy\ud83d\udc52", 
+                "Tweet": "Nothing like catching the @GoldenKnights score, while walking thru St. Petersburg, Russia...and seeing a WIN!!!  #vegasborn #stanleycup \ud83d\udc9b\ud83c\udfd2\ud83d\udda4", 
+                "TweetLink": "996966612774391808", 
+                "Place": "Kronstadt", 
+                "Time": "Thu May 17 04:12:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996399310165237767/RrUdCbS0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Winelvr73", 
+                "Name": "Winelvr73", 
+                "Tweet": "Yay!!! In my mind I called it! VGK 4 WPG 2! Looking ahead to game 4!!  I will be at Toshiba Plaza on Friday cheerin\u2026 https://t.co/0AaOevjp0Z", 
+                "TweetLink": "996966628976807936", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 17 04:12:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971554697365438464/d-WNDETf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Glad to hear that you\u2019re a fan of our hockey team. Will you expertise their game and yell and scream at the team wh\u2026 https://t.co/zr0ToonjlR", 
+                "TweetLink": "996966639936536576", 
+                "Place": "Nevada", 
+                "Time": "Thu May 17 04:12:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LVGinger729", 
+                "Name": "Kelli Hardin", 
+                "Tweet": "This man is simply amazing! \ud83c\udf38 kept us in this win tonight, plain and simple. #FlowerPower #Fleury #VegasBorn https://t.co/A7As1DLhMS", 
+                "TweetLink": "996966882279215105", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 17 04:13:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970394172447277056/zkdRH0c2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChanceNHL", 
+                "Name": "Chance", 
+                "Tweet": "Mood:  Touched by Greatness \n#VegasBorn #StanleyCup https://t.co/e6SbN2Psob", 
+                "TweetLink": "996967129856405504", 
+                "Place": "Paradise", 
+                "Time": "Thu May 17 04:14:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919346847201636352/hpEMKas4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IceCreamMan108", 
+                "Name": "#WPGWhiteout  Mike  #GoJetsGo", 
+                "Tweet": "Jeez.................\ud83d\ude10 https://t.co/o1ujWe75lm", 
+                "TweetLink": "996967188652273666", 
+                "Place": "Winnipeg", 
+                "Time": "Thu May 17 04:14:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994043015688835072/x45n6sk2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.412405, 34.000125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "aaronrc50", 
+                "Name": "Aaron Arce", 
+                "Tweet": "This is unreal. https://t.co/rkeU1MvxOs", 
+                "TweetLink": "996967806867406854", 
+                "Place": "Rubidoux", 
+                "Time": "Thu May 17 04:17:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994363702131343361/isaj592y_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Gabe1373", 
+                "Name": "y-Gabe M.", 
+                "Tweet": "@GoldenKnights This man needs a statue outside T-Mobile... But maybe no one could get in!!! #VegasBorn #VegasStrong\u2026 https://t.co/0sDUwd9kuZ", 
+                "TweetLink": "996967951919005696", 
+                "Place": "Paradise", 
+                "Time": "Thu May 17 04:17:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982725622160965632/ayIvihxX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.8001415, 45.248791]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mehalang", 
+                "Name": "Mehalan Garoona", 
+                "Tweet": "W.O.W... https://t.co/BPs1WbKUQT", 
+                "TweetLink": "996968204894273536", 
+                "Place": "Ottawa", 
+                "Time": "Thu May 17 04:18:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/714088317395079168/7bUtT61u_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Harp4803", 
+                "Name": "Kevin Janowski", 
+                "Tweet": "If Marc Andre Fleury wins 3 #StanleyCup in a row. The last one on a expansion team. He\u2019s the best playoff goalie of\u2026 https://t.co/TAxQqAcuqx", 
+                "TweetLink": "996968221210226689", 
+                "Place": "New Lenox", 
+                "Time": "Thu May 17 04:18:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904625181825564672/vPdc7aH__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bhalins", 
+                "Name": "ROCKTHEELEPHANT", 
+                "Tweet": "\u2764\ufe0f Fleury https://t.co/L0KtjdlVTB", 
+                "TweetLink": "996968389724721152", 
+                "Place": "Los Angeles", 
+                "Time": "Thu May 17 04:19:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994094165112868877/5HrXQzFl_normal.jpg"
+            }
         }
     ]
 }
