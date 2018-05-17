@@ -1651,6 +1651,305 @@
                 "Time": "Thu May 17 03:28:39 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980867361103163393/rgtOXpCf_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kayyharper8", 
+                "Name": "Kayla Harper", 
+                "Tweet": "\ud83d\udc10 https://t.co/kxDoAlLwcT", 
+                "TweetLink": "996956191703076864", 
+                "Place": "Arlington", 
+                "Time": "Thu May 17 03:30:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996435202292535296/JQ4I6CDe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.7299715, 42.2708395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DisplacedSabres", 
+                "Name": "DL X-Displaced Buffalo Sabres Fans", 
+                "Tweet": "What is Bryce Harper gonna do if it\u2019s a Vegas-Washington #StanleyCup Final?", 
+                "TweetLink": "996956573095391232", 
+                "Place": "Ann Arbor", 
+                "Time": "Thu May 17 03:32:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/860998224643063809/doTe4f09_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "B_Mac_27", 
+                "Name": "Bridgette McClure", 
+                "Tweet": "How can you not love #FLEURY \ud83c\udf38\ud83c\udf38\ud83c\udf38 #VegasBorn #StanleyCup #WesternConferenceFinals https://t.co/daaqchRhcF", 
+                "TweetLink": "996956706717319168", 
+                "Place": "Henderson", 
+                "Time": "Thu May 17 03:32:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961009289404887041/8cyPnpSW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.0611275, 36.184754]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "vegasborndawn", 
+                "Name": "Desert Girl \ud83c\udf35", 
+                "Tweet": "Exactly https://t.co/K53YOeOpSC", 
+                "TweetLink": "996956806797713410", 
+                "Place": "Sunrise Manor", 
+                "Time": "Thu May 17 03:33:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/832066576773902336/hFAztSXz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "WOW. FLOWER WITH TWO. HUGE. SAVES.\n\nEPIC ATTACK BY THE JETS.\n\n#WPGvsVGK #StanleyCup", 
+                "TweetLink": "996957468969205760", 
+                "Place": "Nevada", 
+                "Time": "Thu May 17 03:35:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Sparta_Chris", 
+                "Name": "Sparta Chris", 
+                "Tweet": "Fucking Fleury! #WPGvsVGK #StanleyCup", 
+                "TweetLink": "996957517308612608", 
+                "Place": "San Diego", 
+                "Time": "Thu May 17 03:36:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961274513412390912/Z5Bap3s5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.5657915, 43.8371045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jmarino_27", 
+                "Name": "John Anthony Marino", 
+                "Tweet": "Marc-Andr\u00e9 Fleury is incredible #StanleyCup", 
+                "TweetLink": "996957544181415936", 
+                "Place": "Vaughan", 
+                "Time": "Thu May 17 03:36:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983458783228715008/1iIQnwXA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.4405945, 20.7152745]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Barajas9", 
+                "Name": "Barajas9", 
+                "Tweet": "Este a\u00f1o no voy con nadie en  #StanleyCup\n\n\ud83d\ude14\ud83d\udc27\ud83e\udd88\ud83d\udc2f\ud83d\udc0b", 
+                "TweetLink": "996957548354809856", 
+                "Place": "Quer\u00e9taro", 
+                "Time": "Thu May 17 03:36:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974889567382679552/BrBIkP2B_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Harp4803", 
+                "Name": "Kevin Janowski", 
+                "Tweet": "Marc \u201cfricken Andre Fleury!!! #StanleyCup https://t.co/3yWGux8Dqu", 
+                "TweetLink": "996957580516831233", 
+                "Place": "New Lenox", 
+                "Time": "Thu May 17 03:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904625181825564672/vPdc7aH__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-157.799589, 21.3199435]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PaintItOrange11", 
+                "Name": "Jon Osborne", 
+                "Tweet": "Damn \ud83c\udf38\ud83c\udf38 Doing that crazy shit lol #StanleyCup", 
+                "TweetLink": "996957597751115776", 
+                "Place": "Honolulu", 
+                "Time": "Thu May 17 03:36:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972489191270514688/Fj15XK2S_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.0126575, 41.8734965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TR1N1TY3", 
+                "Name": "Katrina", 
+                "Tweet": "Wow!!! What saves by Fluery!! #WPGvsVGK #StanleyCup", 
+                "TweetLink": "996957635508400128", 
+                "Place": "Lombard", 
+                "Time": "Thu May 17 03:36:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996533996980002816/T_Lkfn2d_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PlateOfPasta", 
+                "Name": "Pasta", 
+                "Tweet": "Hey, remember when everyone said Fleury was washed up three years ago and then went on to win two #StanleyCup's and\u2026 https://t.co/tXKkptcLzr", 
+                "TweetLink": "996957892132720640", 
+                "Place": "Hamilton", 
+                "Time": "Thu May 17 03:37:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785245916815122432/aROI4bZA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RossLevitan", 
+                "Name": "Ross Levitan", 
+                "Tweet": "Oh my god Fleury. #StanleyCup", 
+                "TweetLink": "996957954862559232", 
+                "Place": "Toronto", 
+                "Time": "Thu May 17 03:37:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/771795448243875840/50K7dxVK_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drMediaPro", 
+                "Name": "drMediaPro - #WPGWHITEOUT", 
+                "Tweet": "Still more fans than the Florida Panthers. #ViewingParty #WPGWhiteout #GoJetsGo #StanleyCup", 
+                "TweetLink": "996957990719770625", 
+                "Place": "Winnipeg", 
+                "Time": "Thu May 17 03:38:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980233623407398912/KqXK0Pzv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ThonyAvellaneda", 
+                "Name": "Anthony Avellaneda", 
+                "Tweet": "\u00a1Fleury, #Fleury, Fleury! Gritan los aficionados de @GoldenKnights. Tremendo partido de Marc-Andr\u00e9 Fleury.\u2026 https://t.co/fdA7M2fTg0", 
+                "TweetLink": "996958010546110464", 
+                "Place": "Paradise", 
+                "Time": "Thu May 17 03:38:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996472626280251393/bQi3y_zc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanMcKinnell", 
+                "Name": "Ryan McKinnell", 
+                "Tweet": "I just watched this man add two highlight reel saves to his resume. They'll be replayed for years. Unreal.\u2026 https://t.co/SV3BvFoCHN", 
+                "TweetLink": "996958027562369025", 
+                "Place": "Paradise", 
+                "Time": "Thu May 17 03:38:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986431807577968640/aupnPAH9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.4926175, 53.5558195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tigist87tigi", 
+                "Name": "Tigist  (tigi )", 
+                "Tweet": "#flowerpower \u2764\ud83c\udf38\u2764\ud83d\udc96\ud83c\udf38\u2764 https://t.co/TGtJkdxp0i", 
+                "TweetLink": "996958048961744896", 
+                "Place": "Edmonton", 
+                "Time": "Thu May 17 03:38:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962006960823402498/57hAvH_G_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drMediaPro", 
+                "Name": "drMediaPro - #WPGWHITEOUT", 
+                "Tweet": "Still more fans than the Florida Panthers. #ViewingParty #WPGWhiteout #GoJetsGo #StanleyCup https://t.co/VxDqMXbSFl", 
+                "TweetLink": "996958189286457345", 
+                "Place": "Winnipeg", 
+                "Time": "Thu May 17 03:38:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980233623407398912/KqXK0Pzv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Harp4803", 
+                "Name": "Kevin Janowski", 
+                "Tweet": "Schiefele is a man possessed. He\u2019s unreal. #StanleyCup", 
+                "TweetLink": "996958217216385024", 
+                "Place": "New Lenox", 
+                "Time": "Thu May 17 03:38:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904625181825564672/vPdc7aH__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "This Jets team is REALLY TRYING TO GET THIS TIE BACK. #WPGvsVGK #StanleyCup", 
+                "TweetLink": "996958297402949633", 
+                "Place": "Nevada", 
+                "Time": "Thu May 17 03:39:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MichaelHirnPBP", 
+                "Name": "Michael Hirn", 
+                "Tweet": "Shout out to @GoldenKnights for their use of DMX in the arena. #StanleyCup", 
+                "TweetLink": "996958327065235456", 
+                "Place": "Ohio", 
+                "Time": "Thu May 17 03:39:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/899514714861916160/uJqnoqtZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
+                "Tweet": "Dah dah dah dah dah.... I'm loving it #StanleyCup cc: @RRoeder https://t.co/SmmFDn3WLN", 
+                "TweetLink": "996958366684667908", 
+                "Place": "Columbus", 
+                "Time": "Thu May 17 03:39:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4729785, 41.4081195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TrevorDyer1", 
+                "Name": "Trevor", 
+                "Tweet": "How am I suppose to watch the #StanleyCup if my power is out \ud83d\ude44", 
+                "TweetLink": "996958494053027840", 
+                "Place": "Danbury", 
+                "Time": "Thu May 17 03:40:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/899809865127874561/OjarEe5v_normal.jpg"
+            }
         }
     ]
 }
