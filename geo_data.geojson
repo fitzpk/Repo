@@ -1612,6 +1612,45 @@
                 "Time": "Wed May 16 02:51:08 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/978504047324905473/G430THUr_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.6807375, 32.576227]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Dru_Crane", 
+                "Name": "Andrew Crane", 
+                "Tweet": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/MTF2Gyr9V5", 
+                "TweetLink": "996955114752630784", 
+                "Place": "Alabama", 
+                "Time": "Thu May 17 03:26:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756923327621439488/fLrPT_0N_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "donsk_e", 
+                "Name": "Donsk", 
+                "Tweet": "So many people forget the great year Crosby had for the Winni-penguins https://t.co/SzpwigEIk8", 
+                "TweetLink": "996955538511482880", 
+                "Place": "Calgary", 
+                "Time": "Thu May 17 03:28:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/840076238630801409/kfG1QowM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.7824645, 36.786042]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brentlandes", 
+                "Name": "Brent Landes", 
+                "Tweet": "Let\u2019s finish strong @GoldenKnights and get that W! #GoKnightsGo #StanleyCup https://t.co/0NdM8Cthjv", 
+                "TweetLink": "996955629993381888", 
+                "Place": "Fresno", 
+                "Time": "Thu May 17 03:28:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980867361103163393/rgtOXpCf_normal.jpg"
+            }
         }
     ]
 }
