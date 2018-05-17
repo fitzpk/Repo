@@ -1950,6 +1950,201 @@
                 "Time": "Thu May 17 03:40:02 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/899809865127874561/OjarEe5v_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.053431, 41.275721]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MichaelMurakami", 
+                "Name": "Michael Murakami", 
+                "Tweet": "Unreal. Absolutely unreal. #StanleyCup https://t.co/MynH7p6ACx", 
+                "TweetLink": "996958571408646145", 
+                "Place": "Omaha", 
+                "Time": "Thu May 17 03:40:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957533739441115141/GWHdACs0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.1119715, 40.7922005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JWags1010", 
+                "Name": "Jonathan Wagner", 
+                "Tweet": "Omg Fleury \ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40 #StanleyCup", 
+                "TweetLink": "996958751080046592", 
+                "Place": "Lyndhurst", 
+                "Time": "Thu May 17 03:41:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/530721582025830400/0dky_Qcs_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.053431, 41.275721]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MichaelMurakami", 
+                "Name": "Michael Murakami", 
+                "Tweet": "Unreal. Absolutely unreal. #VegasBorn #StanleyCup https://t.co/MynH7p6ACx", 
+                "TweetLink": "996958751923032064", 
+                "Place": "Omaha", 
+                "Time": "Thu May 17 03:41:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957533739441115141/GWHdACs0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bluehavana_db", 
+                "Name": "Darrin Brown", 
+                "Tweet": "Winnipeg having to deal with a stud goalie keeping them at two goals on the road in the 3rd period...where have I s\u2026 https://t.co/wQxR1rjQLy", 
+                "TweetLink": "996958987907104768", 
+                "Place": "Illinois", 
+                "Time": "Thu May 17 03:41:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943719086302695425/kGgvJS-s_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-113.7819775, 53.2375045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KylaJLane", 
+                "Name": "Kyla J Lane", 
+                "Tweet": "Pittsburgh to Vegas: \"We'll let you take another player off our hands for free if you take Fleury.\"\nFleury: \"Oh, go\u2026 https://t.co/xxuYesoqgu", 
+                "TweetLink": "996959157419831296", 
+                "Place": "Leduc County", 
+                "Time": "Thu May 17 03:42:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968982524541022209/nHyFTaRV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Harp4803", 
+                "Name": "Kevin Janowski", 
+                "Tweet": "Off the pipe! Vegas almost scored. #StanleyCup", 
+                "TweetLink": "996959197102247942", 
+                "Place": "New Lenox", 
+                "Time": "Thu May 17 03:42:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904625181825564672/vPdc7aH__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "Wild Bill, off the post!!!! #WPGvsVGK #StanleyCup", 
+                "TweetLink": "996959285350350849", 
+                "Place": "Nevada", 
+                "Time": "Thu May 17 03:43:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.167236, 33.722961]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RockyTopFan8", 
+                "Name": "Paul Williams", 
+                "Tweet": "#WPGWhiteOut #StanleyCup", 
+                "TweetLink": "996959298633850881", 
+                "Place": "Panola Rd & Covington Hwy", 
+                "Time": "Thu May 17 03:43:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000794924070/b8d7527177bc06b42b57b75926e885df_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.126784, 43.871344]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BOltmanns5", 
+                "Name": "Brett", 
+                "Tweet": "Fleury is unreal good. #\ud83c\udf3a #WPGvsVGK #StanleyCup", 
+                "TweetLink": "996959335262621699", 
+                "Place": "Windom", 
+                "Time": "Thu May 17 03:43:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854187754925821954/kWMxJqIh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
+                "Tweet": "THE VEGAS GOLDEN KNIGHTS ARE GOING TO WIN THE STANLEY CUP #VGKvsWPG #VegasBorn #StanleyCup https://t.co/CiWvf7qmj0", 
+                "TweetLink": "996959840433049601", 
+                "Place": "Boston", 
+                "Time": "Thu May 17 03:45:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.237048, 48.4023265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TonyBrar_", 
+                "Name": "Tony Brar", 
+                "Tweet": "Godly numbers #Jets #StanleyCup https://t.co/qWx2m9cl5u", 
+                "TweetLink": "996959876453748736", 
+                "Place": "Thunder Bay", 
+                "Time": "Thu May 17 03:45:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964390226729684993/-YbdMmzq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "fightpastor", 
+                "Name": "Brandon Beals", 
+                "Tweet": "My new favorite sport: hockey. My new favorite team: Vegas Knights. My new favorite player: Marc-Andre Fleury!\u2026 https://t.co/JScQizssyb", 
+                "TweetLink": "996959932674072576", 
+                "Place": "Paradise", 
+                "Time": "Thu May 17 03:45:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/649991479893561347/jG88qPZ7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.433106, 33.7671945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RockyTopFan8", 
+                "Name": "Paul Williams", 
+                "Tweet": "#WPGWhiteOut #WeAreWinnipeg #StanleyCup TIE THIS GAME UP Y'ALL!!!!", 
+                "TweetLink": "996960316356513792", 
+                "Place": "Atlanta", 
+                "Time": "Thu May 17 03:47:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000794924070/b8d7527177bc06b42b57b75926e885df_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.966117, 41.5109525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Harp4803", 
+                "Name": "Kevin Janowski", 
+                "Tweet": "Winnipeg running out of time.. #StanleyCup", 
+                "TweetLink": "996960379904364544", 
+                "Place": "New Lenox", 
+                "Time": "Thu May 17 03:47:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904625181825564672/vPdc7aH__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.187382, 33.727668]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RockyTopFan8", 
+                "Name": "Paul Williams", 
+                "Tweet": "#WPGWhiteOut #WeAreWinnipeg #NBCSN #NHL #StanleyCup", 
+                "TweetLink": "996960646242750464", 
+                "Place": "Young Rd / Covington Hwy", 
+                "Time": "Thu May 17 03:48:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000794924070/b8d7527177bc06b42b57b75926e885df_normal.jpeg"
+            }
         }
     ]
 }
