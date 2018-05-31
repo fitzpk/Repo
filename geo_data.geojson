@@ -4043,6 +4043,318 @@
                 "Time": "Thu May 31 02:39:57 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1001606233176981504/6nGz1Z0s_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MelElDes", 
+                "Name": "Melissa Desrameaux", 
+                "Tweet": "\ud83d\ude02\ud83d\udc4c\ud83c\udffd https://t.co/uhB2J1yK44", 
+                "TweetLink": "1002017014636924928", 
+                "Place": "Paradise", 
+                "Time": "Thu May 31 02:40:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/997429169356066817/XEERWATv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Dizndazed", 
+                "Name": "x-di", 
+                "Tweet": "@charleboy1020 Ummhmmm https://t.co/jL3R7hpTzs", 
+                "TweetLink": "1002017041778438145", 
+                "Place": "Columbus", 
+                "Time": "Thu May 31 02:40:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988605472205889538/g4rv_d-d_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.732013, 41.8335845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lmmartin22", 
+                "Name": "Laura Martin", 
+                "Tweet": "I learned about hockey through my family, friends.  Wouldn't trade any other sport for anything.  #StanleyCup \nAlso\u2026 https://t.co/vC73VPfH1F", 
+                "TweetLink": "1002017298532716545", 
+                "Place": "Chicago", 
+                "Time": "Thu May 31 02:41:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/591105139869646848/imyz5oTh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[34.9684285, 31.342253]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "alexlancedorf", 
+                "Name": "Alex Insdorf", 
+                "Tweet": "Holtby on that 5 on 3 #ALLCAPS  #StanleyCup #WSHvsVGK https://t.co/jgXCjMLYdz", 
+                "TweetLink": "1002017300583796736", 
+                "Place": "Israel", 
+                "Time": "Thu May 31 02:41:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999736154164547585/iLiNkFpJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.8904995, 56.641179]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "la_steel64", 
+                "Name": "Laura", 
+                "Tweet": "@MrJDScott @GoldenKnights I have my very tired fingers crossed I\u2019m super happy I found it airing live here in uk bu\u2026 https://t.co/yC8MOUsqZQ", 
+                "TweetLink": "1002017331365797888", 
+                "Place": "Forfar", 
+                "Time": "Thu May 31 02:42:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/969392350463184896/fYByWkX4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.8537235, 38.9615525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NavyYardNats", 
+                "Name": "Navy Yard Nats", 
+                "Tweet": "GO ERNIE GO!\ud83d\udca5@ecl326 #ALLCAPS https://t.co/yep14e1A1v", 
+                "TweetLink": "1002017400513007616", 
+                "Place": "Lanham", 
+                "Time": "Thu May 31 02:42:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963806238218883072/lohwBkNT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "randycnorton", 
+                "Name": "Randy C. Norton", 
+                "Tweet": "@GoldenKnights we are here for you. Death, taxes, and Knights in the third period! #StanleyCup #GoKnightsGo https://t.co/p0hfSIAPlB", 
+                "TweetLink": "1002017940458295297", 
+                "Place": "Paradise", 
+                "Time": "Thu May 31 02:44:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/627938580082495488/PLXpqGc0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.617657, 49.865898]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LandscaperBill", 
+                "Name": "LandscaperbiIl", 
+                "Tweet": "Go Mexico go Mexico is what it sounds like. #StanleyCup", 
+                "TweetLink": "1002017983739314176", 
+                "Place": "West Kelowna", 
+                "Time": "Thu May 31 02:44:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998394840319586306/GRQdZNRD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.3306025, 47.614817]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NHLSeattle_", 
+                "Name": "NHL Seattle", 
+                "Tweet": "We know this guy...\n\n#TBirds #NHLSeattle https://t.co/ZzWYR4Zv4U", 
+                "TweetLink": "1002018033492152320", 
+                "Place": "Seattle", 
+                "Time": "Thu May 31 02:44:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/966001831015989249/u-tLXSC0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.8849345, 38.9262355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NavyYardNats", 
+                "Name": "Navy Yard Nats", 
+                "Tweet": "I cheered against the Orioles all night...and then I saw this \u2b07\ufe0f\u2b07\ufe0f Bravo @Orioles! #ALLCAPS https://t.co/BPER2uLcIz", 
+                "TweetLink": "1002018128065331200", 
+                "Place": "Landover", 
+                "Time": "Thu May 31 02:45:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963806238218883072/lohwBkNT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Canuckdc", 
+                "Name": "Tammar Berger", 
+                "Tweet": "No matter how this series ends.. this is some damn good hockey. #stanleycup #NHLPlayoffs #ALLCAPS", 
+                "TweetLink": "1002018288405278720", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:45:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854368029613805569/cHCKgZDl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RandipJanda", 
+                "Name": "Randip Janda", 
+                "Tweet": "James Neal is a force tonight. A goal, drawing a pen and a couple of monster hits. #WSHvsVGK #StanleyCup", 
+                "TweetLink": "1002018338434764801", 
+                "Place": "Vancouver", 
+                "Time": "Thu May 31 02:46:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/903629350729269249/PayO34_n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.3677725, 28.5016785]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "loriekanelpga", 
+                "Name": "Lorie Kane", 
+                "Tweet": "100% GO KNIGHTS!! https://t.co/L9ikl9idXf", 
+                "TweetLink": "1002018533717499904", 
+                "Place": "Orlando", 
+                "Time": "Thu May 31 02:46:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/877297616761098240/vAtxxgJ8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.876449, 32.571032]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HailStateVoice", 
+                "Name": "Neil Price", 
+                "Tweet": "\u201cA \u2018Great Dane\u2019 (Lars Eller) plays on the same team with a (Jay) Beagle.\u201d \n\n\u2018Doc\u2019 Emerick &gt;&gt;&gt;&gt;&gt; all the rest of us\u2026 https://t.co/4GYSXOc4gq", 
+                "TweetLink": "1002018557503385600", 
+                "Place": "Mississippi", 
+                "Time": "Thu May 31 02:46:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933924772634943488/9S3q9kPH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Philknowsbest", 
+                "Name": "Phil Dogg", 
+                "Tweet": "I Love all the wrestling music they play lately at hockey games. #StanleyCup #WSHvsVGK", 
+                "TweetLink": "1002018569289285632", 
+                "Place": "Phoenix", 
+                "Time": "Thu May 31 02:46:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1768201953/megisele_twitter1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.9271385, 29.035797]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Curtis_Clark_28", 
+                "Name": "Curtis Clark", 
+                "Tweet": "StanleyCup Hockey.  Always so exciting.  @NHL @NBCSN https://t.co/EnbdhlGBiO", 
+                "TweetLink": "1002018585462665216", 
+                "Place": "New Smyrna Beach", 
+                "Time": "Thu May 31 02:47:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000910457862066176/s5Njdf-__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-155.9852495, 19.6645795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "laurence_mira", 
+                "Name": "Mira Laurence", 
+                "Tweet": "Weighing in from the Big Island of #Hawaii - yes we found a sports bar with the game on! https://t.co/Q9kvG161AL", 
+                "TweetLink": "1002018669902245888", 
+                "Place": "Kailua", 
+                "Time": "Thu May 31 02:47:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980851943714295813/nOc7buW1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nlantz1986", 
+                "Name": "Nicholas Lantz", 
+                "Tweet": "Great game going on in #Vegas. #ALLCAPS #VegasBorn #StanleyCup", 
+                "TweetLink": "1002018692190916608", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:47:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998743680130236416/blxM1lM6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.3992495, 38.4245325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "elSicomoro", 
+                "Name": "Terry Blastenbrei", 
+                "Tweet": "Indeed https://t.co/DVYwT3ZDiw", 
+                "TweetLink": "1002018879433003009", 
+                "Place": "Arnold", 
+                "Time": "Thu May 31 02:48:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001525797952393216/wnr7VUvY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.809434, 32.461107]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RussellWCrews", 
+                "Name": "Russell W. Crews", 
+                "Tweet": "Would it be interesting to see an inaugural team based in the damn desert win the #StanleyCup? Sure. But thanks to\u2026 https://t.co/rnNWNomwNL", 
+                "TweetLink": "1002018908860239872", 
+                "Place": "Shreveport", 
+                "Time": "Thu May 31 02:48:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/221623458/rustybillmug3_normal.JPG"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WTFtv", 
+                "Name": "WTF TV", 
+                "Tweet": "Rooting for the @GoldenKnights #GoKnightsGo #StanleyCupFinals #StanleyCup #GoVegas", 
+                "TweetLink": "1002018943039623168", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:48:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/655907182/WTFyouTube_logo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.705467, 41.4959395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TomHorsman", 
+                "Name": "Tom Horsman", 
+                "Tweet": "DC &gt; Las Vegas \n#ALLCAPS #StanleyCup https://t.co/9d3uWP3psy", 
+                "TweetLink": "1002019073960628224", 
+                "Place": "Cleveland", 
+                "Time": "Thu May 31 02:48:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958404392084037633/kZ-4kGZ1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.6018025, 42.245713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "danielmrose", 
+                "Name": "Dan Rose", 
+                "Tweet": "For every Doc there\u2019s a Pierre. Such is life. #StanleyCup", 
+                "TweetLink": "1002019097616494592", 
+                "Place": "Ypsilanti", 
+                "Time": "Thu May 31 02:49:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951591967699464192/M09a_y0g_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brianhwaters", 
+                "Name": "Brian H. Waters", 
+                "Tweet": "These will be the longest 5 Minutes... #StanleyCup #Anxious", 
+                "TweetLink": "1002019338470285313", 
+                "Place": "Baltimore", 
+                "Time": "Thu May 31 02:50:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934978028077273088/fzuzM3PU_normal.jpg"
+            }
         }
     ]
 }
