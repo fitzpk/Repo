@@ -3939,6 +3939,110 @@
                 "Time": "Thu May 31 02:24:09 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/808678031422320641/9DKyycFN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "etchysketch", 
+                "Name": "Just Call Me Rob \ud83d\udcaa\ud83c\udffd", 
+                "Tweet": "Will the Caps head back to Washington with home ice advantage? \ud83e\udd14 #StanleyCup #StanleyCupFinal #WSHvsVGK #ALLCAPS #VegasBorn", 
+                "TweetLink": "1002015994796171264", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:36:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999861133233213440/ObK_fVI4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DANAFLEYSER", 
+                "Name": "Dana Fleyser", 
+                "Tweet": "En Buffalo Wild Wings \n#VegasBorn\u00a0\u00a0\u00a0\u00a0\u00a0 \n#StanleyCup\u00a0\u00a0\u00a0#GoKnightsGo \u270c\ud83c\udffc\ud83c\udfd1\ud83e\udd45\u26f8 https://t.co/fc4C3opSK5", 
+                "TweetLink": "1002016042372157440", 
+                "Place": "Nevada", 
+                "Time": "Thu May 31 02:36:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974650559876616192/qdfhi2zv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "aimee8791", 
+                "Name": "Aimee Hein", 
+                "Tweet": "HI HELLO THIS GAME IS VERY STRESSFUL #StanleyCupFinal #stanleycup", 
+                "TweetLink": "1002016104271765504", 
+                "Place": "Boston", 
+                "Time": "Thu May 31 02:37:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001056801033457664/2Ozubpmw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "etchysketch", 
+                "Name": "Just Call Me Rob \ud83d\udcaa\ud83c\udffd", 
+                "Tweet": "Will the Caps head back to Washington with home ice advantage? \ud83e\udd14 #StanleyCup\u00a0 #StanleyCupFinal #WSHvsVGK #ALLCAPS\u00a0 #VegasBorn", 
+                "TweetLink": "1002016439417556992", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:38:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999861133233213440/ObK_fVI4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2759195, 44.7726875]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JustinAmaker", 
+                "Name": "justin amaker", 
+                "Tweet": "hey what am i supposed to do when the hockey season is over, anyway? #stanleycup", 
+                "TweetLink": "1002016535492399104", 
+                "Place": "Burnsville", 
+                "Time": "Thu May 31 02:38:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000544080798081024/HhLhcU38_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.705631, 39.649207]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Team_Travers", 
+                "Name": "Todd Travers", 
+                "Tweet": "@GoldenKnights fans look half asleep in the stands, definitely not a hockey town #StanleyCup", 
+                "TweetLink": "1002016668162260992", 
+                "Place": "Spanish Springs", 
+                "Time": "Thu May 31 02:39:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998637221996519424/ZE2Vmj9__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[152.9931965, -27.382143]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "S4M1LL3R", 
+                "Name": "Sam Millhouse", 
+                "Tweet": "If the Caps win will people still complain that the league is rigged? #StanleyCup", 
+                "TweetLink": "1002016747652767745", 
+                "Place": "Brisbane", 
+                "Time": "Thu May 31 02:39:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001291526037618688/nfd6Q9w8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.469664, 38.561722]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RaFF_C", 
+                "Name": "J Rafael Cerda", 
+                "Tweet": "\u2728\u2763\ufe0f\u2728 https://t.co/ethyeOFRyn", 
+                "TweetLink": "1002016804464541697", 
+                "Place": "Sacramento", 
+                "Time": "Thu May 31 02:39:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001606233176981504/6nGz1Z0s_normal.jpg"
+            }
         }
     ]
 }
