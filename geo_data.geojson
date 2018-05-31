@@ -4355,6 +4355,2515 @@
                 "Time": "Thu May 31 02:50:01 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/934978028077273088/fzuzM3PU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikie_v", 
+                "Name": "knighted \u2014 no caps!", 
+                "Tweet": "Within seconds they flew over DTLV https://t.co/MWJVjUph3D", 
+                "TweetLink": "1002019431675932672", 
+                "Place": "Las Vegas", 
+                "Time": "Thu May 31 02:50:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/815630197546360832/YWSBJNST_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "etchysketch", 
+                "Name": "Just Call Me Rob \ud83d\udcaa\ud83c\udffd", 
+                "Tweet": "I have a feeling these last 5 minutes will be insane. Stay tuned \ud83d\udcfa #WSHvsVGK #StanleyCup https://t.co/56hpRhbSvt", 
+                "TweetLink": "1002019557421137920", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:50:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999861133233213440/ObK_fVI4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ericjdesigns", 
+                "Name": "ERIC JOHNSEN IN #ALLCAPS", 
+                "Tweet": "UNLEASH THE FURY!!!!!!!!!! | #ALLCAPS #StanleyCup https://t.co/t13Gf2nE2w", 
+                "TweetLink": "1002019689504165889", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:51:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974054778954280960/2MDIrcmQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tim_morrissey", 
+                "Name": "Timothy Morrissey", 
+                "Tweet": "It still really bothers me that there are multiple people in the NHL that wear #77. No one would date wear #99 or #66\n#StanleyCup", 
+                "TweetLink": "1002019779643891712", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:51:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/568811800058003456/LCJIWa9L_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.096496, 19.399101]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "fabiola_arq", 
+                "Name": "Fabiola A.", 
+                "Tweet": "@GoldenKnights For me its an honor to be part of your fans and have the chance to win a jersey. The #StanleyCup is\u2026 https://t.co/nk0XiUmlqD", 
+                "TweetLink": "1002019909512052737", 
+                "Place": "Iztacalco", 
+                "Time": "Thu May 31 02:52:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929547149590740994/Ti4m0l_F_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.1056485, 44.9415155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "johncmaher", 
+                "Name": "John", 
+                "Tweet": "this has been a super entertaining #StanleyCup Final.  I don't remember one time that I've had to watch the \"reeeeeeeeal smooth\" commercial", 
+                "TweetLink": "1002020057172635649", 
+                "Place": "St Paul", 
+                "Time": "Thu May 31 02:52:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954965308762152960/cA3rppy0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4729785, 41.4081195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TrevorDyer1", 
+                "Name": "Trevor", 
+                "Tweet": "So hype for this \ud83d\udcaa\ud83c\udffb\ud83d\udcaa\ud83c\udffb\ud83d\udcaa\ud83c\udffb https://t.co/o0snZiNrC7", 
+                "TweetLink": "1002020122628935680", 
+                "Place": "Danbury", 
+                "Time": "Thu May 31 02:53:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/899809865127874561/OjarEe5v_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
+                "Tweet": "#StanleyCup #Caps trying to go home 1-1", 
+                "TweetLink": "1002020134301650944", 
+                "Place": "Queens", 
+                "Time": "Thu May 31 02:53:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001590834557587456/440wtgNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.205056, 38.7333255]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MPMarshall420", 
+                "Name": "Melanie Marshall", 
+                "Tweet": "Please let that happen @kencen ..! #ALLCAPS #STANLEYCUP https://t.co/RRTD1YPxto", 
+                "TweetLink": "1002020153633181696", 
+                "Place": "Newington", 
+                "Time": "Thu May 31 02:53:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987676791006482432/ILs2ar-K_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "R1ckterScale", 
+                "Name": "Big Rick Merritt", 
+                "Tweet": "One more goal Washington.... #stanleycup", 
+                "TweetLink": "1002020298168860672", 
+                "Place": "Nashville", 
+                "Time": "Thu May 31 02:53:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/806912302515634176/zBwILWJU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheSunsRay", 
+                "Name": "Sunny Rai", 
+                "Tweet": "3-2 #AllCaps  #vegasborn #StanleyCup", 
+                "TweetLink": "1002020403290689536", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:54:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000066826116595712/SEpBu8DV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.784143, 40.5528945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gbalzer1871", 
+                "Name": "Grace Balzer", 
+                "Tweet": "COME ON VEGAS!!!! #VegasBorn #StanleyCup", 
+                "TweetLink": "1002020452833943557", 
+                "Place": "Springdale", 
+                "Time": "Thu May 31 02:54:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995693405001928705/_EqL6Iib_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[115.9283185, -32.1501005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BigVic_AFL", 
+                "Name": "Victor Yong", 
+                "Tweet": "We have a series  #StanleyCup", 
+                "TweetLink": "1002020525869182976", 
+                "Place": "Perth (WA)", 
+                "Time": "Thu May 31 02:54:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/696963715590017024/0pMhJF9M_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.949078, 39.05468]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CHICKatNBCS", 
+                "Name": "Chick Hernandez", 
+                "Tweet": "I feel like the outcome for the entire series hinges on what happens over the last 3 minutes. #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002020571130015744", 
+                "Place": "Calverton", 
+                "Time": "Thu May 31 02:54:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/841291827772825603/CbaVjDxb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.6004395, 42.169285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "djamorelli", 
+                "Name": "Debbie Amorelli", 
+                "Tweet": "Holtby\u2019s rebounds...ugh #StanleyCup", 
+                "TweetLink": "1002020724423450629", 
+                "Place": "Upton", 
+                "Time": "Thu May 31 02:55:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876267858988290052/gJEao21G_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.9482085, 43.7481015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VinSharma95", 
+                "Name": "Vin \ud83d\udc4a", 
+                "Tweet": "I would love for this game to go to OT #StanleyCup #ALLCAPS #VegasBorn", 
+                "TweetLink": "1002020737635401729", 
+                "Place": "Ajax", 
+                "Time": "Thu May 31 02:55:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898041183976513536/hy8VqBRg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.2369685, 38.8051145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "oliverbeckert1", 
+                "Name": "oliver beckert", 
+                "Tweet": "Does Holtby has the Superman shield under his jersey? #StanleyCup #WhaterverItTakes #ALLCAPS", 
+                "TweetLink": "1002020740806438912", 
+                "Place": "Maryland", 
+                "Time": "Thu May 31 02:55:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999752299915300864/kVKCzbI7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.8336625, 43.453491]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChadBirger", 
+                "Name": "Chad Birger", 
+                "Tweet": "@PaulPabst Caps and Vegas. Snug. Late. @NBCSN #StanleyCup #Snuglife", 
+                "TweetLink": "1002020855713554432", 
+                "Place": "Tea", 
+                "Time": "Thu May 31 02:56:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/530832711640825856/azrvaSac_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.036229, 43.7828285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrewGuy", 
+                "Name": "Daryl Brewer", 
+                "Tweet": "Holy Holtby! #StanleyCup", 
+                "TweetLink": "1002020882686996481", 
+                "Place": "Pickering", 
+                "Time": "Thu May 31 02:56:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/857679516591943685/oj3599pJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.732013, 41.8335845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Chicago_Wolves", 
+                "Name": "Chicago Wolves", 
+                "Tweet": "Wolves alumni doing big things in the #StanleyCup Final! https://t.co/CaCWemGi33", 
+                "TweetLink": "1002020907370631168", 
+                "Place": "Chicago", 
+                "Time": "Thu May 31 02:56:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907755280167063553/4e_M5JIb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.4268065, 32.920541]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CurtisSports", 
+                "Name": "\ud83c\udfd2Chris Curtis #\u20e39\u20e31\u20e3\ud83c\udfd2", 
+                "Tweet": "HOW DID THAT NOT GO IN!!!! #StanleyCup", 
+                "TweetLink": "1002020937644982273", 
+                "Place": "Rockwall", 
+                "Time": "Thu May 31 02:56:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994397518514589696/lSEPBhXz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.9552285, 37.280837]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MatthewAsher", 
+                "Name": "Matthew Asher", 
+                "Tweet": "H\ud83d\ude31\ud83d\ude31LTBY #StanleyCup Final", 
+                "TweetLink": "1002020940467720193", 
+                "Place": "Campbell", 
+                "Time": "Thu May 31 02:56:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986482326417780736/D67jjFJO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.072719, 39.7516555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chrisleo1118", 
+                "Name": "Bryan Colangelos 6th burner account", 
+                "Tweet": "Wow what a save!!! #StanleyCup", 
+                "TweetLink": "1002020976589246466", 
+                "Place": "Turnersville", 
+                "Time": "Thu May 31 02:56:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987170130332389376/g1fZwgSZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.069946, 36.8025415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BCope2015", 
+                "Name": "Brandon Copeland", 
+                "Tweet": "#StanleyCup #ALLCAPS https://t.co/zM2y4ssxYO", 
+                "TweetLink": "1002020978908647424", 
+                "Place": "Virginia Beach", 
+                "Time": "Thu May 31 02:56:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991641258375438336/fxQo0Wz-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.1202525, 39.043469]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DollaBill747", 
+                "Name": "Bill Becker", 
+                "Tweet": "O my Holtby #Caps #StanleyCup", 
+                "TweetLink": "1002020983677603840", 
+                "Place": "North Bethesda", 
+                "Time": "Thu May 31 02:56:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959960137552232448/xrJgBOUD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.440957, 43.007759]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "badger1286", 
+                "Name": "Dan Kassis", 
+                "Tweet": "Wow, what  a save #stanleycup", 
+                "TweetLink": "1002020993857138688", 
+                "Place": "Fitchburg", 
+                "Time": "Thu May 31 02:56:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/433450897692057600/X5tEXaBY_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheSunsRay", 
+                "Name": "Sunny Rai", 
+                "Tweet": "Holbty #Alberta #StanleyCup", 
+                "TweetLink": "1002020994691645440", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:56:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000066826116595712/SEpBu8DV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "ryan \ud83d\udc96", 
+                "Tweet": "omg wow!!!!!!! what a save by holtby!!!!! \ud83d\ude31 #wshvsvgk #stanleycup", 
+                "TweetLink": "1002020994972696576", 
+                "Place": "Nevada", 
+                "Time": "Thu May 31 02:56:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.2284325, 43.072671]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KyleMiller89", 
+                "Name": "Kyle Miller", 
+                "Tweet": "Holy save Washington. #StanleyCup", 
+                "TweetLink": "1002020997959241728", 
+                "Place": "Algona", 
+                "Time": "Thu May 31 02:56:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/877867930779885572/hIXhupqY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.294096, 34.134925]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jramsey_9", 
+                "Name": "Justin Ramsey", 
+                "Tweet": "How Holtby... how... \nWhat a save\n#StanleyCup", 
+                "TweetLink": "1002020998684721152", 
+                "Place": "San Bernardino", 
+                "Time": "Thu May 31 02:56:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/949120088128372736/HU3uBgE0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lukesicari", 
+                "Name": "Luke Sicari", 
+                "Tweet": "WHAT A SAVE!! #StanleyCup", 
+                "TweetLink": "1002021000416976897", 
+                "Place": "Melbourne", 
+                "Time": "Thu May 31 02:56:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982892441639436288/7B6wPu-v_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "j_foreigner", 
+                "Name": "jonnyforeigner", 
+                "Tweet": "What a save! \ud83d\ude32 #StanleyCup", 
+                "TweetLink": "1002021002912542720", 
+                "Place": "Melbourne", 
+                "Time": "Thu May 31 02:56:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914450861593464832/v0wFDBIU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.534354, 28.4838475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "k_Sups", 
+                "Name": "Kung Fu Kenny", 
+                "Tweet": "I can\u2019t believe Holtby just saved that #StanleyCup", 
+                "TweetLink": "1002021004502355968", 
+                "Place": "Spring Hill", 
+                "Time": "Thu May 31 02:56:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/830157743860363265/9k4z71ZL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.6004395, 42.169285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "djamorelli", 
+                "Name": "Debbie Amorelli", 
+                "Tweet": "Save of the season by Holtby! #StanleyCup", 
+                "TweetLink": "1002021005789933568", 
+                "Place": "Upton", 
+                "Time": "Thu May 31 02:56:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876267858988290052/gJEao21G_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "benflorance", 
+                "Name": "Ben Florance", 
+                "Tweet": "Holtby! My goodness #stanleycup", 
+                "TweetLink": "1002021011011891201", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:56:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/918689508102610945/JeLn_Cj2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.9989705, 49.3539635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rgrey1", 
+                "Name": "Rob Grey", 
+                "Tweet": "Can\u2019t believe that save! #StanleyCup #VGKvsWSH", 
+                "TweetLink": "1002021012957900800", 
+                "Place": "North Vancouver", 
+                "Time": "Thu May 31 02:56:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/501399295095242752/2M4ThJCd_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MyNameIsTaylorC", 
+                "Name": "Taylor Chervo", 
+                "Tweet": "How do you miss that #StanleyCup", 
+                "TweetLink": "1002021013880688640", 
+                "Place": "Henderson", 
+                "Time": "Thu May 31 02:56:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953642557543612416/_4a0OsvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.3507385, 30.39153]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JacobOB23", 
+                "Name": "Jacob O'Brien", 
+                "Tweet": "What a save #StanleyCup", 
+                "TweetLink": "1002021015583711232", 
+                "Place": "Miramar Beach", 
+                "Time": "Thu May 31 02:56:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979463198477864960/YkB40e1g_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.043917, 45.7964935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FrankLevesque09", 
+                "Name": "Frank L\u00e9vesque", 
+                "Tweet": "Save of the year #StanleyCup", 
+                "TweetLink": "1002021029466836993", 
+                "Place": "Saint-J\u00e9r\u00f4me", 
+                "Time": "Thu May 31 02:56:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983881059317305345/4WvExzDW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.6887695, 33.469634]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ZachCav", 
+                "Name": "Zach Cavanagh", 
+                "Tweet": "BASED. BRADEN. HOLTBY. #StanleyCup", 
+                "TweetLink": "1002021047032467456", 
+                "Place": "Dana Point", 
+                "Time": "Thu May 31 02:56:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/781645824065347585/sGyXYB4y_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2759195, 44.7726875]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JustinAmaker", 
+                "Name": "justin amaker", 
+                "Tweet": "SHUT THE FRONT DOOR HOW DID THAT PUCK NOT GO IN?!?!?!?!?!! #stanleycup #vegasborn", 
+                "TweetLink": "1002021063428059142", 
+                "Place": "Burnsville", 
+                "Time": "Thu May 31 02:56:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000544080798081024/HhLhcU38_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "aLMa_182", 
+                "Name": "Alma", 
+                "Tweet": "Oh shit that was close \ud83d\ude27! What a save by Holtby!! #StanleyCup", 
+                "TweetLink": "1002021063516012544", 
+                "Place": "Los Angeles", 
+                "Time": "Thu May 31 02:56:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934713052133388288/uRidzm-5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.7375655, 33.4057545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JuStJeNn45", 
+                "Name": "Jenn \ud83e\udd1f\ud83c\udffc", 
+                "Tweet": "Let\u2019s Play A Game!!! Let\u2019s See How Many #ALLCAPS We Can Fit In The Penalty Box, OK @GoldenKnights??!? \u270c\ud83c\udffc\ud83d\ude02\u2026 https://t.co/etH0IEkLR7", 
+                "TweetLink": "1002021067647434753", 
+                "Place": "Mesa", 
+                "Time": "Thu May 31 02:56:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/942048897706237958/HJvhxpg8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GoldenDiver57", 
+                "Name": "Nick Lewis", 
+                "Tweet": "OH MY HOLTBY #StanleyCup", 
+                "TweetLink": "1002021074609963008", 
+                "Place": "Virginia", 
+                "Time": "Thu May 31 02:56:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843546684626010113/M8BAAABs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.125196, 34.583629]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JochaDay", 
+                "Name": "Joseph Matthew Orozco", 
+                "Tweet": "WHAT. A. SAVE. #StanleyCup", 
+                "TweetLink": "1002021079706095616", 
+                "Place": "Palmdale", 
+                "Time": "Thu May 31 02:56:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/997014453760675840/8Pfrcesl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.2487865, 42.9488405]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "acleary15", 
+                "Name": "Andrew Cleary", 
+                "Tweet": "Tuch honestly did not deserve that if it was a goal, amazing save by Holtby with the absolute garbage bounce of the boards #StanleyCup", 
+                "TweetLink": "1002021085368406019", 
+                "Place": "London", 
+                "Time": "Thu May 31 02:56:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/622056548282552320/hLomPy_R_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nlantz1986", 
+                "Name": "Nicholas Lantz", 
+                "Tweet": "Holy shit what a ridiculous save by Holtby. Wow \ud83d\ude2e #StanleyCup", 
+                "TweetLink": "1002021086832349185", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:56:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998743680130236416/blxM1lM6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sromano712", 
+                "Name": "Samantha Romano", 
+                "Tweet": "Save of the century. #holtbeast #allcaps #stanleycup", 
+                "TweetLink": "1002021088468054016", 
+                "Place": "Virginia", 
+                "Time": "Thu May 31 02:56:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/720799797930803200/Ed0f9gQW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.086862, 38.50438]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bigpauliep", 
+                "Name": "Paul Pierotti", 
+                "Tweet": "Holtby did not just fucking do that?! Absolutely disgusting #stanleycup", 
+                "TweetLink": "1002021088950284289", 
+                "Place": "Rancho Murieta", 
+                "Time": "Thu May 31 02:56:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843646661305933824/2HLMWv3R_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3613205, 46.4418605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JRos0116", 
+                "Name": "MNSportsMisery\ud83c\udfc8\ud83c\udfd2\u26be\ud83c\udfc0", 
+                "Tweet": "WHAT.\n\nA.\n\nSAVE.\n\nWOW!!!!!!!!!\n\n#StanleyCup", 
+                "TweetLink": "1002021090682703877", 
+                "Place": "Minnesota", 
+                "Time": "Thu May 31 02:56:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/617860125970173952/JIVu_h6b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JamesGBeattie", 
+                "Name": "James Beattie", 
+                "Tweet": "First Eller. Now Tuch. Except Tuch was robbed by Holtby. Great save there. #ALLCAPS #VegasBorn #StanleyCup", 
+                "TweetLink": "1002021090980483072", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:56:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/887407813785505794/_yO1Dhzy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WISN_Watson", 
+                "Name": "Stephen Watson", 
+                "Tweet": "What an incredible save. #StanleyCup", 
+                "TweetLink": "1002021102787481600", 
+                "Place": "Milwaukee", 
+                "Time": "Thu May 31 02:57:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/858893367849218052/P5LwmAw4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cheesetrader1", 
+                "Name": "Cheesetrader", 
+                "Tweet": "What an incredible save by Holtby\n\n#VGKvWSH #StanleyCup", 
+                "TweetLink": "1002021102707671041", 
+                "Place": "St Louis", 
+                "Time": "Thu May 31 02:57:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/710256606152265729/zk5GRi-W_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JDonaldsonNBCS", 
+                "Name": "Julie Donaldson", 
+                "Tweet": "No sir. Not today. #holtby #stanleycup", 
+                "TweetLink": "1002021106012827648", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:57:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914967337794768897/bjMeIiJh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuneInToGoonan", 
+                "Name": "Goonan", 
+                "Tweet": "Holy shit that save!! #NHL #StanleyCup", 
+                "TweetLink": "1002021108462342144", 
+                "Place": "Queens", 
+                "Time": "Thu May 31 02:57:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/862127715197100033/b4wUAgG4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1432935, 32.8919145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SwannTony", 
+                "Name": "Tony Swann", 
+                "Tweet": "HOLTBY ARE YOU KIDDING ME SAVE OF THE YEAR #StanleyCup", 
+                "TweetLink": "1002021108957278209", 
+                "Place": "Colleyville", 
+                "Time": "Thu May 31 02:57:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971192306203332608/7MGtxiA2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.9880225, 32.85118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "The_Fake_Jake17", 
+                "Name": "Jake Flinders", 
+                "Tweet": "Wow. What a save! #StanleyCup", 
+                "TweetLink": "1002021107250020353", 
+                "Place": "Santee", 
+                "Time": "Thu May 31 02:57:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963963232883912704/KSRID5K4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.747369, 42.7677015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JStox999", 
+                "Name": "Jackson 999", 
+                "Tweet": "Holy crap!!!! https://t.co/jkLetFUK2j", 
+                "TweetLink": "1002021111725461505", 
+                "Place": "Orchard Park", 
+                "Time": "Thu May 31 02:57:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/795044848386633728/EG21d7VV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CyClan", 
+                "Name": "SupaSummerCy", 
+                "Tweet": "What a save by Holtby!!! #StanleyCup", 
+                "TweetLink": "1002021112627318784", 
+                "Place": "Columbus", 
+                "Time": "Thu May 31 02:57:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990212042744303616/ya_D1e7y_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-108.562922, 45.7974455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "joshinmont", 
+                "Name": "Josh Fisher", 
+                "Tweet": "SAVE OF THE FRANCHISE!!!!!! Holtby!!!!! #StanleyCup", 
+                "TweetLink": "1002021114166497280", 
+                "Place": "Billings", 
+                "Time": "Thu May 31 02:57:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999481715964891137/kpqRFQuf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.913642, 36.1093915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "John_M_Peterson", 
+                "Name": "John Peterson", 
+                "Tweet": "That was one of the greatest saves, given the moment, you'll ever see. #StanleyCup", 
+                "TweetLink": "1002021114489524224", 
+                "Place": "Tulsa", 
+                "Time": "Thu May 31 02:57:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786702897925029888/ScGDWxix_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PeteBooke434", 
+                "Name": "Pete Booke", 
+                "Tweet": "WHAT. A. SAVE!!!!! \ud83d\ude33\ud83d\ude33 #StanleyCup", 
+                "TweetLink": "1002021114992881670", 
+                "Place": "Queens", 
+                "Time": "Thu May 31 02:57:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996213462341734402/kyUb-Wtl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.9880225, 32.85118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "The_Fake_Jake17", 
+                "Name": "Jake Flinders", 
+                "Tweet": "Wow. What a save! #StanleyCup", 
+                "TweetLink": "1002021107250020353", 
+                "Place": "Santee", 
+                "Time": "Thu May 31 02:57:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963963232883912704/KSRID5K4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "callanmac3", 
+                "Name": "Callan McClurg", 
+                "Tweet": "But...HOW?!?!?!?! \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 https://t.co/xvmNnf3y9S", 
+                "TweetLink": "1002021116183891969", 
+                "Place": "San Diego", 
+                "Time": "Thu May 31 02:57:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995922388649955329/p5hfSR2x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.4367735, 38.3045585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_D_Nig", 
+                "Name": "Dalton", 
+                "Tweet": "HOLTBY SHIT #StanleyCup", 
+                "TweetLink": "1002021120017616897", 
+                "Place": "Missouri", 
+                "Time": "Thu May 31 02:57:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976622415223623680/wb1FCsQQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ThatOhioKidRyan", 
+                "Name": "Ryan Smith", 
+                "Tweet": "Holtby with the save of the series!!!!! Amazing save! #CAPS #ALLCAPS #CapsKnights #StanleyCup", 
+                "TweetLink": "1002021120801898497", 
+                "Place": "Virginia", 
+                "Time": "Thu May 31 02:57:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984816412458758144/toLiimxK_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.774755, 41.5642575]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "J_SchaefferWOI", 
+                "Name": "Jonathan Schaeffer", 
+                "Tweet": "WOOOOOOWWWWWWWWWWWWWWWWWW #Holtby #StanleyCup https://t.co/QmI52EV78w", 
+                "TweetLink": "1002021121145884673", 
+                "Place": "West Des Moines", 
+                "Time": "Thu May 31 02:57:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/918279812589817856/VMCunt0N_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.193796, 40.781511]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PrincessSMH", 
+                "Name": "Melissa", 
+                "Tweet": "Wow what a save!!! #StanleyCupFinals #StanleyCup", 
+                "TweetLink": "1002021122748108804", 
+                "Place": "Central Islip", 
+                "Time": "Thu May 31 02:57:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/757217870736658432/SVjpLeaV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "deering28", 
+                "Name": "Andy Deering", 
+                "Tweet": "If the Capitals win the cup...it's because of that save. #StanleyCup", 
+                "TweetLink": "1002021123104657408", 
+                "Place": "Pittsburgh", 
+                "Time": "Thu May 31 02:57:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/709908811947966464/1sQtNW1B_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.3302695, 29.6731715]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "connerdowd_8", 
+                "Name": "Conner\ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "HOLT BEAST https://t.co/bWoZzxQuy3", 
+                "TweetLink": "1002021123624787969", 
+                "Place": "Gainesville", 
+                "Time": "Thu May 31 02:57:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893844561734361088/vBjptHy1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nettsj", 
+                "Name": "Jonathan Nettler", 
+                "Tweet": "Holtbeeeaassssttt!!!! #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002021127181320193", 
+                "Place": "Los Angeles", 
+                "Time": "Thu May 31 02:57:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1150178097/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.3073065, 65.8381145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "montrealdesign", 
+                "Name": "Bobby \ud83c\udde8\ud83c\udde6", 
+                "Tweet": "OH MY GOD .. \nHoltby!\n\n#StanleyCup", 
+                "TweetLink": "1002021127437389824", 
+                "Place": "Canada", 
+                "Time": "Thu May 31 02:57:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/582061866899345408/cDslNoRz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.3221685, 36.5509835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MikeReedVFL", 
+                "Name": "Mike Reed", 
+                "Tweet": "What a save! #StanleyCup", 
+                "TweetLink": "1002021127382806528", 
+                "Place": "Clarksville", 
+                "Time": "Thu May 31 02:57:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/804750242742751232/OmqHSWgz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.95791, 37.2744885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KeithFoster", 
+                "Name": "Keith Foster \ud83e\udd43", 
+                "Tweet": "What a save!!!! #allcaps #StanleyCup", 
+                "TweetLink": "1002021130113347584", 
+                "Place": "Roanoke", 
+                "Time": "Thu May 31 02:57:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/585507801306365953/mvtjNWHX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Kjcarlson77", 
+                "Name": "Kenneth J Carlson", 
+                "Tweet": "Warrent for Holtby just issued, charge is grand larceny. #WSHvsVGK #StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021135385612288", 
+                "Place": "Dallas", 
+                "Time": "Thu May 31 02:57:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960499798758580224/HB5XpHWU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.8954405, 35.9909825]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NEWLlN", 
+                "Name": "THOMAS", 
+                "Tweet": "WHAT A SAVE #CAPSYEAR #StanleyCup", 
+                "TweetLink": "1002021136111108096", 
+                "Place": "Durham", 
+                "Time": "Thu May 31 02:57:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/912475870161461248/3z393Hy0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.6887695, 33.469634]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ZachCav", 
+                "Name": "Zach Cavanagh", 
+                "Tweet": "That Ovechkin reaction. BRING ME THE GIFS! #StanleyCup", 
+                "TweetLink": "1002021142989717505", 
+                "Place": "Dana Point", 
+                "Time": "Thu May 31 02:57:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/781645824065347585/sGyXYB4y_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.5406515, 29.417501]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JasonMinnix", 
+                "Name": "Jason Minnix", 
+                "Tweet": "Incredible save by Holtby. #StanleyCup", 
+                "TweetLink": "1002021143979675649", 
+                "Place": "San Antonio", 
+                "Time": "Thu May 31 02:57:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2614108397/frm05uahsz50yxeras0h_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "courtambrose", 
+                "Name": "Courtney Ambrose", 
+                "Tweet": "And Courtney's first born will be named... https://t.co/2R48oKvF3N", 
+                "TweetLink": "1002021143979724805", 
+                "Place": "Virginia", 
+                "Time": "Thu May 31 02:57:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991519000910876672/FUj6jrIE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.1288105, 43.052607]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JustinPageNews", 
+                "Name": "Justin Page", 
+                "Tweet": "Holtby with the save of the year on B\u2019ville\u2019s Alex Tuch...yikes #StanleyCup", 
+                "TweetLink": "1002021151600775169", 
+                "Place": "Syracuse", 
+                "Time": "Thu May 31 02:57:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756834491990237184/22lMiiSd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.3046625, 25.857732]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Mannyc560", 
+                "Name": "Manny Chang", 
+                "Tweet": "OH MY FXXXXXX GOD HOLTBY \ud83d\ude31 #StanleyCup", 
+                "TweetLink": "1002021154347995148", 
+                "Place": "Hialeah", 
+                "Time": "Thu May 31 02:57:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991854245195468800/NYPRpba5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.827182, 39.512436]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NVJosh", 
+                "Name": "Josh", 
+                "Tweet": "Oh My God. Best save ever. My goodness. #StanleyCup", 
+                "TweetLink": "1002021155019018241", 
+                "Place": "Reno", 
+                "Time": "Thu May 31 02:57:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/844754497020747776/cVGDk3L-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.633705, 38.347486]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jusbekoz", 
+                "Name": "Rick Kozlowski", 
+                "Tweet": "Holy Holtby. #StanleyCup", 
+                "TweetLink": "1002021166352158726", 
+                "Place": "Charleston", 
+                "Time": "Thu May 31 02:57:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/761358471346348034/yJAmjzlF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.063311, 50.615957]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GDP_PXP", 
+                "Name": "Gino De Paoli", 
+                "Tweet": "WHAT. A. STOP! #holtby #StanleyCup", 
+                "TweetLink": "1002021170022043648", 
+                "Place": "Foothills No. 31", 
+                "Time": "Thu May 31 02:57:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/816726450187317248/jbIaKQAC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.053431, 41.275721]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NateeCox", 
+                "Name": "Nate", 
+                "Tweet": "What a damn save #StanleyCup", 
+                "TweetLink": "1002021170508529671", 
+                "Place": "Omaha", 
+                "Time": "Thu May 31 02:57:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995833238571634690/_IU1OcSU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.855494, 40.490846]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "macdaddy1396", 
+                "Name": "Kevin M", 
+                "Tweet": "Did that really just happen???? Holy Holtby #StanleyCup", 
+                "TweetLink": "1002021170991063040", 
+                "Place": "Flemington", 
+                "Time": "Thu May 31 02:57:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/430155281742299137/d_N_4EYH_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.4268065, 32.920541]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CurtisSports", 
+                "Name": "\ud83c\udfd2Chris Curtis #\u20e39\u20e31\u20e3\ud83c\udfd2", 
+                "Tweet": "Cue @Razor5Hole .... LARCENY!!!! #StanleyCupPlayoffs #StanleyCup", 
+                "TweetLink": "1002021171171381249", 
+                "Place": "Rockwall", 
+                "Time": "Thu May 31 02:57:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994397518514589696/lSEPBhXz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3606, 44.895222]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ErinMBrumm", 
+                "Name": "Erin M Brumm", 
+                "Tweet": "Holtbeast!!!!!! So good https://t.co/5nU16sfMW3", 
+                "TweetLink": "1002021178222039040", 
+                "Place": "Edina", 
+                "Time": "Thu May 31 02:57:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933336072213487617/Q0d9SlBa_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.853563, 42.8962295]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Nick_Wojton", 
+                "Name": "Nick Wojton", 
+                "Tweet": "Holtby #StanleyCup https://t.co/EXA6OBVpTR", 
+                "TweetLink": "1002021183078961152", 
+                "Place": "Buffalo", 
+                "Time": "Thu May 31 02:57:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884984645506486272/BRGVH5Zg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.1195165, 33.501021]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timlopez", 
+                "Name": "Tim Lopez", 
+                "Tweet": "HOLTBY!!! Wow! What a save! #StanleyCup", 
+                "TweetLink": "1002021201387044866", 
+                "Place": "Temecula", 
+                "Time": "Thu May 31 02:57:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/930932108373233665/C1rBLKZ2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.940918, 41.1401075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nilcra1910", 
+                "Name": "CRAIG", 
+                "Tweet": "ARE YOU KIDDING ME???\n#HOLTBEAST\n#ALLCAPS https://t.co/UBPC6Cjfgk", 
+                "TweetLink": "1002021203794710528", 
+                "Place": "Bellevue", 
+                "Time": "Thu May 31 02:57:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/745102397018537984/AL1sI56W_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.946407, 40.102243]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Phillysports25", 
+                "Name": "Miguel Campos", 
+                "Tweet": "That was an unbelievable stop by Holby #StanleyCup #CapsKnights", 
+                "TweetLink": "1002021206164426752", 
+                "Place": "Bensalem", 
+                "Time": "Thu May 31 02:57:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/891415604766400512/IaOb0p_4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.007705, 50.101247]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Scott_Hiebert", 
+                "Name": "Scott Hiebert", 
+                "Tweet": "What???  Omg. Amazing save from Holtby #StanleyCup", 
+                "TweetLink": "1002021214158708737", 
+                "Place": "Whistler", 
+                "Time": "Thu May 31 02:57:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/966517333119320064/EtNxPKxu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "witoski_mike", 
+                "Name": "mike witoski", 
+                "Tweet": "What a save! And the reaction from Ovi was priceless! https://t.co/GUb6bKMFak", 
+                "TweetLink": "1002021215450562562", 
+                "Place": "Winnipeg", 
+                "Time": "Thu May 31 02:57:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/726575465096314881/DO8yIuJM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.645809, 41.3870895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RussaulH", 
+                "Name": "Russaul Heckman", 
+                "Tweet": "How Holtby, how...... #StanleyCup", 
+                "TweetLink": "1002021226376847363", 
+                "Place": "Bowling Green", 
+                "Time": "Thu May 31 02:57:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986676674208165888/mtQoyKbG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.8674195, 41.524342]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MarkCogs8", 
+                "Name": "Coach Cogs Jr", 
+                "Tweet": "Holy Holtby #SavedByAPaddle #StanleyCup", 
+                "TweetLink": "1002021226922086400", 
+                "Place": "Mokena", 
+                "Time": "Thu May 31 02:57:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000529922123812864/SeJRAE9I_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.036229, 43.7828285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrewGuy", 
+                "Name": "Daryl Brewer", 
+                "Tweet": "Ovechkin almost had a heart attack watching that save. Unbelievable. #StanleyCup", 
+                "TweetLink": "1002021227177787392", 
+                "Place": "Pickering", 
+                "Time": "Thu May 31 02:57:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/857679516591943685/oj3599pJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MikeDixonSports", 
+                "Name": "Mike Dixon", 
+                "Tweet": "Save of the year by the #ALLCAPS #VegasBorn #StanleyCup", 
+                "TweetLink": "1002021227362369536", 
+                "Place": "Paradise", 
+                "Time": "Thu May 31 02:57:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945121021199204355/LIquOMvy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2373245, 44.679378]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DannoWammo", 
+                "Name": "DannoWammo", 
+                "Tweet": "Holtby is my father... #TuchThatOneAway #StanleyCup #VegasBorn #Capitals", 
+                "TweetLink": "1002021229862236160", 
+                "Place": "Lakeville", 
+                "Time": "Thu May 31 02:57:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/494733317585899520/n0OIVdSF_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheCapsBear", 
+                "Name": "The Caps Bear", 
+                "Tweet": ". @NHLonNBCSports calls it the save of the year.  Yeah holtbeast @Holts170 #allcaps #Stanleycup", 
+                "TweetLink": "1002021230076194817", 
+                "Place": "Arlington", 
+                "Time": "Thu May 31 02:57:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001287001486786568/tJ19yUXX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.664325, 52.1500775]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Punkadoo58", 
+                "Name": "Laureen Vanghel", 
+                "Tweet": "Omg Holtby!  #NHLPlayoffs #StanleyCup", 
+                "TweetLink": "1002021230814298113", 
+                "Place": "Saskatoon", 
+                "Time": "Thu May 31 02:57:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/802479290440884224/206xeEsJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.325221, 40.7306355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MotherShuck", 
+                "Name": "Dennis Farrell", 
+                "Tweet": "How was that stopped?!?!? https://t.co/UDMOD5LsDz", 
+                "TweetLink": "1002021233720987649", 
+                "Place": "North Babylon", 
+                "Time": "Thu May 31 02:57:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/509519185777418240/Wcf1RKvs_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheHersheyBears", 
+                "Name": "Hershey Bears", 
+                "Tweet": "INSANE SAVE! WTG Holtby! #ALLCAPS https://t.co/o6G1x1fF3q", 
+                "TweetLink": "1002021235704942593", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:57:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988522632650817537/LFoBjTmL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "taylomason", 
+                "Name": "Taylor Mason", 
+                "Tweet": "Great save by the @Capitals #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002021239177797637", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:57:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898633591109931008/DpfTaZu4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.2210075, 40.7343855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tempusfugit91", 
+                "Name": "Jay", 
+                "Tweet": "that save was absolute filthhhhhhh #stanleycup", 
+                "TweetLink": "1002021241329455106", 
+                "Place": "Islip", 
+                "Time": "Thu May 31 02:57:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/830963174354649088/Sq0a9trG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.4268065, 32.920541]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "74ChadGardner", 
+                "Name": "Chad Gardner", 
+                "Tweet": "HOLY CRAP HOLTBY \ud83d\ude28\ud83d\ude28 #CapsKnights #StanleyCup", 
+                "TweetLink": "1002021243346964480", 
+                "Place": "Rockwall", 
+                "Time": "Thu May 31 02:57:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/857702188130357248/7kNxgUl7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.1522215, 38.7688675]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatrickGarrigan", 
+                "Name": "Patrick Garrigan", 
+                "Tweet": "Tom Wilson is my spirit animal. #ALLCAPS #StanleyCup https://t.co/ivdBVTtkOw", 
+                "TweetLink": "1002021250418569216", 
+                "Place": "Franconia", 
+                "Time": "Thu May 31 02:57:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917615857651666944/Cwm5-u1M_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.611411, 34.7060265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "storm5569", 
+                "Name": "\ud835\udd6f\ud835\udd8e\ud835\udd98\ud835\udd8b\ud835\udd8e\ud835\udd8c\ud835\udd9a\ud835\udd97\ud835\udd8a\ud835\udd89 \ud835\udd6e\ud835\udd86\ud835\udd8b\ud835\udd8a\ud835\udd99\ud835\udd8a\ud835\udd97\ud835\udd8e\ud835\udd86 \ud835\udd6e\ud835\udd8d\ud835\udd8a\ud835\udd8b", 
+                "Tweet": "SAVE OF THE YEAR HOLTBY #CapsKnights #StanleyCup", 
+                "TweetLink": "1002021250666061824", 
+                "Place": "Huntsville", 
+                "Time": "Thu May 31 02:57:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/611389254619541504/DILEeTNO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "richlatour", 
+                "Name": "Rich Latour", 
+                "Tweet": "That... was the save of the year (h/t Holtby) #StanleyCup", 
+                "TweetLink": "1002021251412570112", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:57:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/503740134802849792/0wbhicAH_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.080509, 40.3309135]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mheff13", 
+                "Name": "Matt", 
+                "Tweet": "Oh...oh my @Holts170. #StanleyCup", 
+                "TweetLink": "1002021255455956993", 
+                "Place": "Wernersville", 
+                "Time": "Thu May 31 02:57:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/461335595001057280/PI2PzivW_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.1224015, 44.065621]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexStimson", 
+                "Name": "Alex Stimson", 
+                "Tweet": "Wowwwwww what a save! The stones on Holtby! #StanleyCup", 
+                "TweetLink": "1002021256043020288", 
+                "Place": "Eugene", 
+                "Time": "Thu May 31 02:57:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/878376730779557888/8IZ2aScf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7311425, 43.5410145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "troy_vr", 
+                "Name": "TROY", 
+                "Tweet": "Holy Shit what a save!!! #StanleyCup", 
+                "TweetLink": "1002021261638230016", 
+                "Place": "Sioux Falls", 
+                "Time": "Thu May 31 02:57:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/895721962474938369/U1aWe62O_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hustlerama", 
+                "Name": "Andrew Paterson", 
+                "Tweet": "Considering the circumstances that might be the best save I've ever seen.  #StanleyCup", 
+                "TweetLink": "1002021264637218817", 
+                "Place": "Winnipeg", 
+                "Time": "Thu May 31 02:57:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000203097313103872/qSzOgpxM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.439486, 32.7372485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "csdavis_20", 
+                "Name": "cd_20", 
+                "Tweet": "ICE \ud83d\udd25\ud83d\udd25\ud83d\udd25 #stanleycup", 
+                "TweetLink": "1002021268043034625", 
+                "Place": "Forney", 
+                "Time": "Thu May 31 02:57:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2985344826/6fded98a61b4f8d2352fd874c2ba86b8_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.677509, 53.215793]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tpellerin55", 
+                "Name": "Tony Pellerin", 
+                "Tweet": "HOLY FUCK!!\n\nTHAT HOLTBY SAVE \ud83d\ude31\n\n#StanleyCup #WSHvsVGK", 
+                "TweetLink": "1002021268621688833", 
+                "Place": "Prince Albert", 
+                "Time": "Thu May 31 02:57:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990260891877699585/GbKDvoTn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "ryan \ud83d\udc96", 
+                "Tweet": "save of the year for him. just wow. could\u2019ve been 3-3. i mean... i\u2019m speechless. #wshvsvgk #stanleycup https://t.co/yz5Y5YM6V0", 
+                "TweetLink": "1002021269812924417", 
+                "Place": "Nevada", 
+                "Time": "Thu May 31 02:57:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.9940185, 42.2276835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ijensen4", 
+                "Name": "Isaac Jensen", 
+                "Tweet": "That was a damn great save by Holtby #StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021271184576512", 
+                "Place": "Cherry Valley", 
+                "Time": "Thu May 31 02:57:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988955327193321472/XUZnsedv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "teerhardy", 
+                "Name": "Teer Hardy", 
+                "Tweet": "HOLTBEAST!!! #ALLCAPS #stanleycup https://t.co/IdoLNKjdMl", 
+                "TweetLink": "1002021272711237632", 
+                "Place": "Arlington", 
+                "Time": "Thu May 31 02:57:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986771802629312512/8uk2wKSM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "callanmac3", 
+                "Name": "Callan McClurg", 
+                "Tweet": "OOOHHH MMMYYY!!! #StanleyCup #WSHvsVGK", 
+                "TweetLink": "1002021295968608256", 
+                "Place": "San Diego", 
+                "Time": "Thu May 31 02:57:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995922388649955329/p5hfSR2x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.9549015, 39.6337345]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Ricky_Monzo", 
+                "Name": "Ricky Monzo", 
+                "Tweet": "Wow what a fucking save #StanleyCup", 
+                "TweetLink": "1002021297948381184", 
+                "Place": "Victory Lakes", 
+                "Time": "Thu May 31 02:57:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/975934313224171520/iSa2ACfZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "isles_24_7", 
+                "Name": "#isles\ud83d\udd37\ud83d\udd36", 
+                "Tweet": "\ud83d\ude2ehats off to Holtby. Wow\ud83d\udc4f #StanleyCup", 
+                "TweetLink": "1002021306035040256", 
+                "Place": "Queens", 
+                "Time": "Thu May 31 02:57:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946992472344932352/wqAdSkoh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.616073, 43.555244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheRealG_Rant", 
+                "Name": "G-Rant", 
+                "Tweet": "Holtby are you kidding!?!?\n#StanleyCup", 
+                "TweetLink": "1002021307108573185", 
+                "Place": "Mississauga", 
+                "Time": "Thu May 31 02:57:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1584743376/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.9248925, 33.8893475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theekid13", 
+                "Name": "James Brock", 
+                "Tweet": "Oh wow! What a save! I thought it went in! That was nuts! #stanleycup", 
+                "TweetLink": "1002021321549623297", 
+                "Place": "Fullerton", 
+                "Time": "Thu May 31 02:57:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/613149041908563969/U-h0VCrM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.8954405, 35.9909825]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NEWLlN", 
+                "Name": "THOMAS", 
+                "Tweet": "WHAT A SAVE #CAPSYEAR #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002021322413756418", 
+                "Place": "Durham", 
+                "Time": "Thu May 31 02:57:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/912475870161461248/3z393Hy0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.478628, 45.0256585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanRablinFox9", 
+                "Name": "Ryan Rablin", 
+                "Tweet": "Holtby Wow!!!!! #StanleyCup", 
+                "TweetLink": "1002021324489940993", 
+                "Place": "Plymouth", 
+                "Time": "Thu May 31 02:57:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980082536884957185/iXoFgDhZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.7375655, 33.4057545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JosephMaddon", 
+                "Name": "Joseph Maddon", 
+                "Tweet": "This is absolutely incredible \ud83d\ude02 https://t.co/CiYuuPXl6T", 
+                "TweetLink": "1002021326012350464", 
+                "Place": "Mesa", 
+                "Time": "Thu May 31 02:57:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/936006099680903169/3KXrMgCs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheSunsRay", 
+                "Name": "Sunny Rai", 
+                "Tweet": "The Brew House are excited #whois Molson https://t.co/0QSs5glH79", 
+                "TweetLink": "1002021331343261696", 
+                "Place": "Calgary", 
+                "Time": "Thu May 31 02:57:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000066826116595712/SEpBu8DV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.2946025, 40.846404]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "heyitsDANImal", 
+                "Name": "Danimarie Roselle", 
+                "Tweet": "THAT SAVE. #StanleyCup https://t.co/rDIzt5hRcM", 
+                "TweetLink": "1002021333616783361", 
+                "Place": "West Caldwell", 
+                "Time": "Thu May 31 02:57:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/941750699741851648/7bkofmPT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3613205, 46.4418605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Kovar_HJsports", 
+                "Name": "Kip Kovar", 
+                "Tweet": "What a save! #StanleyCup", 
+                "TweetLink": "1002021336192077824", 
+                "Place": "Minnesota", 
+                "Time": "Thu May 31 02:57:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/751230069239078913/bLL8kqdR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4453075, 32.4895445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tedxas", 
+                "Name": "Ted Sorrells", 
+                "Tweet": "Holtby!!!!!! #StanleyCup", 
+                "TweetLink": "1002021337999855618", 
+                "Place": "Hideaway", 
+                "Time": "Thu May 31 02:57:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/288964524/ted_and_stanley_201x201_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JamesGBeattie", 
+                "Name": "James Beattie", 
+                "Tweet": "Holtby is about to trend. So is Tuch and for very different reasons. #StanleyCup #ALLCAPS #VegasBorn", 
+                "TweetLink": "1002021339769827328", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:57:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/887407813785505794/_yO1Dhzy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "turd_fergusonx", 
+                "Name": "@Turd_Ferguso\u00f1", 
+                "Tweet": "Good god, Holtby. That\u2019s a goal 999 times out of 1000. #StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021349165096966", 
+                "Place": "North Carolina", 
+                "Time": "Thu May 31 02:58:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990088870938234880/hJIVR72H_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.7824645, 36.786042]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ebentley_sports", 
+                "Name": "Eric Bentley", 
+                "Tweet": "HOLTBY! \ud83c\udfd2\u274c\ud83d\ude33 #StanleyCup", 
+                "TweetLink": "1002021349299109888", 
+                "Place": "Fresno", 
+                "Time": "Thu May 31 02:58:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945214053386936321/XDo1SDEz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "turd_fergusonx", 
+                "Name": "@Turd_Ferguso\u00f1", 
+                "Tweet": "Good god, Holtby. That\u2019s a goal 999 times out of 1000. #StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021349165096966", 
+                "Place": "North Carolina", 
+                "Time": "Thu May 31 02:58:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990088870938234880/hJIVR72H_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "regina_dipaula", 
+                "Name": "Regina DiPaulaSorkin", 
+                "Tweet": "BRADEN HOLTBY, LADIES AND GENTLEMEN. WE HAVE A GOALIE TOO, Y\u2019ALL. #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002021354592440320", 
+                "Place": "Austin", 
+                "Time": "Thu May 31 02:58:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000393351441/d25c38ceb909f0de9cdc5981feba9354_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.6891465, 39.061278]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tpopomaronis", 
+                "Name": "Tom Popomaronis", 
+                "Tweet": "Holy #holtby... #StanleyCup https://t.co/ZwntJLinbb", 
+                "TweetLink": "1002021354454044673", 
+                "Place": "Odenton", 
+                "Time": "Thu May 31 02:58:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/894326856043900928/0ngCkLoB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8518705, 42.9107085]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MaxBainbridge2", 
+                "Name": "Max Bainbridge", 
+                "Tweet": "What a save!!!#StanleyCup", 
+                "TweetLink": "1002021366210682880", 
+                "Place": "Jenison", 
+                "Time": "Thu May 31 02:58:05 +0000 2018", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.970696, 42.787342]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "slapschotts", 
+                "Name": "Ken Schott", 
+                "Tweet": "Holtby with the highway robbery save! #ALLCaps #VegasBorn #StanleyCup #StanelyCupFinal #WSHvsVGK", 
+                "TweetLink": "1002021367477399553", 
+                "Place": "Rotterdam", 
+                "Time": "Thu May 31 02:58:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989300854984409088/cApKhhYi_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "angelsteve89", 
+                "Name": "Steve Angelovich", 
+                "Tweet": "Holy Save Holtby! #StanleyCup https://t.co/RyVrmIYAYh", 
+                "TweetLink": "1002021366546255878", 
+                "Place": "Philadelphia", 
+                "Time": "Thu May 31 02:58:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983415566588407809/xR6TAH98_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LauraCanaday23", 
+                "Name": "Laura Canaday", 
+                "Tweet": "Holtby has me shook right now #StanleyCup", 
+                "TweetLink": "1002021372380540929", 
+                "Place": "Baltimore", 
+                "Time": "Thu May 31 02:58:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985723683032485888/1ty2Sgnj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.705467, 41.4959395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "followthatband", 
+                "Name": "Lori", 
+                "Tweet": "#HoltBae https://t.co/HAoogc0YfJ", 
+                "TweetLink": "1002021373135540230", 
+                "Place": "Cleveland", 
+                "Time": "Thu May 31 02:58:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/944789688245682176/hbYxGoUt_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.633752, 42.9064225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stewpac17", 
+                "Name": "Dan Stewart", 
+                "Tweet": "Best save I've seen since I was a lifeguard #StanleyCup", 
+                "TweetLink": "1002021382966923265", 
+                "Place": "Grand Blanc", 
+                "Time": "Thu May 31 02:58:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959482859693268992/cVNLjYys_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Leopluridan", 
+                "Name": "Ray Yoon", 
+                "Tweet": "HOLY HOLTBY!!! Outstanding stick save with 1:59 left in Regulation\n\u00af\\_(\u30c4)_/\u00af\n#HistoricCupRun #LETSGOCAPS\u2026 https://t.co/xCpqoXXLs6", 
+                "TweetLink": "1002021387274539008", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:58:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849410933604720640/Fxt1mzVU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sjneif", 
+                "Name": "Stew Neifert", 
+                "Tweet": "What a save!! #holtby #WSHvsVGK #StanleyCup #StanleyCupFinals", 
+                "TweetLink": "1002021392089481216", 
+                "Place": "Baltimore", 
+                "Time": "Thu May 31 02:58:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971215496266870785/GxFEJA2Z_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.461096, 44.9349355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Ariel_Carpio", 
+                "Name": "Ariel Carpio-Evans", 
+                "Tweet": "Save of the year by Holtby #StanleyCup", 
+                "TweetLink": "1002021398519472128", 
+                "Place": "Minnetonka", 
+                "Time": "Thu May 31 02:58:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/911072199162961920/-Enel96x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.441236, 39.7665555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "UnoQuatro14", 
+                "Name": "Bobby Hensley", 
+                "Tweet": "2 games in. What a series. #StanleyCup #BecauseItsTheCup", 
+                "TweetLink": "1002021401014960128", 
+                "Place": "Indiana", 
+                "Time": "Thu May 31 02:58:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994186426593042438/TOPlJuSq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.527908, 39.384866]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CRob7", 
+                "Name": "Chris Robinson", 
+                "Tweet": "Holtby!!!! #ALLCAPS #StanleyCup", 
+                "TweetLink": "1002021411077095424", 
+                "Place": "California Avenue", 
+                "Time": "Thu May 31 02:58:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3196842032/4c19719f11dd8520c9b0a08986a3bc6f_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.702644, 38.7796565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "resq23booth", 
+                "Name": "Matthew Booth", 
+                "Tweet": "ARE YOU SHITTING ME HOLTBY?!? #StanleyCup", 
+                "TweetLink": "1002021427225268224", 
+                "Place": "O'Fallon", 
+                "Time": "Thu May 31 02:58:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/784762722370015233/r1nJS5Rs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.2705395, 45.00118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "joseph_purvis", 
+                "Name": "joseph purvis", 
+                "Tweet": "WOW what a save by the Capitals goalie. Unreal. #theStop #StanleyCup", 
+                "TweetLink": "1002021427787288576", 
+                "Place": "Michigan", 
+                "Time": "Thu May 31 02:58:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3389600505/dc0063a59a2a4696ca15babe5f989912_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.961913, 46.140806]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kalel454", 
+                "Name": "Tony", 
+                "Tweet": "That save was sick!! #ALLCAPS #Stanleycup", 
+                "TweetLink": "1002021438889517056", 
+                "Place": "Longview", 
+                "Time": "Thu May 31 02:58:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/642858633668104193/DvKeJD5v_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BroGod4Life", 
+                "Name": "Aaron P. Martin II", 
+                "Tweet": "THE SAVE OF THE NIGHT BY BRADEN HOLTBY THAT WAS INCREDIBLE GOOD JOB WITH THE QUICK REACTION #STANLEYCUP #CAPSKNIGHTS", 
+                "TweetLink": "1002021442467352576", 
+                "Place": "Washington", 
+                "Time": "Thu May 31 02:58:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986213003216539648/M8LZNBbq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChefDave132", 
+                "Name": "David Diligiro", 
+                "Tweet": "Oh my god!!! Holtby\u2019s stick save was better than anything the @GoldenKnights have done for their pregame shows. WOW #CapsKnights #StanleyCup", 
+                "TweetLink": "1002021449568215041", 
+                "Place": "Los Angeles", 
+                "Time": "Thu May 31 02:58:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939641202495778816/yTPiOdkM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "oursportsguy", 
+                "Name": "Keith Roberts", 
+                "Tweet": "What a save by Holtby \u2014 maybe save of the year! #StanleyCup", 
+                "TweetLink": "1002021451103424512", 
+                "Place": "Georgia", 
+                "Time": "Thu May 31 02:58:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/883868122700238848/9cWCJ1qg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[11.442185, 57.728109]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ErikssonGabbe", 
+                "Name": "Gabriel Eriksson", 
+                "Tweet": "Ojojoj, Holtby! Mycket viktogare r\u00e4ddning \u00e4n s\u00e5 kan man inte g\u00f6ra! #StanleyCup #twittpuck", 
+                "TweetLink": "1002021455641694214", 
+                "Place": "\u00d6cker\u00f6", 
+                "Time": "Thu May 31 02:58:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/796000010437558273/6TEk0tVy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.1056485, 44.9415155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Shirleytime", 
+                "Name": "Bryan Shirley", 
+                "Tweet": "@NHL #StanleyCup finals are simply fantastic. Go @Capitals!Save of the year for Holtby", 
+                "TweetLink": "1002021480887128069", 
+                "Place": "St Paul", 
+                "Time": "Thu May 31 02:58:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1018048111/FrozenMule_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "greg_price11", 
+                "Name": "Gregory J. Price", 
+                "Tweet": "Braden Holtby for the win! #StanleyCup", 
+                "TweetLink": "1002021508846444544", 
+                "Place": "Pennsylvania", 
+                "Time": "Thu May 31 02:58:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999781392090259456/hOWMBTQv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "courtwood3141", 
+                "Name": "Courtney Wood", 
+                "Tweet": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/HYOZrlUiQr", 
+                "TweetLink": "1002021517344100354", 
+                "Place": "Charlotte", 
+                "Time": "Thu May 31 02:58:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974477604592988165/GFsKmDpW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.7878065, 43.8195945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DainKnudson", 
+                "Name": "Dain Knudson", 
+                "Tweet": "The save #ALLCAPS #CapsKnights #StanleyCup #StanleyCupFinal @Capitals https://t.co/iVsHIhREy0", 
+                "TweetLink": "1002021518505787392", 
+                "Place": "Rexburg", 
+                "Time": "Thu May 31 02:58:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971164255985664000/BgzJl1-F_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.913642, 36.1093915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jerrywofford", 
+                "Name": "Jerry Wofford", 
+                "Tweet": "Woooooow wow wow that was a save for the AGES. #StanleyCup https://t.co/JROACgLwMM", 
+                "TweetLink": "1002021519504101378", 
+                "Place": "Tulsa", 
+                "Time": "Thu May 31 02:58:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990417814908481536/ZCxh01no_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[152.9931965, -27.382143]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "S4M1LL3R", 
+                "Name": "Sam Millhouse", 
+                "Tweet": "That save was fucking mental. Caps don't deserve this guy. And yes, I hate them for no real reason. #StanleyCup", 
+                "TweetLink": "1002021538978189312", 
+                "Place": "Brisbane", 
+                "Time": "Thu May 31 02:58:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001291526037618688/nfd6Q9w8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NHLNUT00", 
+                "Name": "Brady", 
+                "Tweet": "Holtby is not human #WSHvsVGK #StanleyCup", 
+                "TweetLink": "1002021539137642496", 
+                "Place": "Philadelphia", 
+                "Time": "Thu May 31 02:58:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/748534226216194048/2kNhaJiA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.986807, 39.041697]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "omarann1", 
+                "Name": "omar ann", 
+                "Tweet": "Holtby baby \ud83d\ude4c\ud83c\udfff https://t.co/JBYKBzfopJ", 
+                "TweetLink": "1002021540488253440", 
+                "Place": "White Oak", 
+                "Time": "Thu May 31 02:58:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995294750285627392/90VtWZBn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.6079345, 39.2200845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gkcoachadam", 
+                "Name": "GK Coach Adam", 
+                "Tweet": "@Holts170 Stanley Cup winning save there #StanleyCupFinals #StanleyCup #caps", 
+                "TweetLink": "1002021546351824896", 
+                "Place": "Brooklyn Park", 
+                "Time": "Thu May 31 02:58:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/950934313205366790/BQ5gPKU__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SilveyESP", 
+                "Name": "Austin Silvey", 
+                "Tweet": "That was an absolutely incredible save. Playoff hockey is amazing.\n#VegasBorn  #StanleyCup", 
+                "TweetLink": "1002021549401141250", 
+                "Place": "South Carolina", 
+                "Time": "Thu May 31 02:58:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970074687886815233/ReR3RTEx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.390226, 45.209601]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "will_heyer", 
+                "Name": "Brobi Wan Kebrobi", 
+                "Tweet": "That was the save of the year....in all of sports...#StanleyCup", 
+                "TweetLink": "1002021552400019456", 
+                "Place": "Anoka", 
+                "Time": "Thu May 31 02:58:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/794537102000066560/iw5Ydwp-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.750389, 39.2067415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "allie_jay13", 
+                "Name": "Allison \u270c\ufe0f", 
+                "Tweet": "BRADEN\nFUCKING\nHOLTBY\n#StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021567377920007", 
+                "Place": "Elkridge", 
+                "Time": "Thu May 31 02:58:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/883419382243876865/jQPnhNFu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8245325, 41.5048675]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShelbyGray_", 
+                "Name": "Shelby", 
+                "Tweet": "Empty net...can\u2019t watch. #VegasBorn #StanleyCup", 
+                "TweetLink": "1002021586738860035", 
+                "Place": "New Paris", 
+                "Time": "Thu May 31 02:58:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976599274099302402/z4MAjGRH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AmyJord26", 
+                "Name": "Amy Jord", 
+                "Tweet": "Oh yeah, I was able to catch some of the game #ALLCAPS #Caps4TheCup #STANLEYCUP", 
+                "TweetLink": "1002021591147008000", 
+                "Place": "Virginia", 
+                "Time": "Thu May 31 02:58:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972680669183782913/ZQah-ZDp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Henry101", 
+                "Name": "Jared Hooyer", 
+                "Tweet": "Great save by Holtby. If Tuch elevates that it\u2019s a tie game. #StanleyCup", 
+                "TweetLink": "1002021600722636800", 
+                "Place": "Lawrenceville", 
+                "Time": "Thu May 31 02:59:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774649555707109376/G_2t4r2b_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.318722, 38.641305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dsapata", 
+                "Name": "Daniel Sapata", 
+                "Tweet": "#StanleyCup https://t.co/1VUmkQA1Wu", 
+                "TweetLink": "1002021608536473600", 
+                "Place": "Carmichael", 
+                "Time": "Thu May 31 02:59:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/847674391785754629/7sv1QstA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[27.0620125, 36.7694325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "red_ends", 
+                "Name": "Pidge", 
+                "Tweet": "Wow !!! #holby #StanleyCup", 
+                "TweetLink": "1002021619622121474", 
+                "Place": "Irakleides", 
+                "Time": "Thu May 31 02:59:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/883573136964415489/PsGNx0dO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.599065, 44.7595575]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SamBachman16", 
+                "Name": "sam", 
+                "Tweet": "HOLTBY #stanleycup #allcaps", 
+                "TweetLink": "1002021626286886912", 
+                "Place": "Traverse City", 
+                "Time": "Thu May 31 02:59:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/913600108058595328/_S2Bi1eW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NCSL2", 
+                "Name": "NCSL", 
+                "Tweet": "We just witnessed the top 10 saves of all time in one save by #Holtbeast #StanleyCupFinals #StanleyCup @Capitals", 
+                "TweetLink": "1002021632142127105", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:59:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1734632889/NCSL_logo_red_blue__640x453__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYorNothing", 
+                "Name": "Antonella", 
+                "Tweet": "WOW I\u2019ll be masturbating to that save tonight, wow nice work Holtby, hockey porn\n\n#StanleyCupFinal #ALLCAPS #Knights #StanleyCup", 
+                "TweetLink": "1002021633849257984", 
+                "Place": "Manhattan", 
+                "Time": "Thu May 31 02:59:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/842971663805435904/LBzR5CA4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IslanderNation", 
+                "Name": "Lou From Philly", 
+                "Tweet": "This medieval times performance before the #StanleyCup has me rooting for the Caps. That and the Metro retaining the silver.", 
+                "TweetLink": "1002021659472203776", 
+                "Place": "Philadelphia", 
+                "Time": "Thu May 31 02:59:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/588418707854090240/FoSToVxH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.3073065, 65.8381145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "montrealdesign", 
+                "Name": "Bobby \ud83c\udde8\ud83c\udde6", 
+                "Tweet": "Dude, if #Caps go on to win the #StanleyCup, that save will be immortalized forever .. it was that good.\n\nWow.\n#Holtby", 
+                "TweetLink": "1002021663020601350", 
+                "Place": "Canada", 
+                "Time": "Thu May 31 02:59:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/582061866899345408/cDslNoRz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iffatalvi_90", 
+                "Name": "Iffat Alvi", 
+                "Tweet": "Ovechkin reaction to the save was priceless \ud83d\ude31\ud83d\ude31\ud83d\ude31 #StanleyCup", 
+                "TweetLink": "1002021668317990912", 
+                "Place": "Brampton", 
+                "Time": "Thu May 31 02:59:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/799355014573596672/_IpPIBhz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.74247, 41.245398]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shaisbeard", 
+                "Name": "S H A I L E N D E R", 
+                "Tweet": "Holtby with the SAVE of the year. I\u2019m hoping this series goes seven games #StanleyCupFinals #stanleycup", 
+                "TweetLink": "1002021670260035584", 
+                "Place": "Howland Center", 
+                "Time": "Thu May 31 02:59:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989222142268014592/YxbtxOF5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.7780165, 38.770851]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cameickmeyer", 
+                "Name": "Cameron Eickmeyer", 
+                "Tweet": "For the love of god someone tweet the save highlight and not just that said save was amazing. Flying blind here people! #StanleyCup", 
+                "TweetLink": "1002021671279017984", 
+                "Place": "Stratmoor", 
+                "Time": "Thu May 31 02:59:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/835630245839425536/q1NEEAnr_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.3066075, 37.2691755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "andrewpetey35", 
+                "Name": "Andrew", 
+                "Tweet": "Unreal!!! \ud83e\udd2b\ud83e\udd2b #ALLCAPS https://t.co/OokVvnj7yg", 
+                "TweetLink": "1002021678497513472", 
+                "Place": "California", 
+                "Time": "Thu May 31 02:59:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968416494076882944/nsWeOE9__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.0774075, 46.5841815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jerumball", 
+                "Name": "\ud83c\udde8\ud83c\udde6John Rumball\ud83c\udfd2\u26be\ufe0f\ud83d\udcf7", 
+                "Tweet": "And Holtby with the Freddian stick save! As in @f_andersen30 #stanleycup #TMLtalk", 
+                "TweetLink": "1002021687267872769", 
+                "Place": "Greater Sudbury / Grand Sudbury", 
+                "Time": "Thu May 31 02:59:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953427416990519297/Fi8An8Xv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.723025, 45.5578305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Prospects_Watch", 
+                "Name": "NHL Prospects Watcher", 
+                "Tweet": "That save will live in Capitals lore in they go on to win the #StanleyCup #ALLCAPS", 
+                "TweetLink": "1002021691189493760", 
+                "Place": "Montr\u00e9al", 
+                "Time": "Thu May 31 02:59:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/879470478288707585/aGA8BdpI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.053431, 41.275721]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrandonCOdom", 
+                "Name": "Brandon Odom", 
+                "Tweet": "@BradenHoltbeast #StanleyCup https://t.co/0tJro7CmxN", 
+                "TweetLink": "1002021700941287424", 
+                "Place": "Omaha", 
+                "Time": "Thu May 31 02:59:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980436406915878912/u4Hqz1K0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.066663, 40.7180015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Steve_Nahorni", 
+                "Name": "Axlfro", 
+                "Tweet": "Holtby is a man possessed #StanleyCup", 
+                "TweetLink": "1002021714459549697", 
+                "Place": "Jersey City", 
+                "Time": "Thu May 31 02:59:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/862099945352024065/ml1XJ1az_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.853563, 42.8962295]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Nick_Wojton", 
+                "Name": "Nick Wojton", 
+                "Tweet": "Dominik Holtby #StanleyCup", 
+                "TweetLink": "1002021735552704513", 
+                "Place": "Buffalo", 
+                "Time": "Thu May 31 02:59:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884984645506486272/BRGVH5Zg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2620465, 44.9706105]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dfriez", 
+                "Name": "Debbie Friez", 
+                "Tweet": "We are not worthy,  Holtby! Great save!!!!! #ALLCAPS #stanleycup https://t.co/3CKTh5F4g3", 
+                "TweetLink": "1002021754259230721", 
+                "Place": "Minneapolis", 
+                "Time": "Thu May 31 02:59:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/724754991043338240/DVuVwTOw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-70.705693, 42.1119705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Kd136Kirk", 
+                "Name": "Kirk Douglas", 
+                "Tweet": "What a save by Holtby and his neck hair!!!! #StanleyCup @NHLCapitals1", 
+                "TweetLink": "1002021764875071488", 
+                "Place": "Marshfield", 
+                "Time": "Thu May 31 02:59:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1673266849/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7311425, 43.5410145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "troy_vr", 
+                "Name": "TROY", 
+                "Tweet": "Holtby...check his pulse #StanleyCup", 
+                "TweetLink": "1002021796986552320", 
+                "Place": "Sioux Falls", 
+                "Time": "Thu May 31 02:59:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/895721962474938369/U1aWe62O_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.153947, 40.572376]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "spimpsner", 
+                "Name": "Scott Pimpsner \ud83c\udf39", 
+                "Tweet": "That save by @Holts170 #StanleyCup https://t.co/czWMd8VizJ", 
+                "TweetLink": "1002021805039681537", 
+                "Place": "Staten Island", 
+                "Time": "Thu May 31 02:59:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/908166752781127680/lER7_wvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.343915, 37.6838965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "diswiz316", 
+                "Name": "Chris Winslow", 
+                "Tweet": "Holy frijoles what a save!! That missed opportunity by @GoldenKnights player Tuch may end up haunting him for the r\u2026 https://t.co/QouJ1zHm30", 
+                "TweetLink": "1002021828523589633", 
+                "Place": "Wichita", 
+                "Time": "Thu May 31 02:59:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854058380297633797/decMIhFL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.922485, 38.9626355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jmacmahoney1", 
+                "Name": "jmacmahoney", 
+                "Tweet": "Phenomenal save! @Holts170 https://t.co/V5I73bzEHw", 
+                "TweetLink": "1002021844986335232", 
+                "Place": "Riverdale Park", 
+                "Time": "Thu May 31 02:59:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972136649403633664/lccSYOur_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.415579, 40.7337505]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RKGoldberg15", 
+                "Name": "Robert Goldberg", 
+                "Tweet": "HOLY HOLTBY #StanleyCup https://t.co/01BawYfAMM", 
+                "TweetLink": "1002021880327491585", 
+                "Place": "East Farmingdale", 
+                "Time": "Thu May 31 03:00:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/967915094297411584/WHYN-wPg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MCStyleGuy", 
+                "Name": "Music City Style Guy", 
+                "Tweet": "If the #WashingtonCapitals go on to win the #StanleyCup, that will go down as one of the greatest saves in #NHL history.", 
+                "TweetLink": "1002021889219457024", 
+                "Place": "Nashville", 
+                "Time": "Thu May 31 03:00:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/737038744058888192/OaV3juTN_normal.jpg"
+            }
         }
     ]
 }
