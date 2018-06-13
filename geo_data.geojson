@@ -26,6 +26,32 @@
                 "Time": "Wed Jun 13 02:19:54 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.4958035, 43.1046785]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatrickClark05", 
+                "Name": "Patrick Clark", 
+                "Tweet": "Everybody\u2019s proud of their kids, and should be. I try to stay humble if mine do well. But G has worked very hard on\u2026 https://t.co/pKRbEC350O", 
+                "TweetLink": "1006724563655446529", 
+                "Place": "Oconomowoc", 
+                "Time": "Wed Jun 13 02:26:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/761411753234366468/sRFab9sW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlyssaWildrick", 
+                "Name": "Alyssa Wildrick", 
+                "Tweet": "What an unbelievably gorgeous place! @usopengolf #usopen https://t.co/uKzBdLiPMU", 
+                "TweetLink": "1006724938466779136", 
+                "Place": "Shinnecock Hills Golf Club", 
+                "Time": "Wed Jun 13 02:28:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/908008670956486657/r9hB39rq_normal.jpg"
+            }
         }
     ]
 }
