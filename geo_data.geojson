@@ -1,4 +1,31 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JohnstonGarrett", 
+                "Name": "Garrett Johnston", 
+                "Tweet": "Pretty cool to see @USGA Celebration of Champions at the @usopengolf today. @jacknicklaus and 2017 #usopen champ\u2026 https://t.co/RJiQqJZ5WI", 
+                "TweetLink": "1006722586292752384", 
+                "Place": "Shinnecock Hills Golf Club", 
+                "Time": "Wed Jun 13 02:19:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/755538621713772544/Lu3L1Cqo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejtheasian", 
+                "Name": "E.J. Luna", 
+                "Tweet": "This is @BarstoolTrent and @RiggsBarstool after they flash their credentials at the #USOpen.  @ForePlayPod\u2026 https://t.co/C1G4Gtgi3z", 
+                "TweetLink": "1006722802773262339", 
+                "Place": "Plainfield", 
+                "Time": "Wed Jun 13 02:19:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
+            }
+        }
+    ]
 }
