@@ -52,6 +52,45 @@
                 "Time": "Wed Jun 13 02:28:24 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/908008670956486657/r9hB39rq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "spongejr67", 
+                "Name": "David Spengler", 
+                "Tweet": "He\u2019s winning this week \ud83d\udcb0 https://t.co/UCIV4rv98G", 
+                "TweetLink": "1006730508074717184", 
+                "Place": "Wisconsin", 
+                "Time": "Wed Jun 13 02:50:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934901384893403137/HWwaJwhS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FestaClockShado", 
+                "Name": "Michael Festa", 
+                "Tweet": "Omg @BarstoolTrent you are looks slim af, my man https://t.co/tIemTTlneG", 
+                "TweetLink": "1006730768817774594", 
+                "Place": "Baltimore", 
+                "Time": "Wed Jun 13 02:51:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/888004731771265024/FUVe9wfW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-91.509719, 44.819522]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "StandenKyle", 
+                "Name": "kyle standen", 
+                "Tweet": "#visorgamestrong https://t.co/GKqhp2xeur", 
+                "TweetLink": "1006732431020429312", 
+                "Place": "Eau Claire", 
+                "Time": "Wed Jun 13 02:58:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917178082850729985/wDmHxn8c_normal.jpg"
+            }
         }
     ]
 }
