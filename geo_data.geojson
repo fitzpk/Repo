@@ -1,4 +1,44 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.15263, 41.4603025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ToddMeyer2019", 
+                "Name": "Todd Meyer", 
+                "Tweet": "Justin Rose the pick. #USOpen", 
+                "TweetLink": "1007042527684415488", 
+                "Place": "Shorewood Forest", 
+                "Time": "Wed Jun 13 23:30:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/591615488603643904/fT6VQnXu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.461096, 44.9349355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kwhansen223", 
+                "Name": "K.W. Hansen", 
+                "Tweet": "And the weekend begins #poolside #FathersDay #USOpen https://t.co/gDh0i7k1lP", 
+                "TweetLink": "1007044638102966273", 
+                "Place": "Minnetonka", 
+                "Time": "Wed Jun 13 23:38:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/575718450120675328/o91RMglA_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.2705395, 45.00118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tillbilly5", 
+                "Name": "Paul", 
+                "Tweet": "Time to work Tiger!! Many of us are rooting for your success #USOpen #PGA https://t.co/5nykPskvu1", 
+                "TweetLink": "1007044695275528192", 
+                "Place": "Michigan", 
+                "Time": "Wed Jun 13 23:38:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006709113743699974/YE9tOD59_normal.jpg"
+            }
+        }
+    ]
 }
