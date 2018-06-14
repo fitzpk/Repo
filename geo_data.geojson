@@ -1326,6 +1326,214 @@
                 "Time": "Thu Jun 14 21:49:37 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/989404843096924160/U-iEPoBP_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.511578, 52.2204505]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheTodaysGolfer", 
+                "Name": "Today's Golfer", 
+                "Tweet": "No Putter Required \ud83d\udc47\ud83c\udffc https://t.co/lVBv1URNsV", 
+                "TweetLink": "1007379872572952577", 
+                "Place": "East", 
+                "Time": "Thu Jun 14 21:50:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/816283291087212544/cyBjQ3Ha_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jeffreygberg", 
+                "Name": "Jeffrey O. Goldberg", 
+                "Tweet": "@BradCarson @GaryParrishCBS   It happens one week a year. #USOpen. They can play a tough course once", 
+                "TweetLink": "1007379954697457665", 
+                "Place": "Memphis", 
+                "Time": "Thu Jun 14 21:51:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/942760013134737409/YZ2fKuae_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.878866, 33.7033905]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ODBshaw", 
+                "Name": "Armin Tamzarian", 
+                "Tweet": "I reeeally hope DJ wins the #USOpen Just for the fact that it will give the FedEx St Jude Classic in Memphis more l\u2026 https://t.co/X8Rx2zVgPx", 
+                "TweetLink": "1007380061983526913", 
+                "Place": "Myrtle Beach", 
+                "Time": "Thu Jun 14 21:51:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958470793754742785/BFYFh1-j_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[14.5827885, 40.6331645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HarveyJamison", 
+                "Name": "Harvey Jamison", 
+                "Tweet": "Dean Burmester hits his drive 411 YARDS down his final hole of the day. Left with 104 he slam dunks his approach. M\u2026 https://t.co/TlIIWJEfsE", 
+                "TweetLink": "1007380177620537345", 
+                "Place": "Amalfi", 
+                "Time": "Thu Jun 14 21:52:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981209022257909760/uq6KCQLD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.7751315, 54.068005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ioskelton", 
+                "Name": "Iain Skelton", 
+                "Tweet": "Someone just hit a 411 yard drive at the #USopen . Fuck off that\u2019s twice as far as I can! #amateurgolf", 
+                "TweetLink": "1007380178597810178", 
+                "Place": "North West", 
+                "Time": "Thu Jun 14 21:52:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/841418933978714112/MmT7ILEx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.4391775, 28.6255725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "969thegame", 
+                "Name": "96.9 The Game", 
+                "Tweet": "Get the latest news, scoring updates, and Tiger\u2019s failings tomorrow morning on Open Mike as ESPN\u2019s @BobHarig joins\u2026 https://t.co/7OnfdbNwhN", 
+                "TweetLink": "1007380588775530496", 
+                "Place": "Lockhart", 
+                "Time": "Thu Jun 14 21:53:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005652770832240640/gJwTRvNE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.2907815, 40.989538]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "billcollage", 
+                "Name": "Bill Collage", 
+                "Tweet": "Literally every conversation in the #hamptons is about #usopen traffic... \n\nLiterally.", 
+                "TweetLink": "1007381180646330370", 
+                "Place": "Sag Harbor", 
+                "Time": "Thu Jun 14 21:56:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3395530448/9149a18ab4295d5d29380509ccefcefd_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MKEnick", 
+                "Name": "Nick Van Wagenen", 
+                "Tweet": "It's a shame there aren't any driving ranges in Milwaukee with a view of Downtown and/or Lake Michigan. #USOpen week thoughts....", 
+                "TweetLink": "1007381311693221888", 
+                "Place": "Milwaukee", 
+                "Time": "Thu Jun 14 21:56:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/851482552137285632/45PSuod__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-8.761319, 52.5184145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Mikecostello1", 
+                "Name": "Mike Costello", 
+                "Tweet": "536 yard par 4 into the wind \ud83d\ude2b\ud83d\ude2b #usopen", 
+                "TweetLink": "1007381356677124096", 
+                "Place": "Limerick", 
+                "Time": "Thu Jun 14 21:56:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/476400821941567488/X5SQeAR9_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.816297, 40.711474]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JEspo0022", 
+                "Name": "Joe Esposito", 
+                "Tweet": "Tiger +7 I love it!!!! #USOpen2018 #usopen #Shinnecock", 
+                "TweetLink": "1007381427606966272", 
+                "Place": "Briarwood", 
+                "Time": "Thu Jun 14 21:57:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/630570478416101378/pW4o37Ch_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JohnKen59063684", 
+                "Name": "John Kennedy@lucky", 
+                "Tweet": "Tiger is having a brutal afternoon. #USOpen", 
+                "TweetLink": "1007381544070189056", 
+                "Place": "Cork", 
+                "Time": "Thu Jun 14 21:57:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962748009669898241/ysdcPJFt_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.8372155, 39.8768235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MikeR2793", 
+                "Name": "Mike Robbins", 
+                "Tweet": "Christ Joe Buck commentating the #USOpen is making it almost impossible to watch.", 
+                "TweetLink": "1007381634499399681", 
+                "Place": "Medford", 
+                "Time": "Thu Jun 14 21:57:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002048508084580352/8xBnyNQH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.1743985, 53.257283]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "vincentlowe", 
+                "Name": "vincent lowe", 
+                "Tweet": "The golf is absolute madness. Only 5 players under par. Woods having a nightmare aswel \ud83d\ude23\ud83d\ude23\n#USOpen #TigerWoods #theblackphantom", 
+                "TweetLink": "1007381661917614080", 
+                "Place": "Dun Laoghaire-Rathdown", 
+                "Time": "Thu Jun 14 21:57:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998492237016195072/_UYYJsOE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewichter", 
+                "Name": "andy miller", 
+                "Tweet": "\"Let's go back to Friday's action and show you how tiger woods played!\" #USOpen https://t.co/sv4zHkGCwK", 
+                "TweetLink": "1007381817211670535", 
+                "Place": "Massachusetts", 
+                "Time": "Thu Jun 14 21:58:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1205405, 41.7348625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stevenamcqueen", 
+                "Name": "steven mcqueen", 
+                "Tweet": "Is there a worse golf crew than Paul Azinger Joe Buck and busty Holly Sonders?? https://t.co/6JN4CHG9h9", 
+                "TweetLink": "1007381825621299200", 
+                "Place": "Granger", 
+                "Time": "Thu Jun 14 21:58:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1004512711252889600/tLS3W-Ls_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4359785, 37.7706565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mr_balty", 
+                "Name": "Michael B", 
+                "Tweet": "From three to eight over par....in just a few holes. Dang, Tiger. \n\n#USOpen #ShinnecockHills https://t.co/yCoFaxzlUG", 
+                "TweetLink": "1007382154471342080", 
+                "Place": "San Francisco", 
+                "Time": "Thu Jun 14 21:59:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859287606139510784/YUDjnx57_normal.jpg"
+            }
         }
     ]
 }
