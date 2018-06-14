@@ -832,6 +832,162 @@
                 "Time": "Thu Jun 14 03:31:31 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/778977361010319364/yYHjAGzF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "haseebvirk", 
+                "Name": "Haseeb Anwar Virk", 
+                "Tweet": "Let's win the #USOpen #Tiger https://t.co/qZwbuWWlNn", 
+                "TweetLink": "1007105840212598786", 
+                "Place": "Brampton", 
+                "Time": "Thu Jun 14 03:41:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947997284083445760/m02KcE24_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WISN_Watson", 
+                "Name": "Stephen Watson", 
+                "Tweet": "Head says DJ, heart says Rickie gets his first this weekend at Shinnecock. #USOpen", 
+                "TweetLink": "1007107116241481728", 
+                "Place": "Milwaukee", 
+                "Time": "Thu Jun 14 03:47:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/858893367849218052/P5LwmAw4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.402481, 57.473151]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CakeMammaJools", 
+                "Name": "Jools/Cake Mamma", 
+                "Tweet": "Does it make me a bad mum to hope the 40mph winds keep up and junior coaching is off tonight as I\u2019m just about to s\u2026 https://t.co/roWxuG9N4q", 
+                "TweetLink": "1007224903618187266", 
+                "Place": "Drumchardine", 
+                "Time": "Thu Jun 14 11:35:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/869635220152217600/2Ze9CNEc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.5205175, 40.874933]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfbettingguys", 
+                "Name": "GolfBettingGuys", 
+                "Tweet": "They made a big deal out of the traffic for the #usopen but it\u2019s way worse than they said.  It is an absolute nightmare.", 
+                "TweetLink": "1007224912547926023", 
+                "Place": "Hampton Bays", 
+                "Time": "Thu Jun 14 11:35:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/846859754521722880/9e8spq06_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "620wdae", 
+                "Name": "WDAE", 
+                "Tweet": "NEXT: Thursday Top 3: What To Watch This Weekend \ud83d\udc40\n\n#WorldCup #RaysUp #USOpen - Movies - TV - Plays ?\n\nJoin\u2026 https://t.co/TB5U61T3kQ", 
+                "TweetLink": "1007224913168666624", 
+                "Place": "Tampa", 
+                "Time": "Thu Jun 14 11:35:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999490845932843010/b7TZrPUC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4590425, 40.8868525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jmarchese", 
+                "Name": "John Marchese", 
+                "Tweet": "Live from the #USOpen. Let's go @JordanSpieth &amp; @TigerWoods #GoTime #PGA #Shinnecock", 
+                "TweetLink": "1007225208959307777", 
+                "Place": "Shinnecock Hills", 
+                "Time": "Thu Jun 14 11:36:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000605665291/825cdbdfbb1d828e6c2ed67ece17c337_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.17406, 40.806464]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanAsselta", 
+                "Name": "RyanAsselta", 
+                "Tweet": "Tiger tees off 1:47 pm ET #USOpen https://t.co/hNhynLWSNN", 
+                "TweetLink": "1007225221315776513", 
+                "Place": "Islandia", 
+                "Time": "Thu Jun 14 11:36:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859846062957318145/fGLgDIta_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1205405, 41.7348625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stevenamcqueen", 
+                "Name": "steven mcqueen", 
+                "Tweet": "Excited for this #usopen.  Windy at #shinnecockhills!", 
+                "TweetLink": "1007225394016276480", 
+                "Place": "Granger", 
+                "Time": "Thu Jun 14 11:37:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1004512711252889600/tLS3W-Ls_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "elliott_echols", 
+                "Name": "Elliott Echols", 
+                "Tweet": "Happy Thursday! \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\u26f3\ufe0f https://t.co/FB4BhQJUsI", 
+                "TweetLink": "1007225407249305601", 
+                "Place": "Washington", 
+                "Time": "Thu Jun 14 11:37:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007007801129029632/u-6tE4oq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Sport24news", 
+                "Name": "Sport24News", 
+                "Tweet": "It\u2019s the opening round of the #USOpen at Shinnecock Hills Golf Course. 6 South Africans will compete this week https://t.co/2TTqzWwH0f", 
+                "TweetLink": "1007225602414448641", 
+                "Place": "Shinnecock Hills Golf Club", 
+                "Time": "Thu Jun 14 11:37:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876705990456094720/eAf_U28o_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bradsgolf23", 
+                "Name": "andrew bradley", 
+                "Tweet": "Sun rising over Shinnecock today #usopen\u2026 https://t.co/GjZpNzwXBk", 
+                "TweetLink": "1007225749164748800", 
+                "Place": "New York", 
+                "Time": "Thu Jun 14 11:38:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/675054571425779714/rLxakZqw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.6236445, 41.3522275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Beecher_Hoops", 
+                "Name": "Beecher Softball (temporarily)", 
+                "Tweet": "#USOpen picks\n\nWho I think will win: Justin Rose\nWho I want to win: Eldrick\nSleeper: Kevin Kisner", 
+                "TweetLink": "1007225800943337473", 
+                "Place": "Beecher", 
+                "Time": "Thu Jun 14 11:38:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/828966548668874753/ZyhJ7d9v_normal.jpg"
+            }
         }
     ]
 }
