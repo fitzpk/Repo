@@ -1131,6 +1131,84 @@
                 "Time": "Thu Jun 14 21:29:13 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1004512711252889600/tLS3W-Ls_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-69.991797, 41.688075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "meowster69", 
+                "Name": "Steph Cooler", 
+                "Tweet": "@Buck you look like a purse #roadtoshinnecock #usopen", 
+                "TweetLink": "1007374671849951238", 
+                "Place": "Chatham", 
+                "Time": "Thu Jun 14 21:30:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3070488911/fabfbb422498b2370cc502481ab9eb2c_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.813645, 30.5059585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ARGonzalez22", 
+                "Name": "Adrian Gonzalez", 
+                "Tweet": "Unless Rich Beem steps on it.  \n#USOpen https://t.co/oeEEf05Gbr", 
+                "TweetLink": "1007376467267813376", 
+                "Place": "Cedar Park", 
+                "Time": "Thu Jun 14 21:37:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951195405236269056/aoFMai-t_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "psmanning", 
+                "Name": "Patty Manning", 
+                "Tweet": "#USOpen https://t.co/phEx5Dh4jP", 
+                "TweetLink": "1007376567608266754", 
+                "Place": "Shinnecock Hills Golf Club", 
+                "Time": "Thu Jun 14 21:37:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/215352867/running_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.8906405, 52.4939665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LickeyHillsGolf", 
+                "Name": "Lickey Hills Golf Course", 
+                "Tweet": "BRUTAL !!!!! #USOpen #USOpen2018 \nThat is all", 
+                "TweetLink": "1007376836714811392", 
+                "Place": "Birmingham", 
+                "Time": "Thu Jun 14 21:38:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981188445468069888/bOLvUcQl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.892613, 41.0064505]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gocke_dojo", 
+                "Name": "Curtis Gocke", 
+                "Tweet": "@coachklein4 I seriously was looking around and thinking the clinking noise was in my house ??? #cupmicrophones #USOpen", 
+                "TweetLink": "1007376926309273600", 
+                "Place": "Plattsmouth", 
+                "Time": "Thu Jun 14 21:39:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001958611688591360/4rXipIHe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.420487, 40.900615]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stoolpresidente", 
+                "Name": "Dave Portnoy", 
+                "Tweet": "All these \u201cpros\u201d complaining about the wind.   You didn\u2019t hear me complain about it. #usopen https://t.co/81wuEAfDKA", 
+                "TweetLink": "1007377099114668033", 
+                "Place": "Tuckahoe", 
+                "Time": "Thu Jun 14 21:39:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/598493860336148480/SaR7gKvr_normal.jpg"
+            }
         }
     ]
 }
