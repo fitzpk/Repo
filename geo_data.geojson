@@ -624,6 +624,32 @@
                 "Time": "Thu Jun 14 02:55:10 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/947929883627450368/8Mkvj2lZ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.5205175, 40.874933]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MartinCoulomb", 
+                "Name": "Martin Coulomb", 
+                "Tweet": "Normalement cette ann\u00e9e tout devrait aller... Normalement... #golf #USOpen https://t.co/y8kOa2sSi6", 
+                "TweetLink": "1007097077959155713", 
+                "Place": "Hampton Bays", 
+                "Time": "Thu Jun 14 03:07:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/456323308468727808/owDg3Ou4_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.000802, 57.664958]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ColterBilley", 
+                "Name": "Billey", 
+                "Tweet": "One last thing before bed. Finalizing the winning team in the millionaire maker!! 8 more hours until it all begins!\u2026 https://t.co/aV49hcKC0X", 
+                "TweetLink": "1007097346583216128", 
+                "Place": "Wood Buffalo", 
+                "Time": "Thu Jun 14 03:08:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/881850154642325504/Gclcwxq3_normal.jpg"
+            }
         }
     ]
 }
