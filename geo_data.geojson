@@ -1,4 +1,1253 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.15263, 41.4603025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ToddMeyer2019", 
+                "Name": "Todd Meyer", 
+                "Tweet": "Justin Rose the pick. #USOpen", 
+                "TweetLink": "1007042527684415488", 
+                "Place": "Shorewood Forest", 
+                "Time": "Wed Jun 13 23:30:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/591615488603643904/fT6VQnXu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.461096, 44.9349355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kwhansen223", 
+                "Name": "K.W. Hansen", 
+                "Tweet": "And the weekend begins #poolside #FathersDay #USOpen https://t.co/gDh0i7k1lP", 
+                "TweetLink": "1007044638102966273", 
+                "Place": "Minnetonka", 
+                "Time": "Wed Jun 13 23:38:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/575718450120675328/o91RMglA_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.2705395, 45.00118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tillbilly5", 
+                "Name": "Paul", 
+                "Tweet": "Time to work Tiger!! Many of us are rooting for your success #USOpen #PGA https://t.co/5nykPskvu1", 
+                "TweetLink": "1007044695275528192", 
+                "Place": "Michigan", 
+                "Time": "Wed Jun 13 23:38:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006709113743699974/YE9tOD59_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.879033, 36.596299]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CHOMPJobs", 
+                "Name": "CHOMP", 
+                "Tweet": "Want to work at #CHOMP? We're #hiring in #Monterey, CA! Click for details: https://t.co/zmG4OiPevt #PebbleBeach #USOpen #Nursing #Job #Jobs", 
+                "TweetLink": "1007046092167397376", 
+                "Place": "Monterey", 
+                "Time": "Wed Jun 13 23:44:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/714929890181689344/tQ_UL1ID_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.000802, 57.664958]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ColterBilley", 
+                "Name": "Billey", 
+                "Tweet": "Bet365 gave me a 10 dollar bonus so my bonus #USOpen pick is an each way at 150/1 on Martin Kaymer!! Is it 5 AM yet\u2026 https://t.co/2LR1I6sgET", 
+                "TweetLink": "1007046621152997376", 
+                "Place": "Wood Buffalo", 
+                "Time": "Wed Jun 13 23:46:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/881850154642325504/Gclcwxq3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.716992, 35.3090465]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Im_Kade70", 
+                "Name": "Kade Mackey", 
+                "Tweet": "If Phil wins the US Open, I will literally cry tears of joy\ud83d\ude2d https://t.co/dWCTEtFWhp", 
+                "TweetLink": "1007047546404040704", 
+                "Place": "Oklahoma", 
+                "Time": "Wed Jun 13 23:50:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/926565611349663750/ng0-HobZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.716992, 35.3090465]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Im_Kade70", 
+                "Name": "Kade Mackey", 
+                "Tweet": "If Phil wins the US Open, I will literally cry tears of joy\ud83d\ude2d https://t.co/dWCTEtFWhp", 
+                "TweetLink": "1007047546404040704", 
+                "Place": "Oklahoma", 
+                "Time": "Wed Jun 13 23:50:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/926565611349663750/ng0-HobZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.977717, 40.7055975]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoshX1993", 
+                "Name": "Joshua Albarran", 
+                "Tweet": "Tomorrow the start of the 2018 @FIFAcom #WorldCup \u26bd and the #USOpen\u26f3 and it's all on @FOXTV. @holly_sonders\u2026 https://t.co/CWNznIBsFr", 
+                "TweetLink": "1007048122764353536", 
+                "Place": "New York", 
+                "Time": "Wed Jun 13 23:52:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954488791816908800/WCQZW07N_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.977717, 40.7055975]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoshX1993", 
+                "Name": "Joshua Albarran", 
+                "Tweet": "Tomorrow the start of the 2018 @FIFAcom #WorldCup \u26bd and the #USOpen\u26f3 and it's all on @FOXTV. @holly_sonders\u2026 https://t.co/CWNznIBsFr", 
+                "TweetLink": "1007048122764353536", 
+                "Place": "New York", 
+                "Time": "Wed Jun 13 23:52:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954488791816908800/WCQZW07N_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5976865, 43.2916325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sa_vernon", 
+                "Name": "Steve Vernon", 
+                "Tweet": "@y2smitho I'm going with Reed to win the #USOpen. He likes the big events and majors. 2nd is Fleetwood. 3rd is Rose. Who you got?", 
+                "TweetLink": "1007048137993834497", 
+                "Place": "Ithaca", 
+                "Time": "Wed Jun 13 23:52:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993606462369947648/VNsctpwB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5976865, 43.2916325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sa_vernon", 
+                "Name": "Steve Vernon", 
+                "Tweet": "@y2smitho I'm going with Reed to win the #USOpen. He likes the big events and majors. 2nd is Fleetwood. 3rd is Rose. Who you got?", 
+                "TweetLink": "1007048137993834497", 
+                "Place": "Ithaca", 
+                "Time": "Wed Jun 13 23:52:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993606462369947648/VNsctpwB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1429225, 39.7795625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "1BAPONI", 
+                "Name": "Paul Bowman", 
+                "Tweet": "Love this time of the year!! #USOpen2018 https://t.co/SvJqukBRb4", 
+                "TweetLink": "1007048374875508736", 
+                "Place": "Indianapolis", 
+                "Time": "Wed Jun 13 23:53:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959634529098006528/E1XcZCvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1429225, 39.7795625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "1BAPONI", 
+                "Name": "Paul Bowman", 
+                "Tweet": "Love this time of the year!! #USOpen2018 https://t.co/SvJqukBRb4", 
+                "TweetLink": "1007048374875508736", 
+                "Place": "Indianapolis", 
+                "Time": "Wed Jun 13 23:53:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959634529098006528/E1XcZCvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Westyorks2ny", 
+                "Name": "Chris Waite", 
+                "Tweet": "@BeefGolf @carlosparis75 Bring that beef baby!!!! \ud83d\udc2e\ud83d\udc2e #USOpen", 
+                "TweetLink": "1007050409813430273", 
+                "Place": "South Carolina", 
+                "Time": "Thu Jun 14 00:01:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3019549749/06f4439a8fb97537c014eed4c3907957_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Westyorks2ny", 
+                "Name": "Chris Waite", 
+                "Tweet": "@BeefGolf @carlosparis75 Bring that beef baby!!!! \ud83d\udc2e\ud83d\udc2e #USOpen", 
+                "TweetLink": "1007050409813430273", 
+                "Place": "South Carolina", 
+                "Time": "Thu Jun 14 00:01:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3019549749/06f4439a8fb97537c014eed4c3907957_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.6909725, 35.0922805]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bradweaver22", 
+                "Name": "Brad  Weaver", 
+                "Tweet": "\ud83d\udc40@kjerniganunc https://t.co/J62FsTIzDa", 
+                "TweetLink": "1007055516655325185", 
+                "Place": "Stallings", 
+                "Time": "Thu Jun 14 00:22:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/510935744761061376/PldHLvh-_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.6909725, 35.0922805]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bradweaver22", 
+                "Name": "Brad  Weaver", 
+                "Tweet": "\ud83d\udc40@kjerniganunc https://t.co/J62FsTIzDa", 
+                "TweetLink": "1007055516655325185", 
+                "Place": "Stallings", 
+                "Time": "Thu Jun 14 00:22:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/510935744761061376/PldHLvh-_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.8718135, 45.491334]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "18_4_LIFE", 
+                "Name": "The Me", 
+                "Tweet": "10 hours of #USOpen golf Thurs &amp; Fri - why yes, Yes I did take Friday off.", 
+                "TweetLink": "1007059143755120641", 
+                "Place": "Aloha", 
+                "Time": "Thu Jun 14 00:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002656456234029057/wZ5rjdE__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.8718135, 45.491334]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "18_4_LIFE", 
+                "Name": "The Me", 
+                "Tweet": "10 hours of #USOpen golf Thurs &amp; Fri - why yes, Yes I did take Friday off.", 
+                "TweetLink": "1007059143755120641", 
+                "Place": "Aloha", 
+                "Time": "Thu Jun 14 00:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002656456234029057/wZ5rjdE__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.8718135, 45.491334]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "18_4_LIFE", 
+                "Name": "The Me", 
+                "Tweet": "10 hours of #USOpen golf Thurs &amp; Fri - why yes, Yes I did take Friday off.", 
+                "TweetLink": "1007059143755120641", 
+                "Place": "Aloha", 
+                "Time": "Thu Jun 14 00:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002656456234029057/wZ5rjdE__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.8718135, 45.491334]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "18_4_LIFE", 
+                "Name": "The Me", 
+                "Tweet": "10 hours of #USOpen golf Thurs &amp; Fri - why yes, Yes I did take Friday off.", 
+                "TweetLink": "1007059143755120641", 
+                "Place": "Aloha", 
+                "Time": "Thu Jun 14 00:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002656456234029057/wZ5rjdE__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.391834, 40.885226]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WilsonGolf", 
+                "Name": "Wilson Golf", 
+                "Tweet": "\ud83c\uddfa\ud83c\uddf8 RT &amp; FOLLOW for your chance to win this limited edition #WilsonStaff Putter Head Cover! \ud83c\uddfa\ud83c\uddf8\n\nYou won't find one o\u2026 https://t.co/Nc6BcBKmIr", 
+                "TweetLink": "1007062371045642240", 
+                "Place": "Southampton", 
+                "Time": "Thu Jun 14 00:49:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006219371579170817/i8vUg2GU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.391834, 40.885226]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WilsonGolf", 
+                "Name": "Wilson Golf", 
+                "Tweet": "\ud83c\uddfa\ud83c\uddf8 RT &amp; FOLLOW for your chance to win this limited edition #WilsonStaff Putter Head Cover! \ud83c\uddfa\ud83c\uddf8\n\nYou won't find one o\u2026 https://t.co/Nc6BcBKmIr", 
+                "TweetLink": "1007062371045642240", 
+                "Place": "Southampton", 
+                "Time": "Thu Jun 14 00:49:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006219371579170817/i8vUg2GU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.391834, 40.885226]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WilsonGolf", 
+                "Name": "Wilson Golf", 
+                "Tweet": "\ud83c\uddfa\ud83c\uddf8 RT &amp; FOLLOW for your chance to win this limited edition #WilsonStaff Putter Head Cover! \ud83c\uddfa\ud83c\uddf8\n\nYou won't find one o\u2026 https://t.co/Nc6BcBKmIr", 
+                "TweetLink": "1007062371045642240", 
+                "Place": "Southampton", 
+                "Time": "Thu Jun 14 00:49:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006219371579170817/i8vUg2GU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.391834, 40.885226]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WilsonGolf", 
+                "Name": "Wilson Golf", 
+                "Tweet": "\ud83c\uddfa\ud83c\uddf8 RT &amp; FOLLOW for your chance to win this limited edition #WilsonStaff Putter Head Cover! \ud83c\uddfa\ud83c\uddf8\n\nYou won't find one o\u2026 https://t.co/Nc6BcBKmIr", 
+                "TweetLink": "1007062371045642240", 
+                "Place": "Southampton", 
+                "Time": "Thu Jun 14 00:49:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006219371579170817/i8vUg2GU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.914538, 40.148988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lee_Foster", 
+                "Name": "Lee_Foster", 
+                "Tweet": "Since @AReicosky reminded me that Rocco v Tiger was airing on @FS1, I\u2019m wondering even more now #WTF the @USGA is d\u2026 https://t.co/2oIFq5mrge", 
+                "TweetLink": "1007063146396311552", 
+                "Place": "Westerville", 
+                "Time": "Thu Jun 14 00:52:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2013823272/ty-webb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.914538, 40.148988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lee_Foster", 
+                "Name": "Lee_Foster", 
+                "Tweet": "Since @AReicosky reminded me that Rocco v Tiger was airing on @FS1, I\u2019m wondering even more now #WTF the @USGA is d\u2026 https://t.co/2oIFq5mrge", 
+                "TweetLink": "1007063146396311552", 
+                "Place": "Westerville", 
+                "Time": "Thu Jun 14 00:52:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2013823272/ty-webb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.914538, 40.148988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lee_Foster", 
+                "Name": "Lee_Foster", 
+                "Tweet": "Since @AReicosky reminded me that Rocco v Tiger was airing on @FS1, I\u2019m wondering even more now #WTF the @USGA is d\u2026 https://t.co/2oIFq5mrge", 
+                "TweetLink": "1007063146396311552", 
+                "Place": "Westerville", 
+                "Time": "Thu Jun 14 00:52:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2013823272/ty-webb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.914538, 40.148988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lee_Foster", 
+                "Name": "Lee_Foster", 
+                "Tweet": "Since @AReicosky reminded me that Rocco v Tiger was airing on @FS1, I\u2019m wondering even more now #WTF the @USGA is d\u2026 https://t.co/2oIFq5mrge", 
+                "TweetLink": "1007063146396311552", 
+                "Place": "Westerville", 
+                "Time": "Thu Jun 14 00:52:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2013823272/ty-webb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shanedarby9", 
+                "Name": "Shane", 
+                "Tweet": "#USOpen\ud83c\uddfa\ud83c\uddf8 picks\nJ.Rose\nT.Fleetwood\nM.Kuchar\nF.Molinari\nR.Werenski", 
+                "TweetLink": "1007064077506695169", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 00:56:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865270111703355392/R3NZs9j1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shanedarby9", 
+                "Name": "Shane", 
+                "Tweet": "#USOpen\ud83c\uddfa\ud83c\uddf8 picks\nJ.Rose\nT.Fleetwood\nM.Kuchar\nF.Molinari\nR.Werenski", 
+                "TweetLink": "1007064077506695169", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 00:56:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865270111703355392/R3NZs9j1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shanedarby9", 
+                "Name": "Shane", 
+                "Tweet": "#USOpen\ud83c\uddfa\ud83c\uddf8 picks\nJ.Rose\nT.Fleetwood\nM.Kuchar\nF.Molinari\nR.Werenski", 
+                "TweetLink": "1007064077506695169", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 00:56:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865270111703355392/R3NZs9j1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shanedarby9", 
+                "Name": "Shane", 
+                "Tweet": "#USOpen\ud83c\uddfa\ud83c\uddf8 picks\nJ.Rose\nT.Fleetwood\nM.Kuchar\nF.Molinari\nR.Werenski", 
+                "TweetLink": "1007064077506695169", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 00:56:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865270111703355392/R3NZs9j1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.012265, 33.058496]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theamandashow27", 
+                "Name": "Amanda Myers", 
+                "Tweet": "This thread made me depressed https://t.co/MBhDpsdqm4", 
+                "TweetLink": "1007065853970411520", 
+                "Place": "Maricopa", 
+                "Time": "Thu Jun 14 01:03:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998654282160205825/6gWUc4Ya_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.012265, 33.058496]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theamandashow27", 
+                "Name": "Amanda Myers", 
+                "Tweet": "This thread made me depressed https://t.co/MBhDpsdqm4", 
+                "TweetLink": "1007065853970411520", 
+                "Place": "Maricopa", 
+                "Time": "Thu Jun 14 01:03:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998654282160205825/6gWUc4Ya_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.012265, 33.058496]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theamandashow27", 
+                "Name": "Amanda Myers", 
+                "Tweet": "This thread made me depressed https://t.co/MBhDpsdqm4", 
+                "TweetLink": "1007065853970411520", 
+                "Place": "Maricopa", 
+                "Time": "Thu Jun 14 01:03:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998654282160205825/6gWUc4Ya_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.012265, 33.058496]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theamandashow27", 
+                "Name": "Amanda Myers", 
+                "Tweet": "This thread made me depressed https://t.co/MBhDpsdqm4", 
+                "TweetLink": "1007065853970411520", 
+                "Place": "Maricopa", 
+                "Time": "Thu Jun 14 01:03:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998654282160205825/6gWUc4Ya_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.1432625, 45.4945515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrBurton09", 
+                "Name": "Jason Burton", 
+                "Tweet": "Watching US Open Epics on @FS1. What a great show!!! @RoccoMediate is pure class!!!! #USOpen", 
+                "TweetLink": "1007065959033720832", 
+                "Place": "Idaho", 
+                "Time": "Thu Jun 14 01:03:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965032109046812672/RsiHA3jS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.1432625, 45.4945515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrBurton09", 
+                "Name": "Jason Burton", 
+                "Tweet": "Watching US Open Epics on @FS1. What a great show!!! @RoccoMediate is pure class!!!! #USOpen", 
+                "TweetLink": "1007065959033720832", 
+                "Place": "Idaho", 
+                "Time": "Thu Jun 14 01:03:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965032109046812672/RsiHA3jS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.1432625, 45.4945515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrBurton09", 
+                "Name": "Jason Burton", 
+                "Tweet": "Watching US Open Epics on @FS1. What a great show!!! @RoccoMediate is pure class!!!! #USOpen", 
+                "TweetLink": "1007065959033720832", 
+                "Place": "Idaho", 
+                "Time": "Thu Jun 14 01:03:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965032109046812672/RsiHA3jS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.1432625, 45.4945515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrBurton09", 
+                "Name": "Jason Burton", 
+                "Tweet": "Watching US Open Epics on @FS1. What a great show!!! @RoccoMediate is pure class!!!! #USOpen", 
+                "TweetLink": "1007065959033720832", 
+                "Place": "Idaho", 
+                "Time": "Thu Jun 14 01:03:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965032109046812672/RsiHA3jS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.4605805, 44.0501965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RYANFABRO590", 
+                "Name": "Ryan Fabro", 
+                "Tweet": "Thursday on @BradyandPrice @fan590 - 730: @RealKyper #nhl , 750: Tix!! , 815: @ChrisDiMarco #USOpen , 830: @RaeComm #WorldCup2018", 
+                "TweetLink": "1007066306397421568", 
+                "Place": "Newmarket", 
+                "Time": "Thu Jun 14 01:04:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2392250278/fabro_20sign_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.4605805, 44.0501965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RYANFABRO590", 
+                "Name": "Ryan Fabro", 
+                "Tweet": "Thursday on @BradyandPrice @fan590 - 730: @RealKyper #nhl , 750: Tix!! , 815: @ChrisDiMarco #USOpen , 830: @RaeComm #WorldCup2018", 
+                "TweetLink": "1007066306397421568", 
+                "Place": "Newmarket", 
+                "Time": "Thu Jun 14 01:04:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2392250278/fabro_20sign_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.4605805, 44.0501965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RYANFABRO590", 
+                "Name": "Ryan Fabro", 
+                "Tweet": "Thursday on @BradyandPrice @fan590 - 730: @RealKyper #nhl , 750: Tix!! , 815: @ChrisDiMarco #USOpen , 830: @RaeComm #WorldCup2018", 
+                "TweetLink": "1007066306397421568", 
+                "Place": "Newmarket", 
+                "Time": "Thu Jun 14 01:04:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2392250278/fabro_20sign_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.4605805, 44.0501965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RYANFABRO590", 
+                "Name": "Ryan Fabro", 
+                "Tweet": "Thursday on @BradyandPrice @fan590 - 730: @RealKyper #nhl , 750: Tix!! , 815: @ChrisDiMarco #USOpen , 830: @RaeComm #WorldCup2018", 
+                "TweetLink": "1007066306397421568", 
+                "Place": "Newmarket", 
+                "Time": "Thu Jun 14 01:04:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2392250278/fabro_20sign_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewichter", 
+                "Name": "andy miller", 
+                "Tweet": "@mrfederal0 Going to the #USOpen in N.Y.   and you?", 
+                "TweetLink": "1007066387666341888", 
+                "Place": "Massachusetts", 
+                "Time": "Thu Jun 14 01:05:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewichter", 
+                "Name": "andy miller", 
+                "Tweet": "@mrfederal0 Going to the #USOpen in N.Y.   and you?", 
+                "TweetLink": "1007066387666341888", 
+                "Place": "Massachusetts", 
+                "Time": "Thu Jun 14 01:05:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewichter", 
+                "Name": "andy miller", 
+                "Tweet": "@mrfederal0 Going to the #USOpen in N.Y.   and you?", 
+                "TweetLink": "1007066387666341888", 
+                "Place": "Massachusetts", 
+                "Time": "Thu Jun 14 01:05:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewichter", 
+                "Name": "andy miller", 
+                "Tweet": "@mrfederal0 Going to the #USOpen in N.Y.   and you?", 
+                "TweetLink": "1007066387666341888", 
+                "Place": "Massachusetts", 
+                "Time": "Thu Jun 14 01:05:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LThompsonGC", 
+                "Name": "Lauren Thompson", 
+                "Tweet": "ADORABLE...a Happy First Fathers Day! (P.S. I\u2019m thinking Stenson this week) https://t.co/6MPoHlkKfY", 
+                "TweetLink": "1007066890982703104", 
+                "Place": "Florida", 
+                "Time": "Thu Jun 14 01:07:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876627139847745537/8ne3zObV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1366095, 40.0357415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "a_disberry", 
+                "Name": "Alex", 
+                "Tweet": "Please give me this this weekend that\u2019s all I ask https://t.co/Nr8yQbwsNp", 
+                "TweetLink": "1007067275093069825", 
+                "Place": "Westfield", 
+                "Time": "Thu Jun 14 01:08:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/481292366033485825/jNBeg_EB_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1366095, 40.0357415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "a_disberry", 
+                "Name": "Alex", 
+                "Tweet": "Please give me this this weekend that\u2019s all I ask https://t.co/Nr8yQbwsNp", 
+                "TweetLink": "1007067275093069825", 
+                "Place": "Westfield", 
+                "Time": "Thu Jun 14 01:08:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/481292366033485825/jNBeg_EB_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.0369695, 39.932209]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timcook88", 
+                "Name": "Tim Cook", 
+                "Tweet": "The #USOpen starts tomorrow! Bring the carnage.", 
+                "TweetLink": "1007069777800638464", 
+                "Place": "New Carlisle", 
+                "Time": "Thu Jun 14 01:18:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007014095466455040/PuxnYPw__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.0369695, 39.932209]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timcook88", 
+                "Name": "Tim Cook", 
+                "Tweet": "The #USOpen starts tomorrow! Bring the carnage.", 
+                "TweetLink": "1007069777800638464", 
+                "Place": "New Carlisle", 
+                "Time": "Thu Jun 14 01:18:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007014095466455040/PuxnYPw__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.0369695, 39.932209]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timcook88", 
+                "Name": "Tim Cook", 
+                "Tweet": "The #USOpen starts tomorrow! Bring the carnage.", 
+                "TweetLink": "1007069777800638464", 
+                "Place": "New Carlisle", 
+                "Time": "Thu Jun 14 01:18:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007014095466455040/PuxnYPw__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.0369695, 39.932209]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timcook88", 
+                "Name": "Tim Cook", 
+                "Tweet": "The #USOpen starts tomorrow! Bring the carnage.", 
+                "TweetLink": "1007069777800638464", 
+                "Place": "New Carlisle", 
+                "Time": "Thu Jun 14 01:18:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007014095466455040/PuxnYPw__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.760091, 33.385555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JPosey316", 
+                "Name": "JP", 
+                "Tweet": "@JOXRoundtable @wimpsanderson1 Lock of the year: @TigerWoods will win #USOpen", 
+                "TweetLink": "1007070741840396290", 
+                "Place": "Hoover", 
+                "Time": "Thu Jun 14 01:22:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951831173197697024/U8U1YTme_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.760091, 33.385555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JPosey316", 
+                "Name": "JP", 
+                "Tweet": "@JOXRoundtable @wimpsanderson1 Lock of the year: @TigerWoods will win #USOpen", 
+                "TweetLink": "1007070741840396290", 
+                "Place": "Hoover", 
+                "Time": "Thu Jun 14 01:22:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951831173197697024/U8U1YTme_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.760091, 33.385555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JPosey316", 
+                "Name": "JP", 
+                "Tweet": "@JOXRoundtable @wimpsanderson1 Lock of the year: @TigerWoods will win #USOpen", 
+                "TweetLink": "1007070741840396290", 
+                "Place": "Hoover", 
+                "Time": "Thu Jun 14 01:22:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951831173197697024/U8U1YTme_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.760091, 33.385555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JPosey316", 
+                "Name": "JP", 
+                "Tweet": "@JOXRoundtable @wimpsanderson1 Lock of the year: @TigerWoods will win #USOpen", 
+                "TweetLink": "1007070741840396290", 
+                "Place": "Hoover", 
+                "Time": "Thu Jun 14 01:22:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951831173197697024/U8U1YTme_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "claywsyx6", 
+                "Name": "Clay Hall", 
+                "Tweet": "Great talking last week @ Scarlet Will.  You belong. https://t.co/Uahl0b3pjz", 
+                "TweetLink": "1007071321967165440", 
+                "Place": "Upper Arlington", 
+                "Time": "Thu Jun 14 01:24:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998111214155718656/lIr4Q-5Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "claywsyx6", 
+                "Name": "Clay Hall", 
+                "Tweet": "Great talking last week @ Scarlet Will.  You belong. https://t.co/Uahl0b3pjz", 
+                "TweetLink": "1007071321967165440", 
+                "Place": "Upper Arlington", 
+                "Time": "Thu Jun 14 01:24:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998111214155718656/lIr4Q-5Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8709395, 37.6989725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cody12c", 
+                "Name": "Cody Crim", 
+                "Tweet": "Ready for the #USOpen", 
+                "TweetLink": "1007072918860455941", 
+                "Place": "Elizabethtown", 
+                "Time": "Thu Jun 14 01:31:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934569391806713856/qepNyMNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8709395, 37.6989725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cody12c", 
+                "Name": "Cody Crim", 
+                "Tweet": "Ready for the #USOpen", 
+                "TweetLink": "1007072918860455941", 
+                "Place": "Elizabethtown", 
+                "Time": "Thu Jun 14 01:31:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934569391806713856/qepNyMNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8709395, 37.6989725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cody12c", 
+                "Name": "Cody Crim", 
+                "Tweet": "Ready for the #USOpen", 
+                "TweetLink": "1007072918860455941", 
+                "Place": "Elizabethtown", 
+                "Time": "Thu Jun 14 01:31:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934569391806713856/qepNyMNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.8709395, 37.6989725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cody12c", 
+                "Name": "Cody Crim", 
+                "Tweet": "Ready for the #USOpen", 
+                "TweetLink": "1007072918860455941", 
+                "Place": "Elizabethtown", 
+                "Time": "Thu Jun 14 01:31:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934569391806713856/qepNyMNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.6493115, 31.6139415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "camarnold8", 
+                "Name": "Cam Arnold", 
+                "Tweet": "The #WorldCup and #USOpen start tomorrow \ud83d\ude0d", 
+                "TweetLink": "1007072949470420992", 
+                "Place": "Nacogdoches", 
+                "Time": "Thu Jun 14 01:31:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002774668128944128/qyLpp2HJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.6493115, 31.6139415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "camarnold8", 
+                "Name": "Cam Arnold", 
+                "Tweet": "The #WorldCup and #USOpen start tomorrow \ud83d\ude0d", 
+                "TweetLink": "1007072949470420992", 
+                "Place": "Nacogdoches", 
+                "Time": "Thu Jun 14 01:31:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002774668128944128/qyLpp2HJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.6493115, 31.6139415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "camarnold8", 
+                "Name": "Cam Arnold", 
+                "Tweet": "The #WorldCup and #USOpen start tomorrow \ud83d\ude0d", 
+                "TweetLink": "1007072949470420992", 
+                "Place": "Nacogdoches", 
+                "Time": "Thu Jun 14 01:31:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002774668128944128/qyLpp2HJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.6493115, 31.6139415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "camarnold8", 
+                "Name": "Cam Arnold", 
+                "Tweet": "The #WorldCup and #USOpen start tomorrow \ud83d\ude0d", 
+                "TweetLink": "1007072949470420992", 
+                "Place": "Nacogdoches", 
+                "Time": "Thu Jun 14 01:31:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002774668128944128/qyLpp2HJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[27.968098, -26.2761385]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Oyama_Dyosiba", 
+                "Name": "Oyama Dyosiba", 
+                "Tweet": "They sure did. https://t.co/azVC3yTZor", 
+                "TweetLink": "1007073181352505344", 
+                "Place": "Johannesburg", 
+                "Time": "Thu Jun 14 01:32:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005860864342265856/rL16n51h_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FoxSportsAusPR", 
+                "Name": "FOX SPORTS PR", 
+                "Tweet": "\u26f3\ufe0f\ud83c\udf33\ud83c\udfcc\ufe0f\u200d\u2640\ufe0fThe #USOpen tees off tonight! What a weekend of LIVE SPORT on @FOXSportsAUS \ud83d\udcfa\n\nhttps://t.co/TBe7Rffcb3", 
+                "TweetLink": "1007073829569454080", 
+                "Place": "Sydney", 
+                "Time": "Thu Jun 14 01:34:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/743225487153995776/iQSGBHeM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FoxSportsAusPR", 
+                "Name": "FOX SPORTS PR", 
+                "Tweet": "\u26f3\ufe0f\ud83c\udf33\ud83c\udfcc\ufe0f\u200d\u2640\ufe0fThe #USOpen tees off tonight! What a weekend of LIVE SPORT on @FOXSportsAUS \ud83d\udcfa\n\nhttps://t.co/TBe7Rffcb3", 
+                "TweetLink": "1007073829569454080", 
+                "Place": "Sydney", 
+                "Time": "Thu Jun 14 01:34:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/743225487153995776/iQSGBHeM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FoxSportsAusPR", 
+                "Name": "FOX SPORTS PR", 
+                "Tweet": "\u26f3\ufe0f\ud83c\udf33\ud83c\udfcc\ufe0f\u200d\u2640\ufe0fThe #USOpen tees off tonight! What a weekend of LIVE SPORT on @FOXSportsAUS \ud83d\udcfa\n\nhttps://t.co/TBe7Rffcb3", 
+                "TweetLink": "1007073829569454080", 
+                "Place": "Sydney", 
+                "Time": "Thu Jun 14 01:34:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/743225487153995776/iQSGBHeM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FoxSportsAusPR", 
+                "Name": "FOX SPORTS PR", 
+                "Tweet": "\u26f3\ufe0f\ud83c\udf33\ud83c\udfcc\ufe0f\u200d\u2640\ufe0fThe #USOpen tees off tonight! What a weekend of LIVE SPORT on @FOXSportsAUS \ud83d\udcfa\n\nhttps://t.co/TBe7Rffcb3", 
+                "TweetLink": "1007073829569454080", 
+                "Place": "Sydney", 
+                "Time": "Thu Jun 14 01:34:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/743225487153995776/iQSGBHeM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.0882025, 30.366051]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CJRan4", 
+                "Name": "Chris Randolph", 
+                "Tweet": "#USOpen \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\n\nFavorite: Henrik Stenson\nSleeper: Matt Kuchar\nMy Heart says: \ud83d\udc05\n\nWhat\u2019s say you @BrentRandolph https://t.co/dQMJl4KAc7", 
+                "TweetLink": "1007074937729880064", 
+                "Place": "Navasota", 
+                "Time": "Thu Jun 14 01:39:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884396400884273153/rHTR7_Kg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.0882025, 30.366051]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CJRan4", 
+                "Name": "Chris Randolph", 
+                "Tweet": "#USOpen \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\n\nFavorite: Henrik Stenson\nSleeper: Matt Kuchar\nMy Heart says: \ud83d\udc05\n\nWhat\u2019s say you @BrentRandolph https://t.co/dQMJl4KAc7", 
+                "TweetLink": "1007074937729880064", 
+                "Place": "Navasota", 
+                "Time": "Thu Jun 14 01:39:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884396400884273153/rHTR7_Kg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.0882025, 30.366051]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CJRan4", 
+                "Name": "Chris Randolph", 
+                "Tweet": "#USOpen \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\n\nFavorite: Henrik Stenson\nSleeper: Matt Kuchar\nMy Heart says: \ud83d\udc05\n\nWhat\u2019s say you @BrentRandolph https://t.co/dQMJl4KAc7", 
+                "TweetLink": "1007074937729880064", 
+                "Place": "Navasota", 
+                "Time": "Thu Jun 14 01:39:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884396400884273153/rHTR7_Kg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.0882025, 30.366051]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CJRan4", 
+                "Name": "Chris Randolph", 
+                "Tweet": "#USOpen \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\n\nFavorite: Henrik Stenson\nSleeper: Matt Kuchar\nMy Heart says: \ud83d\udc05\n\nWhat\u2019s say you @BrentRandolph https://t.co/dQMJl4KAc7", 
+                "TweetLink": "1007074937729880064", 
+                "Place": "Navasota", 
+                "Time": "Thu Jun 14 01:39:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884396400884273153/rHTR7_Kg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.708795, 42.897879]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cameron777", 
+                "Name": "ProudMilitaryMama", 
+                "Tweet": "@TaylorMadeGolf #sweeps #USOpen", 
+                "TweetLink": "1007076519414583298", 
+                "Place": "Wyoming", 
+                "Time": "Thu Jun 14 01:45:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993213666190348289/Vujpp5zk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.708795, 42.897879]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cameron777", 
+                "Name": "ProudMilitaryMama", 
+                "Tweet": "@TaylorMadeGolf #sweeps #USOpen", 
+                "TweetLink": "1007076519414583298", 
+                "Place": "Wyoming", 
+                "Time": "Thu Jun 14 01:45:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993213666190348289/Vujpp5zk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.708795, 42.897879]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cameron777", 
+                "Name": "ProudMilitaryMama", 
+                "Tweet": "@TaylorMadeGolf #sweeps #USOpen", 
+                "TweetLink": "1007076519414583298", 
+                "Place": "Wyoming", 
+                "Time": "Thu Jun 14 01:45:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993213666190348289/Vujpp5zk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.708795, 42.897879]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cameron777", 
+                "Name": "ProudMilitaryMama", 
+                "Tweet": "@TaylorMadeGolf #sweeps #USOpen", 
+                "TweetLink": "1007076519414583298", 
+                "Place": "Wyoming", 
+                "Time": "Thu Jun 14 01:45:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993213666190348289/Vujpp5zk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.6965625, 40.803235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jaymoore44", 
+                "Name": "Jay Moore", 
+                "Tweet": "#USOpen Picks:\n- Fleetwood\n- Rickie\n- DJ\n- Rose\n- Koepka", 
+                "TweetLink": "1007076553392615431", 
+                "Place": "Lincoln", 
+                "Time": "Thu Jun 14 01:45:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985869869399801857/lhy4kMQY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.6965625, 40.803235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jaymoore44", 
+                "Name": "Jay Moore", 
+                "Tweet": "#USOpen Picks:\n- Fleetwood\n- Rickie\n- DJ\n- Rose\n- Koepka", 
+                "TweetLink": "1007076553392615431", 
+                "Place": "Lincoln", 
+                "Time": "Thu Jun 14 01:45:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985869869399801857/lhy4kMQY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.6965625, 40.803235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jaymoore44", 
+                "Name": "Jay Moore", 
+                "Tweet": "#USOpen Picks:\n- Fleetwood\n- Rickie\n- DJ\n- Rose\n- Koepka", 
+                "TweetLink": "1007076553392615431", 
+                "Place": "Lincoln", 
+                "Time": "Thu Jun 14 01:45:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985869869399801857/lhy4kMQY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.6965625, 40.803235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jaymoore44", 
+                "Name": "Jay Moore", 
+                "Tweet": "#USOpen Picks:\n- Fleetwood\n- Rickie\n- DJ\n- Rose\n- Koepka", 
+                "TweetLink": "1007076553392615431", 
+                "Place": "Lincoln", 
+                "Time": "Thu Jun 14 01:45:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985869869399801857/lhy4kMQY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.976107, 31.7027385]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LewSharp1", 
+                "Name": "Lew Sharp", 
+                "Tweet": "John sharp and Kevin Sharp https://t.co/8o7roRhZrr", 
+                "TweetLink": "1007082050145247232", 
+                "Place": "Brownwood", 
+                "Time": "Thu Jun 14 02:07:26 +0000 2018", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eboywaller", 
+                "Name": "Ed Waller", 
+                "Tweet": "Tiger is my pick to win the #USOpen", 
+                "TweetLink": "1007083630559145984", 
+                "Place": "Jacksonville Beach", 
+                "Time": "Thu Jun 14 02:13:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945781145949655040/lDJDT3oH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eboywaller", 
+                "Name": "Ed Waller", 
+                "Tweet": "Tiger is my pick to win the #USOpen", 
+                "TweetLink": "1007083630559145984", 
+                "Place": "Jacksonville Beach", 
+                "Time": "Thu Jun 14 02:13:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945781145949655040/lDJDT3oH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eboywaller", 
+                "Name": "Ed Waller", 
+                "Tweet": "Tiger is my pick to win the #USOpen", 
+                "TweetLink": "1007083630559145984", 
+                "Place": "Jacksonville Beach", 
+                "Time": "Thu Jun 14 02:13:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945781145949655040/lDJDT3oH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eboywaller", 
+                "Name": "Ed Waller", 
+                "Tweet": "Tiger is my pick to win the #USOpen", 
+                "TweetLink": "1007083630559145984", 
+                "Place": "Jacksonville Beach", 
+                "Time": "Thu Jun 14 02:13:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945781145949655040/lDJDT3oH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejtheasian", 
+                "Name": "E.J. Luna", 
+                "Tweet": "Nice necklace, @BarstoolTrent. @ForePlayPod #USOpen https://t.co/2DpH160qEo", 
+                "TweetLink": "1007083947782758401", 
+                "Place": "Plainfield", 
+                "Time": "Thu Jun 14 02:14:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejtheasian", 
+                "Name": "E.J. Luna", 
+                "Tweet": "Nice necklace, @BarstoolTrent. @ForePlayPod #USOpen https://t.co/2DpH160qEo", 
+                "TweetLink": "1007083947782758401", 
+                "Place": "Plainfield", 
+                "Time": "Thu Jun 14 02:14:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejtheasian", 
+                "Name": "E.J. Luna", 
+                "Tweet": "Nice necklace, @BarstoolTrent. @ForePlayPod #USOpen https://t.co/2DpH160qEo", 
+                "TweetLink": "1007083947782758401", 
+                "Place": "Plainfield", 
+                "Time": "Thu Jun 14 02:14:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejtheasian", 
+                "Name": "E.J. Luna", 
+                "Tweet": "Nice necklace, @BarstoolTrent. @ForePlayPod #USOpen https://t.co/2DpH160qEo", 
+                "TweetLink": "1007083947782758401", 
+                "Place": "Plainfield", 
+                "Time": "Thu Jun 14 02:14:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
+            }
+        }
+    ]
 }
