@@ -754,6 +754,71 @@
                 "Time": "Thu Jun 14 03:19:56 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/966485034986295296/MehxKaNt_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Looking at Shinnecock I think you\u2019ve got to look at guys who are great iron players and can play strategically for\u2026 https://t.co/VdKsVq2yvn", 
+                "TweetLink": "1007101026653167617", 
+                "Place": "Raleigh", 
+                "Time": "Thu Jun 14 03:22:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Holes like 1, 6, 9, 12, 14 really pinch in around the 300-325 area.  It might take away guys like DJ &amp; Rahm\u2019s bigge\u2026 https://t.co/jHOl4hdQD8", 
+                "TweetLink": "1007101144303357957", 
+                "Place": "Raleigh", 
+                "Time": "Thu Jun 14 03:23:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Holes like 1, 6, 9, 12, 14 really pinch in around the 300-325 area.  It might take away guys like DJ &amp; Rahm\u2019s bigge\u2026 https://t.co/LClIfdNNC4", 
+                "TweetLink": "1007101240763969538", 
+                "Place": "Raleigh", 
+                "Time": "Thu Jun 14 03:23:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Gonna be a great championship.  #USOpen will start to rediscover part of its identity.", 
+                "TweetLink": "1007101743308603394", 
+                "Place": "Raleigh", 
+                "Time": "Thu Jun 14 03:25:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Gonna be a great championship.  #USOpen will start to rediscover part of its identity.", 
+                "TweetLink": "1007101859721613312", 
+                "Place": "Raleigh", 
+                "Time": "Thu Jun 14 03:26:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
         }
     ]
 }
