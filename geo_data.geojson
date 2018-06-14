@@ -1027,6 +1027,19 @@
                 "Time": "Thu Jun 14 11:47:20 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/989960550439321600/CKAgStxl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[55.5511725, 24.9934625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheKiwiOracle", 
+                "Name": "MJA", 
+                "Tweet": "THEY ARE OFF!! PREDICTIONS IN please @usopengolf ?\n\n#USOpen #USOpen2018 \n\n@mikephillips009 @rorylawson9\u2026 https://t.co/bvIYu6zz1w", 
+                "TweetLink": "1007230047512559616", 
+                "Place": "Dubai", 
+                "Time": "Thu Jun 14 11:55:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/708209972509806592/4atxXa0L_normal.jpg"
+            }
         }
     ]
 }
