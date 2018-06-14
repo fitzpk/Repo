@@ -819,6 +819,19 @@
                 "Time": "Thu Jun 14 03:26:09 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.209915, 38.8385265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DebBissen", 
+                "Name": "Deb Bissen", 
+                "Tweet": "Nice story! Hope he has a good #USOpen ! https://t.co/Is2t2okdPH", 
+                "TweetLink": "1007103213919760384", 
+                "Place": "Annandale", 
+                "Time": "Thu Jun 14 03:31:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/778977361010319364/yYHjAGzF_normal.jpg"
+            }
         }
     ]
 }
