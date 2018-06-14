@@ -2236,6 +2236,84 @@
                 "Time": "Thu Jun 14 23:28:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/957360927904542721/Dwmjs3EO_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BuckeyeGuru", 
+                "Name": "Buckeye Guru", 
+                "Tweet": "@BobHarig @JamesWStork @espn How\u2019s the \u201cTiger is not out of it\u201d @espn column going, Bob? Can\u2019t wait to hear the \u201cif\u2026 https://t.co/CR3KIRQ9nh", 
+                "TweetLink": "1007405200569716736", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 23:31:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/614615330808295424/WEpdc87a_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.5746905, 38.0034665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JGentry44News", 
+                "Name": "JoJo Gentry", 
+                "Tweet": "Competing in a major requires major focus. \n\n@DJ_DFunk hopes to regroup after shooting (+7) in Round 1 of the\u2026 https://t.co/YSyhjHPzEm", 
+                "TweetLink": "1007405691064193024", 
+                "Place": "Evansville", 
+                "Time": "Thu Jun 14 23:33:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/870285309971398656/3PVrrPhS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[174.8562435, -36.595729]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "M0_wen", 
+                "Name": "Matt", 
+                "Tweet": "Won't be long before green reading maps filter down to club golf and Alan off a 17 can't believe his eyes it didn't\u2026 https://t.co/KvwtKILWtt", 
+                "TweetLink": "1007405710349500416", 
+                "Place": "Auckland", 
+                "Time": "Thu Jun 14 23:33:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/913692776004435970/XvDCa1_F_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.8529905, 38.928007]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "That_KidMarcus", 
+                "Name": "Marcus", 
+                "Tweet": "Legend https://t.co/uWsbwOrsYp", 
+                "TweetLink": "1007406739698962432", 
+                "Place": "Elkins", 
+                "Time": "Thu Jun 14 23:37:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999809384304660480/jxABCwfN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.815333, 53.1548065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PaddyB_92", 
+                "Name": "Paddy Brady", 
+                "Tweet": "4 players under par after first round of a major...Surely a record? #USOpen", 
+                "TweetLink": "1007406911971569664", 
+                "Place": "Kildare", 
+                "Time": "Thu Jun 14 23:38:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/688506187160137728/VLnn2_E-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-66.8568925, 10.497579]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RevistaFairway", 
+                "Name": "Fairway Magazine", 
+                "Tweet": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f https://t.co/OdcO95Mpul", 
+                "TweetLink": "1007407076086374400", 
+                "Place": "Chacao", 
+                "Time": "Thu Jun 14 23:38:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981571229139324933/Ms656hxJ_normal.jpg"
+            }
         }
     ]
 }
