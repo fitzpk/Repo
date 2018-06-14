@@ -988,6 +988,45 @@
                 "Time": "Thu Jun 14 11:38:38 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/828966548668874753/ZyhJ7d9v_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.3402865, 41.6989755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Gagnon14", 
+                "Name": "Luke Gagnon", 
+                "Tweet": "@TigerWoods and @DJohnsonPGA are paired together! #USOpen", 
+                "TweetLink": "1007227755270950913", 
+                "Place": "Mentor", 
+                "Time": "Thu Jun 14 11:46:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/704686323475435520/X62YXOoi_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Cloranosu", 
+                "Name": "Dan Cloran", 
+                "Tweet": "Proud of you Will. Play well and have fun. Can\u2019t wait to follow along! https://t.co/8s7cdYmXX4", 
+                "TweetLink": "1007227773314830336", 
+                "Place": "Upper Arlington", 
+                "Time": "Thu Jun 14 11:46:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/463944188141514752/VWlNX1rR_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.513973, 36.046538]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "68shooter", 
+                "Name": "Daniel Butler", 
+                "Tweet": "Let\u2019s go Phil! https://t.co/ONdvwAM9d4", 
+                "TweetLink": "1007227986947559424", 
+                "Place": "Paragould", 
+                "Time": "Thu Jun 14 11:47:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989960550439321600/CKAgStxl_normal.jpg"
+            }
         }
     ]
 }
