@@ -1248,6 +1248,110 @@
                 "Time": "Thu Jun 14 02:14:58 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/578261522809503744/7XTfbmwL_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatTully", 
+                "Name": "Patrick J Tully", 
+                "Tweet": "I got Jon Ramm. He\u2019s the only one who can get out of the rough and rescue out there without taking a drop.\u2026 https://t.co/J5Z4I30mll", 
+                "TweetLink": "1007084672067735552", 
+                "Place": "Manhattan", 
+                "Time": "Thu Jun 14 02:17:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725418622894653440/8Q4fxUPZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatTully", 
+                "Name": "Patrick J Tully", 
+                "Tweet": "I got Jon Ramm. He\u2019s the only one who can get out of the rough and rescue out there without taking a drop.\u2026 https://t.co/J5Z4I30mll", 
+                "TweetLink": "1007084672067735552", 
+                "Place": "Manhattan", 
+                "Time": "Thu Jun 14 02:17:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725418622894653440/8Q4fxUPZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatTully", 
+                "Name": "Patrick J Tully", 
+                "Tweet": "I got Jon Ramm. He\u2019s the only one who can get out of the rough and rescue out there without taking a drop.\u2026 https://t.co/J5Z4I30mll", 
+                "TweetLink": "1007084672067735552", 
+                "Place": "Manhattan", 
+                "Time": "Thu Jun 14 02:17:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725418622894653440/8Q4fxUPZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PatTully", 
+                "Name": "Patrick J Tully", 
+                "Tweet": "I got Jon Ramm. He\u2019s the only one who can get out of the rough and rescue out there without taking a drop.\u2026 https://t.co/J5Z4I30mll", 
+                "TweetLink": "1007084672067735552", 
+                "Place": "Manhattan", 
+                "Time": "Thu Jun 14 02:17:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725418622894653440/8Q4fxUPZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Scottykagarice", 
+                "Name": "Beardo", 
+                "Tweet": "Stoked for the US Open to start tomorrow. Let's go Tiger and Phil! #GolfObsessed #USOpen", 
+                "TweetLink": "1007085496751751168", 
+                "Place": "Kansas City", 
+                "Time": "Thu Jun 14 02:21:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994475010642317312/FJEpnxYU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Scottykagarice", 
+                "Name": "Beardo", 
+                "Tweet": "Stoked for the US Open to start tomorrow. Let's go Tiger and Phil! #GolfObsessed #USOpen", 
+                "TweetLink": "1007085496751751168", 
+                "Place": "Kansas City", 
+                "Time": "Thu Jun 14 02:21:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994475010642317312/FJEpnxYU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Scottykagarice", 
+                "Name": "Beardo", 
+                "Tweet": "Stoked for the US Open to start tomorrow. Let's go Tiger and Phil! #GolfObsessed #USOpen", 
+                "TweetLink": "1007085496751751168", 
+                "Place": "Kansas City", 
+                "Time": "Thu Jun 14 02:21:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994475010642317312/FJEpnxYU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Scottykagarice", 
+                "Name": "Beardo", 
+                "Tweet": "Stoked for the US Open to start tomorrow. Let's go Tiger and Phil! #GolfObsessed #USOpen", 
+                "TweetLink": "1007085496751751168", 
+                "Place": "Kansas City", 
+                "Time": "Thu Jun 14 02:21:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994475010642317312/FJEpnxYU_normal.jpg"
+            }
         }
     ]
 }
