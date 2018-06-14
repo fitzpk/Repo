@@ -2158,6 +2158,84 @@
                 "Time": "Thu Jun 14 23:19:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/932332902611931136/Shg3VorE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.3661235, 40.3015115]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "zgamer1O9", 
+                "Name": "BigStantonFan", 
+                "Tweet": "Lol a lot of the big names gonna miss the cut #USOpen", 
+                "TweetLink": "1007403546915037185", 
+                "Place": "Englishtown", 
+                "Time": "Thu Jun 14 23:24:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005444884344565760/nXEHstV8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "josephbona", 
+                "Name": "Joseph Bona", 
+                "Tweet": "Offical #usopen #barstoolsports @ Shinnecock\u2026 https://t.co/LsSVacD8Zu", 
+                "TweetLink": "1007404233291804672", 
+                "Place": "New York", 
+                "Time": "Thu Jun 14 23:27:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961428520575623168/40II7ech_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.0637815, 26.4455085]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Michelle_Regan", 
+                "Name": "Michelle Regan", 
+                "Tweet": "Unreal! #PGA #USOpen https://t.co/WIhckO2j2u", 
+                "TweetLink": "1007404262723411968", 
+                "Place": "Sanibel", 
+                "Time": "Thu Jun 14 23:27:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/762813968557617152/Ry1Zq3tr_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5473325, 28.480712]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BuckeyeGuru", 
+                "Name": "Buckeye Guru", 
+                "Tweet": ".@FOXSportsPR @FOXSports @PaulAzinger @usopengolf @Buck Here\u2019s an\ud83d\udca1for Friday &amp; this wknd: Show live golf (&amp; not exc\u2026 https://t.co/BqiwagFzZB", 
+                "TweetLink": "1007404331094683655", 
+                "Place": "Lake Butler", 
+                "Time": "Thu Jun 14 23:28:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/614615330808295424/WEpdc87a_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tabasco08", 
+                "Name": "Hold Me Closer Tony Danza", 
+                "Tweet": "Sheesh \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f https://t.co/EkQFUUQn8s", 
+                "TweetLink": "1007404379341762560", 
+                "Place": "Columbus", 
+                "Time": "Thu Jun 14 23:28:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006481230974550016/qrO6hKhj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.4952195, 51.3687545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ontario_slim", 
+                "Name": "Simon Gatt", 
+                "Tweet": "@ryanfoxgolfer Wow what a test, Good going today Foxy \ud83d\udc4d\ud83d\udc4f\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\u26f3 #USOpen", 
+                "TweetLink": "1007404539354501120", 
+                "Place": "Addlestone", 
+                "Time": "Thu Jun 14 23:28:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957360927904542721/Dwmjs3EO_normal.jpg"
+            }
         }
     ]
 }
