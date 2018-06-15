@@ -2665,6 +2665,97 @@
                 "Time": "Fri Jun 15 00:29:51 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/666109870756769793/6M3vOzrv_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.8152355, 34.6939215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BlackGirlsGolf", 
+                "Name": "Black Girls Golf\u00ae", 
+                "Tweet": "So much for growing the game. New golfers want to know they too can have some success. Golf is no fun when the cour\u2026 https://t.co/THNkVtQn9k", 
+                "TweetLink": "1007420060972052483", 
+                "Place": "Clemson", 
+                "Time": "Fri Jun 15 00:30:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987050401114435584/W3YtpF4U_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.5300925, 40.7681405]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dave_vollrath", 
+                "Name": "Dave Vollrath", 
+                "Tweet": "#Sweepstakes #USOpen https://t.co/iaDUOAZiqN", 
+                "TweetLink": "1007420132946333697", 
+                "Place": "Hicksville", 
+                "Time": "Fri Jun 15 00:30:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/723710483484827648/YhSbN49Z_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "OKCTA23", 
+                "Name": "Taylor Artman", 
+                "Tweet": "\ud83d\ude02 https://t.co/RhpbARGt6D", 
+                "TweetLink": "1007420468691914752", 
+                "Place": "Arlington", 
+                "Time": "Fri Jun 15 00:32:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933204477867327488/GnMw39ZS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Thank you https://t.co/1elIlr6X2b", 
+                "TweetLink": "1007420470868828160", 
+                "Place": "Raleigh", 
+                "Time": "Fri Jun 15 00:32:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.441236, 39.7665555]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "travisfulton", 
+                "Name": "Travis Fulton", 
+                "Tweet": "Kinda sums the day up #USOPEN https://t.co/9tHdyVpip4", 
+                "TweetLink": "1007421638588190720", 
+                "Place": "Indiana", 
+                "Time": "Fri Jun 15 00:36:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957607505676455936/UL1WX-ti_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.180557, 35.8619035]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chrisem22", 
+                "Name": "CEM", 
+                "Tweet": "Dang, what a terrible first round for Tiger. I don't know if it's me, but it seems like when you think he's going t\u2026 https://t.co/0mWjx6NMrt", 
+                "TweetLink": "1007421809522806785", 
+                "Place": "Farragut", 
+                "Time": "Fri Jun 15 00:37:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/474339303880159232/k-acASRX_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.876449, 32.571032]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JakeThompsonOE", 
+                "Name": "Jake Thompson", 
+                "Tweet": "Braden scored right on the round average today https://t.co/6FmqOPGVFz", 
+                "TweetLink": "1007421879504818176", 
+                "Place": "Mississippi", 
+                "Time": "Fri Jun 15 00:37:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001843892008996865/wZG0ViYn_normal.jpg"
+            }
         }
     ]
 }
