@@ -2561,6 +2561,110 @@
                 "Time": "Fri Jun 15 00:13:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/714929890181689344/tQ_UL1ID_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[137.0142695, 35.1616925]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stone_ozawaya", 
+                "Name": "\u304a\u3056\u308f\u3042\u3064\u3057 \u304a\u5893\u307e\u3044\u308a\u3068\u30b4\u30eb\u30d5\u304c\u5927\u597d\u304d\u306a\u77f3\u5c4b\u3055\u3093", 
+                "Tweet": "\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\u30ed\u30b7\u30a2\u5927\u4f1a\u3067\u76db\u308a\u4e0a\u304c\u308a\u3064\u3064\u3042\u308b\u6628\u65e5\u3067\u3057\u305f\u304c\u3001\u30dc\u30af\u7684\u306b\u306f\u4eca\u5e74\u4e8c\u3064\u76ee\u306e\u30e1\u30b8\u30e3\u30fc\u3001\u5168\u7c73\u30aa\u30fc\u30d7\u30f3\u306b\u6ce8\u76ee\u3067\u3059\u3002\n\u521d\u65e5\u307e\u308b\u3067\u5168\u82f1\u306e\u69d8\u306a\u66c7\u308a\u7a7a\u3068\u98a8\u3067\u30b9\u30b3\u30a2\u304c\u4f38\u3073\u305a\u3001\u91cd\u3005\u3057\u3044\u30b9\u30bf\u30fc\u30c8\u306b\u306a\u308a\u307e\u3057\u305f\u3002\u305d\u3093\u306a\u4e2d\u3067\u30c8\u30c3\u30d7\u306b\u7acb\u3063\u305fI\u30dd\u30fc\u30eb\u30bf\u30fc\u2026 https://t.co/G4mT6uHUfI", 
+                "TweetLink": "1007417782420439040", 
+                "Place": "\u540d\u53e4\u5c4b\u5e02 \u540d\u6771\u533a", 
+                "Time": "Fri Jun 15 00:21:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005237290770235393/YY1RPvNm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[101.4790765, 3.1231455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "azrihaidhar", 
+                "Name": "Azri Ahmad Jefril", 
+                "Tweet": "\ud83d\ude25 https://t.co/3UNQjTNL7b", 
+                "TweetLink": "1007418170867503104", 
+                "Place": "Bukit Raja", 
+                "Time": "Fri Jun 15 00:23:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838456013346988032/0noa1i14_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.4367735, 38.3045585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "randallflag19", 
+                "Name": "DRAGON ENERGY", 
+                "Tweet": "Whew https://t.co/bMej76dIzr", 
+                "TweetLink": "1007419113239609344", 
+                "Place": "Missouri", 
+                "Time": "Fri Jun 15 00:26:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006376579239378945/Xm5-DCRZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dan_cobby", 
+                "Name": "Dan Cobby", 
+                "Tweet": "This is as sick as it gets... https://t.co/SiLBHWoqb1", 
+                "TweetLink": "1007419197847027712", 
+                "Place": "Sydney", 
+                "Time": "Fri Jun 15 00:27:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987983038062542848/icJFCiUL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.1173005, 40.150702]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MFreyPGA", 
+                "Name": "Matt Frey, PGA", 
+                "Tweet": "Wait a minute...Fox Sports is paying how much per year and we\u2019re not even getting a first round replay? Am I missing it somewhere? #usopen", 
+                "TweetLink": "1007419247637811200", 
+                "Place": "Willow Grove", 
+                "Time": "Fri Jun 15 00:27:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000560311991185409/NdVNGtNG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[144.2823245, -36.7371585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Disco_D_Mac", 
+                "Name": "\ud83d\udc2fStu McG\ud83d\udc2f", 
+                "Tweet": "@hanothegreat I did say if someone shoots 4 x 1 under rounds, - 4 will go close. Long way to go but I stand by that. #USOpen", 
+                "TweetLink": "1007419450893582336", 
+                "Place": "Bendigo", 
+                "Time": "Fri Jun 15 00:28:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914425300246716416/2jIUXupA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.8152355, 34.6939215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BlackGirlsGolf", 
+                "Name": "Black Girls Golf\u00ae", 
+                "Tweet": "Wow, we're catching up on #USOPEN. No way a new golfer feels good about getting in the game when the best players o\u2026 https://t.co/PYVXJnv9CK", 
+                "TweetLink": "1007419688547180547", 
+                "Place": "Clemson", 
+                "Time": "Fri Jun 15 00:29:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987050401114435584/W3YtpF4U_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dbjsportphotos", 
+                "Name": "Dennis Schneidler", 
+                "Tweet": "And so ends day one at the #usopen #usopen2018\u2026 https://t.co/rncO8ve2Oz", 
+                "TweetLink": "1007419884060532736", 
+                "Place": "New York", 
+                "Time": "Fri Jun 15 00:29:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/666109870756769793/6M3vOzrv_normal.jpg"
+            }
         }
     ]
 }
