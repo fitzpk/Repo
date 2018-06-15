@@ -3263,6 +3263,19 @@
                 "Time": "Fri Jun 15 03:57:20 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/817577498007523328/g9TO72lp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.1590475, 39.751587]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HankTheTank24", 
+                "Name": "Hank Dowd", 
+                "Tweet": "The best major golf tournaments The Masters, The open,  PGA Championship, US Open #PGA #USOpen #USGA", 
+                "TweetLink": "1007473929089310720", 
+                "Place": "Applewood", 
+                "Time": "Fri Jun 15 04:04:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/670093573178703872/SBVI6ezq_normal.jpg"
+            }
         }
     ]
 }
