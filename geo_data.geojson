@@ -2535,6 +2535,32 @@
                 "Time": "Fri Jun 15 00:09:32 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/982397116772384768/uOot_KK4_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanLauder66", 
+                "Name": "Ryan Lauder", 
+                "Tweet": "When you have a Milled Grind Hi Toe wedge in your hand, you can expect results like this. #HITOE\n\n@DJohnsonPGA T1 a\u2026 https://t.co/Tn15IQPEJf", 
+                "TweetLink": "1007414973650296832", 
+                "Place": "Carlsbad", 
+                "Time": "Fri Jun 15 00:10:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/834641883234131969/dZ6ZyD94_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.879033, 36.596299]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CHOMPJobs", 
+                "Name": "CHOMP", 
+                "Tweet": "See our latest #Monterey, CA #job and click to apply: Physical Therapist Assistant (PTA) - https://t.co/F8wgHWziV5\u2026 https://t.co/S3bbmBSxSm", 
+                "TweetLink": "1007415792307060736", 
+                "Place": "Monterey", 
+                "Time": "Fri Jun 15 00:13:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/714929890181689344/tQ_UL1ID_normal.jpg"
+            }
         }
     ]
 }
