@@ -3159,6 +3159,58 @@
                 "Time": "Fri Jun 15 03:37:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/948765073773916160/Ejlr1xC-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.3017115, 47.467857]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stbyre", 
+                "Name": "Sterling Byre", 
+                "Tweet": "The @cobragolf bags that Rickie &amp; Bryson have at Shinny this week are straight \ud83d\udd25 #USOPEN https://t.co/bWbv1csoKB https://t.co/vgPf343ANC", 
+                "TweetLink": "1007468692488114176", 
+                "Place": "North Dakota", 
+                "Time": "Fri Jun 15 03:43:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976947947677081600/ur_L82RH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.8081255, 40.271043]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tomgill97", 
+                "Name": "Tom Gill", 
+                "Tweet": "@erik_is_here @Golfweek_Dusek It was over 76 today #USOpen", 
+                "TweetLink": "1007469005588828160", 
+                "Place": "Ewing", 
+                "Time": "Fri Jun 15 03:45:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780976742869692417/L9d_9prs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.278974, 44.87629]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichardNguyen45", 
+                "Name": "Richard Nguyen", 
+                "Tweet": "Missed the @usopengolf 1st rd in the aftn wave bc I was taking a Accuplacer test, but I least DVR to watch the aftn\u2026 https://t.co/Lhqfx8G2bB", 
+                "TweetLink": "1007469611196080128", 
+                "Place": "Richfield", 
+                "Time": "Fri Jun 15 03:47:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/719333369532649473/tkwMgXD-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.4041415, 38.7662295]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mchsgolfmom2012", 
+                "Name": "Tina", 
+                "Tweet": "Great job Timothy!! https://t.co/glqg0uqCAW", 
+                "TweetLink": "1007470028546084864", 
+                "Place": "Madison", 
+                "Time": "Fri Jun 15 03:49:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1003316409131249667/oNEzgno4_normal.jpg"
+            }
         }
     ]
 }
