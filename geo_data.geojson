@@ -2938,6 +2938,32 @@
                 "Time": "Fri Jun 15 01:09:28 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/885225083131658241/SpLJRBYL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DenisStrobel", 
+                "Name": "wolfdss", 
+                "Tweet": "Great day today, Leg three of the lifetime grand slam completed, British open next! #Sweepstakes #usopen https://t.co/AL66J807Z4", 
+                "TweetLink": "1007430902778130432", 
+                "Place": "Manhattan", 
+                "Time": "Fri Jun 15 01:13:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948239996623912961/jnAC0yHc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewsmith72", 
+                "Name": "Michael W. Smith", 
+                "Tweet": "Shinnecock Hills got that ass today. #USOPEN #USOpen", 
+                "TweetLink": "1007432438505787392", 
+                "Place": "Georgia", 
+                "Time": "Fri Jun 15 01:19:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987763282315497472/Z3mQv6SJ_normal.jpg"
+            }
         }
     ]
 }
