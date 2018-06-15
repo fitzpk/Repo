@@ -2847,6 +2847,97 @@
                 "Time": "Fri Jun 15 00:55:51 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/963863553353682951/rX9ckpc5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.3997795, 33.9563835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "samjfranco", 
+                "Name": "Sam Franco \ud83c\uddf5\ud83c\uddf9", 
+                "Tweet": "The stakes have never been higher... #USOpen https://t.co/ixF3AIP1Fa", 
+                "TweetLink": "1007427511800786948", 
+                "Place": "Athens", 
+                "Time": "Fri Jun 15 01:00:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954118698603876352/621Mm7ia_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BadgleyBruce", 
+                "Name": "Bruce Badgley", 
+                "Tweet": "When are you back in the R-PA? https://t.co/6sA7BXvIEh", 
+                "TweetLink": "1007427917754912768", 
+                "Place": "Pennsylvania", 
+                "Time": "Fri Jun 15 01:01:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988143349264715778/7nsE9pET_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "joshuab1980", 
+                "Name": "therealjoshuab", 
+                "Tweet": "I didn't wanna believe it, but the game of golf, at least the major game, may have passed @TigerWoods by... #USOpen", 
+                "TweetLink": "1007428381825171456", 
+                "Place": "Ohio", 
+                "Time": "Fri Jun 15 01:03:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933337459332665344/uwQW3Dc6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.648727, 39.4474935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ACPressHuba", 
+                "Name": "Nicholas Huba", 
+                "Tweet": "Glad the @usopengolf I love and know has returned. Make Par Great Again. #USOpen", 
+                "TweetLink": "1007428923507052544", 
+                "Place": "McKee City", 
+                "Time": "Fri Jun 15 01:05:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994599548893974531/PAbzCEyU_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_joshuamusic", 
+                "Name": "Joshua-Walker Geno", 
+                "Tweet": "First-round scoring average (76.48) is the highest at the #USOpen since 1986 (77.87). https://t.co/wvjW2Bj9bi", 
+                "TweetLink": "1007429421668564992", 
+                "Place": "Toronto", 
+                "Time": "Fri Jun 15 01:07:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006381167480750080/uRlgqM1E_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.201905, 47.680319]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BusinessButcher", 
+                "Name": "Jeff Butcher", 
+                "Tweet": "@missbell512 @DJohnsonPGA That would have been a lost ball on my card. I was more concerned that the crowd of searc\u2026 https://t.co/IZ0TDC2gy7", 
+                "TweetLink": "1007429430245900288", 
+                "Place": "Kirkland", 
+                "Time": "Fri Jun 15 01:07:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3065040734/e77cbc9c1f935a55b9eb9d3f57d60c3b_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AJVoelpelCG", 
+                "Name": "A.J.  Voelpel", 
+                "Tweet": "FINALLY a real #USOpen! \ud83d\ude4f\ud83d\ude4f https://t.co/3s0JulHVnG", 
+                "TweetLink": "1007429851563819008", 
+                "Place": "Manhattan", 
+                "Time": "Fri Jun 15 01:09:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/885225083131658241/SpLJRBYL_normal.jpg"
+            }
         }
     ]
 }
