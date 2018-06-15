@@ -2964,6 +2964,32 @@
                 "Time": "Fri Jun 15 01:19:45 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/987763282315497472/Z3mQv6SJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.1429225, 39.7795625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "1BAPONI", 
+                "Name": "Paul Bowman", 
+                "Tweet": "A true challenge for the best players in the world. Good luck tomorrow PGA players! \ud83c\udfcc https://t.co/ulIMmoG61M", 
+                "TweetLink": "1007449924701736960", 
+                "Place": "Indianapolis", 
+                "Time": "Fri Jun 15 02:29:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959634529098006528/E1XcZCvV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.931711, 34.1682535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BoczulakSteven", 
+                "Name": "Steven Boczulak", 
+                "Tweet": "Yup https://t.co/CCKzd3ZclQ", 
+                "TweetLink": "1007450089579835397", 
+                "Place": "Arizona", 
+                "Time": "Fri Jun 15 02:29:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996973128956837888/oeehN9-d_normal.jpg"
+            }
         }
     ]
 }
