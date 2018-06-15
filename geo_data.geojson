@@ -3211,6 +3211,58 @@
                 "Time": "Fri Jun 15 03:49:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1003316409131249667/oNEzgno4_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.805579, 45.484892]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kevcmcclean", 
+                "Name": "Kevin McClean", 
+                "Tweet": "Golf should include an average golfer in each tournament as a reference point @PGATOUR #USOpen", 
+                "TweetLink": "1007470674393235457", 
+                "Place": "Beaverton", 
+                "Time": "Fri Jun 15 03:51:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/915437486611894272/sgLJsVlF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.725185, 40.7860015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ebvet", 
+                "Name": "Evan Blonder", 
+                "Tweet": "#USOpen #Sweepstakes.  I want to go to pebble beash next year. https://t.co/RPPIfs7Vf3", 
+                "TweetLink": "1007470816492126208", 
+                "Place": "Great Neck Plaza", 
+                "Time": "Fri Jun 15 03:52:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1352438756/ebvet1_s_Webcam_1_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Tiger Woods tees off at 4. #usopen @ Shinnecock\u2026 https://t.co/0y1IlZ4NH9", 
+                "TweetLink": "1007471509185626113", 
+                "Place": "New York", 
+                "Time": "Fri Jun 15 03:55:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983449457327878144/YZ9tMoYd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarolineonTV", 
+                "Name": "Caroline Collins", 
+                "Tweet": "Ok! Wow- I\u2019ve been super busy all day &amp; I\u2019m just now catching up on the 1st Round of the #USOpen ... WHAT IS HAPPEN\u2026 https://t.co/vVulSN3NCC", 
+                "TweetLink": "1007472096895733762", 
+                "Place": "Pennsylvania", 
+                "Time": "Fri Jun 15 03:57:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/817577498007523328/g9TO72lp_normal.jpg"
+            }
         }
     ]
 }
