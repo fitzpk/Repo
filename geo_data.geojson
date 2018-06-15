@@ -2756,6 +2756,71 @@
                 "Time": "Fri Jun 15 00:37:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1001843892008996865/wZG0ViYn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.941102, 43.324162]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mmcmanus13", 
+                "Name": "Matt McManus", 
+                "Tweet": "\ud83d\ude34 https://t.co/JMsmFvE7AD", 
+                "TweetLink": "1007422538262241280", 
+                "Place": "Grafton", 
+                "Time": "Fri Jun 15 00:40:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439120950412316672/dI0pZyum_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.19485, 34.1090235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JBlaineCaudill", 
+                "Name": "Justin Caudill \ud83c\udf3b", 
+                "Tweet": "Thank you @USGA @usopengolf for going back to your roots and making it a test and keeping the scores high. #USOpen", 
+                "TweetLink": "1007423021034983430", 
+                "Place": "Irmo", 
+                "Time": "Fri Jun 15 00:42:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973042769894694912/U_Y2tajh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.403009, 37.9579675]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MilkBoxMaterial", 
+                "Name": "Sasha Comeover", 
+                "Tweet": "Global warming? https://t.co/jelpfpW967", 
+                "TweetLink": "1007424700514013185", 
+                "Place": "Newburgh", 
+                "Time": "Fri Jun 15 00:49:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988920555289051142/f5dAcA-f_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dougmcd", 
+                "Name": "Doug McDonald", 
+                "Tweet": "Hands down the best branded account on Twitter! #USOpen #TigerTripple https://t.co/2tReus8BHJ", 
+                "TweetLink": "1007424827714691072", 
+                "Place": "Florida", 
+                "Time": "Fri Jun 15 00:49:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/905075062230921220/s6v7GPKn_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.9205005, 40.1782605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rob_Farrow", 
+                "Name": "Rob Farrow", 
+                "Tweet": "My God @wendys is killing it this week!  #usopen https://t.co/sPReQtnCDB", 
+                "TweetLink": "1007424933662687232", 
+                "Place": "Langhorne", 
+                "Time": "Fri Jun 15 00:49:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/426479485882339328/drsHGiRP_normal.jpeg"
+            }
         }
     ]
 }
