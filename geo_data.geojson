@@ -2405,6 +2405,45 @@
                 "Time": "Thu Jun 14 23:48:44 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1004512711252889600/tLS3W-Ls_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.5834015, 44.1454365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Montessi", 
+                "Name": "\u26f3\ufe0f James Montessi #USOpen \u26f3\ufe0f", 
+                "Tweet": "Bloodletting at the #USOpen today. https://t.co/zUiF0XV7ri", 
+                "TweetLink": "1007410766369222656", 
+                "Place": "Oregon", 
+                "Time": "Thu Jun 14 23:53:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005288440957530112/rnV5VII4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.81351, 54.667202]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "alid7997", 
+                "Name": "Alastair", 
+                "Tweet": "The fact @ScottGregory5 faced the media afterwards and was so positive says a lor, fair play mate \ud83d\udc4d\ud83c\udffb #USOpen", 
+                "TweetLink": "1007410962348019714", 
+                "Place": "Northern Ireland", 
+                "Time": "Thu Jun 14 23:54:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994268649119678465/e-wkAJMq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mattkamper1994", 
+                "Name": "Matt Kamper", 
+                "Tweet": "Blame NJT for for this problem. They stole the MARC Cars from the LIRR. https://t.co/RNON0gp86n", 
+                "TweetLink": "1007412138980380672", 
+                "Place": "Manhattan", 
+                "Time": "Thu Jun 14 23:59:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3057700646/552111f52a9778736f500195ba16e6c4_normal.jpeg"
+            }
         }
     ]
 }
