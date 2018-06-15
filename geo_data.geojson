@@ -2821,6 +2821,32 @@
                 "Time": "Fri Jun 15 00:49:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/426479485882339328/drsHGiRP_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.962316, 33.2334255]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GregFlamingo", 
+                "Name": "Greg Garza", 
+                "Tweet": "@dekeal  give it a go lol https://t.co/7hoSij2k7w", 
+                "TweetLink": "1007425942271221760", 
+                "Place": "Providence Village", 
+                "Time": "Fri Jun 15 00:53:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/977986005751025664/PTF48fVh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GaryManes", 
+                "Name": "Ramen Dude", 
+                "Tweet": "Damn! https://t.co/AavqdqqcC1", 
+                "TweetLink": "1007426423353724929", 
+                "Place": "Nashville", 
+                "Time": "Fri Jun 15 00:55:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963863553353682951/rX9ckpc5_normal.jpg"
+            }
         }
     ]
 }
