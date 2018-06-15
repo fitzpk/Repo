@@ -3107,6 +3107,19 @@
                 "Time": "Fri Jun 15 03:16:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/572510051367305217/nVXQIXUi_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.8081255, 40.271043]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tomgill97", 
+                "Name": "Tom Gill", 
+                "Tweet": "@Golfercraig Did you think today was boring? #USOpen", 
+                "TweetLink": "1007465235547148290", 
+                "Place": "Ewing", 
+                "Time": "Fri Jun 15 03:30:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780976742869692417/L9d_9prs_normal.jpg"
+            }
         }
     ]
 }
