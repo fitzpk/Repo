@@ -3055,6 +3055,58 @@
                 "Time": "Fri Jun 15 02:50:00 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/843852799913988097/lqyXkWDw_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.123581, 49.257639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JT0sca", 
+                "Name": "Jason Tosca", 
+                "Tweet": "The one on the left \ud83d\ude33\n\n#TigerWoods #USOpen https://t.co/36xGOTICqY", 
+                "TweetLink": "1007460516921409536", 
+                "Place": "Vancouver", 
+                "Time": "Fri Jun 15 03:11:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449362784170414080/ecC1JXx6_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "trickyricky5", 
+                "Name": "Tomas Rickus", 
+                "Tweet": "#USOpen", 
+                "TweetLink": "1007460916697313280", 
+                "Place": "Toronto", 
+                "Time": "Fri Jun 15 03:12:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/918873288549466112/hnUQe06J_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.1542695, 46.730822]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "therealzwallace", 
+                "Name": "Zachary Wallace", 
+                "Tweet": "In honor of the #USOpen and #FathersDayWeekend cheers to the real OG. #goatszn https://t.co/5osOL4avqQ", 
+                "TweetLink": "1007461424069689345", 
+                "Place": "Pullman", 
+                "Time": "Fri Jun 15 03:14:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925980028369756161/NwoCtGHw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.8818, 42.9936645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parker8133", 
+                "Name": "Jim parker", 
+                "Tweet": "Recent courses and USGA conditioning have sucked. Fox golf coverage is horrible (worst of all majors by a large margin. I hate the #USOpen", 
+                "TweetLink": "1007461722477748226", 
+                "Place": "Tonawanda", 
+                "Time": "Fri Jun 15 03:16:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/572510051367305217/nVXQIXUi_normal.jpeg"
+            }
         }
     ]
 }
