@@ -2444,6 +2444,97 @@
                 "Time": "Thu Jun 14 23:59:05 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3057700646/552111f52a9778736f500195ba16e6c4_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Probably won\u2019t know a ton about this leaderboard until tomorrow night when get an easier day, but there are so many\u2026 https://t.co/4uODXB8lKI", 
+                "TweetLink": "1007412662001598465", 
+                "Place": "Raleigh", 
+                "Time": "Fri Jun 15 00:01:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jcsomerset_john", 
+                "Name": "John Somerset", 
+                "Tweet": "@JasonDufner Great round today Duff! Keep it up and bring home the bacon!! #USOpen #PGA #WarEagle", 
+                "TweetLink": "1007412795065929729", 
+                "Place": "Memphis", 
+                "Time": "Fri Jun 15 00:01:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/762293067776790529/MlngPnUk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[101.4790765, 3.1231455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "azrihaidhar", 
+                "Name": "Azri Ahmad Jefril", 
+                "Tweet": "But wtf happened at Shinnecock? #USOpen https://t.co/Mvajqy7zfo", 
+                "TweetLink": "1007413079271829504", 
+                "Place": "Bukit Raja", 
+                "Time": "Fri Jun 15 00:02:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838456013346988032/0noa1i14_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "paulreno21", 
+                "Name": "Paul Alejandrino", 
+                "Tweet": "Covering the 118th #USOpen #Sweepstakes \u26f3\ufe0f https://t.co/80DszGiBWY", 
+                "TweetLink": "1007413749794443264", 
+                "Place": "Shinnecock Hills Golf Club", 
+                "Time": "Fri Jun 15 00:05:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973691137239105537/33WrlYb4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanLauder66", 
+                "Name": "Ryan Lauder", 
+                "Tweet": "When you have a Milled Grind Hi Toe wedge in your hand, you can expect reactions like this. #HITOE\n\n@DJohnsonPGA T1\u2026 https://t.co/4LurBFixUu", 
+                "TweetLink": "1007414519910371328", 
+                "Place": "Carlsbad", 
+                "Time": "Fri Jun 15 00:08:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/834641883234131969/dZ6ZyD94_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.316513, 37.510611]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cobragolf", 
+                "Name": "COBRA Golf", 
+                "Tweet": "The bags are sold out online. You can still enter to win https://t.co/xd2hI4qLle", 
+                "TweetLink": "1007414703277117440", 
+                "Place": "Sandston", 
+                "Time": "Fri Jun 15 00:09:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006249542063276034/OG9dd_TB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.8973395, 41.508286]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ConradKwayu", 
+                "Name": "Conrad Kwayu", 
+                "Tweet": "Round One of US Open....the score resembles me playing at my local club https://t.co/xYHPl7xKXN", 
+                "TweetLink": "1007414768821526528", 
+                "Place": "Cheshire", 
+                "Time": "Fri Jun 15 00:09:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982397116772384768/uOot_KK4_normal.jpg"
+            }
         }
     ]
 }
