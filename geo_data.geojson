@@ -3120,6 +3120,45 @@
                 "Time": "Fri Jun 15 03:30:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780976742869692417/L9d_9prs_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PeggyGierhart", 
+                "Name": "Peggy Kelly Gierhart", 
+                "Tweet": "Some of the players today on @GolfChannel said they prepared extra hard for the US Open. Why not treat all the even\u2026 https://t.co/4LJnXrChDK", 
+                "TweetLink": "1007466202069897216", 
+                "Place": "Wisconsin", 
+                "Time": "Fri Jun 15 03:33:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/465692853008494592/wfTmMJXE_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ItsChelseaDavis", 
+                "Name": "Chelsea Davis", 
+                "Tweet": "This is going to be a great #USOpen.\u26f3 #overrrrrparrrrr", 
+                "TweetLink": "1007466479707676672", 
+                "Place": "Wisconsin", 
+                "Time": "Fri Jun 15 03:35:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/732635140086620160/TyBTzTfH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.3677725, 28.5016785]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ESPN580Nick", 
+                "Name": "Nicky Football", 
+                "Tweet": "The shot and McDowell\u2019s reaction perfectly sum up playing in the #USOpen \n\n https://t.co/DbmKh1q61X", 
+                "TweetLink": "1007467182949851141", 
+                "Place": "Orlando", 
+                "Time": "Fri Jun 15 03:37:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948765073773916160/Ejlr1xC-_normal.jpg"
+            }
         }
     ]
 }
