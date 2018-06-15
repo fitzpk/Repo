@@ -3003,6 +3003,58 @@
                 "Time": "Fri Jun 15 02:38:24 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2236524639/rico_carty_1966_braves4_1__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.3157525, 42.2481325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iamdiesel18", 
+                "Name": "Luke Behning", 
+                "Tweet": "@BryanTweed16 So do casual fans. Imagine trying to introduce new fans to golf by watching the #usopen this morning\u2026 https://t.co/9qhbD2NaPt", 
+                "TweetLink": "1007454554986831872", 
+                "Place": "Crystal Lake", 
+                "Time": "Fri Jun 15 02:47:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904457455379341312/VfS7mPnm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.9111215, 42.3930375]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mattdudus", 
+                "Name": "matthew dudus", 
+                "Tweet": "Hey @DougAndGator971  check it Doug   1986 @ ........Shinnecock https://t.co/koh7exZetl", 
+                "TweetLink": "1007454792086708224", 
+                "Place": "Grosse Pointe", 
+                "Time": "Fri Jun 15 02:48:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3101707603/d539efebe964e514344956523e62cc9a_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.845245, 36.3405955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hatler06", 
+                "Name": "John Hatler", 
+                "Tweet": "Or when he chips in, twice, at Persimmon Hills @bpjcub @YouBeenCrowed https://t.co/wjM2rjdN20", 
+                "TweetLink": "1007454808570253318", 
+                "Place": "Martin", 
+                "Time": "Fri Jun 15 02:48:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945735301045026817/IvfJf0Gg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stugio", 
+                "Name": "Stu Garrard", 
+                "Tweet": "Great round today @IanJamesPoulter\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\nGood luck and Play well for the rest of the #USopen", 
+                "TweetLink": "1007455151861399552", 
+                "Place": "Franklin", 
+                "Time": "Fri Jun 15 02:50:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843852799913988097/lqyXkWDw_normal.jpg"
+            }
         }
     ]
 }
