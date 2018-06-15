@@ -2990,6 +2990,19 @@
                 "Time": "Fri Jun 15 02:29:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/996973128956837888/oeehN9-d_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.242564, 35.0919545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidAJ4325", 
+                "Name": "David Jenkins", 
+                "Tweet": "@DanWolken And some of us like golf courses that don't look like the path of a tornado. #USOPEN", 
+                "TweetLink": "1007452233213075456", 
+                "Place": "Chattanooga", 
+                "Time": "Fri Jun 15 02:38:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2236524639/rico_carty_1966_braves4_1__normal.jpg"
+            }
         }
     ]
 }
