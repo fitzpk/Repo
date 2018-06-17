@@ -4498,6 +4498,45 @@
                 "Time": "Sun Jun 17 17:08:35 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/452354577065861120/8BsW5Bn2_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "run_mac_run", 
+                "Name": "MacKenzie\ud83c\uddfa\ud83c\uddf8 L.\ud83c\uddff\ud83c\udde6", 
+                "Tweet": "#USOpen\nMommy, this course is too hard.\nThey water the greens\nMommy, this course is too easy for the #USOpen\nThey t\u2026 https://t.co/8AsIQspAE2", 
+                "TweetLink": "1008397026516709376", 
+                "Place": "Dallas", 
+                "Time": "Sun Jun 17 17:12:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1701222101/1pD0pX1v_normal"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tchapman80", 
+                "Name": "Todd Chapman", 
+                "Tweet": "Dylan Meyer just graduated from Illinois and one month later tees off in the final round of the #USOpen tied for 10\u2026 https://t.co/HgrMqScbJR", 
+                "TweetLink": "1008397068656955392", 
+                "Place": "Illinois", 
+                "Time": "Sun Jun 17 17:12:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/836586609520885764/h69MtI-x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Leishac", 
+                "Name": "BossypantsTiger", 
+                "Tweet": "@HCov1232 Why are people@tweeting about soccer when the #USOpen is on? #soccerschmoccer", 
+                "TweetLink": "1008397132284428288", 
+                "Place": "Florida", 
+                "Time": "Sun Jun 17 17:13:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/772171212961308672/vebQYHi5_normal.jpg"
+            }
         }
     ]
 }
