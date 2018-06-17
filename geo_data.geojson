@@ -4693,6 +4693,175 @@
                 "Time": "Sun Jun 17 18:00:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/860133237980573697/CEwJ0Y7d_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.1408065, 42.8795995]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "portubeetz", 
+                "Name": "Adam Beetz", 
+                "Tweet": "Aphibarnrat and @PReedGolf setting a new #usopen record for the chubbiest twosome. #AnybodyButReed", 
+                "TweetLink": "1008409456756101120", 
+                "Place": "Petrolia", 
+                "Time": "Sun Jun 17 18:02:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1561177858/14236_184569407974_512072974_3716127_7419721_n_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.690172, 51.741441]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BazzaHards", 
+                "Name": "Barry Harding", 
+                "Tweet": "Won\u2019t be watching any more #USOpen #golf it\u2019s just an absolute joke @uspgagolf1 making the course unplayable AGAIN !! #farce \u26f3\ufe0f\ud83c\udfcc\ufe0f\ud83d\udc4e", 
+                "TweetLink": "1008409485046579200", 
+                "Place": "Heybridge", 
+                "Time": "Sun Jun 17 18:02:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/874174279121858562/5pe9DRiO_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.7754335, 53.649918]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pshawone", 
+                "Name": "Philip Shaw", 
+                "Tweet": "Gwan meath #usopen https://t.co/WxJbDxoHIV", 
+                "TweetLink": "1008409880539983873", 
+                "Place": "Meath", 
+                "Time": "Sun Jun 17 18:03:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/452412393197674496/D16Kr0bJ_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[28.060613, -26.058708]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Romy_Menter", 
+                "Name": "Romy Menter", 
+                "Tweet": "Excited for this pairing @henrikstenson and @JustinRose99 #USOpen \u26f3\ufe0f\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f", 
+                "TweetLink": "1008410017811369985", 
+                "Place": "Sandton", 
+                "Time": "Sun Jun 17 18:04:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919256251598557184/e4-XXoMG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.840246, 39.206964]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MalaskaGolf", 
+                "Name": "Mike Malaska", 
+                "Tweet": "Look for the fall line. #Practice the big breakers. And have fun watching the #usopen \ud83d\udc40 #happyfathersday https://t.co/mQJuWdM9n9", 
+                "TweetLink": "1008410145863426048", 
+                "Place": "Aspen", 
+                "Time": "Sun Jun 17 18:04:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/879788399221063684/tt5iA1mz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4359785, 37.7706565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mr_balty", 
+                "Name": "Michael B", 
+                "Tweet": "Brooks Koepka and Dustin Johnson. The past two defending #USOpen Champions tied-up at the top of the leaderboard at\u2026 https://t.co/3spIcz4Cin", 
+                "TweetLink": "1008410435844886528", 
+                "Place": "San Francisco", 
+                "Time": "Sun Jun 17 18:05:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859287606139510784/YUDjnx57_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[6.5892545, 47.0643595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "balanchej", 
+                "Name": "Manuel Ara\u00fajo \ud83c\uddee\ud83c\uddea", 
+                "Tweet": "@SBretillot \ud83d\udc4f\ud83d\udc4f https://t.co/kA5Me8PZlG", 
+                "TweetLink": "1008410524084731906", 
+                "Place": "Morteau", 
+                "Time": "Sun Jun 17 18:06:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/897043674198093826/eo8YIAFu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.7016375, 53.774091]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PeterFinchGolf", 
+                "Name": "Peter Finch", 
+                "Tweet": "I fancy @BKoepka \nI also think he\u2019ll do well today #usopen", 
+                "TweetLink": "1008410996241764352", 
+                "Place": "Preston", 
+                "Time": "Sun Jun 17 18:08:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948985972150202369/rTFXgCLv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.2108945, 51.6118845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "richiepaulo", 
+                "Name": "Richie", 
+                "Tweet": "I really love Justin Rose and Henrik Stenson, two of Europe\u2019s best golfers. #USOpen", 
+                "TweetLink": "1008411000528359424", 
+                "Place": "Barnet", 
+                "Time": "Sun Jun 17 18:08:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947794621924564992/dhU0rupV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4359785, 37.7706565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mr_balty", 
+                "Name": "Michael B", 
+                "Tweet": "Patrick Reed making a 265y Par 3 look 150. What a shot! #USOpen #ShinnecockHills", 
+                "TweetLink": "1008411068631142401", 
+                "Place": "San Francisco", 
+                "Time": "Sun Jun 17 18:08:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859287606139510784/YUDjnx57_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KLThomas88", 
+                "Name": "Kelly Thomas", 
+                "Tweet": "My afternoon will be spent watching what will undoubtedly be a very interesting final day of the #USOpen.\u2026 https://t.co/0doc47h8CO", 
+                "TweetLink": "1008411452246581249", 
+                "Place": "Nashville", 
+                "Time": "Sun Jun 17 18:10:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1004156311045640192/vc3I2yK1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.4804965, 38.261642]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rphsefisher", 
+                "Name": "Scott Fisher", 
+                "Tweet": "Name something better than snuggling with your kids while watching #USOpen on Father\u2019s Day. https://t.co/ZOSyx6zcAd", 
+                "TweetLink": "1008411512296230912", 
+                "Place": "Beckley", 
+                "Time": "Sun Jun 17 18:10:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991118459865051136/AgzpQn6A_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4350505, 37.792923]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FMurray9", 
+                "Name": "F", 
+                "Tweet": "What a lovely story. Why did you let Mickelson cheat yesterday? https://t.co/nivmCyUVKe", 
+                "TweetLink": "1008411517971148800", 
+                "Place": "Pacific Heights", 
+                "Time": "Sun Jun 17 18:10:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/975882756218535937/LTN_aftn_normal.jpg"
+            }
         }
     ]
 }
