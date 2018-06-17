@@ -4381,6 +4381,123 @@
                 "Time": "Sun Jun 17 16:24:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/633837111011995650/1_HZEIWa_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-57.6060175, -25.300264]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Fgimenez1", 
+                "Name": "fernando gimenez", 
+                "Tweet": "@angelaquino78 https://t.co/datdNvoAok", 
+                "TweetLink": "1008394107142754304", 
+                "Place": "Asuncion", 
+                "Time": "Sun Jun 17 17:01:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/955838130879385601/JummUjKX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cody12c", 
+                "Name": "Cody Crim", 
+                "Tweet": "I\u2019m on the Tony Finau bandwagon today... I want to see and American that hasn\u2019t won a major win today #USOpen", 
+                "TweetLink": "1008394126906228736", 
+                "Place": "Kentucky", 
+                "Time": "Sun Jun 17 17:01:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/934569391806713856/qepNyMNx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "willkennedynews", 
+                "Name": "Will Kennedy", 
+                "Tweet": "You get $2 million-plus for winning the #USOpen \u26f3???\nThat course should be ridiculously hard!!!\n#USOpen2018 #ShinnecockHills #usga", 
+                "TweetLink": "1008394294871371779", 
+                "Place": "Charlotte", 
+                "Time": "Sun Jun 17 17:01:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988501481241436160/OkBV5mSq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.506779, 47.157103]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MinakerLindsey", 
+                "Name": "\ud83d\udcab\ud83c\udf3cLil' LAM the Sour Patch Kid\ud83c\udf3c\ud83d\udcab", 
+                "Tweet": "Lmfao https://t.co/s43MR05EqW", 
+                "TweetLink": "1008395087359832065", 
+                "Place": "Lakewood", 
+                "Time": "Sun Jun 17 17:04:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002325638458404865/WJ-rU_FF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.0144725, 41.6287]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mlcockroft", 
+                "Name": "Mark Cockroft", 
+                "Tweet": "It will be interesting to see if the golf elitists keep making excuses for poor Phil again today.  #USOpen #GetaLife", 
+                "TweetLink": "1008395167789875200", 
+                "Place": "Angola", 
+                "Time": "Sun Jun 17 17:05:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859789368395005952/nRrXrITj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "run_mac_run", 
+                "Name": "MacKenzie\ud83c\uddfa\ud83c\uddf8 L.\ud83c\uddff\ud83c\udde6", 
+                "Tweet": "#USOpen wish someone would shove golf balls down Joe @buck and @paulazinger mouths and shut them up.", 
+                "TweetLink": "1008395346484047872", 
+                "Place": "Dallas", 
+                "Time": "Sun Jun 17 17:06:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1701222101/1pD0pX1v_normal"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MacStoddard", 
+                "Name": "Mac Stoddard", 
+                "Tweet": "Haha. It\u2019s like the @FOXSports announcers (including Joe Buck) received talking points from the #USGA this morning\u2026 https://t.co/scYCmrIgeB", 
+                "TweetLink": "1008395573228113921", 
+                "Place": "Arlington", 
+                "Time": "Sun Jun 17 17:06:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973420272916291585/y2RlWWcS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.301344, 44.8244695]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Blake_Lentner", 
+                "Name": "Blake Lentner", 
+                "Tweet": "With how stacked up this leaderboard is, a 3 or 4 way playoff is not out of the question. #USOpen", 
+                "TweetLink": "1008395669961347072", 
+                "Place": "Bloomington", 
+                "Time": "Sun Jun 17 17:07:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/663032025494884352/m_J9Ry0-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.3864605, 39.1450235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "StephenASparks", 
+                "Name": "Stephen Sparks", 
+                "Tweet": "Zach Johnson\u2019s caddie can knock off the birdie dance after every birdie he makes. It\u2019s the first freakin hole! #USOpen", 
+                "TweetLink": "1008395995644866560", 
+                "Place": "Delaware", 
+                "Time": "Sun Jun 17 17:08:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/452354577065861120/8BsW5Bn2_normal.jpeg"
+            }
         }
     ]
 }
