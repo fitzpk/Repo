@@ -4862,6 +4862,279 @@
                 "Time": "Sun Jun 17 18:10:15 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/975882756218535937/LTN_aftn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.679232, 28.0326475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "the7man", 
+                "Name": "Jason Roux", 
+                "Tweet": "+6 is l\ud83d\udc40king pretty good right now \u26f3 #USOpen", 
+                "TweetLink": "1008411556735004674", 
+                "Place": "Oldsmar", 
+                "Time": "Sun Jun 17 18:10:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993600362937503744/ibga8-lD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.389864, 41.9382285]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cmolewis7", 
+                "Name": "Caleb Lewis", 
+                "Tweet": "No idea who is gonna win this years US Open Championship. So many guys in contention #USOpen", 
+                "TweetLink": "1008411643938852864", 
+                "Place": "Iowa", 
+                "Time": "Sun Jun 17 18:10:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865615674370084865/traLQRu-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tymckelvey", 
+                "Name": "The Notorious", 
+                "Tweet": "Who will win this? #USOpen", 
+                "TweetLink": "1008411773085495296", 
+                "Place": "Tennessee", 
+                "Time": "Sun Jun 17 18:11:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963747860402520064/zJFUijfa_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.6859335, 51.965019]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RichardLoveday1", 
+                "Name": "Richard Loveday", 
+                "Tweet": "Today\u2019s schedule...\nLeave Ullswater in good time \u2705\nLarge G &amp; T for @sueloveday22  \u2705\nBishops Finger (x ?) for me \u2705\nN\u2026 https://t.co/XtCEoQE7WR", 
+                "TweetLink": "1008411806233169921", 
+                "Place": "Great Brickhill", 
+                "Time": "Sun Jun 17 18:11:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3670712784/80b7090be3a90aa9ef7d43d22ee156a2_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.922029, 35.1335205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rachwhitaker89", 
+                "Name": "Rachel Whitaker", 
+                "Tweet": "Savage https://t.co/7kBeBuRdff", 
+                "TweetLink": "1008411929411571713", 
+                "Place": "Memphis", 
+                "Time": "Sun Jun 17 18:11:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/891835567192801281/ksHGAYaC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.808085, 38.886623]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DaveDarby46", 
+                "Name": "Big Poppa", 
+                "Tweet": "Don't need Reed coming in and ruining this. #TeamFinau #USOpen", 
+                "TweetLink": "1008412223818141697", 
+                "Place": "Olathe", 
+                "Time": "Sun Jun 17 18:13:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999810039119364101/3HMBB9x3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9236985, 39.892098]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexSbai", 
+                "Name": "Alex Sbai", 
+                "Tweet": "Patrick Reed&gt;Tiger Woods #USOpen @nikegolf", 
+                "TweetLink": "1008412337064247296", 
+                "Place": "McCordsville", 
+                "Time": "Sun Jun 17 18:13:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/563388762021834752/Q84owEwh_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.130387, 41.9152895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wilsonee", 
+                "Name": "Wilsonee \ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "It\u2019s AMAZING how good the #USOpen sounds when #JoeBuck and #PaulAzinger ARE MUTED! #HairPlugsAndTheMouth https://t.co/FjjsL1Kgyo", 
+                "TweetLink": "1008412585140588545", 
+                "Place": "Carol Stream", 
+                "Time": "Sun Jun 17 18:14:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947318299486015488/OCIYgpA4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.3495665, 53.4753035]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lambstar72", 
+                "Name": "Lambstar", 
+                "Tweet": "These yank \u2018fans\u2019 at #USOpen are getting right on my tits", 
+                "TweetLink": "1008412613485694976", 
+                "Place": "Salford", 
+                "Time": "Sun Jun 17 18:14:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3198296492/b7d74ece7115d1d06d15448ba6952c07_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.6081815, 50.5280985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "robbie9isgod", 
+                "Name": "Klopp Disciple", 
+                "Tweet": "Would love to see Justin Rose win. One of the more consistent English players over last few years. From his wobbly\u2026 https://t.co/jbemQS0kCu", 
+                "TweetLink": "1008412983289155584", 
+                "Place": "Newton Abbot", 
+                "Time": "Sun Jun 17 18:16:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947114776643231745/ZjxZbMPQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.1798, 51.4970015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FonotiaKieron", 
+                "Name": "Kieron Fonotia", 
+                "Tweet": "I swear on every tee off some1 yells out \u201cget in the hole\u201d Mate it\u2019s a par 5 \ud83d\ude02 #USOpen", 
+                "TweetLink": "1008413085659484160", 
+                "Place": "Cardiff", 
+                "Time": "Sun Jun 17 18:16:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/928309160248336387/0tL4yVs8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.221104, 43.1630775]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "camguy353", 
+                "Name": "Andrew Hill", 
+                "Tweet": "Berger and Finau are playing like the final pairing we all know wanted #USOpen https://t.co/CAopeJTsdR", 
+                "TweetLink": "1008445701058113536", 
+                "Place": "Clay", 
+                "Time": "Sun Jun 17 20:26:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002543899926286337/wII3oSjY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.927119, 50.997507]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LondonRaider", 
+                "Name": "London Raider", 
+                "Tweet": "Tommy Fleetwood at 40-1. Wheres the fucking wind when you need it? #USOpen", 
+                "TweetLink": "1008445740077764608", 
+                "Place": "South West", 
+                "Time": "Sun Jun 17 20:26:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/913807284916146177/1en6Bk5__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.8793305, 53.3582585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "james_danson", 
+                "Name": "James Danson\u00ae \ud83c\uddf3\ud83c\uddf1 \ud83c\uddf5\ud83c\uddf9", 
+                "Tweet": "\u201cMiss miss Chinese piss\u201d for the rest of the night!!! #USGA #USOpen", 
+                "TweetLink": "1008445854586494978", 
+                "Place": "Garston", 
+                "Time": "Sun Jun 17 20:26:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987241756268859392/xRO5EEU9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lscott1967", 
+                "Name": "Leslie Scott", 
+                "Tweet": "The #USOpen is so much more enjoyable to watch today. That course yesterday...", 
+                "TweetLink": "1008445912400752641", 
+                "Place": "Kansas City", 
+                "Time": "Sun Jun 17 20:26:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985617522266427397/eTW1qcxz_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.420487, 40.900615]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gbasakkaya", 
+                "Name": "Basak Kaya", 
+                "Tweet": "Just witnessed this from a feet away! What a treat  #usopen @gbasakkaya https://t.co/wZUxDaP1k2", 
+                "TweetLink": "1008446088284725255", 
+                "Place": "Tuckahoe", 
+                "Time": "Sun Jun 17 20:27:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/440891609484230656/Ff7Co9P8_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.4707785, 52.91553]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "steveastlegolf", 
+                "Name": "Steve Astle", 
+                "Tweet": "Loving the chants of \u201cTeenWolf\u201d up 18 for @TommyFleetwood1 What a round of Golf #herostatus #USopen", 
+                "TweetLink": "1008446303007903748", 
+                "Place": "Derby", 
+                "Time": "Sun Jun 17 20:28:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/833832215456993281/MQm6K1X2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrianBarth765", 
+                "Name": "Brian Barth", 
+                "Tweet": "#LiveUnderPar https://t.co/t5Scgoifql", 
+                "TweetLink": "1008446331688554497", 
+                "Place": "New York", 
+                "Time": "Sun Jun 17 20:28:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007808054686093312/8V4ETzDL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jumrobe", 
+                "Name": "Robert Jumper", 
+                "Tweet": "I wish I was a good enough golfer to shoot one over on the front with 4 bogeys #USOpen", 
+                "TweetLink": "1008446359928758276", 
+                "Place": "Philadelphia", 
+                "Time": "Sun Jun 17 20:28:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995853949415641088/KLb7pl_0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.223062, 41.6239585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JJP31717", 
+                "Name": "John J Powers III", 
+                "Tweet": "FOX still can\u2019t get the coverage right for the #USOpen. Their camera angles and shots into green are horrible.", 
+                "TweetLink": "1008446384595521538", 
+                "Place": "Plainfield", 
+                "Time": "Sun Jun 17 20:28:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1491495906/Christmas_2010_-_2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.011649, 40.050298]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jlhowe", 
+                "Name": "Jeff Howe", 
+                "Tweet": "#usopen course is drying out again, looks like dirt greens are going to eat leaderboard again today! Pathetic!!", 
+                "TweetLink": "1008446496851873793", 
+                "Place": "Noblesville", 
+                "Time": "Sun Jun 17 20:29:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/646582666473549826/8M9epBf3_normal.jpg"
+            }
         }
     ]
 }
