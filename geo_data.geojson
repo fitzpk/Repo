@@ -4355,6 +4355,32 @@
                 "Time": "Sun Jun 17 15:41:02 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/825232924941369344/7WnM-eWD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoeWoschitz", 
+                "Name": "Joe Woschitz", 
+                "Tweet": "It\u2019s the final round of the #USOpen 2018! Boots\u2026 https://t.co/mkXOOx3iiG", 
+                "TweetLink": "1008384189375434752", 
+                "Place": "Pennsylvania", 
+                "Time": "Sun Jun 17 16:21:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/585909087906373632/NCmZrgy__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-120.882482, 47.273022]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "coston_jeff", 
+                "Name": "Jeff Coston", 
+                "Tweet": "Wonderful athletes. Both shallow the shaft on downswing. Necessary for length, consistently and about everything el\u2026 https://t.co/5LTywSsOY4", 
+                "TweetLink": "1008384806718074881", 
+                "Place": "Washington", 
+                "Time": "Sun Jun 17 16:24:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/633837111011995650/1_HZEIWa_normal.jpg"
+            }
         }
     ]
 }
