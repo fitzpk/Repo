@@ -5135,6 +5135,266 @@
                 "Time": "Sun Jun 17 20:29:15 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/646582666473549826/8M9epBf3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.4816385, 51.3597465]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoeCockram", 
+                "Name": "Joe Cockram", 
+                "Tweet": "If Dustin Johnson doesn\u2019t win this, the USPGA would of cost him a major, another #usopen to his name, Just by the p\u2026 https://t.co/8DFgA71V0f", 
+                "TweetLink": "1008446761634058240", 
+                "Place": "Marksbury", 
+                "Time": "Sun Jun 17 20:30:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/937842425128775680/b5nCJolf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Greg_akaBlackie", 
+                "Name": "G. Blackie Blackwell", 
+                "Tweet": "I hope @tonyfinaugolf has his hightop on if he wins. I would hate to see him roll his ankle again like he did at\u2026 https://t.co/dRWrHyx7Po", 
+                "TweetLink": "1008446894740303873", 
+                "Place": "Texas", 
+                "Time": "Sun Jun 17 20:30:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008051299605209094/BeBBmFsm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.419867, 52.7613275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AtulPatel88", 
+                "Name": "Atul Patel", 
+                "Tweet": "Cracking round from @TommyFleetwood1. If DJ and Koepka play their back 9s as they have all weekend, we could have a\u2026 https://t.co/ahhAKKwSwS", 
+                "TweetLink": "1008446936184180736", 
+                "Place": "King's Lynn", 
+                "Time": "Sun Jun 17 20:31:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/477539609745043458/K_2cJw44_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.432425, 27.737151]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "d_stitz11", 
+                "Name": "Don Stitz", 
+                "Tweet": "I like the way Tony Finau is playing too but he better make his move soon #USOpen", 
+                "TweetLink": "1008447170205376512", 
+                "Place": "Corpus Christi", 
+                "Time": "Sun Jun 17 20:31:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/913564595373056005/CiGAh9s7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7729815, 39.5271365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jason_E_Bass", 
+                "Name": "Jason E. Bass", 
+                "Tweet": "I shot a 63 once.....however, it was on the front nine! \ud83d\ude02 https://t.co/PzVRWNtpZI", 
+                "TweetLink": "1008447290745507843", 
+                "Place": "Shelbyville", 
+                "Time": "Sun Jun 17 20:32:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008354035005640705/87WLpbQm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.9351915, 29.8956065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kadev22", 
+                "Name": "Kade Vyvjala", 
+                "Tweet": "Disrespectful. #USOpen https://t.co/ysei2vfiVt", 
+                "TweetLink": "1008447339151921153", 
+                "Place": "San Marcos", 
+                "Time": "Sun Jun 17 20:32:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008013866712825856/LTJ2AxR8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.159403, 51.5424365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JfmJm", 
+                "Name": "John Mennis", 
+                "Tweet": "Sad to say that it\u2019s hard to enjoy #USOpen with such an unpleasant New York golfing public in attendance. Some of t\u2026 https://t.co/d4kFj3hAeg", 
+                "TweetLink": "1008447969295831040", 
+                "Place": "Camden Town", 
+                "Time": "Sun Jun 17 20:35:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000580429621/a043f26bef20248c2d58ab6ff9a723e4_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "FOX\u2019s audio in the #USOpen is so bad, why does it always seem to silence for unnecessary reasons? I mean, I did hea\u2026 https://t.co/cwre54oUuk", 
+                "TweetLink": "1008447973137584128", 
+                "Place": "Nevada", 
+                "Time": "Sun Jun 17 20:35:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.6807375, 32.576227]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "richkemmer", 
+                "Name": "Richard Kemmer", 
+                "Tweet": "Props to the guy who yelled \u201cGreat triceps Brooks!\u201d as Koepka walked up to 11 tee box \ud83d\ude02\ud83d\ude02\ud83d\ude02 #USOpen", 
+                "TweetLink": "1008448030356529152", 
+                "Place": "Alabama", 
+                "Time": "Sun Jun 17 20:35:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000269928362/9bcf21940a8918cdaa26eef545c3ffb0_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6659115, 28.300058]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DFSgolfer23", 
+                "Name": "Jason Rouslin", 
+                "Tweet": "And with that shot  the #Usopen just begun, and Tommy Fleetwood is in incredible shape. \n\n#carnage", 
+                "TweetLink": "1008448119548399617", 
+                "Place": "Jasmine Estates", 
+                "Time": "Sun Jun 17 20:35:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/975495420486082561/guy2BUN4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.089427, 33.9134585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChrisJacksonSC", 
+                "Name": "Chris Jackson", 
+                "Tweet": "I\u2019m just gonna put this out there, but I\u2019d pay 10 bucks to watch Major Golf Championships with no censoring. I\u2019d lo\u2026 https://t.co/JSNMhWZVlA", 
+                "TweetLink": "1008448127802728452", 
+                "Place": "Cayce", 
+                "Time": "Sun Jun 17 20:35:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/942659166103068672/tswjKjze_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.622676, 28.329306]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfingnole", 
+                "Name": "Todd Yocum", 
+                "Tweet": "#golf #usopen #hilarious #pgamemes https://t.co/tEteLkwJ5R", 
+                "TweetLink": "1008448295545524226", 
+                "Place": "Cocoa Beach", 
+                "Time": "Sun Jun 17 20:36:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951481818167037952/rjuf3xmH_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stoolpresidente", 
+                "Name": "Dave Portnoy", 
+                "Tweet": "A lot of people saying I have a 4 shot lead at the #usopen.    I\u2019d like to clarify I have a 12* or 16 shot lead", 
+                "TweetLink": "1008448365137481728", 
+                "Place": "Manhattan", 
+                "Time": "Sun Jun 17 20:36:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/598493860336148480/SaR7gKvr_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AustinJackman", 
+                "Name": "Austin Jackman", 
+                "Tweet": "Now it\u2019s time for golf #USOpen", 
+                "TweetLink": "1008448615621292033", 
+                "Place": "Illinois", 
+                "Time": "Sun Jun 17 20:37:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785472376498597889/GCsmA3yR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.0669855, 50.8188645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "John_Ferrett", 
+                "Name": "Cllr John Ferrett", 
+                "Tweet": "This is such a punishing course - Patrick Reed could be handing back three of the four shots he gained today at one hole #USOpen", 
+                "TweetLink": "1008448792549642240", 
+                "Place": "Portsmouth", 
+                "Time": "Sun Jun 17 20:38:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866363054681976834/cLaFH6Hd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4590425, 40.8868525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "duncanmcmc", 
+                "Name": "Duncan McKenzie-McHarg", 
+                "Tweet": "Aaron Baddeley has finished the best of the Australians at this year's #USOpen\nHe saved his best round for last\nA 1\u2026 https://t.co/VM72T34xhb", 
+                "TweetLink": "1008448908442456066", 
+                "Place": "Shinnecock Hills", 
+                "Time": "Sun Jun 17 20:38:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964179392711737344/ahRKCQZh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.750855, 29.572572]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kmcorder", 
+                "Name": "Keith M. Cordero Jr.", 
+                "Tweet": "Wowoowowow Koepka in trouble! #USOpen", 
+                "TweetLink": "1008449022170992640", 
+                "Place": "Richmond", 
+                "Time": "Sun Jun 17 20:39:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981990894055411712/-rbBNPiF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.885179, 47.4862985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HesNotThatGood", 
+                "Name": "Matt Geffre \ud83c\udf99\ud83d\udcfb", 
+                "Tweet": "#USOpen is very entertaining this year.", 
+                "TweetLink": "1008449249644830720", 
+                "Place": "Bemidji", 
+                "Time": "Sun Jun 17 20:40:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008127522549260288/leQlzhVd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4359785, 37.7706565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mr_balty", 
+                "Name": "Michael B", 
+                "Tweet": "Uh oh. Brooks Koepka could be opening the door up right now. \n\n#USOpen #ShinnecockHills", 
+                "TweetLink": "1008449250605215745", 
+                "Place": "San Francisco", 
+                "Time": "Sun Jun 17 20:40:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859287606139510784/YUDjnx57_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
+                "Tweet": "The defending champion Koepka has overshot the green at 11 and goes into the bunker. #USOpen", 
+                "TweetLink": "1008449278274965504", 
+                "Place": "Nevada", 
+                "Time": "Sun Jun 17 20:40:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
+            }
         }
     ]
 }
