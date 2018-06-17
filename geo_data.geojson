@@ -4316,6 +4316,45 @@
                 "Time": "Sun Jun 17 15:39:52 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/788213361347559424/db_d6XWE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.1700515, 41.086917]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TButts24", 
+                "Name": "Tyler Butler", 
+                "Tweet": "If I wanted to watch shots spinning on greens I\u2019d watch the John Deere Classic. Bring on the conditions and the car\u2026 https://t.co/7x9ddYmOQ4", 
+                "TweetLink": "1008373872113147904", 
+                "Place": "Fort Wayne", 
+                "Time": "Sun Jun 17 15:40:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/645467491859234817/q1H044IF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.4379405, 55.592009]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Goonermick77", 
+                "Name": "Michael Lyall", 
+                "Tweet": "How this tosspot hasn\u2019t been disqualified is beyond belief \ud83d\ude21 https://t.co/2rrUadczX2", 
+                "TweetLink": "1008373902303809536", 
+                "Place": "Maxwellheugh", 
+                "Time": "Sun Jun 17 15:40:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/683649443887972352/m4_5BsXe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.4816265, 42.74672]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brad_richman", 
+                "Name": "Brad Richman", 
+                "Tweet": "Forget the course set up, forget Phil not being DQ\u2019d ... Golf is a global game. When will the @USGA finally take a\u2026 https://t.co/JRGBJ9cOkM", 
+                "TweetLink": "1008373964874375169", 
+                "Place": "East Lansing", 
+                "Time": "Sun Jun 17 15:41:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/825232924941369344/7WnM-eWD_normal.jpg"
+            }
         }
     ]
 }
