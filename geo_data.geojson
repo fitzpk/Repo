@@ -4537,6 +4537,162 @@
                 "Time": "Sun Jun 17 17:13:06 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/772171212961308672/vebQYHi5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "turbofan111", 
+                "Name": "Rhino", 
+                "Tweet": "Mickelson isn't worth a crap. Has always been phony, just saw the real Mickelson this weekend #USOpen", 
+                "TweetLink": "1008406985920966657", 
+                "Place": "Washington", 
+                "Time": "Sun Jun 17 17:52:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/881281631486607360/hE7DH74a_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[5.8851495, 45.281581]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "patoche5938", 
+                "Name": "Patrice\ud83c\udfcc\ud83c\udfff\u26f3\ufe0f", 
+                "Tweet": "@leblog_lpbb Aujourd\u2019hui on voit du vrai golf pas du Frisbee #USOpen", 
+                "TweetLink": "1008407047312986113", 
+                "Place": "Crolles", 
+                "Time": "Sun Jun 17 17:52:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995554468933636096/2tOh6HNF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.9126965, 38.002878]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BucketHat1", 
+                "Name": "Christopher Kays", 
+                "Tweet": "Now on the tee at the #usopen #PatrickReedIsComing @NoLayingUp @GolfProblems_ https://t.co/F3tHlceKLJ", 
+                "TweetLink": "1008407100370845697", 
+                "Place": "Benton", 
+                "Time": "Sun Jun 17 17:52:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/806868049185898497/vSK2t0vf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stefanfranczuk", 
+                "Name": "Stefan Franczuk", 
+                "Tweet": "So basically I am spending Father\u2019s Day, camped on the couch watching football \u26bd\ufe0f and golf \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f #WorldCup18 #USOpen #HaveEarnedIt", 
+                "TweetLink": "1008407412167016448", 
+                "Place": "Milngavie", 
+                "Time": "Sun Jun 17 17:53:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/936295396858646528/V-ChXevD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Caraway6", 
+                "Name": "Andrew Caraway", 
+                "Tweet": "Man for the @usopengolf leader to be +3 is crazy. This course must be unbelievably tough! #USOpen", 
+                "TweetLink": "1008407585593221121", 
+                "Place": "Georgia", 
+                "Time": "Sun Jun 17 17:54:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946132617057001472/7QYMzfJf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.001617, 52.404436]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tabor2005", 
+                "Name": "Matthew Tabor", 
+                "Tweet": "And were back to target golf @usopengolf wish the @USGA hadn\u2019t put that much water in the course. #USOPEN", 
+                "TweetLink": "1008407817722744833", 
+                "Place": "Wales", 
+                "Time": "Sun Jun 17 17:55:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952539536030126081/vB4yISiS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.183966, 44.4954325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "metallidan", 
+                "Name": "Dan Barnes", 
+                "Tweet": "Joe Buck doing golf is a fucking nightmare. #USOpen", 
+                "TweetLink": "1008408137584578560", 
+                "Place": "Winooski", 
+                "Time": "Sun Jun 17 17:56:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920434205250777089/XCGeOUmq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.4260155, 55.8883595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chunter85", 
+                "Name": "Craig Hunter", 
+                "Tweet": "Hoping either @JustinRose99 or @henrikstenson get over the line today. #usopen", 
+                "TweetLink": "1008408399703433217", 
+                "Place": "Kirknewton", 
+                "Time": "Sun Jun 17 17:57:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/755526707256430592/jbdA3FLa_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[27.9574575, -26.0197195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GavinCarter83", 
+                "Name": "Gavin Carter", 
+                "Tweet": "Lost interest in the #USOpen because of the ridiculous course layout! Really don\u2019t know what the @USGA are trying t\u2026 https://t.co/9xUOYc760H", 
+                "TweetLink": "1008408594352627712", 
+                "Place": "Randburg", 
+                "Time": "Sun Jun 17 17:58:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/656068666316955649/vrPet0x5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.066534, 41.604176]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Justin_Time_89", 
+                "Name": "Justin C. Sellers \ud83c\udfd2\ud83e\udd45\ud83d\udea8", 
+                "Tweet": "The fact that +6 is in the running for the leaderboard is crazy https://t.co/SpZHfT5jER", 
+                "TweetLink": "1008408627764482048", 
+                "Place": "Chesterton", 
+                "Time": "Sun Jun 17 17:58:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/889674321240653824/aSADV4ZP_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.5426045, 33.0184605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TakeDatWichew", 
+                "Name": "TakeDatWichew", 
+                "Tweet": "Does the guy yelling right at the point of impact know he is a douchebag? #USOPEN", 
+                "TweetLink": "1008408834770194433", 
+                "Place": "Wylie", 
+                "Time": "Sun Jun 17 17:59:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1435760057/TakeDatWichew_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.458439, 51.3001085]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wardie002", 
+                "Name": "Mike Ward", 
+                "Tweet": "Ok than #BRASUI than the back nine of the #USOpen \u26bd\ufe0f\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f", 
+                "TweetLink": "1008409016345784321", 
+                "Place": "Ditton", 
+                "Time": "Sun Jun 17 18:00:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/860133237980573697/CEwJ0Y7d_normal.jpg"
+            }
         }
     ]
 }
