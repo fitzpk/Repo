@@ -4212,6 +4212,110 @@
                 "Time": "Sat Jun 16 23:18:05 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/889841647944691712/lz9iuv2f_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1480435, 42.579003]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RADAR_IRISH", 
+                "Name": "Sean Caughlin", 
+                "Tweet": "Come watch the #UsOpen &amp; #WorldCup at #AmbassadorCigarsAndSpirits! Enjoy #aCigarAndDrinksWithSean!  GO MEXICO (@ Am\u2026 https://t.co/Y5Cc4u9Z8g", 
+                "TweetLink": "1008371483322839041", 
+                "Place": "Troy", 
+                "Time": "Sun Jun 17 15:31:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/777205931146899462/eEFk0srC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "amirandarights", 
+                "Name": "Alaine Miranda", 
+                "Tweet": "Phil Mickelson also cheated on a lot of meals. #USOpen", 
+                "TweetLink": "1008371877599838208", 
+                "Place": "Summerlin South", 
+                "Time": "Sun Jun 17 15:32:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985262037335924736/MEQ_kEyX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.5934165, 47.3254495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mccshark", 
+                "Name": "mccshark", 
+                "Tweet": "@USGA Mike Davis would be a  fired superintendent if he pulled this stunt during a member/guest tournament #usopen", 
+                "TweetLink": "1008372126364196864", 
+                "Place": "Gig Harbor", 
+                "Time": "Sun Jun 17 15:33:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/767219449032085504/iiYuv4Vj_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0305415, 42.538193]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cmg799", 
+                "Name": "Chris Goodwin", 
+                "Tweet": "@USGA a 264 yard par 3 is stupid.... #USOpen @usopengolf", 
+                "TweetLink": "1008372330458959872", 
+                "Place": "Lynnfield", 
+                "Time": "Sun Jun 17 15:34:32 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947929883627450368/8Mkvj2lZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TGADarrenReese", 
+                "Name": "Darren Reese", 
+                "Tweet": "Never change #PhilMickelson, never change... #USOpen https://t.co/J1AtJAQMmt", 
+                "TweetLink": "1008372576056422400", 
+                "Place": "Tennessee", 
+                "Time": "Sun Jun 17 15:35:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001184299507441665/myBVdi6c_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.087874, 43.053899]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Gimmeabud", 
+                "Name": "tim sirianni", 
+                "Tweet": "Not a fan of Phil but if he sinks that moving ball he saves a couple of strokes. Perhaps the rules are the question\u2026 https://t.co/LNCGsJdncO", 
+                "TweetLink": "1008372965266853889", 
+                "Place": "Niagara Falls", 
+                "Time": "Sun Jun 17 15:37:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/416390670577053696/cBkS3YMh_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.6934385, 39.151374]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "j_lutzow", 
+                "Name": "Jackie L.", 
+                "Tweet": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/zf25T2P3FW", 
+                "TweetLink": "1008373581426954240", 
+                "Place": "Sea Isle City", 
+                "Time": "Sun Jun 17 15:39:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/743765600892239872/gA-OttFL_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1432935, 32.8919145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ktw1021sports", 
+                "Name": "Kyle", 
+                "Tweet": "Wife \u201c what are you going to for Father\u2019s Day \u201c\nMe  #WorldCup  #Longhorns #usopen    What a sports day", 
+                "TweetLink": "1008373672317505536", 
+                "Place": "Colleyville", 
+                "Time": "Sun Jun 17 15:39:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/788213361347559424/db_d6XWE_normal.jpg"
+            }
         }
     ]
 }
