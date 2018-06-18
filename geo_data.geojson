@@ -6890,6 +6890,84 @@
                 "Time": "Mon Jun 18 02:04:40 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/520502175437312000/0YPGTrar_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4590425, 40.8868525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GrumpyGolf4", 
+                "Name": "Jay Perratti", 
+                "Tweet": "I've had so much fun sharing my #USOpen experience with the faith-based.  I can't wait until next tournament I atte\u2026 https://t.co/gJpiovbD0T", 
+                "TweetLink": "1008533370740072449", 
+                "Place": "Shinnecock Hills", 
+                "Time": "Mon Jun 18 02:14:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006306995450740736/m6Wq40W-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.439597, 40.894797]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GrumpyGolf4", 
+                "Name": "Jay Perratti", 
+                "Tweet": "I've had so much fun sharing my #USOpen experience with the twitter-verse.  I can't wait until next tournament I at\u2026 https://t.co/SJpmittt6U", 
+                "TweetLink": "1008533884320014336", 
+                "Place": "Clubhouse @ Shinnecock Hills Gc", 
+                "Time": "Mon Jun 18 02:16:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006306995450740736/m6Wq40W-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "beaudrypaul", 
+                "Name": "Paul Beaudry", 
+                "Tweet": "Her: \u201cI bet he\u2019s thinking about other women.\u201d\nHim: \u201cWas the USGA wrong to soften Shinnecock for the last round of t\u2026 https://t.co/MHr4LvrFF4", 
+                "TweetLink": "1008535064873918464", 
+                "Place": "Calgary", 
+                "Time": "Mon Jun 18 02:21:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/822133308641329153/rxQ4OisT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.9987325, 33.692542]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wolkoys", 
+                "Name": "Rob Wolkoys", 
+                "Tweet": "#mizunoirons https://t.co/FflRQHqsNA", 
+                "TweetLink": "1008535118238048257", 
+                "Place": "Huntington Beach", 
+                "Time": "Mon Jun 18 02:21:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/454820627895951360/AWoPHUaf_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.7646315, 43.0091165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JanetSnyderKISS", 
+                "Name": "Janet Snyder", 
+                "Tweet": "Go Bills! https://t.co/rrywPBEhSA", 
+                "TweetLink": "1008535163524059136", 
+                "Place": "Amherst", 
+                "Time": "Mon Jun 18 02:21:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/615688788833083394/6B-NY_3P_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.6070845, 41.0056315]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "EMcCauley55", 
+                "Name": "Diet Mac", 
+                "Tweet": "Tony Finau chocked... We all know that right? #USOpen", 
+                "TweetLink": "1008535233023627271", 
+                "Place": "Barberton", 
+                "Time": "Mon Jun 18 02:21:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/614192642088435713/-LRd_9qR_normal.jpg"
+            }
         }
     ]
 }
