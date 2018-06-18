@@ -6708,6 +6708,58 @@
                 "Time": "Mon Jun 18 00:32:21 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/601463728702246912/uw3tCNaf_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-61.8117305, 44.321234]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "The_Mark_Hill", 
+                "Name": "Mark", 
+                "Tweet": "After the tournament is over, @USGA officials celebrating like #USOpen https://t.co/TrBxzb5K3m", 
+                "TweetLink": "1008509813859475456", 
+                "Place": "Halifax", 
+                "Time": "Mon Jun 18 00:40:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/969037113923702785/tKmXw-BQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NFLMarquise", 
+                "Name": "Marquise Jenkins", 
+                "Tweet": "Thanks to all who participated. Unfortunately, nobody won this time around, but i will be sure to have more giveawa\u2026 https://t.co/Qwhb0Xj1iT", 
+                "TweetLink": "1008510759293235200", 
+                "Place": "Pittsburgh", 
+                "Time": "Mon Jun 18 00:44:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/911542203545202688/m166yeuu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.56398, 45.118305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TBMgolf", 
+                "Name": "Ted Maruca", 
+                "Tweet": "Well Ian evidently you weren\u2019t prepared mentally or physically to play in a #USOpen Here\u2019s tip IanJamesPoulter \u201cif\u2026 https://t.co/HqdH6mbNSL", 
+                "TweetLink": "1008511048410902529", 
+                "Place": "Muskoka Lakes", 
+                "Time": "Mon Jun 18 00:45:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/572218264815726594/R9iOYrFj_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.488864, 42.5570485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Russ_Hermans", 
+                "Name": "Russ Hermans", 
+                "Tweet": "@PatrickReedEgo he\u2019s the only one to say Saturday\u2019s conditions were fair. Former hater, now I have the most respect\u2026 https://t.co/ktMs4XUtLm", 
+                "TweetLink": "1008512061050105856", 
+                "Place": "Wolverine Lake", 
+                "Time": "Mon Jun 18 00:49:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1926321738/image_normal.jpg"
+            }
         }
     ]
 }
