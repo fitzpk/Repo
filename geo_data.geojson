@@ -6877,6 +6877,19 @@
                 "Time": "Mon Jun 18 02:00:28 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1104439535/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.168821, 39.6617135]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "COILPOD", 
+                "Name": "COILPOD Dust Hood", 
+                "Tweet": "Think I'll add Phil Mickelson's putting strategy to my already amazing repertoire of golf shots. https://t.co/7F8a42IT5U", 
+                "TweetLink": "1008530909086343169", 
+                "Place": "Surf City", 
+                "Time": "Mon Jun 18 02:04:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/520502175437312000/0YPGTrar_normal.jpeg"
+            }
         }
     ]
 }
