@@ -6123,6 +6123,45 @@
                 "Time": "Mon Jun 18 22:26:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920667931062820865/8YwVEmQi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BryanPWHogan", 
+                "Name": "Bryan Hogan", 
+                "Tweet": "Cement floors come in a lovely shade of green-ish/brown now.  #Shinnecock #USOpen https://t.co/bd14aTFBlJ", 
+                "TweetLink": "1008842181275213824", 
+                "Place": "Manhattan", 
+                "Time": "Mon Jun 18 22:41:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/926089035822616577/SvlEFCX__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5167515, 41.0808775]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "supergolfdude", 
+                "Name": "Ed Balaun", 
+                "Tweet": "@GolfCentral @GeoffShac Oh, great! We can look forward to disgusting drunken animal fan behavior in \u201820 and \u201826! #usopen #NYDrunks", 
+                "TweetLink": "1008842501241925637", 
+                "Place": "Akron", 
+                "Time": "Mon Jun 18 22:42:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/997206649399009280/a4aHO52A_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.791977, 26.1524075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "belzsells", 
+                "Name": "joe belz", 
+                "Tweet": "Agree! https://t.co/PFzEhn7yJ4", 
+                "TweetLink": "1008844203303034885", 
+                "Place": "Naples", 
+                "Time": "Mon Jun 18 22:49:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/901854004040359936/IfqgvWG8_normal.jpg"
+            }
         }
     ]
 }
