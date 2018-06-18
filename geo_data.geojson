@@ -7020,6 +7020,19 @@
                 "Time": "Mon Jun 18 02:57:38 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/993244865134776320/BO5pE_tW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.4406305, 33.17838]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rehbirdie", 
+                "Name": "Adam Rehberg", 
+                "Tweet": "If this doesn\u2019t win it will be very baaaaaaaaaad\u203c\ufe0f\n\nI\u2019ll leave now, don\u2019t @ me https://t.co/0IEY0V4XFa", 
+                "TweetLink": "1008545694309855232", 
+                "Place": "Cottondale", 
+                "Time": "Mon Jun 18 03:03:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/793160639258714113/oJW9x-DB_normal.jpg"
+            }
         }
     ]
 }
