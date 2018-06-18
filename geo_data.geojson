@@ -6214,6 +6214,58 @@
                 "Time": "Mon Jun 18 11:59:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/999490845932843010/b7TZrPUC_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0350275, 32.9852905]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "973TheFanSD", 
+                "Name": "973 The Fan", 
+                "Tweet": "GOOD MORNING!!! Check out today's lineup for the @DanSileoShow \n\n5:30a - @JeffreyCarlisle, Soccer Analyst for @espn\u2026 https://t.co/lpNab2Z0Dw", 
+                "TweetLink": "1008683903274500096", 
+                "Place": "Poway", 
+                "Time": "Mon Jun 18 12:12:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984224697612025857/YfUMDa6K_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "U.S. Open champ Brooks Koepka personifies new breed of PGA player. @FanSided \n\nhttps://t.co/pKcT7G5a9B\n\n#golf #usopen", 
+                "TweetLink": "1008684117205004293", 
+                "Place": "Brampton", 
+                "Time": "Mon Jun 18 12:13:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983449457327878144/YZ9tMoYd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.84886, 41.470205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BobBobmarini2", 
+                "Name": "boom. clev", 
+                "Tweet": "Greens here is question to end all. LBJ in late 80\u2019s/90/\u2018s vs. MJ now no hand checks , elbows flying , fouls if u l\u2026 https://t.co/aKJ1LgPBAt", 
+                "TweetLink": "1008684678189117440", 
+                "Place": "Rocky River", 
+                "Time": "Mon Jun 18 12:15:42 +0000 2018", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.43004, 38.9143645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "xstra_kax", 
+                "Name": "Blaise Straka", 
+                "Tweet": "\ud83d\udcaa\ud83c\udffc\ud83d\udcaa\ud83c\udffc https://t.co/DUG59LrqGD", 
+                "TweetLink": "1008684898109067264", 
+                "Place": "Milford", 
+                "Time": "Mon Jun 18 12:16:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/863913964807348224/O--mjk8Z_normal.jpg"
+            }
         }
     ]
 }
