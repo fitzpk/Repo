@@ -6968,6 +6968,32 @@
                 "Time": "Mon Jun 18 02:21:51 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/614192642088435713/-LRd_9qR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[14.4658755, 50.05958]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Naterade0", 
+                "Name": "Nate Bowyer", 
+                "Tweet": "*** #liveoneoverpar https://t.co/NBluDRP410", 
+                "TweetLink": "1008540146021658624", 
+                "Place": "Prague", 
+                "Time": "Mon Jun 18 02:41:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/845954725807837184/EmQ7dNVP_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.40289, 40.936885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golf_strange", 
+                "Name": "Curtis Strange", 
+                "Tweet": "Fox did this.  Not me.  But I must admit I will cherish this photo of 2 guys ,yes, just 2 guys , kissing their drea\u2026 https://t.co/kjpybY3mTu", 
+                "TweetLink": "1008540427664969729", 
+                "Place": "North Sea", 
+                "Time": "Mon Jun 18 02:42:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/910637216485052416/L-NvaqmB_normal.jpg"
+            }
         }
     ]
 }
