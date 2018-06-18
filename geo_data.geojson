@@ -7033,6 +7033,19 @@
                 "Time": "Mon Jun 18 03:03:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/793160639258714113/oJW9x-DB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.31106, 40.906272]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DaBear84", 
+                "Name": "Grant", 
+                "Tweet": "Happy Father\u2019s Day to the best father any son could ask for (@jscottjamieson) Had a great time out in the Hamptons\u2026 https://t.co/qidKwJnHh3", 
+                "TweetLink": "1008548892659585024", 
+                "Place": "Bridgehampton", 
+                "Time": "Mon Jun 18 03:16:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/564818763271262208/2K2AQyqv_normal.jpeg"
+            }
         }
     ]
 }
