@@ -6812,6 +6812,45 @@
                 "Time": "Mon Jun 18 00:56:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990198502243405826/k4xYcCoL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BraydenMacaluso", 
+                "Name": "Brayden Macaluso", 
+                "Tweet": "@BKoepka is one of the best #USOpen player ever", 
+                "TweetLink": "1008526111876280322", 
+                "Place": "Upper Arlington", 
+                "Time": "Mon Jun 18 01:45:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993271239371304961/LdQU_Tp3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.1056485, 44.9415155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Yazzie_TheChef", 
+                "Name": "Brian Yazzie", 
+                "Tweet": "@usopengolf @ShinnysHills @180099native @IndianCountry @ABC7NY @ngaltaha #ShinnecockHills #USOpen https://t.co/itLhhE9Qhk", 
+                "TweetLink": "1008526339375235073", 
+                "Place": "St Paul", 
+                "Time": "Mon Jun 18 01:46:31 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946244752948781056/DYkgGs6x_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlphakatGlobal", 
+                "Name": "KATHLEEN.STROUD GLOBAL", 
+                "Tweet": "@buffer #BufferSupport #USOpenChampionship #PitcheroACES #SOFTJAPAN #SoftBank #softball #fastpitch #STRONGHEARTS\u2026 https://t.co/B3JSpJ7z5w", 
+                "TweetLink": "1008526833967607808", 
+                "Place": "Ohio", 
+                "Time": "Mon Jun 18 01:48:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995846207149871104/vwM5LA5f_normal.jpg"
+            }
         }
     ]
 }
