@@ -6682,6 +6682,32 @@
                 "Time": "Mon Jun 18 00:28:52 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/937489109773422592/IRXaE1_B_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.8456635, 41.442401]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "scooniepenn", 
+                "Name": "The Celtics Blew a 2-0 Lead", 
+                "Tweet": "@the_fried_egg thoughts? https://t.co/OaQyqVqodG", 
+                "TweetLink": "1008507497957732354", 
+                "Place": "Fairview Park", 
+                "Time": "Mon Jun 18 00:31:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963445551260950529/697ShnF2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.208364, 19.199485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "riesgoygloria", 
+                "Name": "Domingo C\u00f3rdova E", 
+                "Tweet": "https://t.co/WLt4ZN4f9P , Sexshop, Lenceria Mexico,  #FelizDomingo #JuegaMexico #MexicoVsAlemania #VivaMexico\u2026 https://t.co/I8SFbQ19R5", 
+                "TweetLink": "1008507675418689543", 
+                "Place": "Tlalpan", 
+                "Time": "Mon Jun 18 00:32:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/601463728702246912/uw3tCNaf_normal.jpg"
+            }
         }
     ]
 }
