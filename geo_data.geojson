@@ -6994,6 +6994,32 @@
                 "Time": "Mon Jun 18 02:42:30 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/910637216485052416/L-NvaqmB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4590425, 40.8868525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jomomma40s", 
+                "Name": "JoAnn Fifield", 
+                "Tweet": "What a Sunday funday for Markus! #USOpen #Sweepstakes https://t.co/dAELmxUot9", 
+                "TweetLink": "1008542974194716672", 
+                "Place": "Shinnecock Hills", 
+                "Time": "Mon Jun 18 02:52:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/895101206774906881/tsixXLWb_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-104.9220935, 39.713563]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MFante", 
+                "Name": "Fante", 
+                "Tweet": "Now that\u2019s how you tie your sponsor into your big day. https://t.co/76TIsiYvWK", 
+                "TweetLink": "1008544237087059968", 
+                "Place": "Denver", 
+                "Time": "Mon Jun 18 02:57:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993244865134776320/BO5pE_tW_normal.jpg"
+            }
         }
     ]
 }
