@@ -6201,6 +6201,19 @@
                 "Time": "Mon Jun 18 03:34:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/948591675433156611/lS3-n-1S_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "620wdae", 
+                "Name": "WDAE", 
+                "Tweet": "The NEXT 60mins w/ @RonnieNTL &amp; @TKras\n- CFB w/ @philsteele042 \n- #Bucs w/ @TampaBayTre\n- #USOpen Argument\n- The La\u2026 https://t.co/gOYWnspCMD", 
+                "TweetLink": "1008680494198816768", 
+                "Place": "Tampa", 
+                "Time": "Mon Jun 18 11:59:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999490845932843010/b7TZrPUC_normal.jpg"
+            }
         }
     ]
 }
