@@ -6084,6 +6084,19 @@
                 "Time": "Mon Jun 18 12:16:34 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/863913964807348224/O--mjk8Z_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[5.0636235, 51.5850175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "pwfvtuyl", 
+                "Name": "Pieter van Tuyl", 
+                "Tweet": "Knap van @BrooksKoepka2 dat hij voor de tweede keer achter elkaar de #USOpen heeft gewonnen", 
+                "TweetLink": "1008836117783826434", 
+                "Place": "Tilburg", 
+                "Time": "Mon Jun 18 22:17:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/967891461646835713/JkNFrF04_normal.jpg"
+            }
         }
     ]
 }
