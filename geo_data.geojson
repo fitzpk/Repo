@@ -6162,6 +6162,32 @@
                 "Time": "Mon Jun 18 22:49:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/901854004040359936/IfqgvWG8_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.5167515, 41.0808775]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RUFUSRUFFCUTT", 
+                "Name": "GRADY MALACHOWSKI", 
+                "Tweet": "#USOpen https://t.co/vt8d4MVvfb", 
+                "TweetLink": "1008844525656297483", 
+                "Place": "Akron", 
+                "Time": "Mon Jun 18 22:50:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/950799047698370560/LNGlugxl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.850772, 41.2756805]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "johntomkoskijr", 
+                "Name": "John Tomkoski Jr.", 
+                "Tweet": "I think I\u2019ve got some competition from @BKoepka. I\u2019m sure I\u2019ve got something to measure up to those back to back\u2026 https://t.co/VnxSwgUvVb", 
+                "TweetLink": "1008844871162048512", 
+                "Place": "Plains", 
+                "Time": "Mon Jun 18 22:52:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/449963266542817280/6dT4KKxT_normal.jpeg"
+            }
         }
     ]
 }
