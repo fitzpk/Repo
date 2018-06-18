@@ -6851,6 +6851,32 @@
                 "Time": "Mon Jun 18 01:48:29 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/995846207149871104/vwM5LA5f_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.961483, 32.863917]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MichaelynMB", 
+                "Name": "Michaelyn Bradford", 
+                "Tweet": "Amazing achievement from @BKoepka winning 2 in a row\ud83d\udc4a https://t.co/kKtL6eCvY7", 
+                "TweetLink": "1008528736537530368", 
+                "Place": "Irving", 
+                "Time": "Mon Jun 18 01:56:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/575709145141219328/-jEd7X-t_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kerrychaseme", 
+                "Name": "Kerry Chase", 
+                "Tweet": "Didn\u2019t get to watch the #USOpen but it\u2019s glad to hear that the course wasn\u2019t the main story again.", 
+                "TweetLink": "1008529849768701952", 
+                "Place": "Georgia", 
+                "Time": "Mon Jun 18 02:00:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1104439535/image_normal.jpg"
+            }
         }
     ]
 }
