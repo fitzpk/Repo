@@ -6097,6 +6097,32 @@
                 "Time": "Mon Jun 18 22:17:28 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/967891461646835713/JkNFrF04_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "agenterob", 
+                "Name": "Robert Colosia", 
+                "Tweet": "@DSmithShow @ScottKaplan Don\u2019t worry Phil, U don\u2019t have to Pay Tax on that $27,000, you took a loss this weekend #PGA #USOpen", 
+                "TweetLink": "1008838169159090176", 
+                "Place": "San Diego", 
+                "Time": "Mon Jun 18 22:25:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1214127580/colosiacrestcolorsmallicon_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.32971, 40.69898]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JimmyGlenn711", 
+                "Name": "\u26a1\ufe0fJimmyGlenn\u26a1\ufe0f", 
+                "Tweet": "I was busy watching the #WorldCup2018 this weekend but it sounds like Phil Mickelson killed Golf this weekend at th\u2026 https://t.co/JZmYyGc77W", 
+                "TweetLink": "1008838459337924613", 
+                "Place": "Springfield", 
+                "Time": "Mon Jun 18 22:26:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920667931062820865/8YwVEmQi_normal.jpg"
+            }
         }
     ]
 }
