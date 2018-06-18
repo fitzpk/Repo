@@ -6760,6 +6760,58 @@
                 "Time": "Mon Jun 18 00:49:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1926321738/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.6750935, 38.931549]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jedro24", 
+                "Name": "Jed Marshall", 
+                "Tweet": "@mattderrick @JazzKCMO Actually from the (possibly) new one I watched at 7pm on Fox......with #WorldCup and #USOpen\u2026 https://t.co/pQ4gWGt5fP", 
+                "TweetLink": "1008512359940395011", 
+                "Place": "Overland Park", 
+                "Time": "Mon Jun 18 00:50:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998316874810081280/u4bkwWlP_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.4174305, 31.793368]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "steve_sez_3MTA3", 
+                "Name": "Steve on Resler", 
+                "Tweet": "Just catching up on baseball after days of #USOpen and #WorldCup . \n\nThe #Astros won 10 straight on the road? Holy crap.", 
+                "TweetLink": "1008512391762599936", 
+                "Place": "El Paso", 
+                "Time": "Mon Jun 18 00:51:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/955587142373330951/tAVTIkar_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.381699, 29.830851]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rio_RicoTx", 
+                "Name": "Rio Rico \ud83d\udc2f\ud83d\udc36\ud83d\udc15\ud83c\udfcc\u26f3\u26bd\ud83c\udfc6", 
+                "Tweet": "@4golfonline @CoachLockey \ud83e\udd14 https://t.co/svRZy8rqoL", 
+                "TweetLink": "1008512480409251840", 
+                "Place": "Pappas Bar-B-Q", 
+                "Time": "Mon Jun 18 00:51:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000077485319450624/DRaPu8NE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.4196855, 38.627027]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chancellor1881", 
+                "Name": "Michael Ledvina", 
+                "Tweet": "watching the end of a #USOpen brings back lots of great memories. \n#MissYouDad", 
+                "TweetLink": "1008513657846812677", 
+                "Place": "Frontenac", 
+                "Time": "Mon Jun 18 00:56:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990198502243405826/k4xYcCoL_normal.jpg"
+            }
         }
     ]
 }
