@@ -6227,6 +6227,32 @@
                 "Time": "Tue Jun 19 00:38:59 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780493146358624256/KPpPkdv6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.3677725, 28.5016785]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ESPN580Nick", 
+                "Name": "Nicky Football", 
+                "Tweet": "Great Monday Nite with Nick &amp; Co. show tonight: \n\n\u26f3\ufe0f Watching golfers struggle is not fun and overrated. \n\u26f3\ufe0f Golf\u2019s\u2026 https://t.co/gkuhT7OGcc", 
+                "TweetLink": "1008875690509430787", 
+                "Place": "Orlando", 
+                "Time": "Tue Jun 19 00:54:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948765073773916160/Ejlr1xC-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.3733495, 42.3973155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GrassJanitor26", 
+                "Name": "Douglas Ware", 
+                "Tweet": "This list is a joke. So many retreads I\u2019m here. Oakmont, Shinnecock, Pebble again...so many amazing courses in this\u2026 https://t.co/ENJ1bpUaKO", 
+                "TweetLink": "1008876474940690432", 
+                "Place": "Livonia", 
+                "Time": "Tue Jun 19 00:57:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2359235960/image_normal.jpg"
+            }
         }
     ]
 }
