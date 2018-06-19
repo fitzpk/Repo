@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.9248925, 33.8893475]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "tobytoro", 
-                "Name": "Toby Toro", 
-                "Tweet": "422 fuk\u2019n yards!! #JustinThomas #USOpen #Shinnecock", 
-                "TweetLink": "1007398382527102976", 
-                "Place": "Fullerton", 
-                "Time": "Thu Jun 14 23:04:25 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/998068999761022976/-WD5YrLX_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-122.455344, 47.2429605]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Kinman25", 
-                "Name": "Austin Kinman", 
-                "Tweet": "After day one, @stoolpresidente is still in the lead at -4 #USOpen", 
-                "TweetLink": "1007399710305337344", 
-                "Place": "Tacoma", 
-                "Time": "Thu Jun 14 23:09:42 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/963965431433302017/1lB4W4K5_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.2441895, 33.985452]}, 
             "type": "Feature", 
             "properties": {
@@ -5446,6 +5420,19 @@
                 "Place": "Melbourne", 
                 "Time": "Tue Jun 19 02:42:02 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/597165092917026818/Tzo5gLnp_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.256139, 39.629944]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "youngb58", 
+                "Name": "Bob Young", 
+                "Tweet": "Brooks Koepka and Patrick Reed have won the last two major championships without equipment deals. https://t.co/l5gx2iXS5o", 
+                "TweetLink": "1008908869526048768", 
+                "Place": "Miamisburg", 
+                "Time": "Tue Jun 19 03:06:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007989894273224704/fPw3jCyb_normal.jpg"
             }
         }
     ]
