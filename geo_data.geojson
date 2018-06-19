@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "sglaze1", 
-                "Name": "Scott Glazier", 
-                "Tweet": "@PendolinoSam @GolfChannel I mean when @McIlroyRory shoots plus 10, the course is ridiculous.  Hate the #USGA set up. #USOpen", 
-                "TweetLink": "1007389850570457088", 
-                "Place": "Jacksonville Beach", 
-                "Time": "Thu Jun 14 22:30:31 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1671887215/image_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-6.23572, 53.494598]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "legsbenedict23", 
-                "Name": "John Caulfield", 
-                "Tweet": "The biggest impact on scoring at #USOpen isn\u2019t width of fairways or poana greens it\u2019s the Wind. Changes tempo of sw\u2026 https://t.co/2NveKzw7su", 
-                "TweetLink": "1007390500276572161", 
-                "Place": "Fingal", 
-                "Time": "Thu Jun 14 22:33:06 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/860983822422351872/RXcvv_61_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-0.8465775, 51.374075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CallumRussell95", 
-                "Name": "Cal", 
-                "Tweet": "1st green on a Sunday medal after a heavy night \ud83e\udd2f https://t.co/ovCqWZSZMy", 
-                "TweetLink": "1007390862177984514", 
-                "Place": "Finchampstead", 
-                "Time": "Thu Jun 14 22:34:32 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/785247344866553856/5osLOQ8t_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.9248925, 33.8893475]}, 
             "type": "Feature", 
             "properties": {
