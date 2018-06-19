@@ -2,97 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-0.3506925, 51.461742]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KeithDJackson", 
-                "Name": "Keith Jackson", 
-                "Tweet": "There are 12 former US Open champions in the field at Shinnecock. Right now, they are a combined 69 over par! #USOpen", 
-                "TweetLink": "1007384749025976320", 
-                "Place": "Hounslow", 
-                "Time": "Thu Jun 14 22:10:15 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/588272838844506112/PgVQwV6B_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-3.0394275, 53.362693]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Peter_Courtenay", 
-                "Name": "Peter-C1983", 
-                "Tweet": "156 players in the field, I\u2019ve watched the golf for 8 hrs and seen about 25 different players. Absolutely shocking\u2026 https://t.co/SeSgW7NuhU", 
-                "TweetLink": "1007385096163352584", 
-                "Place": "Birkenhead", 
-                "Time": "Thu Jun 14 22:11:37 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/750409548582748161/wE3QdOKX_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-122.4350505, 37.792923]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "FMurray9", 
-                "Name": "Fraser", 
-                "Tweet": "Shinnecock looks tough. Making these guys look like amateurs. Tiger\u2019s just shit the bed too. Rory shat the same bed\u2026 https://t.co/126zYi8R0W", 
-                "TweetLink": "1007385486950723584", 
-                "Place": "Pacific Heights", 
-                "Time": "Thu Jun 14 22:13:11 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/975882756218535937/LTN_aftn_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Hauser_Mike", 
-                "Name": "Mike Hauser", 
-                "Tweet": "With some big scores on the #USOpen leaderboard, one can only imagine what us mere mortal golfers would score at\u2026 https://t.co/nXpx2BvfE7", 
-                "TweetLink": "1007386026610868224", 
-                "Place": "Melbourne", 
-                "Time": "Thu Jun 14 22:15:19 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1765814662/abg14kOH_normal"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mcmahoneric", 
-                "Name": "Eric McMahon", 
-                "Tweet": "I\u2019ve watched this 100 times already and I\u2019m still not tired of it.  #USOpen https://t.co/cNhycqkrar", 
-                "TweetLink": "1007386041391763456", 
-                "Place": "Philadelphia", 
-                "Time": "Thu Jun 14 22:15:23 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/791086440155348992/QbcEILcV_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.5167515, 41.0808775]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "supergolfdude", 
-                "Name": "Ed Balaun", 
-                "Tweet": "@FOXGOLF @FOXSports seems hell-bent on bringing us every single one of Dirtbag Woods 80 strokes today, and ignore a\u2026 https://t.co/PyrewEaklm", 
-                "TweetLink": "1007386652329816066", 
-                "Place": "Akron", 
-                "Time": "Thu Jun 14 22:17:48 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/997206649399009280/a4aHO52A_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-0.3370625, 51.595833]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KevinTheNormal", 
-                "Name": "Mr Patel", 
-                "Tweet": "The USGA always ruin their own Open #USOPEN", 
-                "TweetLink": "1007386881166848001", 
-                "Place": "Harrow", 
-                "Time": "Thu Jun 14 22:18:43 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/937704441045757958/nUl2AqW-_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.649699, 28.117874]}, 
             "type": "Feature", 
             "properties": {
@@ -5641,6 +5550,19 @@
                 "Place": "Ramsey", 
                 "Time": "Tue Jun 19 02:08:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/859846062957318145/fGLgDIta_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IlliniBrewChief", 
+                "Name": "Robert Holmes", 
+                "Tweet": "What a whirlwind few months for Dylan Meyer, from the B1G championships to the National championships for Illinois;\u2026 https://t.co/F97IbmhhzB", 
+                "TweetLink": "1008896433234284544", 
+                "Place": "Ohio", 
+                "Time": "Tue Jun 19 02:17:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/477437752414175237/Aqt2RdJQ_normal.jpeg"
             }
         }
     ]
