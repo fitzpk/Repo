@@ -2,110 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.649699, 28.117874]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Molecricket88", 
-                "Name": "Marshall Evans", 
-                "Tweet": "Wow!!! https://t.co/PqE5JEmMCP", 
-                "TweetLink": "1007387455811735554", 
-                "Place": "Melbourne", 
-                "Time": "Thu Jun 14 22:21:00 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/699395499342827520/a_1rTzQ6_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JohnKen59063684", 
-                "Name": "John Kennedy@lucky", 
-                "Tweet": "Last few holes unreal here. #usopen", 
-                "TweetLink": "1007387901599141889", 
-                "Place": "Cork", 
-                "Time": "Thu Jun 14 22:22:46 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962748009669898241/ysdcPJFt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-1.5255295, 54.9019095]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LdoubleE_87", 
-                "Name": "Lee Wickham", 
-                "Tweet": "Dufner hoying his clubs down again for his caddy to pick up. What a prick. #USOpen", 
-                "TweetLink": "1007388125059059712", 
-                "Place": "Washington", 
-                "Time": "Thu Jun 14 22:23:40 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/980067357300285440/VDD86pcc_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "carsoncgibbons", 
-                "Name": "Carson Gibbons", 
-                "Tweet": "U.S. Open observations: A) it\u2019s crazy to see fans cheering Par so hard (Shinnecock\u2019s a devil) and B) it\u2019s crazy to\u2026 https://t.co/KGK69Ml2co", 
-                "TweetLink": "1007388669039316992", 
-                "Place": "Dallas", 
-                "Time": "Thu Jun 14 22:25:49 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989257275683540997/auTIahC9_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-0.651384, 51.6087815]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "billyh04", 
-                "Name": "Billy Hunt", 
-                "Tweet": "The US Open conditions look ridiculously hard, the greens are mental! #USOpen #golf", 
-                "TweetLink": "1007388818360688645", 
-                "Place": "Beaconsfield", 
-                "Time": "Thu Jun 14 22:26:25 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/960912668914782208/s0M-8RHR_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Tugglehouseprop", 
-                "Name": "John Kilgore", 
-                "Tweet": "@usopengolf #usopen dear patrons. Please stop telling the ball to get in the hole. No kidding!!!they know that. Bab\u2026 https://t.co/gW5boiA7lC", 
-                "TweetLink": "1007389341822275585", 
-                "Place": "Georgia", 
-                "Time": "Thu Jun 14 22:28:30 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/428646832429076480/5_XsBpZE_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-4.6519525, 55.9647565]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "hoselrocketeer", 
-                "Name": "Thehoselrocketeer", 
-                "Tweet": "I get the USGA wanting the winner to shoot level par but I'm just not sure how interesting it is to watch tour pro'\u2026 https://t.co/2ASaCEnkBc", 
-                "TweetLink": "1007389398810464256", 
-                "Place": "Cardross", 
-                "Time": "Thu Jun 14 22:28:43 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1005928705036779522/8CbsE7SI_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[150.8545475, -32.0417455]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "tomhagan88", 
-                "Name": "tom hagan", 
-                "Tweet": "I've been out of school for a while but come on @usopengolf your better then that @GolfChannel @FOXSportsAUS #USOpen https://t.co/KfXjh1XG52", 
-                "TweetLink": "1007389730160369665", 
-                "Place": "Scone", 
-                "Time": "Thu Jun 14 22:30:02 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/791326708276170752/jQ1oG3uJ_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
             "type": "Feature", 
             "properties": {
@@ -5563,6 +5459,19 @@
                 "Place": "Ohio", 
                 "Time": "Tue Jun 19 02:17:08 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/477437752414175237/Aqt2RdJQ_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.4881465, 42.4147125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "donaldremington", 
+                "Name": "Alex Donald Rem-izowski-ington", 
+                "Tweet": "@TravelersChamp DFS Breakdown - not much of a #USOpen hangover this week and I LOVE IT! \n\n#travelerschampionship\u2026 https://t.co/TAwOkgdumJ", 
+                "TweetLink": "1008899510532222978", 
+                "Place": "South Hill", 
+                "Time": "Tue Jun 19 02:29:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002011924735852544/fZrjED0o_normal.jpg"
             }
         }
     ]
