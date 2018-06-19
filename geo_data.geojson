@@ -6253,6 +6253,32 @@
                 "Time": "Tue Jun 19 00:57:50 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2359235960/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "powerupchad", 
+                "Name": "Chad Allen Koebcke", 
+                "Tweet": "@McIlroyRory who? @JordanSpieth huh?\n@RickieFowler where?\n#Nice @BKoepka https://t.co/rgEQUzm4jb", 
+                "TweetLink": "1008877465366753282", 
+                "Place": "Paradise", 
+                "Time": "Tue Jun 19 01:01:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929468536619122688/KQxLxajy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KevinDunn01", 
+                "Name": "Kevin Dunn", 
+                "Tweet": "It was pure comedy. I couldn\u2019t look away. They did complain the other way last year. Not the players but fans/media\u2026 https://t.co/hdPBgHujSx", 
+                "TweetLink": "1008878018893434880", 
+                "Place": "Austin", 
+                "Time": "Tue Jun 19 01:03:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965428248934010885/NmTj0AY7_normal.jpg"
+            }
         }
     ]
 }
