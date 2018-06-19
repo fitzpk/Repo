@@ -5434,6 +5434,19 @@
                 "Time": "Tue Jun 19 02:29:22 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1002011924735852544/fZrjED0o_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfstarsAus", 
+                "Name": "Golfstars", 
+                "Tweet": "How is your equipment working for you? Track your equipment\u2019s on course performance with Golfstars! https://t.co/QpzZFvPNeg", 
+                "TweetLink": "1008902698840649733", 
+                "Place": "Melbourne", 
+                "Time": "Tue Jun 19 02:42:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/597165092917026818/Tzo5gLnp_normal.png"
+            }
         }
     ]
 }
