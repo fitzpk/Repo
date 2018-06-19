@@ -6214,6 +6214,19 @@
                 "Time": "Tue Jun 19 00:06:51 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/929960474732580864/e_OaS12I_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2620465, 44.9706105]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jphenow", 
+                "Name": "Jon Phenow", 
+                "Tweet": "Man, tough finding anyone to go watch non-WC soccer tonight? #USOpen #MNUFC", 
+                "TweetLink": "1008871730528571392", 
+                "Place": "Minneapolis", 
+                "Time": "Tue Jun 19 00:38:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780493146358624256/KPpPkdv6_normal.jpg"
+            }
         }
     ]
 }
