@@ -2,162 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JohnKen59063684", 
-                "Name": "John Kennedy@lucky", 
-                "Tweet": "This golf course is sporting brutality. #usopen", 
-                "TweetLink": "1007382293168754689", 
-                "Place": "Cork", 
-                "Time": "Thu Jun 14 22:00:29 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962748009669898241/ysdcPJFt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-87.490322, 38.6806135]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "arhutch25", 
-                "Name": "Drew Hutchison", 
-                "Tweet": "@TigerWoods is looking like Ali vs Holmes.  Someone throw in the towel.  #USOpen", 
-                "TweetLink": "1007382601143865346", 
-                "Place": "Vincennes", 
-                "Time": "Thu Jun 14 22:01:43 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/564132289912004610/kpDXF2EP_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-93.2050555, 45.165333]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TonyDoffin", 
-                "Name": "Given2Fly", 
-                "Tweet": "@RG_Notorious Just trying to stay above Zero FDP this week...\n\nMy 6 guys are +3, +5, +6, +8, +8, +8\n\nTime to look at next week...\n#USOpen", 
-                "TweetLink": "1007382729552531456", 
-                "Place": "Blaine", 
-                "Time": "Thu Jun 14 22:02:13 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/853787332461375489/6mmCtt0X_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-90.018308, 38.6362335]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "pgapro1", 
-                "Name": "Dan Attaway, PGA", 
-                "Tweet": "Maybe Tiger should try the mallet version! #PuttingWoes #USOpen", 
-                "TweetLink": "1007382797764431875", 
-                "Place": "Caseyville", 
-                "Time": "Thu Jun 14 22:02:29 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/478997289693097984/odHy_OdU_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "krisjar", 
-                "Name": "Kristen Jarnagin", 
-                "Tweet": "Welcome all #golf fans to Long Island! We\u2019ve ordered up perfect weather for championship weekend! @DiscoverLINY\u2026 https://t.co/Mq3lFpcrlX", 
-                "TweetLink": "1007382813648269313", 
-                "Place": "Queens", 
-                "Time": "Thu Jun 14 22:02:33 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/567333964281442305/PgvSmvY8_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JohnKen59063684", 
-                "Name": "John Kennedy@lucky", 
-                "Tweet": "Really fancy @DJohnsonPGA to win this thing. #usopen #fighter", 
-                "TweetLink": "1007382944929996800", 
-                "Place": "Cork", 
-                "Time": "Thu Jun 14 22:03:04 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962748009669898241/ysdcPJFt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JohnKen59063684", 
-                "Name": "John Kennedy@lucky", 
-                "Tweet": "@mrdanwalker https://t.co/vBxUBFtDoF", 
-                "TweetLink": "1007383144876707840", 
-                "Place": "Cork", 
-                "Time": "Thu Jun 14 22:03:52 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962748009669898241/ysdcPJFt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "MikeABCColumbia", 
-                "Name": "Mike Gillespie", 
-                "Tweet": "DJ drops a shot at the 14th. He\u2019s -1, tied for second at the #USOpen. @abc_columbia", 
-                "TweetLink": "1007383235997978625", 
-                "Place": "South Carolina", 
-                "Time": "Thu Jun 14 22:04:14 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983207059201167360/cth_ylks_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.683502, 42.036939]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mikewichter", 
-                "Name": "andy miller", 
-                "Tweet": "I didn't think Fox's golf coverage could be any worse but then they played bon jovi as they went to commercial. #USOpen", 
-                "TweetLink": "1007383288384753665", 
-                "Place": "Massachusetts", 
-                "Time": "Thu Jun 14 22:04:26 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/945849043007176705/QgItXI6r_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-4.001617, 52.404436]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "crossy33", 
-                "Name": "Crossy", 
-                "Tweet": "Anyone else think that maybe, just maybe they\u2019ve overcooked Shinnecock a tad \ud83d\ude02\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f #usopen", 
-                "TweetLink": "1007383723787083776", 
-                "Place": "Wales", 
-                "Time": "Thu Jun 14 22:06:10 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/985222466577498114/nr9ABNmy_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-96.962316, 33.2334255]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GregFlamingo", 
-                "Name": "Greg Garza", 
-                "Tweet": "US Open = insane lol #USOpen", 
-                "TweetLink": "1007384081024372738", 
-                "Place": "Providence Village", 
-                "Time": "Thu Jun 14 22:07:35 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/977986005751025664/PTF48fVh_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-72.439722, 40.892123]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Phil_Your_Day", 
-                "Name": "Phil. Your. Day", 
-                "Tweet": "What an amazing day at the #USOpen here at #ShinnecockHills. Perfect weather. Perfect crowd. Such a fantastic day a\u2026 https://t.co/HXJyS4fOIe", 
-                "TweetLink": "1007384338714054661", 
-                "Place": "Shinnecock Hills Golf Club", 
-                "Time": "Thu Jun 14 22:08:37 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1004318189986156544/paC4j94i_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-0.3506925, 51.461742]}, 
             "type": "Feature", 
             "properties": {
@@ -5784,6 +5628,19 @@
                 "Place": "Austin", 
                 "Time": "Tue Jun 19 01:03:58 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/965428248934010885/NmTj0AY7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.1454065, 41.059269]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RyanAsselta", 
+                "Name": "RyanAsselta", 
+                "Tweet": "Was Phil Mickelson\u2019s U.S. Open incident blown out of proportion? My take on @SInowLIVE  https://t.co/UdgscLzaaU via @SINow #USOpen", 
+                "TweetLink": "1008894283926196226", 
+                "Place": "Ramsey", 
+                "Time": "Tue Jun 19 02:08:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859846062957318145/fGLgDIta_normal.jpg"
             }
         }
     ]
