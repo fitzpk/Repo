@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[0.140498, 51.80899]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "richupton1970", 
-                "Name": "Richard Upton", 
-                "Tweet": "Take an absolute massive bow, Tommy Fleetwood #USOpen", 
-                "TweetLink": "1008454408420691969", 
-                "Place": "Sawbridgeworth", 
-                "Time": "Sun Jun 17 21:00:41 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988839329668714496/58kpTaIu_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.8030515, 41.4804175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "number1shred", 
-                "Name": "216MAGA\ud83c\uddfa\ud83c\uddf8", 
-                "Tweet": "I\u2019m so high on life right now watching golf and eating chicken wings #USOpen", 
-                "TweetLink": "1008454913289019392", 
-                "Place": "Lakewood", 
-                "Time": "Sun Jun 17 21:02:42 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/958566469260005376/y8yG9Jen_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-93.5695695, 44.843849]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "nathan_poppen", 
-                "Name": "Nate", 
-                "Tweet": "Golf never disappoints #USOpen", 
-                "TweetLink": "1008455104893251584", 
-                "Place": "Chanhassen", 
-                "Time": "Sun Jun 17 21:03:27 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/976224601008234502/-iCiWg9i_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-95.1314075, 43.39342]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "EnthusiastCKC", 
-                "Name": "Enthusiastic Charles", 
-                "Tweet": "This US Open finish should be pretty good. Fleetwood might have the best shot being in the clubhouse right now.\u2026 https://t.co/RKeM3GBdTZ", 
-                "TweetLink": "1008455278113841153", 
-                "Place": "Okoboji", 
-                "Time": "Sun Jun 17 21:04:09 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/953360531393564673/IXciiu73_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.0280425, 40.5838765]}, 
             "type": "Feature", 
             "properties": {
