@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.879033, 36.596299]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CHOMPJobs", 
-                "Name": "CHOMP", 
-                "Tweet": "Join the #CHOMP team! See our latest #job opening here: https://t.co/qeoldn903F #PebbleBeach #USOpen #Healthcare #Monterey, CA #Hiring", 
-                "TweetLink": "1008858366456709120", 
-                "Place": "Monterey", 
-                "Time": "Mon Jun 18 23:45:52 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/714929890181689344/tQ_UL1ID_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.3028295, 32.5209975]}, 
             "type": "Feature", 
             "properties": {
