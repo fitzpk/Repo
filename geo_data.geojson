@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.3028295, 32.5209975]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BeauBlair", 
-                "Name": "Beau", 
-                "Tweet": "@goldyeller you\u2019ve got get one made of @MickelsonHat #ASAP #USOpen #USGA \ud83d\ude06\ud83d\ude06 https://t.co/66WtoIDnfm", 
-                "TweetLink": "1008863647072968704", 
-                "Place": "Burleson", 
-                "Time": "Tue Jun 19 00:06:51 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/929960474732580864/e_OaS12I_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-93.2620465, 44.9706105]}, 
             "type": "Feature", 
             "properties": {
