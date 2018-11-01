@@ -52,6 +52,19 @@
                 "Time": "Thu Nov 01 03:19:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1017642626760052736/u0W44plW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BarkAndreFurry", 
+                "Name": "Bark-Andr\u00e9 Furry", 
+                "Tweet": "@FaithNews3LV @News3LV Faith, will you be there tomorrow? \n~ Bark\ud83d\udc3e \n#ShrinersOpen #Summerlin #TPCSummerlin #PGA \u26f3\ufe0f", 
+                "TweetLink": "1058134843173724160", 
+                "Place": "Las Vegas", 
+                "Time": "Thu Nov 01 23:13:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1019541235462107136/cyUaVFRQ_normal.jpg"
+            }
         }
     ]
 }
