@@ -13,6 +13,19 @@
                 "Time": "Thu Nov 01 02:44:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/562409653334589440/E0l1d20B_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shinnyboy27", 
+                "Name": "Shintaro Ban", 
+                "Tweet": "Thank you shrinersopen for the sponsor exemption this week! Can't wait to tee it up in the home town. Let's go!\u2026 https://t.co/UvroSiNpDR", 
+                "TweetLink": "1057829391718322176", 
+                "Place": "Las Vegas", 
+                "Time": "Thu Nov 01 02:59:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958033271694045184/OtaQ9zyv_normal.jpg"
+            }
         }
     ]
 }
