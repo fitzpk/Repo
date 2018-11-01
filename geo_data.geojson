@@ -1,4 +1,18 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "aphilaphil", 
+                "Name": "Alex Phillips", 
+                "Tweet": "When you're caddying and on #18 the boys ask you to hit a drive...you crush it down the middle. \n---\u2026 https://t.co/aBGyFWCW2V", 
+                "TweetLink": "1057825731621896198", 
+                "Place": "Las Vegas", 
+                "Time": "Thu Nov 01 02:44:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/562409653334589440/E0l1d20B_normal.jpeg"
+            }
+        }
+    ]
 }
