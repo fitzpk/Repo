@@ -91,6 +91,19 @@
                 "Time": "Thu Nov 01 23:56:00 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1030208032699863040/MQQ_hIpp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-70.5366905, -33.4471385]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RodrigoGomez68", 
+                "Name": "Rodrigo G\u00f3mez", 
+                "Tweet": "#SalimosJugando -2 termin\u00f3 el primer d\u00eda de J Niemann en Shriners Open, Las Vegas, qued\u00f3 en la posici\u00f3n 32. Fue un\u2026 https://t.co/LrfbqQFpPx", 
+                "TweetLink": "1058154430384783360", 
+                "Place": "La Reina", 
+                "Time": "Fri Nov 02 00:30:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1036962847161561089/oA8k5SrU_normal.jpg"
+            }
         }
     ]
 }
