@@ -221,6 +221,19 @@
                 "Time": "Fri Nov 02 19:42:15 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1244033003/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-70.6596155, -33.4521615]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RodrigoGomez68", 
+                "Name": "Rodrigo G\u00f3mez", 
+                "Tweet": "#SalimosJugando Buena jornada de J Niemann en Shriners Open, hizo -3 y -5 acumulado. En estos momentos va en la pos\u2026 https://t.co/9jJcfI6SYh", 
+                "TweetLink": "1058457831475736576", 
+                "Place": "Santiago", 
+                "Time": "Fri Nov 02 20:36:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1036962847161561089/oA8k5SrU_normal.jpg"
+            }
         }
     ]
 }
