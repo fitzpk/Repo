@@ -169,6 +169,19 @@
                 "Time": "Fri Nov 02 15:19:43 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1244033003/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheGolfingDoc", 
+                "Name": "Dr. Sese", 
+                "Tweet": "Since I\u2019m not home, why not fly @fitnesscaddie out to where I\u2019m at. \ud83d\udc4f\ud83c\udffe @ Tpc At Summerlin https://t.co/WAoVFR3cIO", 
+                "TweetLink": "1058401869154996224", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 16:54:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
+            }
         }
     ]
 }
