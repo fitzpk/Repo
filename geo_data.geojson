@@ -117,6 +117,19 @@
                 "Time": "Fri Nov 02 01:14:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1056005133824335872/xtYaSel7_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sergiorosetelv", 
+                "Name": "Sergio Rosete", 
+                "Tweet": "At the Hill with my boys \ud83c\udfcc\ud83c\udffb\u200d\u2642\ufe0f@YourBoyKJ #MaxHoma #travismathew @ Shriners Hospitals for Children Open https://t.co/g64b5llWMl", 
+                "TweetLink": "1058179203429027841", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 02:09:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000699820220/9ba5d4e5486e34932606abc06eee4d3b_normal.jpeg"
+            }
         }
     ]
 }
