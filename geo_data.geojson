@@ -273,6 +273,19 @@
                 "Time": "Fri Nov 02 23:18:35 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/793955325930065920/nXmpiLZ9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chowardgolf", 
+                "Name": "Christopher Howard", 
+                "Tweet": "A little slo mo action from @aaronwise_ today during the Shriners Open https://t.co/4m6swSeQIK", 
+                "TweetLink": "1058499727078055936", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 23:22:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055897237086183430/j6pqYULm_normal.jpg"
+            }
         }
     ]
 }
