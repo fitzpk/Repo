@@ -247,6 +247,19 @@
                 "Time": "Fri Nov 02 20:49:43 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1046883478455967745/xaIH1QcY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AZDvoice", 
+                "Name": "Chuck Drago", 
+                "Tweet": "Quick stop at the PGA Tourney at Summerlin TPC to see Jordan Spieth and others. https://t.co/HQoQfDgi0U", 
+                "TweetLink": "1058488211909967872", 
+                "Place": "Paradise", 
+                "Time": "Fri Nov 02 22:37:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948294487591157761/ZXRmygxl_normal.jpg"
+            }
         }
     ]
 }
