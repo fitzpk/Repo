@@ -260,6 +260,19 @@
                 "Time": "Fri Nov 02 22:37:10 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/948294487591157761/ZXRmygxl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.298786, 36.188413]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "woodieand", 
+                "Name": "Woodie Anderson", 
+                "Tweet": "The TPC Summerlin course is an incredibly beautiful backdrop for the @ShrinersOpen! @TPCSummerlin @PGATOUR #golf\u2026 https://t.co/pn6Q3upIlJ", 
+                "TweetLink": "1058498634780561408", 
+                "Place": "TPC Summerlin", 
+                "Time": "Fri Nov 02 23:18:35 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/793955325930065920/nXmpiLZ9_normal.jpg"
+            }
         }
     ]
 }
