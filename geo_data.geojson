@@ -130,6 +130,19 @@
                 "Time": "Fri Nov 02 02:09:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000699820220/9ba5d4e5486e34932606abc06eee4d3b_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheGolfingDoc", 
+                "Name": "Dr. Sese", 
+                "Tweet": "Early morning warm up under the flood lights. And it\u2019s chilly too! Round 2 for @graeme_mcdowell to begin shortly.\u2026 https://t.co/hnFKrETzWh", 
+                "TweetLink": "1058356245164363777", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 13:52:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
+            }
         }
     ]
 }
