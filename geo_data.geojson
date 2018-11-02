@@ -65,6 +65,32 @@
                 "Time": "Thu Nov 01 23:13:00 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1019541235462107136/cyUaVFRQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "visageLV", 
+                "Name": "Visage Agency", 
+                "Tweet": "Perfect day to watch Fowler play tpcsummerlin #golf #vegas #pga #fedexcup #shrinershospital #charity @ Tpc At Summe\u2026 https://t.co/CgXsH1Etp4", 
+                "TweetLink": "1058144815517450240", 
+                "Place": "Las Vegas", 
+                "Time": "Thu Nov 01 23:52:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/709641067331657729/2frIns30_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AndreaRoa_", 
+                "Name": "Andrea Roa", 
+                "Tweet": "How not to get lost! Wear LOUD fluorescent yellow pants. #golfstyle\u26f3\ufe0f @ Shriners Hospitals for Children Open https://t.co/uCtaK45Npl", 
+                "TweetLink": "1058145663354068993", 
+                "Place": "Las Vegas", 
+                "Time": "Thu Nov 01 23:56:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1030208032699863040/MQQ_hIpp_normal.jpg"
+            }
         }
     ]
 }
