@@ -104,6 +104,19 @@
                 "Time": "Fri Nov 02 00:30:50 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1036962847161561089/oA8k5SrU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.7425635, 39.150823]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IDontNeedAMap84", 
+                "Name": "~Megs W.~", 
+                "Tweet": "Brian at the Shriners Open today!!!!\ud83d\ude0a @ Carson City, Nevada https://t.co/aLgjGBdmID", 
+                "TweetLink": "1058165515611332608", 
+                "Place": "Carson City", 
+                "Time": "Fri Nov 02 01:14:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1056005133824335872/xtYaSel7_normal.jpg"
+            }
         }
     ]
 }
