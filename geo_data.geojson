@@ -208,6 +208,19 @@
                 "Time": "Fri Nov 02 19:23:45 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1050422529238556673/wTHfQSJQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "irishnick333", 
+                "Name": "Nick Thompson", 
+                "Tweet": "just a little day drinking @ Tpc At Summerlin https://t.co/W9St0zbPZH", 
+                "TweetLink": "1058444193620668416", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 19:42:15 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244033003/image_normal.jpg"
+            }
         }
     ]
 }
