@@ -143,6 +143,19 @@
                 "Time": "Fri Nov 02 13:52:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfperformance", 
+                "Name": "Terry Rowles", 
+                "Tweet": "Good morning Las Vegas.  Am off to watch some golf pgatour @ Tpc At Summerlin https://t.co/hKrtRCHt7d", 
+                "TweetLink": "1058365766666317824", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 14:30:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866870377548533761/rspwuo3W_normal.jpg"
+            }
         }
     ]
 }
