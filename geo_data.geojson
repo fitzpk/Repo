@@ -234,6 +234,19 @@
                 "Time": "Fri Nov 02 20:36:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1036962847161561089/oA8k5SrU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[5.160554, 52.231639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DutchDragon35", 
+                "Name": "DutchDragon35", 
+                "Tweet": "After a solid start with all pars on the first five holes, Jordan putts his first \ud83d\udc26 of the day from 6ft. Way to go\u2026 https://t.co/QIk2nUfxjJ", 
+                "TweetLink": "1058461173908209665", 
+                "Place": "Hilversum", 
+                "Time": "Fri Nov 02 20:49:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046883478455967745/xaIH1QcY_normal.jpg"
+            }
         }
     ]
 }
