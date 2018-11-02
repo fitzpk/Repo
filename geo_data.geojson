@@ -195,6 +195,19 @@
                 "Time": "Fri Nov 02 17:53:06 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1047353687939534848/slKQhLir_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.298786, 36.188413]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BryanNews3LV", 
+                "Name": "Bryan Salmond", 
+                "Tweet": "Beautiful day at @TPCSummerlin for the @ShrinersOpen Check @News3LV for highlights and stories with @randynews3lv\u2026 https://t.co/UeZ7ap0kmH", 
+                "TweetLink": "1058439537393754112", 
+                "Place": "TPC Summerlin", 
+                "Time": "Fri Nov 02 19:23:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1050422529238556673/wTHfQSJQ_normal.jpg"
+            }
         }
     ]
 }
