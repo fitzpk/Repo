@@ -338,6 +338,19 @@
                 "Time": "Sat Nov 03 00:19:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1040453318630354944/w8MaIEXS_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.0316645, 21.048719]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BetoEspinosaC", 
+                "Name": "Roberto Espinosa", 
+                "Tweet": "Vamos por un t\u00edtulo!!", 
+                "TweetLink": "1058527796203536384", 
+                "Place": "Benito Ju\u00e1rez", 
+                "Time": "Sat Nov 03 01:14:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935702880111140864/qY1KZZ3q_normal.jpg"
+            }
         }
     ]
 }
