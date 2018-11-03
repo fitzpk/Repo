@@ -468,6 +468,32 @@
                 "Time": "Sat Nov 03 19:48:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1050909337726537728/GJbOM-BE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NeilNelmida", 
+                "Name": "Neil Nelmida", 
+                "Tweet": "I'm at TPC Summerlin in Las Vegas, NV https://t.co/hJtpwfi6U5", 
+                "TweetLink": "1058821374754611201", 
+                "Place": "Las Vegas", 
+                "Time": "Sat Nov 03 20:41:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2632074960/9d03b06765ec4bb16df73aaae4f1cbff_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerStokes13", 
+                "Name": "Tucker\u00a9", 
+                "Tweet": "Only took Tanna 3 tries to high five @jordanspieth @ Tpc At Summerlin https://t.co/cs5BveJrA3", 
+                "TweetLink": "1058823053935812609", 
+                "Place": "Las Vegas", 
+                "Time": "Sat Nov 03 20:47:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1033132627660693504/O_dxQd4B_normal.jpg"
+            }
         }
     ]
 }
