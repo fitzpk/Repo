@@ -494,6 +494,45 @@
                 "Time": "Sat Nov 03 20:47:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1033132627660693504/O_dxQd4B_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.2935915, 25.6417185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "holeinoneradio", 
+                "Name": "Chito Valdez", 
+                "Tweet": "Despu\u00e9s de 14 hoyos en el #ShrinersOpen @Abraham_Ancer contin\u00faa con -10 en el 13vo lugar.... Vamos por un gran cierre", 
+                "TweetLink": "1058843755745181696", 
+                "Place": "Monterrey", 
+                "Time": "Sat Nov 03 22:09:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1640569356/20091118_caricatura_mia_golf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.2935915, 25.6417185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "holeinoneradio", 
+                "Name": "Chito Valdez", 
+                "Tweet": "3 mexicanos en los primeros 41 lugares del #ShrinersOpen @Abraham_Ancer @bobbydiazz y @GolfCamaron como dice Berm\u00fadez: \"vamos muchachs\"", 
+                "TweetLink": "1058845189668622336", 
+                "Place": "Monterrey", 
+                "Time": "Sat Nov 03 22:15:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1640569356/20091118_caricatura_mia_golf_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lance_Sherman", 
+                "Name": "Lance Sherman", 
+                "Tweet": "#TPCSummerin - #PGATour #Fedexcup #VegasGolf @ Shriners Hospitals for Children Open https://t.co/97XaaAuGJ6", 
+                "TweetLink": "1058845285689053184", 
+                "Place": "Las Vegas", 
+                "Time": "Sat Nov 03 22:16:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/793246918734249984/8SQUuYXb_normal.jpg"
+            }
         }
     ]
 }
