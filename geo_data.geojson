@@ -351,6 +351,19 @@
                 "Time": "Sat Nov 03 01:14:27 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/935702880111140864/qY1KZZ3q_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[107.011756, -6.254411]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FebryMeuthia", 
+                "Name": "FabulousMommy", 
+                "Tweet": "Di Golf + chanel 711 &amp; HD 979 @UseeTVcom ada pertandingan  Shriners Hospital for Children open pukul 03.30, subscri\u2026 https://t.co/v0XIXX5ko4", 
+                "TweetLink": "1058559810583506947", 
+                "Place": "Bekasi Timur", 
+                "Time": "Sat Nov 03 03:21:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1042575227668951041/851GJtHH_normal.jpg"
+            }
         }
     ]
 }
