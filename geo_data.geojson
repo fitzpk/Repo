@@ -299,6 +299,32 @@
                 "Time": "Fri Nov 02 23:30:59 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1050909337726537728/GJbOM-BE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "doodle_winston", 
+                "Name": "Sir Winston_da_Doodle VGK Dog", 
+                "Tweet": "So honored to be a part of this!", 
+                "TweetLink": "1058506531153432576", 
+                "Place": "Las Vegas", 
+                "Time": "Fri Nov 02 23:49:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1050909337726537728/GJbOM-BE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.298786, 36.188413]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bryankroten", 
+                "Name": "Bryan Kroten", 
+                "Tweet": "How cool to see @RickieFowler signing for the kids today after his round at the @ShrinersOpen. This is what golf ne\u2026 https://t.co/4VLXh3ss2r", 
+                "TweetLink": "1058508455164538881", 
+                "Place": "TPC Summerlin", 
+                "Time": "Fri Nov 02 23:57:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/665650370270490624/fn4YBucR_normal.jpg"
+            }
         }
     ]
 }
