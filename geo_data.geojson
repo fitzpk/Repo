@@ -403,6 +403,19 @@
                 "Time": "Sat Nov 03 04:11:54 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/922538075166609408/OOmR-D0F_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.0993875, 36.8083315]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tcannon008", 
+                "Name": "Trevor Cannon", 
+                "Tweet": "@JordanSpieth #ShrinersOpen https://t.co/xTRxeYc4Zl", 
+                "TweetLink": "1058758412303970304", 
+                "Place": "Mesquite", 
+                "Time": "Sat Nov 03 16:30:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg"
+            }
         }
     ]
 }
