@@ -325,6 +325,19 @@
                 "Time": "Fri Nov 02 23:57:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/665650370270490624/fn4YBucR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.2344355, 36.0188045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "adamdptlv", 
+                "Name": "Adam Cleaver", 
+                "Tweet": "#ShrinersOpen https://t.co/qt15sPwepG", 
+                "TweetLink": "1058514018183208960", 
+                "Place": "Enterprise", 
+                "Time": "Sat Nov 03 00:19:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1040453318630354944/w8MaIEXS_normal.jpg"
+            }
         }
     ]
 }
