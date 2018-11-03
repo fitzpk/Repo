@@ -377,6 +377,19 @@
                 "Time": "Sat Nov 03 03:32:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1038978280928567296/Pf24QKm1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "doodle_winston", 
+                "Name": "Sir Winston_da_Doodle VGK Dog", 
+                "Tweet": "@zipspensooner Committed to being at Shriners Open all weekend. Maybe next week?", 
+                "TweetLink": "1058568542008700929", 
+                "Place": "Las Vegas", 
+                "Time": "Sat Nov 03 03:56:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1050909337726537728/GJbOM-BE_normal.jpg"
+            }
         }
     ]
 }
