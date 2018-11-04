@@ -637,6 +637,19 @@
                 "Time": "Sun Nov 04 16:53:40 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991234760507879424/dOMFUuut_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "vegasbrnmisfits", 
+                "Name": "chris", 
+                "Tweet": "\u26f3\ufe0f (@ JT Shriners Las Vegas Open Practice Range in Las Vegas, NV) https://t.co/zZybOROVUN", 
+                "TweetLink": "1059149470347288577", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Nov 04 18:24:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1047025810077638657/3ZkLkTHF_normal.jpg"
+            }
         }
     ]
 }
