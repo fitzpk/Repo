@@ -676,6 +676,32 @@
                 "Time": "Sun Nov 04 20:48:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/963867165249044480/e4r0JpCO_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "McLoughlinGroup", 
+                "Name": "TMG-McLoughlin Group", 
+                "Tweet": "Just posted a video @ Tpc At Summerlin https://t.co/cFRzpwRvnb", 
+                "TweetLink": "1059191708280389632", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Nov 04 21:12:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/998980230617300992/BIoLnIej_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dburgesslv", 
+                "Name": "deanna burgess", 
+                "Tweet": "Rickie Fowler @ Tpc At Summerlin https://t.co/gDtsvdrqQg", 
+                "TweetLink": "1059193125854302208", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Nov 04 21:18:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000445826251/dec0d3828fabc6ad8866acdc7af5198b_normal.jpeg"
+            }
         }
     ]
 }
