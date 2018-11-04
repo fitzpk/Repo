@@ -598,6 +598,19 @@
                 "Time": "Sun Nov 04 05:21:25 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/572406893513064448/2Rt0vz8a_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NicolaBridget67", 
+                "Name": "Nicola", 
+                "Tweet": "Beautiful fallback Sunday!  Who's going to win today \ud83e\udd14\u26f3\ufe0f tpcsummerlin shrinersopen #extrahour @ Tpc At Summerlin https://t.co/EWCH90ZqZf", 
+                "TweetLink": "1059088408079949824", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Nov 04 14:22:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951539247558754305/jYmg-YfT_normal.jpg"
+            }
         }
     ]
 }
