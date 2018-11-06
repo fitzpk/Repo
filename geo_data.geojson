@@ -676,6 +676,19 @@
                 "Time": "Sun Nov 04 21:24:24 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/662506561558876160/EamgJkZm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-66.8568925, 10.497579]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RevistaFairway", 
+                "Name": "Fairway Magazine", 
+                "Tweet": "Congratulations my friend, you did pretty good in Las Vegas and everywhere else lately, keep the good job..!! \ud83d\udc4a\ud83d\udc4a\u26f3\ufe0f\u2026 https://t.co/f7Jo1BV7RQ", 
+                "TweetLink": "1059623166946000897", 
+                "Place": "Chacao", 
+                "Time": "Tue Nov 06 01:47:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981571229139324933/Ms656hxJ_normal.jpg"
+            }
         }
     ]
 }
