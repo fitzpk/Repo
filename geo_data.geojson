@@ -5,32 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "BarkAndreFurry", 
-                "Name": "Bark-Andr\u00e9 Furry", 
-                "Tweet": "Attending the @ShrinersOpen at @TPCSummerlin this weekend? @doodle_winston and I would like to remind you to share\u2026 https://t.co/mSWfPUZ2Qu", 
-                "TweetLink": "1058807602069426176", 
-                "Place": "Las Vegas", 
-                "Time": "Sat Nov 03 19:46:18 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1019541235462107136/cyUaVFRQ_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-115.298048, 36.187273]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "doodle_winston", 
-                "Name": "Sir Winston_da_Doodle VGK Dog", 
-                "Tweet": "Made in the shades! \ud83d\udd76 Just chilling with @BarkAndreFurry at @ShrinersOpen #shco18 #shrinersopen #golfdogs\u2026 https://t.co/XBK3EajlBL", 
-                "TweetLink": "1058808110507159552", 
-                "Place": "9Th Green @ Tpc Summerin", 
-                "Time": "Sat Nov 03 19:48:19 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1050909337726537728/GJbOM-BE_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "NeilNelmida", 
                 "Name": "Neil Nelmida", 
                 "Tweet": "I'm at TPC Summerlin in Las Vegas, NV https://t.co/hJtpwfi6U5", 
