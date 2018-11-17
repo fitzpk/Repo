@@ -13,6 +13,19 @@
                 "Time": "Thu Nov 15 01:51:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/969764820856680449/YoMK9-Zn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RadarGolfPro", 
+                "Name": "Jeff Smith", 
+                "Tweet": "Great work today sebasiqbal\n\ud83d\udd25\ud83d\udd25\ud83d\udd25 @ Tpc At Summerlin https://t.co/lm2XIWBmDc", 
+                "TweetLink": "1063898162698477568", 
+                "Place": "Las Vegas", 
+                "Time": "Sat Nov 17 20:54:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1020205086738284544/gOYYtfrG_normal.jpg"
+            }
         }
     ]
 }
