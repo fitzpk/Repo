@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Jerrycrowell3", 
-                "Name": "The Big Toilet", 
-                "Tweet": "#16 at TPC Summerlin....Dominating it!! https://t.co/JMqfMJmZ7e", 
-                "TweetLink": "1062885842132205568", 
-                "Place": "Paradise", 
-                "Time": "Thu Nov 15 01:51:46 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/969764820856680449/YoMK9-Zn_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
             "type": "Feature", 
             "properties": {
