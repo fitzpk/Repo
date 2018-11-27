@@ -1,31 +1,4 @@
 {
     "type": "FeatureCollection", 
-    "features": [
-        {
-            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RadarGolfPro", 
-                "Name": "Jeff Smith", 
-                "Tweet": "@maxgreyserman leaning on one \ud83d\udd25\ud83d\udd25\ud83d\udd25 @ Tpc At Summerlin https://t.co/shi72305yn", 
-                "TweetLink": "1065399897573208064", 
-                "Place": "Las Vegas", 
-                "Time": "Thu Nov 22 00:21:44 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1020205086738284544/gOYYtfrG_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "keraaj_", 
-                "Name": "krystal.\ud83d\udc78\ud83c\udffd", 
-                "Tweet": "shriners must not be open on Wednesdays because i literally seen everybody mama and daddy in top flite tonight \ud83d\udc80", 
-                "TweetLink": "1065466978062794752", 
-                "Place": "Florida", 
-                "Time": "Thu Nov 22 04:48:17 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1064283096785317893/TQF-ua4X_normal.jpg"
-            }
-        }
-    ]
+    "features": []
 }
