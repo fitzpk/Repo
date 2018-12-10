@@ -1,4 +1,18 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iamEmmaTamaroff", 
+                "Name": "Emma Tamaroff", 
+                "Tweet": "These ladies right there are amazing.  So proud of their achievements and looking forward to what\u2019s to come.\u2026 https://t.co/cBUTJyW4YO", 
+                "TweetLink": "1071985044103880705", 
+                "Place": "St Louis", 
+                "Time": "Mon Dec 10 04:28:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1028483966842679296/F0z27fjA_normal.jpg"
+            }
+        }
+    ]
 }
