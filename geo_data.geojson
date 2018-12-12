@@ -26,6 +26,19 @@
                 "Time": "Tue Dec 11 22:21:25 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1314212512/P3170168_normal.JPG"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Tiger Woods has big plans for 2019. @FanSided @PGATOUR \n\nhttps://t.co/iHHIC2fZhV\n\n#pgatour #golf", 
+                "TweetLink": "1072635242324942853", 
+                "Place": "Brampton", 
+                "Time": "Tue Dec 11 23:32:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1016535286141083648/zexEiw1Z_normal.jpg"
+            }
         }
     ]
 }
