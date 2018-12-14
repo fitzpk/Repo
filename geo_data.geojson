@@ -65,6 +65,19 @@
                 "Time": "Thu Dec 13 23:43:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/885630376449847296/rdsGWD9l_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MEdwardsBball", 
+                "Name": "Mark Edwards aka Shifu", 
+                "Tweet": "BEST ONE DAY TOURNAMENT IN THE COUNTRY!!!\nSalute my Brothers @rfalker and @Coach_ABC \ud83d\udc4f\ud83c\udffe\n#3StripeLife", 
+                "TweetLink": "1073366104381239296", 
+                "Place": "Marietta", 
+                "Time": "Thu Dec 13 23:56:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/778765794964561921/I7NnM05e_normal.jpg"
+            }
         }
     ]
 }
