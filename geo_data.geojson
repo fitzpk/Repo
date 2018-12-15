@@ -195,6 +195,19 @@
                 "Time": "Sat Dec 15 22:05:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/993737811625938944/xGaOQ2Pn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.7553405, 27.9927105]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KennyLberg", 
+                "Name": "Kenny Lindberg", 
+                "Tweet": "Safe to Say the first club volleyball tournament of the year was a success #Champions @ Clearwater, Florida https://t.co/60YdHTSSYf", 
+                "TweetLink": "1074067953115643904", 
+                "Place": "Clearwater", 
+                "Time": "Sat Dec 15 22:25:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957405129694687237/Xzh_xpOj_normal.jpg"
+            }
         }
     ]
 }
