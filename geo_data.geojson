@@ -182,6 +182,19 @@
                 "Time": "Sat Dec 15 20:17:13 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3375185255/0a3bf5baf465f336e3b008b2a0fe08fb_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.265253, 40.648699]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rayteodora1", 
+                "Name": "Ray Teodora", 
+                "Tweet": "Here at the home of the @NJSIAA TOC State Champions @rc_basketball Lions for the Hearts to Hands Tournament! Newark\u2026 https://t.co/olOKnZ4pxT", 
+                "TweetLink": "1074062809909116930", 
+                "Place": "Roselle Catholic High School", 
+                "Time": "Sat Dec 15 22:05:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/993737811625938944/xGaOQ2Pn_normal.jpg"
+            }
         }
     ]
 }
