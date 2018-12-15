@@ -130,6 +130,19 @@
                 "Time": "Sat Dec 15 16:12:40 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/494816167538601984/18KHVRYX_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Repping 2 of fave brands this week on Next on the Tee with my guests @cindymillergolf Andy Bell of @bobbyjonesgolf\u2026 https://t.co/Op7iDVpHiO", 
+                "TweetLink": "1073997301998342144", 
+                "Place": "Marietta", 
+                "Time": "Sat Dec 15 17:44:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
