@@ -65,6 +65,19 @@
                 "Time": "Thu Dec 13 23:56:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/778765794964561921/I7NnM05e_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hi_R8rFan", 
+                "Name": "Mike", 
+                "Tweet": "Kapalua- plantation course. Kicked my butt. https://t.co/IZXE70EQF1", 
+                "TweetLink": "1073743137804189697", 
+                "Place": "Kapalua", 
+                "Time": "Sat Dec 15 00:54:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1063632942902128643/unR-1Qy1_normal.jpg"
+            }
         }
     ]
 }
