@@ -208,6 +208,19 @@
                 "Time": "Sat Dec 15 22:25:29 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/957405129694687237/Xzh_xpOj_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.189648, 26.1679045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Riosportslive", 
+                "Name": "joe bowling", 
+                "Tweet": "That wraps up our coverage of the 2018 Tri-City Tournament. @WeslacoHoops is your champions. \nOf course congrats to\u2026 https://t.co/VNER2jIinN", 
+                "TweetLink": "1074081391250411681", 
+                "Place": "Pharr", 
+                "Time": "Sat Dec 15 23:18:53 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922665089274142720/vkKM2e___normal.jpg"
+            }
         }
     ]
 }
