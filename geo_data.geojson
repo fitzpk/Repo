@@ -195,6 +195,19 @@
                 "Time": "Sat Dec 15 23:18:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/922665089274142720/vkKM2e___normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Tune in to this week's edition of Next on the Tee and hear @golftipsmag Top 25 Instructor @cindymillergolf,\u2026 https://t.co/JV24TQr00w", 
+                "TweetLink": "1074379294187679744", 
+                "Place": "Marietta", 
+                "Time": "Sun Dec 16 19:02:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
