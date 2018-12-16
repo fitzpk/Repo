@@ -234,6 +234,19 @@
                 "Time": "Sun Dec 16 21:33:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.7444065, 45.360966]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KruSteven", 
+                "Name": "Kru/Coach Steven", 
+                "Tweet": "Our @KruSteven go 4-0 and are champions of winter classic basketball tournament. @ Ch\u00e2teauguay, Quebec https://t.co/sngt4IYn6N", 
+                "TweetLink": "1074433161499721728", 
+                "Place": "Ch\u00e2teauguay", 
+                "Time": "Sun Dec 16 22:36:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/830281933632446464/4WtT3BDc_normal.jpg"
+            }
         }
     ]
 }
