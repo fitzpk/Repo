@@ -247,6 +247,19 @@
                 "Time": "Sun Dec 16 22:36:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/830281933632446464/4WtT3BDc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-101.7725515, 47.2700765]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KentSperry", 
+                "Name": "Kent Sperry", 
+                "Tweet": "Unfortunately, at the Minot Bantam Tournament of Champions today, the North Stars went flat and lost both games bad\u2026 https://t.co/nGP9pbWjPD", 
+                "TweetLink": "1074457679060525056", 
+                "Place": "Beulah", 
+                "Time": "Mon Dec 17 00:14:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/625778667247939584/EOVxfzgB_normal.jpg"
+            }
         }
     ]
 }
