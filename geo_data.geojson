@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Hi_R8rFan", 
-                "Name": "Mike", 
-                "Tweet": "Kapalua- plantation course. Kicked my butt. https://t.co/IZXE70EQF1", 
-                "TweetLink": "1073743137804189697", 
-                "Place": "Kapalua", 
-                "Time": "Sat Dec 15 00:54:47 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1063632942902128643/unR-1Qy1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-84.478178, 33.959184]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Region_7AAAAAAA", 
-                "Name": "Region 7-7A Bball \ud83c\udfc0", 
-                "Tweet": "Boys Non-Region Match-Up\nTournament of Champions\n\ud83c\udfc0 Berkmar vs Jonesboro\n\ud83d\udcc6 Saturday, December 15, 2018\n\ud83d\udd56 2:30pm\n\ud83d\udccd Wh\u2026 https://t.co/Ano9VMtQqM", 
-                "TweetLink": "1073798646355902464", 
-                "Place": "Lipscomb Gym @ Wheeler High School", 
-                "Time": "Sat Dec 15 04:35:22 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-84.478178, 33.959184]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Region_7AAAAAAA", 
-                "Name": "Region 7-7A Bball \ud83c\udfc0", 
-                "Tweet": "Boys Non-Region Match-Up\nTournament of Champions\n\ud83c\udfc0 Meadowcreek vs Holy Spirit \n\ud83d\udcc6 Saturday, December 15, 2018\n\ud83d\udd56  7:0\u2026 https://t.co/Adc3b5eQR4", 
-                "TweetLink": "1073799723247697920", 
-                "Place": "Lipscomb Gym @ Wheeler High School", 
-                "Time": "Sat Dec 15 04:39:38 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-121.3007305, 38.7631605]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GVBulldogs", 
-                "Name": "Golden Valley High School", 
-                "Tweet": "At the end of day 1 of the women's West Coast Tournament of Champions, GV wrestling team is in 2nd place and only 4\u2026 https://t.co/Pz2eVebdws", 
-                "TweetLink": "1073805760390254592", 
-                "Place": "Roseville", 
-                "Time": "Sat Dec 15 05:03:38 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1025487855114567681/2Xl6mMWe_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[24.669943, -28.4794855]}, 
             "type": "Feature", 
             "properties": {
