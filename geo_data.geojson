@@ -273,6 +273,19 @@
                 "Time": "Wed Dec 19 02:21:08 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3497056938/51b31dff4b746105e9b54554d4fab291_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.139732, 43.254502]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ProudPapaJ", 
+                "Name": "Jamie McFadden", 
+                "Tweet": "@HISTORY fantastic #ForgedInFire Tournament of Champions episodes! Great to watch all four disciplines battle it ou\u2026 https://t.co/QuSNpCLa41", 
+                "TweetLink": "1075225798246830080", 
+                "Place": "St. Marys", 
+                "Time": "Wed Dec 19 03:06:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/885670486235111424/OPTRqQFx_normal.jpg"
+            }
         }
     ]
 }
