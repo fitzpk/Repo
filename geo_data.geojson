@@ -286,6 +286,19 @@
                 "Time": "Wed Dec 19 03:06:21 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/885670486235111424/OPTRqQFx_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.690937, 32.9644845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "yvette_cordova", 
+                "Name": "Yvette Cordova", 
+                "Tweet": "Grand Prix Champions!! \n\nMaddie and her City FC team won their first futsal tournament this weekend! This was their\u2026 https://t.co/y1D6hjfHUb", 
+                "TweetLink": "1075233990133645313", 
+                "Place": "Richardson", 
+                "Time": "Wed Dec 19 03:38:54 +0000 2018", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
         }
     ]
 }
