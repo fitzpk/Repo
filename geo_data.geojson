@@ -260,6 +260,19 @@
                 "Time": "Wed Dec 19 00:44:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Mickey_McDaniel", 
+                "Name": "Mickey McDaniel", 
+                "Tweet": "@GBBFord enjoying Nike Tournament of Champions barbecue at Rustler\u2019s Rooste before games start Wednesday. Rams open\u2026 https://t.co/ApvZqC4Prx", 
+                "TweetLink": "1075214416579194880", 
+                "Place": "Phoenix", 
+                "Time": "Wed Dec 19 02:21:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3497056938/51b31dff4b746105e9b54554d4fab291_normal.jpeg"
+            }
         }
     ]
 }
