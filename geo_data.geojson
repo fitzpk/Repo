@@ -234,6 +234,19 @@
                 "Time": "Mon Dec 17 02:12:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1064536240412872705/1seRrGYd_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.2333285, 25.7823535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hotgolfcarts", 
+                "Name": "Hot Golf Cart", 
+                "Tweet": "Quick suspension rebuild, Club Car DS Golf Cart #HotGolfCart #pga #pgatour #golf #golftips #golfer #golflife #lpg\u2026 https://t.co/m4RTQOxuAn", 
+                "TweetLink": "1075187616205733888", 
+                "Place": "Miami", 
+                "Time": "Wed Dec 19 00:34:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780224963336871936/Y8R25op3_normal.jpg"
+            }
         }
     ]
 }
