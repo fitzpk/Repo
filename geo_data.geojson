@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.263517, 26.1245075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BTPT_Mitch", 
-                "Name": "Big Body Mitch", 
-                "Tweet": "Back at it like I never left #PGATour #JustinThomas #RickeyFowler #JordanSpeith @ Broward County, Florida https://t.co/oUcISADg3q", 
-                "TweetLink": "1074487413211312130", 
-                "Place": "Plantation", 
-                "Time": "Mon Dec 17 02:12:16 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1064536240412872705/1seRrGYd_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.2333285, 25.7823535]}, 
             "type": "Feature", 
             "properties": {
