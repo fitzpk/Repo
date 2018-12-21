@@ -143,6 +143,19 @@
                 "Time": "Fri Dec 21 17:05:06 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980628321141710848/NkmvOQ_-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "riofranklin1", 
+                "Name": "Mario Franklin", 
+                "Tweet": "Golf fitness exercise to increase DISTANCE!! Visit https://t.co/JqmldIS2ut and start at only $100  909-773-0033\u2026 https://t.co/vxXbU4tvpn", 
+                "TweetLink": "1076222428270002177", 
+                "Place": "Ontario", 
+                "Time": "Fri Dec 21 21:06:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/525007602145828865/09vioPSV_normal.jpeg"
+            }
         }
     ]
 }
