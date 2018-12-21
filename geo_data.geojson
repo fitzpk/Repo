@@ -169,6 +169,19 @@
                 "Time": "Fri Dec 21 00:01:34 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1004552462907465729/dS4shRVO_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.537948, 40.185151]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mfc248", 
+                "Name": "Matt Carberry", 
+                "Tweet": "Fortunately, it seems there won\u2019t be an exception on Monday. #Jeopardy", 
+                "TweetLink": "1075910541850349568", 
+                "Place": "Royersford", 
+                "Time": "Fri Dec 21 00:27:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1004552462907465729/dS4shRVO_normal.jpg"
+            }
         }
     ]
 }
