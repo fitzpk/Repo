@@ -130,6 +130,19 @@
                 "Time": "Fri Dec 21 00:30:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1000764129148325892/ZOYaiCqh_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.6021425, 32.7749375]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GHaakAttack", 
+                "Name": "Green Screen Greg \ud83d\udd25", 
+                "Tweet": "The preliminary tout-o-meter #dfs #PgaTour line up.  Please comment if you have any touts you love, it does not hav\u2026 https://t.co/FBcrDBSnAG", 
+                "TweetLink": "1076161651232161792", 
+                "Place": "Mesquite", 
+                "Time": "Fri Dec 21 17:05:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980628321141710848/NkmvOQ_-_normal.jpg"
+            }
         }
     ]
 }
