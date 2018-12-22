@@ -312,6 +312,19 @@
                 "Time": "Sat Dec 22 19:00:01 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/590654763987038208/S_ps1VmF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.721761, 33.9725155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrsFiGGiEs", 
+                "Name": "Alex \ud83d\udc41\ud83d\udc44\ud83d\udc41", 
+                "Tweet": "@thegalagaship - Going from nothing to S\u2019ing D18s on PIU\n- Getting 2nd out of 55 girls in blue division for Female\u2026 https://t.co/nex2UDX6tm", 
+                "TweetLink": "1076555991678738432", 
+                "Place": "Chino Hills", 
+                "Time": "Sat Dec 22 19:12:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992613090880438272/XHwnz_ps_normal.jpg"
+            }
         }
     ]
 }
