@@ -234,6 +234,19 @@
                 "Time": "Sat Dec 22 17:15:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/707290511334363136/udrniZHK_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DCCATVOICE", 
+                "Name": "David Clary", 
+                "Tweet": "Oak Ridge and Christian have reached halftime in this championship game at the NIKE Tournament of Champions and the\u2026 https://t.co/xFCg07Xfc3", 
+                "TweetLink": "1076532443648163840", 
+                "Place": "Phoenix", 
+                "Time": "Sat Dec 22 17:38:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3375185255/0a3bf5baf465f336e3b008b2a0fe08fb_normal.jpeg"
+            }
         }
     ]
 }
