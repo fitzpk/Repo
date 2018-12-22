@@ -169,6 +169,19 @@
                 "Time": "Fri Dec 21 22:29:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1054929701863600128/Foc5Q0In_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DCCATVOICE", 
+                "Name": "David Clary", 
+                "Tweet": "Today is day four for the Lady Wildcats at the NIKE Tournament of Champions and today they play for a Championship.\u2026 https://t.co/uY3UjGpmQD", 
+                "TweetLink": "1076505168298921985", 
+                "Place": "Phoenix", 
+                "Time": "Sat Dec 22 15:50:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3375185255/0a3bf5baf465f336e3b008b2a0fe08fb_normal.jpeg"
+            }
         }
     ]
 }
