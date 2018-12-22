@@ -325,6 +325,19 @@
                 "Time": "Sat Dec 22 19:12:04 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/992613090880438272/XHwnz_ps_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "heidivarner84", 
+                "Name": "Heidi Varner", 
+                "Tweet": "Thank you @WoodlandsBkyard for making this the best Harris Family Christmas party!! The bowling tournament of champ\u2026 https://t.co/kgSBtr7zeT", 
+                "TweetLink": "1076586007863218176", 
+                "Place": "Columbus", 
+                "Time": "Sat Dec 22 21:11:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/515263693513564160/Z5A71PnL_normal.jpeg"
+            }
         }
     ]
 }
