@@ -221,6 +221,19 @@
                 "Time": "Sat Dec 22 16:57:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/952974750350917632/J0VgSnSW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gameeliteatl", 
+                "Name": "GAmeeliteatl", 
+                "Tweet": "Tournament of Champions Holiday Classic is around the corner! @ClassicToc gets better each year! The Fan Engagement\u2026 https://t.co/spTf2NtJDx", 
+                "TweetLink": "1076526612491976705", 
+                "Place": "Georgia", 
+                "Time": "Sat Dec 22 17:15:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/707290511334363136/udrniZHK_normal.jpg"
+            }
         }
     ]
 }
