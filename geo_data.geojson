@@ -182,6 +182,19 @@
                 "Time": "Sat Dec 22 15:50:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3375185255/0a3bf5baf465f336e3b008b2a0fe08fb_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "Follow ART - from an amateur hall of fame athlete &amp; teacher - that educates/inspires. #LetTeensPlay motivates kids\u2026 https://t.co/7JYiBRbqxF", 
+                "TweetLink": "1076508969449996289", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Dec 22 16:05:13 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1054929701863600128/Foc5Q0In_normal.jpg"
+            }
         }
     ]
 }
