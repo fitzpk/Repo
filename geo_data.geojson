@@ -260,6 +260,32 @@
                 "Time": "Sat Dec 22 17:47:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980687065405825028/81z-pON6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.827182, 39.512436]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FloWrestling", 
+                "Name": "FloWrestling", 
+                "Tweet": "Who's taking home the high school OW trophy at the Reno Tournament of Champions? https://t.co/FtSMG8zGGZ", 
+                "TweetLink": "1076539887195643904", 
+                "Place": "Reno", 
+                "Time": "Sat Dec 22 18:08:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952974750350917632/J0VgSnSW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.6807375, 32.576227]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wfortner14", 
+                "Name": "Wendy Fortner", 
+                "Tweet": "\u2764 my #25!", 
+                "TweetLink": "1076540289672798208", 
+                "Place": "Alabama", 
+                "Time": "Sat Dec 22 18:09:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992447709599682560/Ao2d_FtL_normal.jpg"
+            }
         }
     ]
 }
