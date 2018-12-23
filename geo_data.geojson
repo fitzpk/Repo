@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-111.928142, 33.392884]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "anavarro024", 
-                "Name": "alex navarro", 
-                "Tweet": "Game Day! Big test vs #22 in the country Miami Country Day \ud83c\udfc0\ud83c\udfc0 streaming live at  https://t.co/VIs8RpO08v https://t.co/y64P8KnlMW", 
-                "TweetLink": "1075392001787387904", 
-                "Place": "Tempe", 
-                "Time": "Wed Dec 19 14:06:47 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1052325018011688960/Bzmp8kPW_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
             "type": "Feature", 
             "properties": {
