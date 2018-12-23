@@ -2,71 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.2333285, 25.7823535]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "hotgolfcarts", 
-                "Name": "Hot Golf Cart", 
-                "Tweet": "Quick suspension rebuild, Club Car DS Golf Cart #HotGolfCart #pga #pgatour #golf #golftips #golfer #golflife #lpg\u2026 https://t.co/m4RTQOxuAn", 
-                "TweetLink": "1075187616205733888", 
-                "Place": "Miami", 
-                "Time": "Wed Dec 19 00:34:38 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/780224963336871936/Y8R25op3_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctmascaro", 
-                "Name": "Chris Mascaro", 
-                "Tweet": "Join me at 8:00 PM EST on Next on the Tee as we close out 2018 with Dr. Bob Jones IV &amp; Matthew Laurance @realLauro5\u2026 https://t.co/dGk7IKBU0E", 
-                "TweetLink": "1075190177151270912", 
-                "Place": "Georgia", 
-                "Time": "Wed Dec 19 00:44:48 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Mickey_McDaniel", 
-                "Name": "Mickey McDaniel", 
-                "Tweet": "@GBBFord enjoying Nike Tournament of Champions barbecue at Rustler\u2019s Rooste before games start Wednesday. Rams open\u2026 https://t.co/ApvZqC4Prx", 
-                "TweetLink": "1075214416579194880", 
-                "Place": "Phoenix", 
-                "Time": "Wed Dec 19 02:21:08 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3497056938/51b31dff4b746105e9b54554d4fab291_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.139732, 43.254502]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ProudPapaJ", 
-                "Name": "Jamie McFadden", 
-                "Tweet": "@HISTORY fantastic #ForgedInFire Tournament of Champions episodes! Great to watch all four disciplines battle it ou\u2026 https://t.co/QuSNpCLa41", 
-                "TweetLink": "1075225798246830080", 
-                "Place": "St. Marys", 
-                "Time": "Wed Dec 19 03:06:21 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/885670486235111424/OPTRqQFx_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-96.690937, 32.9644845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "yvette_cordova", 
-                "Name": "Yvette Cordova", 
-                "Tweet": "Grand Prix Champions!! \n\nMaddie and her City FC team won their first futsal tournament this weekend! This was their\u2026 https://t.co/y1D6hjfHUb", 
-                "TweetLink": "1075233990133645313", 
-                "Place": "Richardson", 
-                "Time": "Wed Dec 19 03:38:54 +0000 2018", 
-                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-111.928142, 33.392884]}, 
             "type": "Feature", 
             "properties": {
@@ -363,6 +298,19 @@
                 "Place": "Sterling", 
                 "Time": "Sun Dec 23 00:42:20 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/865053385455804416/2aTEIPDF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GoodLifeBoss", 
+                "Name": "Dee", 
+                "Tweet": "Coach @OchielSwaby &amp; the Miami Country Day Spartans \u26f9\ud83c\udffd\u200d\u2640\ufe0f Win the NIKE TOURNAMENT OF CHAMPIONS \ud83c\udfc0\ud83c\udfc6 Phoenix, AZ.\u2026 https://t.co/DFdV686w27", 
+                "TweetLink": "1076847080470167554", 
+                "Place": "Florida", 
+                "Time": "Sun Dec 23 14:28:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1049420250750570500/inFK72lx_normal.jpg"
             }
         }
     ]
