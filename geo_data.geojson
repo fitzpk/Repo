@@ -325,6 +325,19 @@
                 "Time": "Mon Dec 24 03:00:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/471728577784721408/jO6knhJ2_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.640232, 21.006936]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfatKapalua", 
+                "Name": "Kapalua Golf", 
+                "Tweet": "Last minute gift? \ud83c\udf81 Check out these custom #Kapalua Truvis Chrome Soft Balls at the Plantation Course Golf Shop! \u26f3\ufe0f\u2026 https://t.co/3e1Aqo3tl4", 
+                "TweetLink": "1077295711312441344", 
+                "Place": "Plantation Course at Kapalua", 
+                "Time": "Mon Dec 24 20:11:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
+            }
         }
     ]
 }
