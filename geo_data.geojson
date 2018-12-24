@@ -312,6 +312,19 @@
                 "Time": "Sun Dec 23 21:13:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1045119649401262081/XZ47yfQe_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7374385, 32.3422995]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HyundaiSunBowl", 
+                "Name": "Hyundai Sun Bowl", 
+                "Tweet": "Thank you for joining us in El Paso Coach @ForbesETSUhoops. And congratulations on Championship! Hope you come back.", 
+                "TweetLink": "1077036341991419905", 
+                "Place": "Las Cruces", 
+                "Time": "Mon Dec 24 03:00:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/471728577784721408/jO6knhJ2_normal.jpeg"
+            }
         }
     ]
 }
