@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "anshelsag", 
-                "Name": "Anshel Sag", 
-                "Tweet": "Pics I took on the iPhone Xs Max of the Dragontooth Trail in the peninsula just below the Ritz Carlton Kapalua wher\u2026 https://t.co/zjocbm4YKf", 
-                "TweetLink": "1075889039461548034", 
-                "Place": "Kapalua", 
-                "Time": "Thu Dec 20 23:01:50 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1012606098719690752/fTn9thud_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.537948, 40.185151]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mfc248", 
-                "Name": "Matt Carberry", 
-                "Tweet": "Nothing against either of tonight\u2019s #Jeopardy challengers... but when people start rooting for a champ to lose beca\u2026 https://t.co/UsHwd7F4ya", 
-                "TweetLink": "1075904069087191040", 
-                "Place": "Royersford", 
-                "Time": "Fri Dec 21 00:01:34 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1004552462907465729/dS4shRVO_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.537948, 40.185151]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mfc248", 
-                "Name": "Matt Carberry", 
-                "Tweet": "Fortunately, it seems there won\u2019t be an exception on Monday. #Jeopardy", 
-                "TweetLink": "1075910541850349568", 
-                "Place": "Royersford", 
-                "Time": "Fri Dec 21 00:27:17 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1004552462907465729/dS4shRVO_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "T_Ram133", 
-                "Name": "Anthony Ramos \ud83d\udc0f", 
-                "Tweet": "Looked great all day and scored a lot of points! #UNCommon #TogetherWeWin", 
-                "TweetLink": "1075911287073357825", 
-                "Place": "North Carolina", 
-                "Time": "Fri Dec 21 00:30:14 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1000764129148325892/ZOYaiCqh_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-96.6021425, 32.7749375]}, 
             "type": "Feature", 
             "properties": {
