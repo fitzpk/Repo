@@ -338,6 +338,19 @@
                 "Time": "Mon Dec 24 20:11:27 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.77283, 27.904263]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dadofgolfer", 
+                "Name": "Jeff", 
+                "Tweet": "@GreifWill great course! Have fun-\ud83d\udc4a@ijohnstongolf", 
+                "TweetLink": "1077359063284023301", 
+                "Place": "Largo", 
+                "Time": "Tue Dec 25 00:23:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1024091841782841344/7Wpz9XCN_normal.jpg"
+            }
         }
     ]
 }
