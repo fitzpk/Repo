@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-96.6021425, 32.7749375]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GHaakAttack", 
-                "Name": "Green Screen Greg \ud83d\udd25", 
-                "Tweet": "The preliminary tout-o-meter #dfs #PgaTour line up.  Please comment if you have any touts you love, it does not hav\u2026 https://t.co/FBcrDBSnAG", 
-                "TweetLink": "1076161651232161792", 
-                "Place": "Mesquite", 
-                "Time": "Fri Dec 21 17:05:06 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/980628321141710848/NkmvOQ_-_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "riofranklin1", 
-                "Name": "Mario Franklin", 
-                "Tweet": "Golf fitness exercise to increase DISTANCE!! Visit https://t.co/JqmldIS2ut and start at only $100  909-773-0033\u2026 https://t.co/vxXbU4tvpn", 
-                "TweetLink": "1076222428270002177", 
-                "Place": "Ontario", 
-                "Time": "Fri Dec 21 21:06:36 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/525007602145828865/09vioPSV_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "Depends...if this caricature is considered a win!\n\n\"How many wins will @RickieFowler have in 2019?\"\n@PGATOUR\u2026 https://t.co/XG0mj3gLFh", 
-                "TweetLink": "1076243386229837825", 
-                "Place": "Winnipeg", 
-                "Time": "Fri Dec 21 22:29:53 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1054929701863600128/Foc5Q0In_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
             "type": "Feature", 
             "properties": {
