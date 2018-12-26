@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DCCATVOICE", 
-                "Name": "David Clary", 
-                "Tweet": "Today is day four for the Lady Wildcats at the NIKE Tournament of Champions and today they play for a Championship.\u2026 https://t.co/uY3UjGpmQD", 
-                "TweetLink": "1076505168298921985", 
-                "Place": "Phoenix", 
-                "Time": "Sat Dec 22 15:50:07 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3375185255/0a3bf5baf465f336e3b008b2a0fe08fb_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
@@ -311,6 +298,19 @@
                 "Place": "Florida", 
                 "Time": "Wed Dec 26 19:45:46 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/988893252601331712/Pa_ygeE5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.984562, 41.15]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bsilvermangolf", 
+                "Name": "Ben Silverman", 
+                "Tweet": "Two different deadlift styles here. I love lifting heavier weights when I have the chance. 200lbs more and I\u2019ll be\u2026 https://t.co/K4HTQJCtjb", 
+                "TweetLink": "1078029221912592385", 
+                "Place": "New City", 
+                "Time": "Wed Dec 26 20:46:09 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
             }
         }
     ]
