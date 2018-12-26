@@ -299,6 +299,19 @@
                 "Time": "Wed Dec 26 17:55:32 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/954645982934794240/KF9MI4Sy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "grillgod", 
+                "Name": "Scotty Mac", 
+                "Tweet": "Home of the Q School Finals for Pros to get their Tour card #pgatour @ Orange County National Golf Center and Lodge https://t.co/JpyEPda4mc", 
+                "TweetLink": "1078014022203727874", 
+                "Place": "Florida", 
+                "Time": "Wed Dec 26 19:45:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988893252601331712/Pa_ygeE5_normal.jpg"
+            }
         }
     ]
 }
