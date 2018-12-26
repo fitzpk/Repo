@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "More than my brother...ouch!\n\n\"How many putts do you make inside 10 feet? \n\n@WebbSimpson1 made 90.1%.\"\n\n@PGATOUR\u2026 https://t.co/YaAgb8kalk", 
-                "TweetLink": "1076517975157600263", 
-                "Place": "Winnipeg", 
-                "Time": "Sat Dec 22 16:41:00 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1054929701863600128/Foc5Q0In_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-119.827182, 39.512436]}, 
             "type": "Feature", 
             "properties": {
