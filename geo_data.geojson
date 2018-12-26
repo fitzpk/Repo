@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-122.1793265, 37.8794145]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CalStars", 
-                "Name": "CalStars", 
-                "Tweet": "Fresh face @BrookeDemetre lead a host of teams into the finals at the @NikeTOChampions #onetwostars https://t.co/ZtizYG5CdI", 
-                "TweetLink": "1076534815346745344", 
-                "Place": "Orinda", 
-                "Time": "Sat Dec 22 17:47:55 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/980687065405825028/81z-pON6_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-119.827182, 39.512436]}, 
             "type": "Feature", 
             "properties": {
