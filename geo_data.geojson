@@ -234,6 +234,19 @@
                 "Time": "Wed Dec 26 20:46:09 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.8972405, 41.251326]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "perfectliesgolf", 
+                "Name": "Perfect Lies Golf", 
+                "Tweet": "This is what happens when u buy OEM made in China caves in face day 1 @Titleist", 
+                "TweetLink": "1078061463556816896", 
+                "Place": "Croton-on-Hudson", 
+                "Time": "Wed Dec 26 22:54:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1026901201726533632/P4IjIZyD_normal.jpg"
+            }
         }
     ]
 }
