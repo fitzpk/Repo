@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "zigziegler2", 
-                "Name": "Zig Ziegler", 
-                "Tweet": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\nThe high school girls @nike Basketball Tournament of Champions  final round is happening today at\u2026 https://t.co/ukBVBBsilB", 
-                "TweetLink": "1076552958245040130", 
-                "Place": "Phoenix", 
-                "Time": "Sat Dec 22 19:00:01 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/590654763987038208/S_ps1VmF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.721761, 33.9725155]}, 
             "type": "Feature", 
             "properties": {
