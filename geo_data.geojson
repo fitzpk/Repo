@@ -143,6 +143,19 @@
                 "Time": "Wed Dec 26 22:54:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1026901201726533632/P4IjIZyD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Region_7AAAAAAA", 
+                "Name": "Region 7-7A Bball \ud83c\udfc0", 
+                "Tweet": "Berkmar boys basketball tops Heritage in Tournament of Champions https://t.co/XFQhvpNccS via @GDPsports", 
+                "TweetLink": "1078289593055825920", 
+                "Place": "Lawrenceville", 
+                "Time": "Thu Dec 27 14:00:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
+            }
         }
     ]
 }
