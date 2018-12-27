@@ -156,6 +156,19 @@
                 "Time": "Thu Dec 27 14:00:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.3292095, 38.4517165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mishafredmeyer", 
+                "Name": "Michael Meyer", 
+                "Tweet": "A brief meld of personal and professional twitter to say: @BrendanOtto and I did a thing. It was really fun. Thanks\u2026 https://t.co/Oc5gPG8VWP", 
+                "TweetLink": "1078296935050678272", 
+                "Place": "Oakville", 
+                "Time": "Thu Dec 27 14:29:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/892548443163381760/S7yE0LJe_normal.jpg"
+            }
         }
     ]
 }
