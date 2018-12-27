@@ -234,6 +234,19 @@
                 "Time": "Thu Dec 27 19:56:14 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/978531091781791744/WemSBaSA_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.242564, 35.0919545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "McCallieSports", 
+                "Name": "McCallie Athletics", 
+                "Tweet": "Game Day for @McCalliehoops. Blue Tornado open play in Best of Preps tournament tonight at 8:30PM vs East Hamilton\u2026 https://t.co/DzGAF5pWRL", 
+                "TweetLink": "1078397953621049344", 
+                "Place": "Chattanooga", 
+                "Time": "Thu Dec 27 21:11:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/899720734158860288/HBcZqvh9_normal.jpg"
+            }
         }
     ]
 }
