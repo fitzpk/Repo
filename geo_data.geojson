@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GoodLifeBoss", 
-                "Name": "Dee", 
-                "Tweet": "Coach @OchielSwaby &amp; the Miami Country Day Spartans \u26f9\ud83c\udffd\u200d\u2640\ufe0f Win the NIKE TOURNAMENT OF CHAMPIONS \ud83c\udfc0\ud83c\udfc6 Phoenix, AZ.\u2026 https://t.co/DFdV686w27", 
-                "TweetLink": "1076847080470167554", 
-                "Place": "Florida", 
-                "Time": "Sun Dec 23 14:28:45 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1049420250750570500/inFK72lx_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
             "type": "Feature", 
             "properties": {
