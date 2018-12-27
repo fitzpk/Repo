@@ -221,6 +221,19 @@
                 "Time": "Thu Dec 27 17:37:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/954645982934794240/KF9MI4Sy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.000802, 57.664958]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ColterBilley", 
+                "Name": "Billey", 
+                "Tweet": "YEEEEESS! It\u2019s better than Christmas!! The 2019 golf season is here! Time to get back on the betting train\ud83c\udf7e\u26f3\ufe0f\ud83d\ude06\u2026 https://t.co/KOOeW0CljE", 
+                "TweetLink": "1078355642451091457", 
+                "Place": "Wood Buffalo", 
+                "Time": "Thu Dec 27 18:23:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1038625806338088960/KEa9mihN_normal.jpg"
+            }
         }
     ]
 }
