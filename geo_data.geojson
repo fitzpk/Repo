@@ -195,6 +195,19 @@
                 "Time": "Thu Dec 27 16:41:31 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/880770368549597185/jHkP3nkA_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.9821035, 35.4970195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rttodd2244", 
+                "Name": "Richard Lantz", 
+                "Tweet": "@GolfChannel What a dumbass he works so hard to win a tournament then he's going to skip the Tournament of Champions  not good", 
+                "TweetLink": "1078337011990310912", 
+                "Place": "Clinton", 
+                "Time": "Thu Dec 27 17:09:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/788361725972058112/WaTlcDh1_normal.jpg"
+            }
         }
     ]
 }
