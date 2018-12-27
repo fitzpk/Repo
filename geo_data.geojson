@@ -247,6 +247,19 @@
                 "Time": "Thu Dec 27 21:11:22 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/899720734158860288/HBcZqvh9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.65178, 21.004577]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SuperSassyMama", 
+                "Name": "Caryn Ross", 
+                "Tweet": "Being a travel writer/reporter, I haven\u2019t seen a faster decline in 1 yr than @RitzCarlton #Kapalua. Pick a lane. Ar\u2026 https://t.co/SixSbxtkyR", 
+                "TweetLink": "1078403346740867072", 
+                "Place": "The Ritz-Carlton Beach", 
+                "Time": "Thu Dec 27 21:32:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1210324929/Lovely_Sister_normal.jpg"
+            }
         }
     ]
 }
