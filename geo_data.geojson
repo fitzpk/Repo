@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.985772, 39.9946835]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "heidivarner84", 
-                "Name": "Heidi Varner", 
-                "Tweet": "Thank you @WoodlandsBkyard for making this the best Harris Family Christmas party!! The bowling tournament of champ\u2026 https://t.co/kgSBtr7zeT", 
-                "TweetLink": "1076586007863218176", 
-                "Place": "Columbus", 
-                "Time": "Sat Dec 22 21:11:20 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/515263693513564160/Z5A71PnL_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "marcibcox", 
-                "Name": "Marci B Cox", 
-                "Tweet": "WAY TO GO LIONS!!!", 
-                "TweetLink": "1076616984844996610", 
-                "Place": "Franklin", 
-                "Time": "Sat Dec 22 23:14:26 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1010012465185185793/6eLY5KLi_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-89.7057105, 41.8000055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JemsBasketball", 
-                "Name": "Jems Basketball", 
-                "Tweet": "GBB: Final Richwoods 64-Hononegah 56. We are the Champions of the Final Sterling Tournament!", 
-                "TweetLink": "1076639103893073920", 
-                "Place": "Sterling", 
-                "Time": "Sun Dec 23 00:42:20 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/865053385455804416/2aTEIPDF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
