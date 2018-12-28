@@ -338,6 +338,32 @@
                 "Time": "Fri Dec 28 22:59:47 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/982706892383424512/1get1wbW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.817061, 44.5222745]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "terrancegavan", 
+                "Name": "Seamus O\u2019Bradaigh", 
+                "Tweet": "Tiger needs to prepare for the Masters and do it in a manner that allows him to peak just prior to the major. It\u2019s\u2026 https://t.co/74i6im1bxU", 
+                "TweetLink": "1078787802647662593", 
+                "Place": "Kawartha Lakes", 
+                "Time": "Fri Dec 28 23:00:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/921548156449509376/B6eE70sC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "emmseebee", 
+                "Name": "Marlies Braade", 
+                "Tweet": "It\u2019s a golf day! #mimosasgalore #vodkalemonade #chivasregal #drinksmakeitallgood @ Kapalua Golf the Bay Course https://t.co/YSZwjqRXoL", 
+                "TweetLink": "1078789438740852737", 
+                "Place": "Kapalua", 
+                "Time": "Fri Dec 28 23:06:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/938082896153231362/MlV3P3-i_normal.jpg"
+            }
         }
     ]
 }
