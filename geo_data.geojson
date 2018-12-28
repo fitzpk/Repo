@@ -312,6 +312,19 @@
                 "Time": "Fri Dec 28 22:34:44 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780224963336871936/Y8R25op3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.472736, 34.679917]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RexHoggardGC", 
+                "Name": "Rex Hoggard", 
+                "Tweet": "Field of 37 for next week\u2019s Tournament of Champions. Players who qualified who are not playing Phil Mickelson, Justin Rose and Tiger Woods.", 
+                "TweetLink": "1078784116026417152", 
+                "Place": "East Ellijay", 
+                "Time": "Fri Dec 28 22:45:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/463186893811625984/1_hFc37P_normal.png"
+            }
         }
     ]
 }
