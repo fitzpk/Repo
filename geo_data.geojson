@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LeesahSea", 
-                "Name": "LeesahSea", 
-                "Tweet": "There's nothing like watching Jeopardy Tournament of Champions on #Netflix to make you feel really stupid. https://t.co/giGCVFQ6hT", 
-                "TweetLink": "1076949008873111557", 
-                "Place": "Toronto", 
-                "Time": "Sun Dec 23 21:13:47 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1045119649401262081/XZ47yfQe_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-106.7374385, 32.3422995]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "HyundaiSunBowl", 
-                "Name": "Hyundai Sun Bowl", 
-                "Tweet": "Thank you for joining us in El Paso Coach @ForbesETSUhoops. And congratulations on Championship! Hope you come back.", 
-                "TweetLink": "1077036341991419905", 
-                "Place": "Las Cruces", 
-                "Time": "Mon Dec 24 03:00:48 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/471728577784721408/jO6knhJ2_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-156.640232, 21.006936]}, 
             "type": "Feature", 
             "properties": {
