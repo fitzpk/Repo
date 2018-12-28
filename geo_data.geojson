@@ -325,6 +325,19 @@
                 "Time": "Fri Dec 28 22:45:50 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/463186893811625984/1_hFc37P_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.1339925, 34.008338]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HoopSeenDP", 
+                "Name": "Daniel Paccione", 
+                "Tweet": "2020 G Samson Ruzhentsev for @HHhawksbball was deadly behind the arc and flashed some athleticism today in a win at\u2026 https://t.co/L2YmHcW14m", 
+                "TweetLink": "1078787624855322626", 
+                "Place": "Duluth", 
+                "Time": "Fri Dec 28 22:59:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/982706892383424512/1get1wbW_normal.jpg"
+            }
         }
     ]
 }
