@@ -299,6 +299,19 @@
                 "Time": "Fri Dec 28 22:13:53 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/922665089274142720/vkKM2e___normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.2333285, 25.7823535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "hotgolfcarts", 
+                "Name": "Hot Golf Cart", 
+                "Tweet": "Yamaha golf cart LED headlamp upgrade #HotGolfCart #reefscooter #RentGolfCart #golf #golfcart #pga #pgatour #lpga\u2026 https://t.co/Fy66vb5dXP", 
+                "TweetLink": "1078781319994376192", 
+                "Place": "Miami", 
+                "Time": "Fri Dec 28 22:34:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780224963336871936/Y8R25op3_normal.jpg"
+            }
         }
     ]
 }
