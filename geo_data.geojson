@@ -234,6 +234,19 @@
                 "Time": "Thu Dec 27 21:32:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1210324929/Lovely_Sister_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.809521, 35.7129475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KruegerBarrett", 
+                "Name": "Barrett Krueger", 
+                "Tweet": "The CHS Men\u2019s JV basketball team is going to the \u2018ship after a 63-34 victory over Grimsley, the defending champions\u2026 https://t.co/g9dsrVBAmM", 
+                "TweetLink": "1078743615206289409", 
+                "Place": "Asheboro", 
+                "Time": "Fri Dec 28 20:04:54 +0000 2018", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
         }
     ]
 }
