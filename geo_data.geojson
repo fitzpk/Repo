@@ -260,6 +260,19 @@
                 "Time": "Fri Dec 28 20:24:45 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/751434585368621056/rLz5ZtPY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.848928, 41.499327]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CSEaglesHoops", 
+                "Name": "Carl Sandburg Girls Basketball", 
+                "Tweet": "Talented group of Eagles continue to roll. Congrats to our @SophLadyEagles on defeating Providence for the tourname\u2026 https://t.co/trA2qz4JpW", 
+                "TweetLink": "1078755034760916992", 
+                "Place": "Frankfort", 
+                "Time": "Fri Dec 28 20:50:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1012041473586597894/GeT9ZuU0_normal.jpg"
+            }
         }
     ]
 }
