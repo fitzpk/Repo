@@ -455,6 +455,19 @@
                 "Time": "Sat Dec 29 05:59:38 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SmartGolfBets", 
+                "Name": "Mike Miller", 
+                "Tweet": "I'll add bookmaker prices to my sheet for #pgatour #SentryTOC once some reputable bookmakers have priced it up; probably Sunday or Monday.", 
+                "TweetLink": "1078893605169913857", 
+                "Place": "Uganda", 
+                "Time": "Sat Dec 29 06:00:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
+            }
         }
     ]
 }
