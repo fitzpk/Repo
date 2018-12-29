@@ -390,6 +390,19 @@
                 "Time": "Sat Dec 29 02:22:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1054696874983256069/asHSTZRn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.913642, 36.1093915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "teddyowens", 
+                "Name": "Teddy Owens", 
+                "Tweet": "Love the Tournament of Champions!\nBTW vs. Kingfisher https://t.co/I8aalwHrAu", 
+                "TweetLink": "1078844757781172225", 
+                "Place": "Tulsa", 
+                "Time": "Sat Dec 29 02:46:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/494962233764347907/ht25WdAu_normal.jpeg"
+            }
         }
     ]
 }
