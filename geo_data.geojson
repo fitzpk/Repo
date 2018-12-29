@@ -468,6 +468,32 @@
                 "Time": "Sat Dec 29 06:00:55 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.2705395, 45.00118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ADGoodrich", 
+                "Name": "Goodrich AD", 
+                "Tweet": "Good Morning Martians! Tournament of Champions Wrestling at GHS all day today l. Varsity Boys Basketball at Corunna\u2026 https://t.co/pdaovjzJfP", 
+                "TweetLink": "1078972217889902592", 
+                "Place": "Michigan", 
+                "Time": "Sat Dec 29 11:13:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1015710989243899904/h1vFhYkW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.2705395, 45.00118]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ADGoodrich", 
+                "Name": "Goodrich AD", 
+                "Tweet": "Good Morning Martians! Tournament of Champions Wrestling at GHS all day today\u2014Varsity Boys Basketball at Corunna vs\u2026 https://t.co/axSREOlv8Y", 
+                "TweetLink": "1078972311397695489", 
+                "Place": "Michigan", 
+                "Time": "Sat Dec 29 11:13:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1015710989243899904/h1vFhYkW_normal.jpg"
+            }
         }
     ]
 }
