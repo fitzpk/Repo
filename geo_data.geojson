@@ -442,6 +442,19 @@
                 "Time": "Sat Dec 29 03:44:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/777963442430959616/5UNobutJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SmartGolfBets", 
+                "Name": "Mike Miller", 
+                "Tweet": "I've re-published by sheet for #pgatour #SentryTOC 34 starters as expected. Includes one Tip, tournament history, m\u2026 https://t.co/0Ach3GkYKk", 
+                "TweetLink": "1078893282564943872", 
+                "Place": "Uganda", 
+                "Time": "Sat Dec 29 05:59:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
+            }
         }
     ]
 }
