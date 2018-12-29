@@ -403,6 +403,32 @@
                 "Time": "Sat Dec 29 02:46:48 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/494962233764347907/ht25WdAu_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "16klubnupe", 
+                "Name": "B. Scott", 
+                "Tweet": "Keep working", 
+                "TweetLink": "1078852354307436544", 
+                "Place": "Georgia", 
+                "Time": "Sat Dec 29 03:17:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/877217992110735360/F9iEjRh9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "T_SMALL_DA_GR8", 
+                "Name": ".", 
+                "Tweet": "Sheeeeshhhhhh", 
+                "TweetLink": "1078852367481749509", 
+                "Place": "Virginia", 
+                "Time": "Sat Dec 29 03:17:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952706111160881152/RZHUk_4e_normal.jpg"
+            }
         }
     ]
 }
