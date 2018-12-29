@@ -442,6 +442,19 @@
                 "Time": "Sat Dec 29 03:29:57 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1038625806338088960/KEa9mihN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.1309955, 38.9922625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DougLambert12", 
+                "Name": "Doug Lambert", 
+                "Tweet": "Congrats. Good win", 
+                "TweetLink": "1078859260610732032", 
+                "Place": "Petersburg", 
+                "Time": "Sat Dec 29 03:44:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/777963442430959616/5UNobutJ_normal.jpg"
+            }
         }
     ]
 }
