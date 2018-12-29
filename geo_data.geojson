@@ -429,6 +429,19 @@
                 "Time": "Sat Dec 29 03:17:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/952706111160881152/RZHUk_4e_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.000802, 57.664958]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ColterBilley", 
+                "Name": "Billey", 
+                "Tweet": "What a great field to start the year! #LiveUnderPar", 
+                "TweetLink": "1078855616888619008", 
+                "Place": "Wood Buffalo", 
+                "Time": "Sat Dec 29 03:29:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1038625806338088960/KEa9mihN_normal.jpg"
+            }
         }
     ]
 }
