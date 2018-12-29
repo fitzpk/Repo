@@ -598,6 +598,19 @@
                 "Time": "Sat Dec 29 20:44:08 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/809616669568016384/H13QvwDj_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.98944, 44.166064]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KwikTripHSBBall", 
+                "Name": "Kwik Trip Holiday Basketball Tournament at Bethany", 
+                "Tweet": "Congratulations to our 2018 Junior Varsity Champions of the Kwik Trip Holiday Tournament, the St. Croix Lutheran Cr\u2026 https://t.co/YP3Uq8m3EP", 
+                "TweetLink": "1079146340364488704", 
+                "Place": "Bethany Lutheran College", 
+                "Time": "Sat Dec 29 22:45:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1076224467192303616/WowhKph__normal.jpg"
+            }
         }
     ]
 }
