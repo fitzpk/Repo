@@ -793,6 +793,19 @@
                 "Time": "Sun Dec 30 19:22:31 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1849933203/Rick2_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.079619, 39.090427]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "OSSATennis", 
+                "Name": "OSSA Tennis Academy", 
+                "Tweet": "Congratulations to all of our @OSSATennis players who competed hard over the break! OSSA had 2 Champions and 4 fina\u2026 https://t.co/KmQqYMuRZW", 
+                "TweetLink": "1079460261537476609", 
+                "Place": "Aspen Hill", 
+                "Time": "Sun Dec 30 19:32:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2702319080/28e637844c9e72dc8a4f5c61f4296801_normal.jpeg"
+            }
         }
     ]
 }
