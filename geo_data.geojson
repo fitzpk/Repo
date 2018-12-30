@@ -806,6 +806,19 @@
                 "Time": "Sun Dec 30 19:32:36 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2702319080/28e637844c9e72dc8a4f5c61f4296801_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.651818, 27.986947]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "aleah_2021", 
+                "Name": "Aleah Sorrentino", 
+                "Tweet": "Big second half of the year coming !", 
+                "TweetLink": "1079466368574148612", 
+                "Place": "Palm Bay", 
+                "Time": "Sun Dec 30 19:56:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1069598148392349696/m1aLaZbr_normal.jpg"
+            }
         }
     ]
 }
