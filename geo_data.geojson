@@ -702,6 +702,19 @@
                 "Time": "Sun Dec 30 02:55:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/799299374312370176/OpuV6jnA_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.692676, 35.0585215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SouthwindJags", 
+                "Name": "Southwind Athletics", 
+                "Tweet": "@ladyjagsbball1 defeat Collierville and are the champions of the Dragon Fire Tournament!!! \n#JagNation", 
+                "TweetLink": "1079210827805327360", 
+                "Place": "Collierville", 
+                "Time": "Sun Dec 30 03:01:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898914840550494213/HSe_R35O_normal.jpg"
+            }
         }
     ]
 }
