@@ -741,6 +741,19 @@
                 "Time": "Sun Dec 30 04:22:20 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1000737745910861824/LC8dXFDi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.593218, 35.403412]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_Sports00", 
+                "Name": "Sports Junkie", 
+                "Tweet": "ICYMI: \n\nThe 4A#1 Muldrow Lady Bulldogs knocked off the 6A#1 Edmond Memorial Lady Bulldogs last night 52-43 to win\u2026 https://t.co/TIpliWcbqq", 
+                "TweetLink": "1079428974097387521", 
+                "Place": "Muldrow", 
+                "Time": "Sun Dec 30 17:28:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/906230238690017280/EqUn28LQ_normal.jpg"
+            }
         }
     ]
 }
