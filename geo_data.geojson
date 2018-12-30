@@ -819,6 +819,19 @@
                 "Time": "Sun Dec 30 19:56:52 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1069598148392349696/m1aLaZbr_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.674057, 20.8987705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfatKapalua", 
+                "Name": "Kapalua Golf", 
+                "Tweet": "Aloha Bubba! \u26f3\ufe0f\ud83e\udd19\ud83c\udffd", 
+                "TweetLink": "1079470102263681024", 
+                "Place": "Lahaina", 
+                "Time": "Sun Dec 30 20:11:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
+            }
         }
     ]
 }
