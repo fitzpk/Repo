@@ -767,6 +767,19 @@
                 "Time": "Sun Dec 30 17:48:58 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/600494405162762240/IWJEH-yl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.1668165, 33.1387415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kedrel", 
+                "Name": "Brad Atherton", 
+                "Tweet": "Wow the @Jeopardy tournament of champions on @netflix is dangerous, I need to get off the couch", 
+                "TweetLink": "1079440883223687170", 
+                "Place": "San Marcos", 
+                "Time": "Sun Dec 30 18:15:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/187758234/brad2_normal.jpg"
+            }
         }
     ]
 }
