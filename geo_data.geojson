@@ -715,6 +715,19 @@
                 "Time": "Sun Dec 30 03:01:26 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/898914840550494213/HSe_R35O_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.351698, 38.5865045]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "M_Jaysea", 
+                "Name": "Jaysea\u2728", 
+                "Tweet": "Super proud of this group of guys, good job!", 
+                "TweetLink": "1079229762655191040", 
+                "Place": "Webster Groves", 
+                "Time": "Sun Dec 30 04:16:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1077414527757631488/YzIZfc8r_normal.jpg"
+            }
         }
     ]
 }
