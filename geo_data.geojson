@@ -754,6 +754,19 @@
                 "Time": "Sun Dec 30 17:28:16 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/906230238690017280/EqUn28LQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "evillestorm", 
+                "Name": "Eville Storm", 
+                "Tweet": "Sometimes the results really aren\u2019t what matters; it is that you showed up to play the game. We are super proud of\u2026 https://t.co/GaFSYYflJz", 
+                "TweetLink": "1079434182500196352", 
+                "Place": "Kentucky", 
+                "Time": "Sun Dec 30 17:48:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/600494405162762240/IWJEH-yl_normal.jpg"
+            }
         }
     ]
 }
