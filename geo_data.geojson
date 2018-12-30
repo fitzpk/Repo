@@ -689,6 +689,19 @@
                 "Time": "Sun Dec 30 02:44:28 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1065342837775060992/zoOtAgpt_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.634531, 33.2423705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ALAQCWBB", 
+                "Name": "ALA Girls Basketball", 
+                "Tweet": "So proud of these girls! Champions of the Silver Division Chandler Prep New Years Classic Tournament. alleynamcdona\u2026 https://t.co/cqqCzrZ3Ix", 
+                "TweetLink": "1079209285563924481", 
+                "Place": "Queen Creek", 
+                "Time": "Sun Dec 30 02:55:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/799299374312370176/OpuV6jnA_normal.jpg"
+            }
         }
     ]
 }
