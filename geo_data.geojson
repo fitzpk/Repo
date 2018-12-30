@@ -637,6 +637,19 @@
                 "Time": "Sun Dec 30 00:54:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1069727535875919873/4uwPSXVj_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.111456, 42.053842]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SchleicherMath", 
+                "Name": "Ms. Schleicher", 
+                "Tweet": "Great job OA Boys B-Ball! Champions of the Muscato Winter Classic Tournament! Special shout-out to my Algebra 2 stu\u2026 https://t.co/YbiNiwESyD", 
+                "TweetLink": "1079187662119030787", 
+                "Place": "Oliver Ames High School", 
+                "Time": "Sun Dec 30 01:29:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/899645285927985152/UqsTdSQx_normal.jpg"
+            }
         }
     ]
 }
