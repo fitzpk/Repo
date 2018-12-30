@@ -663,6 +663,32 @@
                 "Time": "Sun Dec 30 02:20:19 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/902999903495831552/YREVxqDl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.955856, 36.047971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "chiefduckherder", 
+                "Name": "Michelle Butler, EdD", 
+                "Tweet": "Tulsa Tournament of Champions final game. First time in 34 years that both finalists are TPS teams. Gonna be a grea\u2026 https://t.co/5fqmwjBGzB", 
+                "TweetLink": "1079205769277509632", 
+                "Place": "The Mabee Center", 
+                "Time": "Sun Dec 30 02:41:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2489934725/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-88.374031, 43.054797]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachBergan", 
+                "Name": "Matt Bergan", 
+                "Tweet": "JRM tournament champions! Awesome weekend of \ud83c\udfd2 congrats @waukeshahockey https://t.co/DVVwk9vvo4", 
+                "TweetLink": "1079206555105542148", 
+                "Place": "Naga-waukee Park Ice Arena", 
+                "Time": "Sun Dec 30 02:44:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1065342837775060992/zoOtAgpt_normal.jpg"
+            }
         }
     ]
 }
