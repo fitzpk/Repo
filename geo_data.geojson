@@ -728,6 +728,19 @@
                 "Time": "Sun Dec 30 04:16:41 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1077414527757631488/YzIZfc8r_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.573675, 27.4739745]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ambyrd7", 
+                "Name": "Angie Byrd", 
+                "Tweet": "2018 Chick-Fil-A Tournament Champions \ud83d\udcaa\ud83c\udfc0\u2764\n@JordynByrd_14 made All-Tournament Team. She finished with a 2 day total\u2026 https://t.co/J7w4D6vXWj", 
+                "TweetLink": "1079231184188653568", 
+                "Place": "Bradenton", 
+                "Time": "Sun Dec 30 04:22:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000737745910861824/LC8dXFDi_normal.jpg"
+            }
         }
     ]
 }
