@@ -637,6 +637,19 @@
                 "Time": "Sun Dec 30 00:12:15 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1074791166212759552/prBNpxsU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.163726, 35.474284]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Myla_Marve", 
+                "Name": "Myla Marve", 
+                "Tweet": "I am proud of our team. We will learn a lot from this game. More to come in 2019. Go Lady Chargers!\n@ladychargersbb", 
+                "TweetLink": "1079178932619001857", 
+                "Place": "Sanford", 
+                "Time": "Sun Dec 30 00:54:42 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1069727535875919873/4uwPSXVj_normal.jpg"
+            }
         }
     ]
 }
