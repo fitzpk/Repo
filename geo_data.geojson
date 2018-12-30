@@ -650,6 +650,19 @@
                 "Time": "Sun Dec 30 01:29:23 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/899645285927985152/UqsTdSQx_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.3306025, 47.614817]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RainierAveRadio", 
+                "Name": "RainierAvenueRadio.World", 
+                "Tweet": "FINAL SCORE\n@wcastl Westminster Warriors from Miami FL 62 TOURNAMENT CHAMPIONS\nCanyon Springs Pioneers 58\n\nThanks\u2026 https://t.co/j5lZaNxmFw", 
+                "TweetLink": "1079200480520097792", 
+                "Place": "Seattle", 
+                "Time": "Sun Dec 30 02:20:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/902999903495831552/YREVxqDl_normal.jpg"
+            }
         }
     ]
 }
