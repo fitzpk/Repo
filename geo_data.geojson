@@ -2,71 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-77.0628085, 38.778085]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "simmons_ww", 
-                "Name": "WW Simmons", 
-                "Tweet": "Good luck, Cardinals!", 
-                "TweetLink": "1077978921671557122", 
-                "Place": "Belle Haven", 
-                "Time": "Wed Dec 26 17:26:17 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1013477288476803072/tEHUKNvM_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-122.6100815, 47.3889225]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CoachMattRobles", 
-                "Name": "ROBES", 
-                "Tweet": "GAMEDAY: Winter break basketball is here! @PeninsulaHoops playing at the Franklin HS Tournament of Champions in Sea\u2026 https://t.co/Jk7YSVz8xC", 
-                "TweetLink": "1077986284663001088", 
-                "Place": "Purdy", 
-                "Time": "Wed Dec 26 17:55:32 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/954645982934794240/KF9MI4Sy_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "grillgod", 
-                "Name": "Scotty Mac", 
-                "Tweet": "Home of the Q School Finals for Pros to get their Tour card #pgatour @ Orange County National Golf Center and Lodge https://t.co/JpyEPda4mc", 
-                "TweetLink": "1078014022203727874", 
-                "Place": "Florida", 
-                "Time": "Wed Dec 26 19:45:46 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988893252601331712/Pa_ygeE5_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.984562, 41.15]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Bsilvermangolf", 
-                "Name": "Ben Silverman", 
-                "Tweet": "Two different deadlift styles here. I love lifting heavier weights when I have the chance. 200lbs more and I\u2019ll be\u2026 https://t.co/K4HTQJCtjb", 
-                "TweetLink": "1078029221912592385", 
-                "Place": "New City", 
-                "Time": "Wed Dec 26 20:46:09 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.8972405, 41.251326]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "perfectliesgolf", 
-                "Name": "Perfect Lies Golf", 
-                "Tweet": "This is what happens when u buy OEM made in China caves in face day 1 @Titleist", 
-                "TweetLink": "1078061463556816896", 
-                "Place": "Croton-on-Hudson", 
-                "Time": "Wed Dec 26 22:54:16 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1026901201726533632/P4IjIZyD_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.999204, 33.950635]}, 
             "type": "Feature", 
             "properties": {
@@ -831,6 +766,19 @@
                 "Place": "Lahaina", 
                 "Time": "Sun Dec 30 20:11:42 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.716992, 35.3090465]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brenotsaucy", 
+                "Name": "Baby Bre\u2600\ufe0f", 
+                "Tweet": "@JaedonWhitfield so BG brother is the real deal?\ud83d\ude33", 
+                "TweetLink": "1079498373651157002", 
+                "Place": "Oklahoma", 
+                "Time": "Sun Dec 30 22:04:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068193912429391873/MaimIvOb_normal.jpg"
             }
         }
     ]
