@@ -780,6 +780,19 @@
                 "Time": "Sun Dec 30 22:04:03 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1068193912429391873/MaimIvOb_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SmartGolfBets", 
+                "Name": "Mike Miller", 
+                "Tweet": "@joshuaperry22 Interesting, Joshua. Only explanation I have found thus far is that one element of my rating is stro\u2026 https://t.co/WTvh8wthsG", 
+                "TweetLink": "1079618686745489414", 
+                "Place": "Uganda", 
+                "Time": "Mon Dec 31 06:02:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
+            }
         }
     ]
 }
