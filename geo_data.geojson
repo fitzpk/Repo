@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.913642, 36.1093915]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PrepHoopsOK", 
-                "Name": "Prep Hoops Oklahoma", 
-                "Tweet": "Who will take the 2018 Tournament of Champions? Preview: https://t.co/uSGQUSjuY1\n\n#PrepHoops | @McKinnisBryce https://t.co/aPtverFLKd", 
-                "TweetLink": "1078308836165988353", 
-                "Place": "Tulsa", 
-                "Time": "Thu Dec 27 15:17:15 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/562373731679342592/g1HTuUWx_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
             "type": "Feature", 
             "properties": {
