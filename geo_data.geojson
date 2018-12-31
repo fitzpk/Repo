@@ -767,6 +767,19 @@
                 "Time": "Mon Dec 31 06:02:07 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfatKapalua", 
+                "Name": "Kapalua Golf", 
+                "Tweet": "Best Week of the year!! Let\u2019s go!! \u26f3\ufe0f\ud83e\udd19\ud83c\udffd\ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f #SentryTOC", 
+                "TweetLink": "1079830037048713218", 
+                "Place": "Kapalua", 
+                "Time": "Mon Dec 31 20:01:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
+            }
         }
     ]
 }
