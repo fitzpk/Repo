@@ -676,6 +676,19 @@
                 "Time": "Mon Dec 31 20:01:57 +0000 2018", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-166.5996925, 23.6913645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bradsgolf23", 
+                "Name": "andrew bradley", 
+                "Tweet": "@CameronChamp54 sending one on the 18th plantation course @golfatkapalua sentry_toc #golf #pgatour #golfchannel @ K\u2026 https://t.co/tE7ScJnTqV", 
+                "TweetLink": "1080206407071420417", 
+                "Place": "Hawaii", 
+                "Time": "Tue Jan 01 20:57:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
+            }
         }
     ]
 }
