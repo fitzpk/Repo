@@ -689,6 +689,19 @@
                 "Time": "Tue Jan 01 20:57:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.555439, 38.093358]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfSmarter", 
+                "Name": "Fred Greene", 
+                "Tweet": "It\u2019s time for @TheMattyBlake and @GolfSmarter to record our annual MattyB Awards for the 2018 #pgatour season. Any\u2026 https://t.co/ZXqXAdrfvm", 
+                "TweetLink": "1080210363826630656", 
+                "Place": "Novato", 
+                "Time": "Tue Jan 01 21:13:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849336259516350464/oNaU1JNE_normal.jpg"
+            }
         }
     ]
 }
