@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.809521, 35.7129475]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KruegerBarrett", 
-                "Name": "Barrett Krueger", 
-                "Tweet": "The CHS Men\u2019s JV basketball team is going to the \u2018ship after a 63-34 victory over Grimsley, the defending champions\u2026 https://t.co/g9dsrVBAmM", 
-                "TweetLink": "1078743615206289409", 
-                "Place": "Asheboro", 
-                "Time": "Fri Dec 28 20:04:54 +0000 2018", 
-                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.1500105, 42.4547035]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "WHawkSAthletics", 
-                "Name": "Waltham HS Athletics", 
-                "Tweet": "Hawks are the champions of the Winchester Holiday Tournament 48-30. Lauren Sampson was MVP of tournament", 
-                "TweetLink": "1078748611863818240", 
-                "Place": "Winchester", 
-                "Time": "Fri Dec 28 20:24:45 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/751434585368621056/rLz5ZtPY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-87.848928, 41.499327]}, 
             "type": "Feature", 
             "properties": {
@@ -701,6 +675,19 @@
                 "Place": "Novato", 
                 "Time": "Tue Jan 01 21:13:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/849336259516350464/oNaU1JNE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SandieCrowley", 
+                "Name": "Sandie", 
+                "Tweet": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", 
+                "TweetLink": "1080274386303836160", 
+                "Place": "Augusta", 
+                "Time": "Wed Jan 02 01:27:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970786624282988545/8nPI6iYw_normal.jpg"
             }
         }
     ]
