@@ -377,6 +377,19 @@
                 "Time": "Thu Jan 03 03:34:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1064647119368142850/ufP5GkL6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NoahPGA", 
+                "Name": "Noah Vinyard", 
+                "Tweet": "#kapalua #toc #Cameron #champ #ball #speed #wow #low #flight #noahgolf #hawaii @ Kapalua, Hawaii https://t.co/iFk2UEzaQh", 
+                "TweetLink": "1080681971800367104", 
+                "Place": "Kapalua", 
+                "Time": "Thu Jan 03 04:27:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
+            }
         }
     ]
 }
