@@ -364,6 +364,32 @@
                 "Time": "Thu Jan 03 03:21:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/816486957673041920/0zoDdmMy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Peterripa", 
+                "Name": "Peter Ripa", 
+                "Tweet": "Latest \"Golf Biz Straight Talk\" podcast on #PGATOUR tournament exemptions strategies, web-based golf instruction bu\u2026 https://t.co/prxV3aEr9D", 
+                "TweetLink": "1080667633899302912", 
+                "Place": "San Diego", 
+                "Time": "Thu Jan 03 03:30:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.0993875, 36.8083315]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jonathanwsabin", 
+                "Name": "Jonathan Sabin", 
+                "Tweet": "\ud83e\udd14", 
+                "TweetLink": "1080668585985359872", 
+                "Place": "Mesquite", 
+                "Time": "Thu Jan 03 03:34:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1064647119368142850/ufP5GkL6_normal.jpg"
+            }
         }
     ]
 }
