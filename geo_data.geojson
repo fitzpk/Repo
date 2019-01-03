@@ -2,149 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "kdvgbb", 
-                "Name": "KD Girls Hoops", 
-                "Tweet": "Champions of the Big Spring Holiday Tournament, 41-23 over Big Springs!!! \ud83c\udfc0\ud83d\udcaa\ud83c\udffb #wintheday https://t.co/0zmXFHAXoO", 
-                "TweetLink": "1079168251274412037", 
-                "Place": "Pennsylvania", 
-                "Time": "Sun Dec 30 00:12:15 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1074791166212759552/prBNpxsU_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.163726, 35.474284]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Myla_Marve", 
-                "Name": "Myla Marve", 
-                "Tweet": "I am proud of our team. We will learn a lot from this game. More to come in 2019. Go Lady Chargers!\n@ladychargersbb", 
-                "TweetLink": "1079178932619001857", 
-                "Place": "Sanford", 
-                "Time": "Sun Dec 30 00:54:42 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1069727535875919873/4uwPSXVj_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.111456, 42.053842]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SchleicherMath", 
-                "Name": "Ms. Schleicher", 
-                "Tweet": "Great job OA Boys B-Ball! Champions of the Muscato Winter Classic Tournament! Special shout-out to my Algebra 2 stu\u2026 https://t.co/YbiNiwESyD", 
-                "TweetLink": "1079187662119030787", 
-                "Place": "Oliver Ames High School", 
-                "Time": "Sun Dec 30 01:29:23 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/899645285927985152/UqsTdSQx_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-122.3306025, 47.614817]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RainierAveRadio", 
-                "Name": "RainierAvenueRadio.World", 
-                "Tweet": "FINAL SCORE\n@wcastl Westminster Warriors from Miami FL 62 TOURNAMENT CHAMPIONS\nCanyon Springs Pioneers 58\n\nThanks\u2026 https://t.co/j5lZaNxmFw", 
-                "TweetLink": "1079200480520097792", 
-                "Place": "Seattle", 
-                "Time": "Sun Dec 30 02:20:19 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/902999903495831552/YREVxqDl_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-95.955856, 36.047971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "chiefduckherder", 
-                "Name": "Michelle Butler, EdD", 
-                "Tweet": "Tulsa Tournament of Champions final game. First time in 34 years that both finalists are TPS teams. Gonna be a grea\u2026 https://t.co/5fqmwjBGzB", 
-                "TweetLink": "1079205769277509632", 
-                "Place": "The Mabee Center", 
-                "Time": "Sun Dec 30 02:41:20 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2489934725/image_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-88.374031, 43.054797]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CoachBergan", 
-                "Name": "Matt Bergan", 
-                "Tweet": "JRM tournament champions! Awesome weekend of \ud83c\udfd2 congrats @waukeshahockey https://t.co/DVVwk9vvo4", 
-                "TweetLink": "1079206555105542148", 
-                "Place": "Naga-waukee Park Ice Arena", 
-                "Time": "Sun Dec 30 02:44:28 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1065342837775060992/zoOtAgpt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-111.634531, 33.2423705]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ALAQCWBB", 
-                "Name": "ALA Girls Basketball", 
-                "Tweet": "So proud of these girls! Champions of the Silver Division Chandler Prep New Years Classic Tournament. alleynamcdona\u2026 https://t.co/cqqCzrZ3Ix", 
-                "TweetLink": "1079209285563924481", 
-                "Place": "Queen Creek", 
-                "Time": "Sun Dec 30 02:55:19 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/799299374312370176/OpuV6jnA_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-89.692676, 35.0585215]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SouthwindJags", 
-                "Name": "Southwind Athletics", 
-                "Tweet": "@ladyjagsbball1 defeat Collierville and are the champions of the Dragon Fire Tournament!!! \n#JagNation", 
-                "TweetLink": "1079210827805327360", 
-                "Place": "Collierville", 
-                "Time": "Sun Dec 30 03:01:26 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/898914840550494213/HSe_R35O_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-90.351698, 38.5865045]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "M_Jaysea", 
-                "Name": "Jaysea\u2728", 
-                "Tweet": "Super proud of this group of guys, good job!", 
-                "TweetLink": "1079229762655191040", 
-                "Place": "Webster Groves", 
-                "Time": "Sun Dec 30 04:16:41 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1077414527757631488/YzIZfc8r_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.573675, 27.4739745]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ambyrd7", 
-                "Name": "Angie Byrd", 
-                "Tweet": "2018 Chick-Fil-A Tournament Champions \ud83d\udcaa\ud83c\udfc0\u2764\n@JordynByrd_14 made All-Tournament Team. She finished with a 2 day total\u2026 https://t.co/J7w4D6vXWj", 
-                "TweetLink": "1079231184188653568", 
-                "Place": "Bradenton", 
-                "Time": "Sun Dec 30 04:22:20 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1000737745910861824/LC8dXFDi_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-94.593218, 35.403412]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "_Sports00", 
-                "Name": "Sports Junkie", 
-                "Tweet": "ICYMI: \n\nThe 4A#1 Muldrow Lady Bulldogs knocked off the 6A#1 Edmond Memorial Lady Bulldogs last night 52-43 to win\u2026 https://t.co/TIpliWcbqq", 
-                "TweetLink": "1079428974097387521", 
-                "Place": "Muldrow", 
-                "Time": "Sun Dec 30 17:28:16 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/906230238690017280/EqUn28LQ_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
             "type": "Feature", 
             "properties": {
@@ -376,6 +233,19 @@
                 "Place": "Kapalua", 
                 "Time": "Thu Jan 03 04:27:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheGolfingDoc", 
+                "Name": "Dr. Sese", 
+                "Tweet": "A typical windy day here @golfatkapalua but round 1 of sentry_toc is underway. Let\u2019s go @JonRahmpga \ud83d\udc4a\ud83c\udffe @ Kapalua Go\u2026 https://t.co/05e06QmdAt", 
+                "TweetLink": "1080954206268342272", 
+                "Place": "Kapalua", 
+                "Time": "Thu Jan 03 22:29:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
             }
         }
     ]
