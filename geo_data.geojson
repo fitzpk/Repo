@@ -351,6 +351,19 @@
                 "Time": "Thu Jan 03 02:59:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2651998446/e59d06427e222b201e5bd54902c43d2d_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.520209, 36.221709]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LanceFischel5", 
+                "Name": "The Bear Jew", 
+                "Tweet": "@LiqMiquchi ohhh gotcha. Lol. Yeah this is the tournament of champions. Small field, only kind of counts lol", 
+                "TweetLink": "1080665457965891589", 
+                "Place": "Mount Juliet", 
+                "Time": "Thu Jan 03 03:21:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/816486957673041920/0zoDdmMy_normal.jpg"
+            }
         }
     ]
 }
