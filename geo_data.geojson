@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Mucho_M_A_S_", 
-                "Name": "Marisol Stinson", 
-                "Tweet": "Felicidades to @CoachJohnson20 and the Boys Varsity  @WestAuroraBball! Great job by a group of amazing young men! S\u2026 https://t.co/wrzBaoU49Z", 
-                "TweetLink": "1079164980832935937", 
-                "Place": "Illinois", 
-                "Time": "Sat Dec 29 23:59:16 +0000 2018", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1066776755007078400/g760IuG__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
             "type": "Feature", 
             "properties": {
