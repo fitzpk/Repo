@@ -273,6 +273,45 @@
                 "Time": "Sun Jan 06 23:08:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1062081673339133952/z5mN2dwZ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.657837, 35.8439815]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TuckerBlanc", 
+                "Name": "Tucker Blankinship", 
+                "Tweet": "Pretty important final round for Rory at Kapalua.  Only week 1 of 2019 but he really needs to reverse the recent fi\u2026 https://t.co/7VgongsPGp", 
+                "TweetLink": "1082054495125811200", 
+                "Place": "Raleigh", 
+                "Time": "Sun Jan 06 23:21:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "doncolvin", 
+                "Name": "Don Colvin", 
+                "Tweet": "Let's be havin' ya @McIlroyRory #SentryTOC #HereTodayGoneToMaui", 
+                "TweetLink": "1082055429704859648", 
+                "Place": "South Dublin", 
+                "Time": "Sun Jan 06 23:24:52 +0000 2019", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "huska4vr", 
+                "Name": "Psycho\ud83d\udeb4Cycle", 
+                "Tweet": "Gotta pull for Gary Woodland at the Sentry TOC, plus I can't stand Rory McIlroy! #Kapalua #Maui #PGA", 
+                "TweetLink": "1082055429700481029", 
+                "Place": "Portland", 
+                "Time": "Sun Jan 06 23:24:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046587269857955840/q8p1AnKQ_normal.jpg"
+            }
         }
     ]
 }
