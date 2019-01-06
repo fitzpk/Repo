@@ -260,6 +260,19 @@
                 "Time": "Sun Jan 06 22:59:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.640232, 21.006936]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GoonerMaui", 
+                "Name": "Roger", 
+                "Tweet": "With apologies to Mr. @IanJamesPoulter \nI followed him for first 4 and have skipped ahead to the back 9.\nTime for a\u2026 https://t.co/k8uBpZODVA", 
+                "TweetLink": "1082051392607420417", 
+                "Place": "Plantation Course at Kapalua", 
+                "Time": "Sun Jan 06 23:08:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1062081673339133952/z5mN2dwZ_normal.jpg"
+            }
         }
     ]
 }
