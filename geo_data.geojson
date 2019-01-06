@@ -156,6 +156,19 @@
                 "Time": "Sun Jan 06 20:35:15 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/715593794750660608/mkAxzREZ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cpmitz", 
+                "Name": "Clark W. Griswold", 
+                "Tweet": "Pro move: show up Wednesday, hit first tee shot, WD, and collect $62k.", 
+                "TweetLink": "1082020841393659907", 
+                "Place": "Dallas", 
+                "Time": "Sun Jan 06 21:07:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809981240304603140/C5zkJjrT_normal.jpg"
+            }
         }
     ]
 }
