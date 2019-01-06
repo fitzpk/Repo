@@ -234,6 +234,32 @@
                 "Time": "Sun Jan 06 22:41:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/723260668376305665/OHtMVBW2_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-166.5996925, 23.6913645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfatKapalua", 
+                "Name": "Kapalua Golf", 
+                "Tweet": "Final Round! \u26f3\ufe0f\ud83e\udd19\ud83c\udffd\ud83c\udfc6 @Sentry_TOC #SentryTOC #KapaluaGolf #Kapalua https://t.co/BqCbtf3AjT", 
+                "TweetLink": "1082047738039001088", 
+                "Place": "Hawaii", 
+                "Time": "Sun Jan 06 22:54:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.908219, 40.8433015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tcannon008", 
+                "Name": "Trevor Cannon", 
+                "Tweet": "Watch the #EaglesVsBears or watch #SentryTOC ...   I think I\u2019ll slide over to the golf \ud83d\ude0e\ud83d\udc4d\ud83c\udffb #NBCsports https://t.co/frnz6J2SdA", 
+                "TweetLink": "1082049031650463744", 
+                "Place": "North Salt Lake", 
+                "Time": "Sun Jan 06 22:59:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg"
+            }
         }
     ]
 }
