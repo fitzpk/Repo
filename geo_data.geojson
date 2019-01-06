@@ -143,6 +143,19 @@
                 "Time": "Sat Jan 05 22:31:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.145042, 55.9315235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Johnnylana89", 
+                "Name": "Jonathan Wallace", 
+                "Tweet": "#InjectedTwistFace", 
+                "TweetLink": "1082012743325097984", 
+                "Place": "Kirkintilloch", 
+                "Time": "Sun Jan 06 20:35:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/715593794750660608/mkAxzREZ_normal.jpg"
+            }
         }
     ]
 }
