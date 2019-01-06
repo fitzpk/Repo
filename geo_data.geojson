@@ -182,6 +182,19 @@
                 "Time": "Sun Jan 06 21:26:41 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/915800273003646976/Q9TmpYIR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "huska4vr", 
+                "Name": "Psycho\ud83d\udeb4Cycle", 
+                "Tweet": "Went to my daughters for lunch &amp; her husband had NFL on. After not watching NFL for years, it's still boring and it still sucks! #PGATOUR!", 
+                "TweetLink": "1082030214446690306", 
+                "Place": "Portland", 
+                "Time": "Sun Jan 06 21:44:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046587269857955840/q8p1AnKQ_normal.jpg"
+            }
         }
     ]
 }
