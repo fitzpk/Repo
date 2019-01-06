@@ -221,6 +221,19 @@
                 "Time": "Sun Jan 06 22:29:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/658809478561665024/EE2CB_aT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-159.4840785, 22.2171935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MakaiGolf", 
+                "Name": "Princeville Makai GC", 
+                "Tweet": "Our fellow Hawaiian Troon Facility @GolfatKapalua is hosting quite the exciting event this weekend!\nWho\u2019s your pick\u2026 https://t.co/ndvYlHZZvv", 
+                "TweetLink": "1082044587466645505", 
+                "Place": "Princeville", 
+                "Time": "Sun Jan 06 22:41:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/723260668376305665/OHtMVBW2_normal.jpg"
+            }
         }
     ]
 }
