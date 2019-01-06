@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-166.5996925, 23.6913645]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "bradsgolf23", 
-                "Name": "andrew bradley", 
-                "Tweet": "@CameronChamp54 sending one on the 18th plantation course @golfatkapalua sentry_toc #golf #pgatour #golfchannel @ K\u2026 https://t.co/tE7ScJnTqV", 
-                "TweetLink": "1080206407071420417", 
-                "Place": "Hawaii", 
-                "Time": "Tue Jan 01 20:57:31 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-122.555439, 38.093358]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GolfSmarter", 
-                "Name": "Fred Greene", 
-                "Tweet": "It\u2019s time for @TheMattyBlake and @GolfSmarter to record our annual MattyB Awards for the 2018 #pgatour season. Any\u2026 https://t.co/ZXqXAdrfvm", 
-                "TweetLink": "1080210363826630656", 
-                "Place": "Novato", 
-                "Time": "Tue Jan 01 21:13:14 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/849336259516350464/oNaU1JNE_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SandieCrowley", 
-                "Name": "Sandie", 
-                "Tweet": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", 
-                "TweetLink": "1080274386303836160", 
-                "Place": "Augusta", 
-                "Time": "Wed Jan 02 01:27:38 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/970786624282988545/8nPI6iYw_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-98.5406515, 29.417501]}, 
             "type": "Feature", 
             "properties": {
