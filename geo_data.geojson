@@ -312,6 +312,19 @@
                 "Time": "Sun Jan 06 23:24:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1046587269857955840/q8p1AnKQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.3279985, 26.0278895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sflgolfer", 
+                "Name": "Brent Hart", 
+                "Tweet": "Watching golf from Kapalua. Great course. The views are amazing on Maui this time of year with the whales migrating\u2026 https://t.co/9sN6zWCmip", 
+                "TweetLink": "1082058587822796800", 
+                "Place": "Pembroke Pines", 
+                "Time": "Sun Jan 06 23:37:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1077260671040086016/1tBHwbNf_normal.jpg"
+            }
         }
     ]
 }
