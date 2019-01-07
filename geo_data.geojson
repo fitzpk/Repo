@@ -338,6 +338,32 @@
                 "Time": "Mon Jan 07 00:17:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.640476, 21.006833]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GoonerMaui", 
+                "Name": "Roger", 
+                "Tweet": ".\n#Poults \n#SentryTOC \n#Maui https://t.co/2nYyD1XdBY", 
+                "TweetLink": "1082072064993812480", 
+                "Place": "Kapalua", 
+                "Time": "Mon Jan 07 00:30:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1062081673339133952/z5mN2dwZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheGolfingDoc", 
+                "Name": "Dr. Sese", 
+                "Tweet": "This is one of the most challenging courses to walk on pgatour but always worth it. Looking left to right, that\u2019s t\u2026 https://t.co/lpzi4VRuuh", 
+                "TweetLink": "1082072303473700866", 
+                "Place": "Kapalua", 
+                "Time": "Mon Jan 07 00:31:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
+            }
         }
     ]
 }
