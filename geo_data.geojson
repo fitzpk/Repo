@@ -377,6 +377,19 @@
                 "Time": "Mon Jan 07 00:59:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/658809478561665024/EE2CB_aT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-91.368036, 39.926189]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CrawfordD9713", 
+                "Name": "Dan Crawford", 
+                "Tweet": "@TheRealMalman @LoveththeBoss we need to hit this now.", 
+                "TweetLink": "1082084037810896897", 
+                "Place": "Quincy", 
+                "Time": "Mon Jan 07 01:18:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/435896030974861312/eAo5GgXB_normal.jpeg"
+            }
         }
     ]
 }
