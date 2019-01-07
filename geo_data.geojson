@@ -442,6 +442,19 @@
                 "Time": "Mon Jan 07 01:59:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-166.5996925, 23.6913645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BuoyRope", 
+                "Name": "LoopRope Tie Downs", 
+                "Tweet": "Catching the finish on #18 at The Tournament of Champions! #williammurray #kapalua #looprope #golfsfinest\u2026 https://t.co/LhhwcIkBLn", 
+                "TweetLink": "1082097047401046016", 
+                "Place": "Hawaii", 
+                "Time": "Mon Jan 07 02:10:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968251044911198208/NdJvANDg_normal.jpg"
+            }
         }
     ]
 }
