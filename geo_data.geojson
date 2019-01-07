@@ -390,6 +390,19 @@
                 "Time": "Mon Jan 07 01:18:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/435896030974861312/eAo5GgXB_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "texaseagle52", 
+                "Name": "TexasEagle", 
+                "Tweet": "#2 Eagles \ud83e\udd85 \ud83e\udd85 in 1st 12 holes go git em XANDER", 
+                "TweetLink": "1082086687071760385", 
+                "Place": "Austin", 
+                "Time": "Mon Jan 07 01:29:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/484299542234292224/rWypBIJ6_normal.png"
+            }
         }
     ]
 }
