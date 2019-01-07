@@ -364,6 +364,19 @@
                 "Time": "Mon Jan 07 00:31:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.617657, 49.865898]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thatguymikem", 
+                "Name": "Mike M", 
+                "Tweet": "@TaylorMadeCA are you selling the putter covers from the #SentryTOC ?", 
+                "TweetLink": "1082079135663513600", 
+                "Place": "West Kelowna", 
+                "Time": "Mon Jan 07 00:59:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/658809478561665024/EE2CB_aT_normal.jpg"
+            }
         }
     ]
 }
