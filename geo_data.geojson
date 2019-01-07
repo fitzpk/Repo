@@ -455,6 +455,45 @@
                 "Time": "Mon Jan 07 02:10:15 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/968251044911198208/NdJvANDg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.021909, 42.7569225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cmg799", 
+                "Name": "Chris Goodwin", 
+                "Tweet": "You\u2019d think that after winning finally at the end of last year that Tiger would want to play in the Tournament of Champions #PGATour", 
+                "TweetLink": "1082100405482467333", 
+                "Place": "Groveland", 
+                "Time": "Mon Jan 07 02:23:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947929883627450368/8Mkvj2lZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jeremyclemons", 
+                "Name": "jeremyclemons", 
+                "Tweet": "Every day he's Schauffelin.  #PgaTour", 
+                "TweetLink": "1082100589591375879", 
+                "Place": "Carlsbad", 
+                "Time": "Mon Jan 07 02:24:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/714910309086060544/Dk4z3jNo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thestartersbox", 
+                "Name": "Craig Fergusson", 
+                "Tweet": "Curse of the commentator it seems, I said McIlroy was looking good earlier. His back 9 hasn\u2019t been nearly as solid. Very flat. #SentryTOC", 
+                "TweetLink": "1082101062046281728", 
+                "Place": "Milngavie", 
+                "Time": "Mon Jan 07 02:26:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
+            }
         }
     ]
 }
