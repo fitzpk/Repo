@@ -728,6 +728,19 @@
                 "Time": "Mon Jan 07 03:09:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/965288461996470272/pc1DpLlf_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jeremyclemons", 
+                "Name": "jeremyclemons", 
+                "Tweet": "I am not here for @chambleebrandel ripping on Gary Woodland when he shoots 5 under after sleeping on the lead.  Xan\u2026 https://t.co/2i1SCBDKEV", 
+                "TweetLink": "1082120215209492480", 
+                "Place": "Carlsbad", 
+                "Time": "Mon Jan 07 03:42:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/714910309086060544/Dk4z3jNo_normal.jpg"
+            }
         }
     ]
 }
