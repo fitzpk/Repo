@@ -611,6 +611,123 @@
                 "Time": "Mon Jan 07 02:40:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1046577402447630336/nkNkMv1S_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thestartersbox", 
+                "Name": "Craig Fergusson", 
+                "Tweet": "As I was tweeting that last one, Schauffele slings a wood in from right to left on 18 and puts it to about 8ft or s\u2026 https://t.co/lgbOtiXVtQ", 
+                "TweetLink": "1082104705239650304", 
+                "Place": "Milngavie", 
+                "Time": "Mon Jan 07 02:40:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.101999, 38.8808445]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VArunner365", 
+                "Name": "Slow-Rida", 
+                "Tweet": "Really good golf right now from #SentryTOC Xander vs Woodland is just a phenomenal boxing match.", 
+                "TweetLink": "1082104752362741760", 
+                "Place": "Arlington", 
+                "Time": "Mon Jan 07 02:40:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946955569113522176/9n40sRkV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.258735, 29.584679]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IamTheGup", 
+                "Name": "Gup \ud83c\udfb2\ud83c\udfb2", 
+                "Tweet": "I\u2019m exhausted and I only have an outright on this.... couldn\u2019t imagine playing it right now.... back and forth \ud83c\udfaf. #SentryTOC", 
+                "TweetLink": "1082104841281900544", 
+                "Place": "Schertz", 
+                "Time": "Mon Jan 07 02:41:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081373254428905472/kUvzg8lJ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[168.918089, -44.6614885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "smgiboty", 
+                "Name": "Alan Smit", 
+                "Tweet": "Rory\u2019s conversion rate when in final group must be a concern for him #SentryTOC", 
+                "TweetLink": "1082105015240663046", 
+                "Place": "Queenstown-Lakes District", 
+                "Time": "Mon Jan 07 02:41:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068416927050227712/sP9Pjan4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thestartersbox", 
+                "Name": "Craig Fergusson", 
+                "Tweet": "Was being a tad generous I think. Just under 12ft for Xander on the 18th green. This for the outright lead. #SentryTOC", 
+                "TweetLink": "1082105504065835009", 
+                "Place": "Milngavie", 
+                "Time": "Mon Jan 07 02:43:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.628608, 38.915593]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RadioDana", 
+                "Name": "Dana Wright", 
+                "Tweet": "He missed it !!!!   GO WOODLAND GO!!!!!!!!  #Kapalua #rockchalk", 
+                "TweetLink": "1082105997903233025", 
+                "Place": "Leawood", 
+                "Time": "Mon Jan 07 02:45:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990081413771821056/-IAx2r4k_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thestartersbox", 
+                "Name": "Craig Fergusson", 
+                "Tweet": "The attempt drifts past and Xander mouths \u201cWow\u201d Has a short distance left to get to -23. #SentryTOC", 
+                "TweetLink": "1082106184885248000", 
+                "Place": "Milngavie", 
+                "Time": "Mon Jan 07 02:46:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thestartersbox", 
+                "Name": "Craig Fergusson", 
+                "Tweet": "-2 thru 5 was looking good for Rory. Going +1 ever since then just isn\u2019t good enough at this level on a Sunday espe\u2026 https://t.co/TfSptHfPR1", 
+                "TweetLink": "1082106866732281857", 
+                "Place": "Milngavie", 
+                "Time": "Mon Jan 07 02:49:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.227923, 43.0834975]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "UntilTheNextTee", 
+                "Name": "Alexander Toth", 
+                "Tweet": "Great first showing for @GaryWoodland as a member of Team Wilson Golf. @WilsonGolf \n\nhttps://t.co/oyM5IXWgpZ\n\n#golf\u2026 https://t.co/4jR8PEQtLZ", 
+                "TweetLink": "1082112023146754048", 
+                "Place": "Thorold", 
+                "Time": "Mon Jan 07 03:09:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965288461996470272/pc1DpLlf_normal.jpg"
+            }
         }
     ]
 }
