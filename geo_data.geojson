@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TheGolfingDoc", 
-                "Name": "Dr. Sese", 
-                "Tweet": "A typical windy day here @golfatkapalua but round 1 of sentry_toc is underway. Let\u2019s go @JonRahmpga \ud83d\udc4a\ud83c\udffe @ Kapalua Go\u2026 https://t.co/05e06QmdAt", 
-                "TweetLink": "1080954206268342272", 
-                "Place": "Kapalua", 
-                "Time": "Thu Jan 03 22:29:00 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/838215504309301248/A1SXb_nd_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
             "type": "Feature", 
             "properties": {
