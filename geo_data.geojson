@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.179013, 37.4009555]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "gpetelaw", 
-                "Name": "Gordon Peters", 
-                "Tweet": "Damn. I didn\u2019t think I was ready to watch @PGATOUR golf yet, but apparently I\u2019m ready to watch @PGATOUR golf. #SentryTOC", 
-                "TweetLink": "1081573174976876544", 
-                "Place": "Lynchburg", 
-                "Time": "Sat Jan 05 15:28:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/773309610027606016/UkkRdqAV_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-156.640232, 21.006936]}, 
             "type": "Feature", 
             "properties": {
