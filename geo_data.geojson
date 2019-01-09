@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RyanLauder66", 
-                "Name": "Ryan Lauder", 
-                "Tweet": "#M5driver + #P730irons + #TP5", 
-                "TweetLink": "1081425697598451712", 
-                "Place": "Carlsbad", 
-                "Time": "Sat Jan 05 05:42:32 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/834641883234131969/dZ6ZyD94_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.179013, 37.4009555]}, 
             "type": "Feature", 
             "properties": {
