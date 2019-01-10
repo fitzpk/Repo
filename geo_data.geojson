@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-156.640232, 21.006936]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GolfatKapalua", 
-                "Name": "Kapalua Golf", 
-                "Tweet": "Round three views! \u26f3\ufe0f @Sentry_TOC #SentryTOC #KapaluaGolf https://t.co/CWw2fDbDjj", 
-                "TweetLink": "1081679684058796032", 
-                "Place": "Plantation Course at Kapalua", 
-                "Time": "Sat Jan 05 22:31:47 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3705204865/361138eaae1be9324a5374f92291c90e_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-4.145042, 55.9315235]}, 
             "type": "Feature", 
             "properties": {
