@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-4.328935, 55.9270165]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "thestartersbox", 
-                "Name": "Craig Fergusson", 
-                "Tweet": "I\u2019m enjoying watching McIlroy play this week. Seems to be a level of comfortability I\u2019ve not seen in a while. #SentryTOC", 
-                "TweetLink": "1082068617590657024", 
-                "Place": "Milngavie", 
-                "Time": "Mon Jan 07 00:17:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1027328076999520262/vGmEHxYq_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-156.640476, 21.006833]}, 
             "type": "Feature", 
             "properties": {
