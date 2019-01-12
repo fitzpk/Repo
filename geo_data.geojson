@@ -52,6 +52,19 @@
                 "Time": "Wed Jan 09 13:47:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SmartGolfBets", 
+                "Name": "Mike Miller", 
+                "Tweet": "I've published a first look at next week's #pgatour #desertclassic Justin Rose an interesting starter? The Palm Des\u2026 https://t.co/z5NiXJNNBH", 
+                "TweetLink": "1083958558507655168", 
+                "Place": "Uganda", 
+                "Time": "Sat Jan 12 05:27:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
+            }
         }
     ]
 }
