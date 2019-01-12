@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Congratulations to @XSchauffele who shot a course record tying 11 under par 62 to win the @Sentry_TOC and become th\u2026 https://t.co/R1dgzbkppv", 
-                "TweetLink": "1082444511933026304", 
-                "Place": "Kapalua", 
-                "Time": "Tue Jan 08 01:10:57 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/759919347728920576/q5t1GBOA_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
             "type": "Feature", 
             "properties": {
