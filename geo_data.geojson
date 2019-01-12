@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mandrews93DFS", 
-                "Name": "Mike Andrews", 
-                "Tweet": "So, did well at the #SentryTOC last week...now for the Sony", 
-                "TweetLink": "1082427721068630016", 
-                "Place": "Los Angeles", 
-                "Time": "Tue Jan 08 00:04:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1011514078336962560/jtGC11Vm_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-156.6574085, 20.9980275]}, 
             "type": "Feature", 
             "properties": {
