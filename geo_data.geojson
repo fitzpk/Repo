@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctmascaro", 
-                "Name": "Chris Mascaro", 
-                "Tweet": "What a great time last night on Next on the Tee listening to Rob Strano @StranoGolf &amp; @BobFriend_Golf talking\u2026 https://t.co/wEIxR0dEZT", 
-                "TweetLink": "1082995952502427649", 
-                "Place": "Georgia", 
-                "Time": "Wed Jan 09 13:42:10 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "edcolemangolf", 
-                "Name": "Ed Coleman", 
-                "Tweet": "It\u2019s 2019 and caddies on the @PGATOUR still aren\u2019t mic\u2019d up. #missingtheboat #analystsSTFU #PGATOUR", 
-                "TweetLink": "1082997277797564418", 
-                "Place": "South Burlington", 
-                "Time": "Wed Jan 09 13:47:26 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
             "type": "Feature", 
             "properties": {
