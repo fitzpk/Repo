@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "tx1iron", 
-                "Name": "Tim in Houston", 
-                "Tweet": "@pkizzire \n\nHey Patton-  leaving the pin in on #12 was a good decision.  \n\n#sonyopenhawaii #PgaTour #Hawaii\u2026 https://t.co/RbTGetN8TK", 
-                "TweetLink": "1084140590219120642", 
-                "Place": "Houston", 
-                "Time": "Sat Jan 12 17:30:33 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000813981342/ef07e9cc4095c88322d86e0a7aaf2e86_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-71.4702855, 42.0763675]}, 
             "type": "Feature", 
             "properties": {
