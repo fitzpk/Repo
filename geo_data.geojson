@@ -78,6 +78,19 @@
                 "Time": "Thu Jan 17 00:39:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1016535286141083648/zexEiw1Z_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.5162735, 29.7789975]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IamTheGup", 
+                "Name": "Gup \ud83c\udfb2\ud83c\udfb2", 
+                "Tweet": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nStill plenty of time to check out this weeks Podcast! \n\n#DesertClassic #PGADFS #PGATOUR #PGA #DFS", 
+                "TweetLink": "1085703623810662400", 
+                "Place": "Hedwig Village", 
+                "Time": "Thu Jan 17 01:01:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081373254428905472/kUvzg8lJ_normal.jpg"
+            }
         }
     ]
 }
