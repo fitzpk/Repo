@@ -130,6 +130,19 @@
                 "Time": "Fri Jan 18 00:24:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1008719564677533696/1HJLKHLT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Phil Mickelson said he was \u201crusty\u201d going into the Desert Classic, but he didn\u2019t play like it today. @FanSided\u2026 https://t.co/tUEVZIni2x", 
+                "TweetLink": "1086062984445607936", 
+                "Place": "Brampton", 
+                "Time": "Fri Jan 18 00:49:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1016535286141083648/zexEiw1Z_normal.jpg"
+            }
         }
     ]
 }
