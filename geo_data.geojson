@@ -130,6 +130,19 @@
                 "Time": "Fri Jan 18 00:51:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1070824967523233798/vSllZwR6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parkerandtheman", 
+                "Name": "Parker andTheMan", 
+                "Tweet": "Phil Mickelson's first official 2019 round of #PGATour golf is a -12 under 60. Phil shot... 60 at La Quinta.  SIXTY\u2026 https://t.co/U9VF92kKGc", 
+                "TweetLink": "1086068633736962049", 
+                "Place": "Paradise", 
+                "Time": "Fri Jan 18 01:11:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
+            }
         }
     ]
 }
