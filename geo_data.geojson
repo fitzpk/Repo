@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-71.4702855, 42.0763675]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "anthonyvilla_17", 
-                "Name": "Anthony", 
-                "Tweet": "@TROYMERRITT_PGA Congrats kid!!!! #golfbaby #golf #pgatour", 
-                "TweetLink": "1084541988349849602", 
-                "Place": "Bellingham", 
-                "Time": "Sun Jan 13 20:05:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/711967707927805953/ty9uUSjc_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.4702855, 42.0763675]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "anthonyvilla_17", 
-                "Name": "Anthony", 
-                "Tweet": "@RealRickyBarnes Congrats kid!!!! It\u2019s the most amazing thing in the world. #golfbaby #golf #pgatour #theseguysaregood", 
-                "TweetLink": "1084542227194486785", 
-                "Place": "Bellingham", 
-                "Time": "Sun Jan 13 20:06:31 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/711967707927805953/ty9uUSjc_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
