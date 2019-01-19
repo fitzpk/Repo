@@ -195,6 +195,19 @@
                 "Time": "Sat Jan 19 18:29:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1008719564677533696/1HJLKHLT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0498145, 44.191137]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "immacrecep", 
+                "Name": "Sandra Lynne", 
+                "Tweet": "And now @ahadwingolf is tied with @PhilMickelson for the lead! #PGAtour", 
+                "TweetLink": "1086695353515233283", 
+                "Place": "Deseronto", 
+                "Time": "Sat Jan 19 18:42:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/705816024/sandyrock_normal.JPG"
+            }
         }
     ]
 }
