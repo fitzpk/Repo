@@ -221,6 +221,19 @@
                 "Time": "Sat Jan 19 19:05:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/772768145413111808/OD_Hjahm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lritzsmyth", 
+                "Name": "Leah Ritz-Smyth", 
+                "Tweet": "Canadian, #AdamHadwin in the lead at -20!but NO tv coverage!  #DesertClassic. #GolfChannel #pgatour Let\u2019s see some equal time!! #Canadian", 
+                "TweetLink": "1086737830598959105", 
+                "Place": "Calgary", 
+                "Time": "Sat Jan 19 21:31:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/589092559693094912/GJ5FQyXe_normal.jpg"
+            }
         }
     ]
 }
