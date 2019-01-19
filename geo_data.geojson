@@ -234,6 +234,19 @@
                 "Time": "Sat Jan 19 21:31:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/589092559693094912/GJ5FQyXe_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "robsportstalkfl", 
+                "Name": "Rob Weingarten", 
+                "Tweet": "#PGATour golf is always more interesting when @PhilMickelson is in the mix. #DesertClassic", 
+                "TweetLink": "1086754896366452738", 
+                "Place": "Georgia", 
+                "Time": "Sat Jan 19 22:38:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/660598314874888192/RNCIkdCY_normal.jpg"
+            }
         }
     ]
 }
