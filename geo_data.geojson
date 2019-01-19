@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "NullKaren", 
-                "Name": "Nailedbygg", 
-                "Tweet": "Got balls?  #pga Come get your golf feet pampered with Gigi..\n#pgatour  #pgachampionship  #orlando #topgolforlando\u2026 https://t.co/JSuc2b3sEg", 
-                "TweetLink": "1084962279081299968", 
-                "Place": "Florida", 
-                "Time": "Mon Jan 14 23:55:39 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/481943306239082496/8dPPbdFr_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
             "type": "Feature", 
             "properties": {
