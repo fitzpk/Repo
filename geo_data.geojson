@@ -273,6 +273,19 @@
                 "Time": "Sun Jan 20 22:49:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/528244413018157057/pkGyWbC5_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.7654085, 47.039416]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SouthSoundShane", 
+                "Name": "SH\u00c2NE", 
+                "Tweet": "Phil missing that eagle made me scream but makes the birdie to tie the lead with 2 to play! Go on Phil make it interesting. #PGAtour", 
+                "TweetLink": "1087126832116203521", 
+                "Place": "Lacey", 
+                "Time": "Sun Jan 20 23:16:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1058042004938977280/OQelCGnm_normal.jpg"
+            }
         }
     ]
 }
