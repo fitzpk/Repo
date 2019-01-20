@@ -247,6 +247,19 @@
                 "Time": "Sat Jan 19 22:38:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/660598314874888192/RNCIkdCY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "#PgaTour\n @Desert_Classic\n\n#PhilMickelson -23\n#AdamHadwin -25 https://t.co/tIvf3qcCJF", 
+                "TweetLink": "1087103573022986241", 
+                "Place": "Winnipeg", 
+                "Time": "Sun Jan 20 21:44:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
