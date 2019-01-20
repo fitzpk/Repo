@@ -286,6 +286,32 @@
                 "Time": "Sun Jan 20 23:16:49 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1058042004938977280/OQelCGnm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.49871, 52.2719535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BenSwantonGolf", 
+                "Name": "Ben Swanton", 
+                "Tweet": "What a win Adam Long in just his 5th PGA Tour start! \ud83c\udfc6 #DesertClassic #PGATour", 
+                "TweetLink": "1087134599908655104", 
+                "Place": "Kentford", 
+                "Time": "Sun Jan 20 23:47:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055017659060891649/nQFj1MyV_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.49871, 52.2719535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BenSwantonGolf", 
+                "Name": "Ben Swanton", 
+                "Tweet": "Adam Long Twitter handle = @aLongShot ... Very APT \ud83d\udc4f\ud83d\udc4f\ud83c\udfc6#DesertClassic #PGATour", 
+                "TweetLink": "1087134980797616128", 
+                "Place": "Kentford", 
+                "Time": "Sun Jan 20 23:49:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055017659060891649/nQFj1MyV_normal.jpg"
+            }
         }
     ]
 }
