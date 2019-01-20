@@ -260,6 +260,19 @@
                 "Time": "Sun Jan 20 21:44:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2996725, 43.8806945]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edmondishag", 
+                "Name": "Edmond Ishag", 
+                "Tweet": "@ahadwingolf wishing you all the best @Desert_Classic #PgaTour #golffan #Canada", 
+                "TweetLink": "1087119891612688384", 
+                "Place": "Markham", 
+                "Time": "Sun Jan 20 22:49:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/528244413018157057/pkGyWbC5_normal.jpeg"
+            }
         }
     ]
 }
