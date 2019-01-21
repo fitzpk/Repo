@@ -377,6 +377,32 @@
                 "Time": "Sun Jan 20 23:56:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1058042004938977280/OQelCGnm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.489723, 43.0995265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MarcindaMarket", 
+                "Name": "Marcy Wiedrick", 
+                "Tweet": "Congratulations #AdamLong 1st #PGATOUR win!", 
+                "TweetLink": "1087138312932999170", 
+                "Place": "East Rochester", 
+                "Time": "Mon Jan 21 00:02:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/416584426026725376/NbT6eEMK_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.2781615, 33.6680455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Golf_Athletics", 
+                "Name": "Golf Athletics", 
+                "Tweet": "Felicitaciones Juli\u00e1n Etulain!!!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u00a0Muy buena actuaci\u00f3n en el desertclassic pgatour #GolfAthleticsTeam\ud83d\udd25\ud83d\udcaa\n\n.\n\n.\n\n.\u2026 https://t.co/Ex3xA3b1Fu", 
+                "TweetLink": "1087140190659985408", 
+                "Place": "La Quinta", 
+                "Time": "Mon Jan 21 00:09:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/735196697853300736/s0_yd9zC_normal.jpg"
+            }
         }
     ]
 }
