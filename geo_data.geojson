@@ -403,6 +403,19 @@
                 "Time": "Mon Jan 21 00:09:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/735196697853300736/s0_yd9zC_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.822786, 38.323745]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "joeymcd70620196", 
+                "Name": "joey mcdaniel", 
+                "Tweet": "Team Nike does it again congrats Adam Long #PgaTour", 
+                "TweetLink": "1087142776909766656", 
+                "Place": "New Albany", 
+                "Time": "Mon Jan 21 00:20:10 +0000 2019", 
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            }
         }
     ]
 }
