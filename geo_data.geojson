@@ -312,6 +312,71 @@
                 "Time": "Sun Jan 20 23:49:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1055017659060891649/nQFj1MyV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4316365, 45.595639]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DanMelancon", 
+                "Name": "Daniel Melan\u00e7on", 
+                "Tweet": "Jouer 60 en ronde initiale...et finir T-2!! #Mickelson #DesertClassic \n#PGATour #Golf @golftrotteur", 
+                "TweetLink": "1087135773776842752", 
+                "Place": "Boucherville", 
+                "Time": "Sun Jan 20 23:52:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1052899565823766529/sK3If3r7_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0498145, 44.191137]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "immacrecep", 
+                "Name": "Sandra Lynne", 
+                "Tweet": "Heartbreaker for @ahadwingolf , but even after a bad hole he still swung the club with confidence. I predict he win\u2026 https://t.co/ojAzzBxjON", 
+                "TweetLink": "1087135938541772800", 
+                "Place": "Deseronto", 
+                "Time": "Sun Jan 20 23:53:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/705816024/sandyrock_normal.JPG"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.1154865, 51.490786]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickHorrocks", 
+                "Name": "Chippenham Golf Pro", 
+                "Tweet": "Incredible sportsmanship to see @ahadwingolf applaud @aLongShot holing the winning putt #pgatour #desertclassic", 
+                "TweetLink": "1087136088580345856", 
+                "Place": "Kington Langley", 
+                "Time": "Sun Jan 20 23:53:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1014182809064427521/knWZu38R_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parkerandtheman", 
+                "Name": "Parker andTheMan", 
+                "Tweet": "Adam Long wins the #DesertClassic by 1 w/the bird on 18.  Hadwin n Mickelson tie for second at -25.  In theory, bac\u2026 https://t.co/tDNEoBC4U5", 
+                "TweetLink": "1087136644778491904", 
+                "Place": "Paradise", 
+                "Time": "Sun Jan 20 23:55:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.7654085, 47.039416]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SouthSoundShane", 
+                "Name": "SH\u00c2NE", 
+                "Tweet": "Wild hole 18 finish but what are you doing Hadwin not putting out and giving long his moment??? #PGAtour", 
+                "TweetLink": "1087136883681808384", 
+                "Place": "Lacey", 
+                "Time": "Sun Jan 20 23:56:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1058042004938977280/OQelCGnm_normal.jpg"
+            }
         }
     ]
 }
