@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "MrChickSports", 
-                "Name": "Chick Hernandez", 
-                "Tweet": "Come joins us, we\u2019re on @SiriusXMPGATOUR till 7pm with the 3rd round of the @DesertClassic1 @PhilMickelson your lea\u2026 https://t.co/p24CuOkXWx", 
-                "TweetLink": "1086692024479289350", 
-                "Place": "Washington", 
-                "Time": "Sat Jan 19 18:29:03 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1008719564677533696/1HJLKHLT_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-77.0498145, 44.191137]}, 
             "type": "Feature", 
             "properties": {
