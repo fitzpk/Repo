@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-84.1920685, 34.038017]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "davesansom", 
-                "Name": "Dave Sansom", 
-                "Tweet": "I\u2019ve only photographed two Arthur Hills-designed golf courses, and I genuinely love both. This shot is from The Sta\u2026 https://t.co/LKJuT4MoFV", 
-                "TweetLink": "1086393886396858368", 
-                "Place": "Johns Creek", 
-                "Time": "Fri Jan 18 22:44:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "MarcellaNews8", 
-                "Name": "Marcella Lee", 
-                "Tweet": "\u26f3\ufe0fHeaded to the Farmers Insurance Open at Torrey Pines Golf Course? Here\u2019s some important info to help you plan you\u2026 https://t.co/6Bx18W7hh1", 
-                "TweetLink": "1086467834044006401", 
-                "Place": "San Diego", 
-                "Time": "Sat Jan 19 03:38:11 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/864276000158265344/xDmsOcGR_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-77.0143985, 38.898603]}, 
             "type": "Feature", 
             "properties": {
