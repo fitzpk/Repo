@@ -234,6 +234,19 @@
                 "Time": "Wed Jan 23 00:17:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1012013546199224320/6lVvzRdp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "arnaudverhaeghe", 
+                "Name": "Arnaud Verhaeghe", 
+                "Tweet": "Cobra Puma Golf live from Orlando PGA Show #golf #coach #puma #pgatour #europeantour #cobragolf #birdies #trackman\u2026 https://t.co/quIIwo6lHv", 
+                "TweetLink": "1088224666060312576", 
+                "Place": "Florida", 
+                "Time": "Wed Jan 23 23:59:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1038790730200821765/Dtm96LHJ_normal.jpg"
+            }
         }
     ]
 }
