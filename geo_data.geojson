@@ -247,6 +247,32 @@
                 "Time": "Thu Jan 24 01:03:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/901440107999375360/XQWav8fl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SecretGolf", 
+                "Name": "Secret Golf", 
+                "Tweet": "Tomorrow, it\u2019s the start of the @FarmersInsOpen at Torrey Pines in San Diego. @KnoxyDiane has the Secret Golf Previ\u2026 https://t.co/Z82skJx0op", 
+                "TweetLink": "1088259022858473474", 
+                "Place": "Jacksonville Beach", 
+                "Time": "Thu Jan 24 02:15:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/571320991138082816/pWE2P6P4_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "teryngregson", 
+                "Name": "Teryn Gregson", 
+                "Tweet": "West Coast is the best coast? As two girls living on the East Coast, we\u2019d debate that \u2014 but there\u2019s no debating the\u2026 https://t.co/P1XUNY8sXD", 
+                "TweetLink": "1088259374953496576", 
+                "Place": "Del Mar", 
+                "Time": "Thu Jan 24 02:17:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/928823114145902592/MT1scJ0v_normal.jpg"
+            }
         }
     ]
 }
