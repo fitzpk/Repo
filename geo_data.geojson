@@ -286,6 +286,19 @@
                 "Time": "Thu Jan 24 02:34:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/927576741878444032/rplstimI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfJoust", 
+                "Name": "Golf Joust", 
+                "Tweet": "Lots of big names on the card this week for @FarmersInsOpen #PGATour #Golf https://t.co/CVcwxEODYM", 
+                "TweetLink": "1088275997626126336", 
+                "Place": "San Diego", 
+                "Time": "Thu Jan 24 03:23:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/842788872962686977/GF7FtElI_normal.jpg"
+            }
         }
     ]
 }
