@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-87.732013, 41.8335845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "andrewhausler", 
-                "Name": "Andrew Hausler", 
-                "Tweet": "@flyshuffle @Trevor_Huffman @JohnnyFlynn33 #petoskey", 
-                "TweetLink": "1086701319174402050", 
-                "Place": "Chicago", 
-                "Time": "Sat Jan 19 19:05:59 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/772768145413111808/OD_Hjahm_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
             "type": "Feature", 
             "properties": {
