@@ -260,6 +260,32 @@
                 "Time": "Thu Jan 24 02:17:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/928823114145902592/MT1scJ0v_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Albab71", 
+                "Name": "Albab", 
+                "Tweet": "#Golf\n@Farmers Insurance Open\nJanuary 24 - 27, 2019\nTorrey Pines North - La Jolla, CAPar72Yards7258\nTorrey Pines So\u2026 https://t.co/VxBFGgHQLA", 
+                "TweetLink": "1088263644809326592", 
+                "Place": "New York", 
+                "Time": "Thu Jan 24 02:34:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/927576741878444032/rplstimI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Albab71", 
+                "Name": "Albab", 
+                "Tweet": "#Golf\n@Farmers Insurance Open\nJanuary 24 - 27, 2019\nTorrey Pines North - La Jolla, CAPar72Yards7258\nTorrey Pines So\u2026 https://t.co/h6X1w7UrEh", 
+                "TweetLink": "1088263725528698880", 
+                "Place": "New York", 
+                "Time": "Thu Jan 24 02:34:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/927576741878444032/rplstimI_normal.jpg"
+            }
         }
     ]
 }
