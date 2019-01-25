@@ -260,6 +260,19 @@
                 "Time": "Fri Jan 25 21:08:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/823057450542792705/8tRAuHiI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.559707, 33.929913]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Golf Channel Academy/Coach Erik Golf looks for a change in knee flex from P4-P5. Great example here by @tigerwoods.\u2026 https://t.co/nxTb4ZRvPv", 
+                "TweetLink": "1088911263038488576", 
+                "Place": "Norco", 
+                "Time": "Fri Jan 25 21:27:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
