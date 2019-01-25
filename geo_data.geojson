@@ -143,6 +143,19 @@
                 "Time": "Fri Jan 25 15:49:13 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/664538022910627842/Wz5Nhh6Q_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lauriataylor", 
+                "Name": "Lauri A. Taylor", 
+                "Tweet": "#fbf Remembering time I got chat it up with one of my all-time favorite sportscasters, Jim Nantz, at one of my all-\u2026 https://t.co/hAmoUM8iUu", 
+                "TweetLink": "1088856080732618754", 
+                "Place": "San Diego", 
+                "Time": "Fri Jan 25 17:48:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/510526400218927104/f_xHvi8d_normal.png"
+            }
         }
     ]
 }
