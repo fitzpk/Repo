@@ -130,6 +130,19 @@
                 "Time": "Fri Jan 25 15:19:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/845119649238806529/gAafvAb__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "fullimage360", 
+                "Name": "Jevone Moore", 
+                "Tweet": "Tiger Woods watching his tee shot hit the green on Par 3 during his first round on 2019.\n#tiger #tigerwoods #PGA\u2026 https://t.co/8nFiWso58R", 
+                "TweetLink": "1088826131594338305", 
+                "Place": "San Diego", 
+                "Time": "Fri Jan 25 15:49:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/664538022910627842/Wz5Nhh6Q_normal.png"
+            }
         }
     ]
 }
