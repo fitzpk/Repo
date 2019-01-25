@@ -169,6 +169,19 @@
                 "Time": "Fri Jan 25 18:04:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/91134453/18_hor_large_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "VIPrene", 
+                "Name": "Rene Samulewitsch", 
+                "Tweet": "Hand me a clipboard, I got this setup #prlife #pga #pgatour #wmphoenixopen #wmpo  #traveling\n.\n.\n.\n.\n.\n#golfing\u2026 https://t.co/zahS0zYkkn", 
+                "TweetLink": "1088874045242781696", 
+                "Place": "Scottsdale", 
+                "Time": "Fri Jan 25 18:59:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/269238768/Rene_normal.bmp"
+            }
         }
     ]
 }
