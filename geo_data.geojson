@@ -117,6 +117,19 @@
                 "Time": "Thu Jan 24 03:23:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/842788872962686977/GF7FtElI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotallyTypeA", 
+                "Name": "Nicole Pipe", 
+                "Tweet": "So great having you in the @SAPAriba suite at the Farmers Insurance Open at @TorreyPinesGolf yesterday, ActOne! See\u2026 https://t.co/ktLpl5A8fQ", 
+                "TweetLink": "1088818774759882752", 
+                "Place": "San Diego", 
+                "Time": "Fri Jan 25 15:19:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/845119649238806529/gAafvAb__normal.jpg"
+            }
         }
     ]
 }
