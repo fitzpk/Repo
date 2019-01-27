@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "dickkearns", 
-                "Name": "Dick Kearns", 
-                "Tweet": "Ready to go here #TorreyPines for @FarmersInsOpen week. @WeAreFarmers Ambassador @RickieFowler leads the strongest\u2026 https://t.co/wt45pACp4u", 
-                "TweetLink": "1087482308196614144", 
-                "Place": "San Diego", 
-                "Time": "Mon Jan 21 22:49:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "EvinPriest", 
                 "Name": "Evin Priest", 
                 "Tweet": "Watching Tiger Woods highlights has inspired Jason Day for this week's Farmers Insurance Open title defence as he a\u2026 https://t.co/AgUJm3KmMh", 
