@@ -273,6 +273,19 @@
                 "Time": "Fri Jan 25 22:00:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1012324419585433601/_ObjlV_U_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kpnel2", 
+                "Name": "Karl Nelson", 
+                "Tweet": "\ud83d\ude02 when you visit places for the first time, you have to check things off of your bucket list. #SanDiego\u2026 https://t.co/XblSjbUyuk", 
+                "TweetLink": "1089718187468513280", 
+                "Place": "San Diego", 
+                "Time": "Mon Jan 28 02:53:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1083230487072702469/uVNYkrUC_normal.jpg"
+            }
         }
     ]
 }
