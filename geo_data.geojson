@@ -2,97 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "arnaudverhaeghe", 
-                "Name": "Arnaud Verhaeghe", 
-                "Tweet": "Cobra Puma Golf live from Orlando PGA Show #golf #coach #puma #pgatour #europeantour #cobragolf #birdies #trackman\u2026 https://t.co/quIIwo6lHv", 
-                "TweetLink": "1088224666060312576", 
-                "Place": "Florida", 
-                "Time": "Wed Jan 23 23:59:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1038790730200821765/Dtm96LHJ_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jnb1966", 
-                "Name": "Jbressgolf", 
-                "Tweet": "Look what I scored at the PGA Show today!!!! And it was meant to be \u201cJB\u201d \ud83d\udd25\ud83d\udd25\ud83d\udd25#tysonlamb #putterporn\u2026 https://t.co/YgbtLFdnaO", 
-                "TweetLink": "1088240835081240581", 
-                "Place": "Florida", 
-                "Time": "Thu Jan 24 01:03:28 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/901440107999375360/XQWav8fl_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.404855, 30.27988]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SecretGolf", 
-                "Name": "Secret Golf", 
-                "Tweet": "Tomorrow, it\u2019s the start of the @FarmersInsOpen at Torrey Pines in San Diego. @KnoxyDiane has the Secret Golf Previ\u2026 https://t.co/Z82skJx0op", 
-                "TweetLink": "1088259022858473474", 
-                "Place": "Jacksonville Beach", 
-                "Time": "Thu Jan 24 02:15:44 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/571320991138082816/pWE2P6P4_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "teryngregson", 
-                "Name": "Teryn Gregson", 
-                "Tweet": "West Coast is the best coast? As two girls living on the East Coast, we\u2019d debate that \u2014 but there\u2019s no debating the\u2026 https://t.co/P1XUNY8sXD", 
-                "TweetLink": "1088259374953496576", 
-                "Place": "Del Mar", 
-                "Time": "Thu Jan 24 02:17:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/928823114145902592/MT1scJ0v_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Albab71", 
-                "Name": "Albab", 
-                "Tweet": "#Golf\n@Farmers Insurance Open\nJanuary 24 - 27, 2019\nTorrey Pines North - La Jolla, CAPar72Yards7258\nTorrey Pines So\u2026 https://t.co/VxBFGgHQLA", 
-                "TweetLink": "1088263644809326592", 
-                "Place": "New York", 
-                "Time": "Thu Jan 24 02:34:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/927576741878444032/rplstimI_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Albab71", 
-                "Name": "Albab", 
-                "Tweet": "#Golf\n@Farmers Insurance Open\nJanuary 24 - 27, 2019\nTorrey Pines North - La Jolla, CAPar72Yards7258\nTorrey Pines So\u2026 https://t.co/h6X1w7UrEh", 
-                "TweetLink": "1088263725528698880", 
-                "Place": "New York", 
-                "Time": "Thu Jan 24 02:34:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/927576741878444032/rplstimI_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GolfJoust", 
-                "Name": "Golf Joust", 
-                "Tweet": "Lots of big names on the card this week for @FarmersInsOpen #PGATour #Golf https://t.co/CVcwxEODYM", 
-                "TweetLink": "1088275997626126336", 
-                "Place": "San Diego", 
-                "Time": "Thu Jan 24 03:23:11 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/842788872962686977/GF7FtElI_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
@@ -285,6 +194,19 @@
                 "Place": "San Diego", 
                 "Time": "Mon Jan 28 02:53:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1083230487072702469/uVNYkrUC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NoahPGA", 
+                "Name": "Noah Vinyard", 
+                "Tweet": "#torreypines #cartwheels #golf #fans @ Torrey Pines Golf Course https://t.co/2k1Lmeykrn", 
+                "TweetLink": "1090008340271267840", 
+                "Place": "San Diego", 
+                "Time": "Mon Jan 28 22:06:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
             }
         }
     ]
