@@ -221,6 +221,19 @@
                 "Time": "Tue Jan 29 03:35:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Join me tonight at 8PM EST on Next on the Tee when I'll be talking with fmr #PGATour Pro @RichardZokol + Top Instru\u2026 https://t.co/94O3E2vR0F", 
+                "TweetLink": "1090237240448598016", 
+                "Place": "Georgia", 
+                "Time": "Tue Jan 29 13:16:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
