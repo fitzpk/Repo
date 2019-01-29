@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "TotallyTypeA", 
-                "Name": "Nicole Pipe", 
-                "Tweet": "So great having you in the @SAPAriba suite at the Farmers Insurance Open at @TorreyPinesGolf yesterday, ActOne! See\u2026 https://t.co/ktLpl5A8fQ", 
-                "TweetLink": "1088818774759882752", 
-                "Place": "San Diego", 
-                "Time": "Fri Jan 25 15:19:59 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/845119649238806529/gAafvAb__normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "fullimage360", 
                 "Name": "Jevone Moore", 
                 "Tweet": "Tiger Woods watching his tee shot hit the green on Par 3 during his first round on 2019.\n#tiger #tigerwoods #PGA\u2026 https://t.co/8nFiWso58R", 
@@ -285,6 +272,19 @@
                 "Place": "San Diego", 
                 "Time": "Tue Jan 29 19:34:00 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wilsongolfcana1", 
+                "Name": "wilsongolfcanada", 
+                "Tweet": "Current mood:\n\n#Wilson #WilsonGolf #WilsonStaff #Canada #Golf #Golfer #Snow #Blizzard #Mood #DieHard #GolfAddict\u2026 https://t.co/5XjXX7aRZV", 
+                "TweetLink": "1090343937011634177", 
+                "Place": "Toronto", 
+                "Time": "Tue Jan 29 20:20:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1060558620084109313/kwnFY8QE_normal.jpg"
             }
         }
     ]
