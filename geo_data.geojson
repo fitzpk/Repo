@@ -286,6 +286,19 @@
                 "Time": "Tue Jan 29 20:20:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1060558620084109313/kwnFY8QE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CorkboardTV", 
+                "Name": "Corkboard TV", 
+                "Tweet": "18th Hole view from the tee box. \n.\n.\n#tpcscottsdale #golf #pgatour #pga #golfcourse #arizona #wastemanagementopen\u2026 https://t.co/yFr761iG7s", 
+                "TweetLink": "1090344857162444802", 
+                "Place": "Scottsdale", 
+                "Time": "Tue Jan 29 20:24:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
+            }
         }
     ]
 }
