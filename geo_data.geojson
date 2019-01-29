@@ -273,6 +273,19 @@
                 "Time": "Tue Jan 29 18:12:46 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/932008737245728771/FZ7AX32W_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Peterripa", 
+                "Name": "Peter Ripa", 
+                "Tweet": "@GOLF_com @AlanShipnuck views @farmersinsopen from above @GolfTorrey on a glider. One brave soul. Next year are you\u2026 https://t.co/ANe9xMQ0xE", 
+                "TweetLink": "1090332249315143680", 
+                "Place": "San Diego", 
+                "Time": "Tue Jan 29 19:34:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
+            }
         }
     ]
 }
