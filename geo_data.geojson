@@ -338,6 +338,19 @@
                 "Time": "Tue Jan 29 21:55:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "Clean cuts, no gimmicks.    #GCU #XCP #ASU #phoenixbarber  #scottsdalebarber #LAbarber #NBA #NFL #pgatour\u2026 https://t.co/746nq79xXj", 
+                "TweetLink": "1090375857833680897", 
+                "Place": "Phoenix", 
+                "Time": "Tue Jan 29 22:27:17 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
