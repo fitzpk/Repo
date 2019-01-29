@@ -325,6 +325,19 @@
                 "Time": "Tue Jan 29 21:35:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CorkboardTV", 
+                "Name": "Corkboard TV", 
+                "Tweet": "TPC SCOTTSDALE \nFinishing hole - 18th green.\n#tpcscottsdale #golf #pgatour #pga #golfcourse #arizona\u2026 https://t.co/N62UxDGBK6", 
+                "TweetLink": "1090367813129244676", 
+                "Place": "Scottsdale", 
+                "Time": "Tue Jan 29 21:55:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
+            }
         }
     ]
 }
