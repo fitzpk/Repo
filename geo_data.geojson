@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ArroyoTrabuco", 
-                "Name": "Arroyo Trabuco Golf", 
-                "Tweet": "My absolutely favorite point on the course. I spotted my first \ud83d\udc33 here! #golf #torreypines #lajolla #sandiego\u2026 https://t.co/RKsALdeQ1m", 
-                "TweetLink": "1088860069066956802", 
-                "Place": "San Diego", 
-                "Time": "Fri Jan 25 18:04:05 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/91134453/18_hor_large_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
             "type": "Feature", 
             "properties": {
