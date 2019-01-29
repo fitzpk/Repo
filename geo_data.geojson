@@ -312,6 +312,19 @@
                 "Time": "Tue Jan 29 21:22:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.244546, 32.904616]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Peterripa", 
+                "Name": "Peter Ripa", 
+                "Tweet": "@tberrygolf @FarmersInsOpen @PGATOUR @Titleist @FootJoy You created a lot of believers and fans last week in San Di\u2026 https://t.co/aQjMQw3Crl", 
+                "TweetLink": "1090362909526388738", 
+                "Place": "Torrey Pines Golf Course", 
+                "Time": "Tue Jan 29 21:35:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
+            }
         }
     ]
 }
