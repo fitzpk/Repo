@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "fullimage360", 
-                "Name": "Jevone Moore", 
-                "Tweet": "Tiger Woods watching his tee shot hit the green on Par 3 during his first round on 2019.\n#tiger #tigerwoods #PGA\u2026 https://t.co/8nFiWso58R", 
-                "TweetLink": "1088826131594338305", 
-                "Place": "San Diego", 
-                "Time": "Fri Jan 25 15:49:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/664538022910627842/Wz5Nhh6Q_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "lauriataylor", 
                 "Name": "Lauri A. Taylor", 
                 "Tweet": "#fbf Remembering time I got chat it up with one of my all-time favorite sportscasters, Jim Nantz, at one of my all-\u2026 https://t.co/hAmoUM8iUu", 
@@ -297,6 +284,19 @@
                 "TweetLink": "1090344857162444802", 
                 "Place": "Scottsdale", 
                 "Time": "Tue Jan 29 20:24:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CorkboardTV", 
+                "Name": "Corkboard TV", 
+                "Tweet": "18th Hole view from the tee box. .\n.\n#tpcscottsdale #golf #pgatour #pga #golfcourse #arizona #wastemanagementopen\u2026 https://t.co/tthrQc7XVl", 
+                "TweetLink": "1090350627534839808", 
+                "Place": "Scottsdale", 
+                "Time": "Tue Jan 29 20:47:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/991143219764248578/9R6nZ4lm_normal.jpg"
             }
         }
