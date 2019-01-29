@@ -247,6 +247,19 @@
                 "Time": "Tue Jan 29 16:21:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SeeMorePutters", 
+                "Name": "SeeMore Putters", 
+                "Tweet": "Early morning \ud83d\udcf8 from Dir.\nof TOUR codyhalegolf at @wmphoenixopen. Fantastic place!! \n.\n.\n.\n.\n.\n#golf #pgatour #pga\u2026 https://t.co/Yucc0tUMBq", 
+                "TweetLink": "1090292950263885830", 
+                "Place": "Scottsdale", 
+                "Time": "Tue Jan 29 16:57:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/872447279180857344/7mQ-Qh97_normal.jpg"
+            }
         }
     ]
 }
