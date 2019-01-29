@@ -234,6 +234,19 @@
                 "Time": "Tue Jan 29 13:16:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[32.304809, 1.3751755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SmartGolfBets", 
+                "Name": "Mike Miller", 
+                "Tweet": "My #pgatour #WMPO sheet is now updated with the final field of 132: https://t.co/OgY18jM2fz", 
+                "TweetLink": "1090283792135270402", 
+                "Place": "Uganda", 
+                "Time": "Tue Jan 29 16:21:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2378154634/dvrb0kozs5p3rjy5hnbc_normal.jpeg"
+            }
         }
     ]
 }
