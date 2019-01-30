@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-89.53377, 34.35467]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JakeThompsonOE", 
-                "Name": "Jake Thompson", 
-                "Tweet": "Braden Thornberry makes the turn at 4-Under for the round. Currently 6-under (T15) at the Farmers Insurance Open. T\u2026 https://t.co/T3MK46EQ0x", 
-                "TweetLink": "1088898327461224448", 
-                "Place": "Oxford", 
-                "Time": "Fri Jan 25 20:36:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1016085047894396928/VAQ78pzR_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.022578, 42.1507115]}, 
             "type": "Feature", 
             "properties": {
