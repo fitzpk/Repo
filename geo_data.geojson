@@ -247,6 +247,19 @@
                 "Time": "Wed Jan 30 03:01:58 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1046855551257206785/3IRz7bHU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Brooks Koepka has had enough with the slow players on the PGA Tour. @FanSided @PGATOUR \n\nhttps://t.co/JBTjQGgpMT\u2026 https://t.co/OJmShF7uDH", 
+                "TweetLink": "1090447917318459392", 
+                "Place": "Brampton", 
+                "Time": "Wed Jan 30 03:13:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
         }
     ]
 }
