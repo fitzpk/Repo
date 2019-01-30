@@ -234,6 +234,19 @@
                 "Time": "Wed Jan 30 01:03:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MikeWilsonMWM", 
+                "Name": "MikeWilsonMusic", 
+                "Tweet": "#sunsetsandmusic #musicwanderings #mikewilsonmusic #RazorpointProposal #goodtimes #sunsetblues #engaged\u2026 https://t.co/PvjCeNCHVy", 
+                "TweetLink": "1090444986091487232", 
+                "Place": "San Diego", 
+                "Time": "Wed Jan 30 03:01:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046855551257206785/3IRz7bHU_normal.jpg"
+            }
         }
     ]
 }
