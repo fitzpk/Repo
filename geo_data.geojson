@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "reneeskidmore", 
-                "Name": "Ren\u00e9e Skidmore", 
-                "Tweet": "Torrey Pines looking mighty fine \ud83d\ude0d\ud83d\ude0d #FarmersInsuranceOpen #golf #pgatour", 
-                "TweetLink": "1088892356017950721", 
-                "Place": "Palm Beach Gardens", 
-                "Time": "Fri Jan 25 20:12:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1042168194394316800/nhjozwbZ_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "captNAmerica153", 
-                "Name": "bearded breadman", 
-                "Tweet": "He\u2019s actually back! #\ud83d\udc08 @joeamo368 @DMcGins03 @G_Price22 @coachbk", 
-                "TweetLink": "1088892541397856256", 
-                "Place": "Pennsylvania", 
-                "Time": "Fri Jan 25 20:13:07 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/746764582962749442/91L1t4qR_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-95.31704, 32.3156615]}, 
             "type": "Feature", 
             "properties": {
