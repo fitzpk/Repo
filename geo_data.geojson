@@ -260,6 +260,19 @@
                 "Time": "Wed Jan 30 03:13:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.0278905, 50.661752]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kcporteous", 
+                "Name": "Ken Porteous", 
+                "Tweet": "#BeIlLetsTalk", 
+                "TweetLink": "1090753708475011074", 
+                "Place": "Gimli", 
+                "Time": "Wed Jan 30 23:28:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/499774429493092352/idZv6C0A_normal.jpeg"
+            }
         }
     ]
 }
