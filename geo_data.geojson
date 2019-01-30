@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-77.4931705, 37.529883]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PClayAllDay", 
-                "Name": "Phillip Deane", 
-                "Tweet": "Rickie out there in the untucked, short sleeved button down at the Farmers Insurance Open at Torrey Pines. Good loo\u2026 https://t.co/g4Qd3oPUGg", 
-                "TweetLink": "1088915343534444545", 
-                "Place": "Richmond", 
-                "Time": "Fri Jan 25 21:43:43 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1024081438617075712/dyRa_z6P_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-1.857611, 53.8229855]}, 
             "type": "Feature", 
             "properties": {
