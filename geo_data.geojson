@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.31704, 32.3156615]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "etfs_JBuie", 
-                "Name": "Joe Buie", 
-                "Tweet": "Whoah, #untuckit has entered the buttoned up world of professional golf. Check out Rickie Fowler in the #FarmersInsuranceOpen. #pgatour", 
-                "TweetLink": "1088895345344606209", 
-                "Place": "Tyler", 
-                "Time": "Fri Jan 25 20:24:15 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1254338754/joe_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-89.53377, 34.35467]}, 
             "type": "Feature", 
             "properties": {
