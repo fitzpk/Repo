@@ -273,6 +273,19 @@
                 "Time": "Wed Jan 30 23:28:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/499774429493092352/idZv6C0A_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.2665075, 39.7393005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TCBiggs", 
+                "Name": "Tina Biggs", 
+                "Tweet": "I\u2019m not crying...", 
+                "TweetLink": "1090771287436345346", 
+                "Place": "Illinois", 
+                "Time": "Thu Jan 31 00:38:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/520331704033378304/YUCtOeX__normal.jpeg"
+            }
         }
     ]
 }
