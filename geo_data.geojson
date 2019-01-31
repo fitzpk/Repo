@@ -299,6 +299,19 @@
                 "Time": "Thu Jan 31 12:46:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1064363152987574272/NVpPUV69_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChristopherTXST", 
+                "Name": "Chris Thompson", 
+                "Tweet": "Go low @AaronBadds!! \ud83c\udde6\ud83c\uddfa \ud83c\udde6\ud83c\uddfa #aussie #pga #pgatour #WMPhoenixOpen", 
+                "TweetLink": "1090955869372772353", 
+                "Place": "Austin", 
+                "Time": "Thu Jan 31 12:52:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1064363152987574272/NVpPUV69_normal.jpg"
+            }
         }
     ]
 }
