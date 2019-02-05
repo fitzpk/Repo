@@ -26,6 +26,19 @@
                 "Time": "Tue Feb 05 16:05:35 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090207707842338816/fLBnQbrp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.632718, 35.1170025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BPSnow11", 
+                "Name": "BigBucksNoWhammies", 
+                "Tweet": "\ud83d\udc47\ud83c\udffb", 
+                "TweetLink": "1092822727621312512", 
+                "Place": "Albuquerque", 
+                "Time": "Tue Feb 05 16:30:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/547428385434386432/gpn3B-CF_normal.jpeg"
+            }
         }
     ]
 }
