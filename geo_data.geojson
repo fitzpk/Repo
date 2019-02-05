@@ -39,6 +39,19 @@
                 "Time": "Tue Feb 05 16:30:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/547428385434386432/gpn3B-CF_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "riofranklin1", 
+                "Name": "Mario Franklin", 
+                "Tweet": "Battle for who goes 1st on leg day  #legworkout #ONTARIO #ajga #lpgatour #pgatour #symetratour #SKYTRAK #WEBCOMTOUR\u2026 https://t.co/t67wVon1z0", 
+                "TweetLink": "1092865275198763008", 
+                "Place": "Ontario", 
+                "Time": "Tue Feb 05 19:19:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/525007602145828865/09vioPSV_normal.jpeg"
+            }
         }
     ]
 }
