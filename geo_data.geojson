@@ -130,6 +130,19 @@
                 "Time": "Wed Feb 06 15:59:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/985552965875503104/38Sj1GxP_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "My ninja been with this movement longer than most..... Appreciate you my brother istayshaded . \u270a\ud83c\udffe #GCU #XCP #ASU\u2026 https://t.co/AiTe9uzmy1", 
+                "TweetLink": "1093182450392432640", 
+                "Place": "Phoenix", 
+                "Time": "Wed Feb 06 16:19:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
