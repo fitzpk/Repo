@@ -65,6 +65,19 @@
                 "Time": "Wed Feb 06 02:29:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1048016941758275584/byRaTbSN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.2877975, 28.930185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PunkLewisGolf", 
+                "Name": "Punk Lewis", 
+                "Tweet": "#thenatural #combatveteran #dedicated #golf #punkcrew #roadtothetour #teamneverquit #badboyofgolf #nevergiveup #wwp\u2026 https://t.co/eyR3gR9ld1", 
+                "TweetLink": "1092991022689329153", 
+                "Place": "Orange City", 
+                "Time": "Wed Feb 06 03:39:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1054883234134323200/nts_TtIy_normal.jpg"
+            }
         }
     ]
 }
