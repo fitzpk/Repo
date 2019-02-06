@@ -91,6 +91,32 @@
                 "Time": "Wed Feb 06 14:27:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/945812504818487296/pqkA2BYE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "Clean cuts, no gimmicks.... \ud83d\udc88#GCU #XCP #ASU #phoenixbarber  #scottsdalebarber #LAbarber  #pgatour #springtraining\u2026 https://t.co/5Aziw2GPdy", 
+                "TweetLink": "1093165460005273606", 
+                "Place": "Phoenix", 
+                "Time": "Wed Feb 06 15:12:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "I will be in the office today. Appointments available &amp; walk-ins are welcome. \ud83d\udc88#GCU #XCP #ASU #phoenixbarber\u2026 https://t.co/5POwH7taML", 
+                "TweetLink": "1093167581610102784", 
+                "Place": "Phoenix", 
+                "Time": "Wed Feb 06 15:20:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
