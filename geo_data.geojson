@@ -117,6 +117,19 @@
                 "Time": "Wed Feb 06 15:20:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.7906725, 41.1242885]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "EyePuttPro", 
+                "Name": "Casey A. Schiel, PGA", 
+                "Tweet": "Check out KLPGA player @HyorinLee  training with @EyePuttPro #lpgatour #pgatour #putting #puttingalignmentmirror https://t.co/UbH5fDHZwv", 
+                "TweetLink": "1093177360634077190", 
+                "Place": "North Platte", 
+                "Time": "Wed Feb 06 15:59:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985552965875503104/38Sj1GxP_normal.jpg"
+            }
         }
     ]
 }
