@@ -143,6 +143,19 @@
                 "Time": "Wed Feb 06 16:19:41 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.841541, 35.6538855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jessicafisher4_", 
+                "Name": "Jessica Fisher", 
+                "Tweet": "Hot athlete alert \ud83e\udd70 #NASCAR #Golf #PGATour #INDYCAR #NHL #NFL #NBA #MLS #MLB #JimmieJohnson #TylerSeguin\u2026 https://t.co/EgLgJf6g7X", 
+                "TweetLink": "1093347922098434048", 
+                "Place": "Holly Springs", 
+                "Time": "Thu Feb 07 03:17:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081044512817012736/QcxjlbRa_normal.jpg"
+            }
         }
     ]
 }
