@@ -234,6 +234,19 @@
                 "Time": "Sat Feb 09 15:53:58 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.949078, 39.05468]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MrChickSports", 
+                "Name": "Chick Hernandez", 
+                "Tweet": "He played so well yesterday. Hope all is well at home, hope this wasn\u2019t prior commitment", 
+                "TweetLink": "1094266317216116742", 
+                "Place": "Calverton", 
+                "Time": "Sat Feb 09 16:06:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008719564677533696/1HJLKHLT_normal.jpg"
+            }
         }
     ]
 }
