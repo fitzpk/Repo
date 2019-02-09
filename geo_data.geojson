@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "edcolemangolf", 
-                "Name": "Ed Coleman", 
-                "Tweet": "Calm down! It\u2019s @attproam week. #pgatour #pebblebeach #williammurray https://t.co/fxdD6nxvbn", 
-                "TweetLink": "1092796556401627138", 
-                "Place": "South Burlington", 
-                "Time": "Tue Feb 05 14:46:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[88.352242, 22.6127055]}, 
             "type": "Feature", 
             "properties": {
