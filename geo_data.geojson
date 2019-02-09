@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[88.352242, 22.6127055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "lpsahi", 
-                "Name": "Lokendra Pratap Sahi", 
-                "Tweet": "Amazing @TheClub ... #PGATour", 
-                "TweetLink": "1092816513784983552", 
-                "Place": "Kolkata", 
-                "Time": "Tue Feb 05 16:05:35 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090207707842338816/fLBnQbrp_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-106.632718, 35.1170025]}, 
             "type": "Feature", 
             "properties": {
