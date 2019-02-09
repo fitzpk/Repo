@@ -286,6 +286,19 @@
                 "Time": "Sat Feb 09 19:55:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1019743152129871872/yCyt0B7C_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "R_B_G1973", 
+                "Name": "Redic Grant", 
+                "Tweet": "Am I the only one  in a cold weather city enjoying  the horrible weather conditions at pebble beach? I hope after i\u2026 https://t.co/PMFNPvUHHT", 
+                "TweetLink": "1094332748402249728", 
+                "Place": "Detroit", 
+                "Time": "Sat Feb 09 20:30:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984476736405626882/8IZ5QDOo_normal.jpg"
+            }
         }
     ]
 }
