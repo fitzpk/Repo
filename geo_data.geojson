@@ -286,6 +286,19 @@
                 "Time": "Sun Feb 10 16:15:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1055017659060891649/nQFj1MyV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.945574, 36.587838]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bradsgolf23", 
+                "Name": "andrew bradley", 
+                "Tweet": "Last day pebblebeachgolf @attproam #golf #golfchannel #pgatour #pebblebeach @ Pebble Beach Golf Resort https://t.co/reWFAu9sFt", 
+                "TweetLink": "1094635804054319104", 
+                "Place": "Del Monte Forest", 
+                "Time": "Sun Feb 10 16:34:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
+            }
         }
     ]
 }
