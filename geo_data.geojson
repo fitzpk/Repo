@@ -273,6 +273,19 @@
                 "Time": "Sat Feb 09 23:01:49 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/996195382039339009/f90kpyeF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FinanceKamal", 
+                "Name": "Kamal Adawi", 
+                "Tweet": "Flying over the San Diego coast. #DelMar #TorreyPines #OB #SanDiegoBay https://t.co/VlAV58QhMg", 
+                "TweetLink": "1094411068946796544", 
+                "Place": "San Diego", 
+                "Time": "Sun Feb 10 01:41:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1094115408234242048/hIjKWQjZ_normal.jpg"
+            }
         }
     ]
 }
