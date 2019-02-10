@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.945574, 36.587838]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LaurenNisavic", 
-                "Name": "Lauren", 
-                "Tweet": "Hello, friends. \ud83d\udc4b\ud83c\udffc \n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n#bts #netjets #golf #pgatour #att #pebblebeach #nantz #cbs @ Pebble Beach G\u2026 https://t.co/GEfqIwJz2e", 
-                "TweetLink": "1092973507560890368", 
-                "Place": "Del Monte Forest", 
-                "Time": "Wed Feb 06 02:29:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1048016941758275584/byRaTbSN_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.2877975, 28.930185]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PunkLewisGolf", 
-                "Name": "Punk Lewis", 
-                "Tweet": "#thenatural #combatveteran #dedicated #golf #punkcrew #roadtothetour #teamneverquit #badboyofgolf #nevergiveup #wwp\u2026 https://t.co/eyR3gR9ld1", 
-                "TweetLink": "1092991022689329153", 
-                "Place": "Orange City", 
-                "Time": "Wed Feb 06 03:39:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1054883234134323200/nts_TtIy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-121.92178, 36.6179475]}, 
             "type": "Feature", 
             "properties": {
@@ -285,6 +259,19 @@
                 "Place": "San Diego", 
                 "Time": "Sun Feb 10 01:41:46 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1094115408234242048/hIjKWQjZ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.3066075, 37.2691755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "teryngregson", 
+                "Name": "Teryn Gregson", 
+                "Tweet": "With tee times delayed this morning, the start of the @PGATOUR broadcast will be pushed back to 11:30am ET", 
+                "TweetLink": "1094614036551876614", 
+                "Place": "California", 
+                "Time": "Sun Feb 10 15:08:17 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/928823114145902592/MT1scJ0v_normal.jpg"
             }
         }
     ]
