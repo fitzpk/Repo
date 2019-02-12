@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[0.0001675, 52.384311]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "rjdub80", 
-                "Name": "Russell J. Watkins", 
-                "Tweet": "Who the hell is Phil Mickelson playing with the the #ATTProAM at #PebbleBeach \ud83e\udd14 Takes a drag on his cigar and then\u2026 https://t.co/pH5KnAoF2C", 
-                "TweetLink": "1093593906426593280", 
-                "Place": "Somersham", 
-                "Time": "Thu Feb 07 19:34:39 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/954777519894429698/dx-7CXm3_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[0.0001675, 52.384311]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "rjdub80", 
-                "Name": "Russell J. Watkins", 
-                "Tweet": "Who the hell is Phil Mickelson playing with in the #ATTProAM at #PebbleBeach \ud83e\udd14 Takes a drag on his cigar and then d\u2026 https://t.co/J3L5did3QS", 
-                "TweetLink": "1093594733237202945", 
-                "Place": "Somersham", 
-                "Time": "Thu Feb 07 19:37:57 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/954777519894429698/dx-7CXm3_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
