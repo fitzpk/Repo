@@ -195,6 +195,32 @@
                 "Time": "Sun Feb 10 16:34:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.5406515, 29.417501]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Moe_N_Lopez", 
+                "Name": "Moses Lopez", 
+                "Tweet": "Must watch #pgatour", 
+                "TweetLink": "1095159338199601152", 
+                "Place": "San Antonio", 
+                "Time": "Tue Feb 12 03:15:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1060166228675883010/VWGJVk9i_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.6295865, 47.5870515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MarleneDiMauro", 
+                "Name": "Marlene DiMauro", 
+                "Tweet": "@cougsgo Good news really enjoy the show!!  #pgatour", 
+                "TweetLink": "1095160663897300992", 
+                "Place": "East Bremerton", 
+                "Time": "Tue Feb 12 03:20:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/764527918160633856/lJj3vxSQ_normal.jpg"
+            }
         }
     ]
 }
