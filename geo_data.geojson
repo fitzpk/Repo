@@ -234,6 +234,19 @@
                 "Time": "Tue Feb 12 04:36:35 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/851075249487532032/rxLe5J4l_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LTGLSHOW", 
+                "Name": "LIVIN THE GOOD LIFE", 
+                "Tweet": "Doesn\u2019t get better than @bridgestonegolf SO SOFT! \n.\n.\n.\n.\n.\n#golfing #golfer #golfcourse #golfporn #golfcoach\u2026 https://t.co/dGBXCRmI1i", 
+                "TweetLink": "1095403758182326272", 
+                "Place": "Los Angeles", 
+                "Time": "Tue Feb 12 19:26:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809526870752382976/Q16N0wP0_normal.jpg"
+            }
         }
     ]
 }
