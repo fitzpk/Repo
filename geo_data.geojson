@@ -221,6 +221,19 @@
                 "Time": "Tue Feb 12 03:20:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/764527918160633856/lJj3vxSQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NYSG918", 
+                "Name": "\u5185\u85e4\u96c4\u58eb", 
+                "Tweet": "\u4e38\u5c71\u8302\u6a39\u30d7\u30ed\u306e\u304a\u5b85\u3067\u30d0\u30fc\u30d9\u30ad\u30e5\u30fc\uff01\n#\u4e38\u5c71\u8302\u6a39\n#\u677e\u5c71\u82f1\u6a39\n#\u5c0f\u5e73\u667a\n#\u30b4\u30eb\u30d5\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\n#pgatour \u5834\u6240: Los Angeles, California https://t.co/N31u7RtoFm", 
+                "TweetLink": "1095179838074380288", 
+                "Place": "Los Angeles", 
+                "Time": "Tue Feb 12 04:36:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/851075249487532032/rxLe5J4l_normal.jpg"
+            }
         }
     ]
 }
