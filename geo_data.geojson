@@ -156,6 +156,19 @@
                 "Time": "Tue Feb 12 19:26:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/809526870752382976/Q16N0wP0_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfperformance", 
+                "Name": "Terry Rowles", 
+                "Tweet": "Let\u2019s go! @Scott_Langley streels54. Rainy and cool again in Cali... #pgatour #genesisopen @ Genesis Open https://t.co/qVDxatVyXc", 
+                "TweetLink": "1095819974440976384", 
+                "Place": "Los Angeles", 
+                "Time": "Wed Feb 13 23:00:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866870377548533761/rspwuo3W_normal.jpg"
+            }
         }
     ]
 }
