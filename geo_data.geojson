@@ -156,6 +156,19 @@
                 "Time": "Thu Feb 14 03:32:17 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1068028005086310400/9ICLSVhJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.3816775, 40.132838]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ChrisRussell_NJ", 
+                "Name": "Chris Russell", 
+                "Tweet": "Regardless of what his \u201cdeal\u201d was with this guy to start the week, #Kuchar looks like a total jerk here. Paying a c\u2026 https://t.co/cR9y9VSnm4", 
+                "TweetLink": "1095894783011274752", 
+                "Place": "Jackson", 
+                "Time": "Thu Feb 14 03:57:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/815579310111260672/bXnlLH7h_normal.jpg"
+            }
         }
     ]
 }
