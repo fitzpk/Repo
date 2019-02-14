@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.945574, 36.587838]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "foodiesnextdoor", 
-                "Name": "Foodies Next Door", 
-                "Tweet": "I asked Steve to take one picture for me...@aaronrodgers12 .  He sent me this...a pic of his hot girlfriend\u2026 https://t.co/lALt7AxSvr", 
-                "TweetLink": "1094323892141707265", 
-                "Place": "Del Monte Forest", 
-                "Time": "Sat Feb 09 19:55:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1019743152129871872/yCyt0B7C_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
             "type": "Feature", 
             "properties": {
