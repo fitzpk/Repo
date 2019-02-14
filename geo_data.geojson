@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.319862, 34.881923]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "richkmaxwell", 
-                "Name": "Rich K. Maxwell", 
-                "Tweet": "@mbutta326 way to grind this week. The weekend is where it\u2019s at. Sunday Funday coming up! #webtour #pgatour #forthelove #golf", 
-                "TweetLink": "1094370815771062273", 
-                "Place": "Wade Hampton", 
-                "Time": "Sat Feb 09 23:01:49 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/996195382039339009/f90kpyeF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
