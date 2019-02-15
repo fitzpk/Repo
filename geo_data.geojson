@@ -130,6 +130,19 @@
                 "Time": "Thu Feb 14 04:45:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1009106195913641984/SvpWSyHg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.6694535, 48.8460845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "taiterstan", 
+                "Name": "David Tait", 
+                "Tweet": "Just heard the statement released by the management/PR team of pro golfer Matt #Kuchar. He says his previous commen\u2026 https://t.co/sDpMZOe9cq", 
+                "TweetLink": "1096528736113946624", 
+                "Place": "North Cowichan", 
+                "Time": "Fri Feb 15 21:56:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080157730231341056/fo9HT7c3_normal.jpg"
+            }
         }
     ]
 }
