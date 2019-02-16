@@ -169,6 +169,19 @@
                 "Time": "Fri Feb 15 22:26:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3596435, 44.991707]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kwhansen223", 
+                "Name": "K.W. Hansen", 
+                "Tweet": "Weather aside....other than the @TheMasters    All @PGATOUR tournaments should be played on the west coast #Riviera #PGATour #FridayThoughts", 
+                "TweetLink": "1096564106071556097", 
+                "Place": "Golden Valley", 
+                "Time": "Sat Feb 16 00:17:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/575718450120675328/o91RMglA_normal.jpeg"
+            }
         }
     ]
 }
