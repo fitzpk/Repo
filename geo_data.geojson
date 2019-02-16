@@ -195,6 +195,19 @@
                 "Time": "Sat Feb 16 15:34:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.6807375, 32.576227]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mrmikeoakley", 
+                "Name": "Mike Oakley", 
+                "Tweet": "Dude has game.", 
+                "TweetLink": "1096800500970864641", 
+                "Place": "Alabama", 
+                "Time": "Sat Feb 16 15:56:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/513786496596606977/TvPH1A0v_normal.jpeg"
+            }
         }
     ]
 }
