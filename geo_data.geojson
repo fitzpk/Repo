@@ -468,6 +468,19 @@
                 "Time": "Sat Feb 16 22:36:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/91134453/18_hor_large_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parkerandtheman", 
+                "Name": "Parker andTheMan", 
+                "Tweet": "Man, I was just talking about Gene Littler last weekend when Phil won Pebble Beach at age 48.  Littler won Pebble @\u2026 https://t.co/AjDP5CrKqd", 
+                "TweetLink": "1096907849530171398", 
+                "Place": "Paradise", 
+                "Time": "Sat Feb 16 23:03:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
+            }
         }
     ]
 }
