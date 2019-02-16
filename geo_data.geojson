@@ -182,6 +182,19 @@
                 "Time": "Sat Feb 16 00:17:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/575718450120675328/o91RMglA_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "Great coverage.\n\nInformative...WITH PASSION! \n\n\"To set the record straight; #MattKuchar has never been anything but\u2026 https://t.co/F34wMzpAL1", 
+                "TweetLink": "1096567261253509123", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 00:29:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
