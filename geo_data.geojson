@@ -481,6 +481,19 @@
                 "Time": "Sat Feb 16 23:03:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.48042, 34.022688]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RPS228", 
+                "Name": "EXRODNEY", 
+                "Tweet": "Once a year I look up in the sky and know the PGA is in town. #PGATour https://t.co/dGrYbGrlYd", 
+                "TweetLink": "1096916846182260738", 
+                "Place": "Santa Monica", 
+                "Time": "Sat Feb 16 23:38:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/586011989341646848/hSPwFlpk_normal.jpg"
+            }
         }
     ]
 }
