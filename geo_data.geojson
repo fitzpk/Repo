@@ -221,6 +221,45 @@
                 "Time": "Sat Feb 16 16:09:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3170707364/fcff68f8ce391838ed7634c28aa4373a_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.6295865, 47.5870515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MarleneDiMauro", 
+                "Name": "Marlene DiMauro", 
+                "Tweet": "@cougsgo Good for Matt Kuchar!  Proves he is a classy guy admitting he messed up. #pgatour", 
+                "TweetLink": "1096807153946419201", 
+                "Place": "East Bremerton", 
+                "Time": "Sat Feb 16 16:22:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/764527918160633856/lJj3vxSQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.400264, 33.9166485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "6633north", 
+                "Name": "Thom Fuhrmann", 
+                "Tweet": "Tiger and I have very similar games. Especially when it comes to Perkins waitresses...#GenesisOpen #PGATour #JustDoIt", 
+                "TweetLink": "1096807253796052994", 
+                "Place": "El Segundo", 
+                "Time": "Sat Feb 16 16:23:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3170707364/fcff68f8ce391838ed7634c28aa4373a_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "No matter the weather...the #GenesisOpen brings sunshine into my home!\n \n#PGATour https://t.co/NF4SGLV9NI", 
+                "TweetLink": "1096808772427804673", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 16:29:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
