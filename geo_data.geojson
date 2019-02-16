@@ -260,6 +260,45 @@
                 "Time": "Sat Feb 16 16:29:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfperformance", 
+                "Name": "Terry Rowles", 
+                "Tweet": "The real @jjspaun 307yds Center cut. #genesisopen #pgatour @ Genesis Open https://t.co/AhiTFoNNGc", 
+                "TweetLink": "1096810165360181248", 
+                "Place": "Los Angeles", 
+                "Time": "Sat Feb 16 16:34:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866870377548533761/rspwuo3W_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@genesisopen", 
+                "TweetLink": "1096810287339094021", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 16:35:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@genesisopen please RT the attached tweet.", 
+                "TweetLink": "1096810511495254016", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 16:36:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
