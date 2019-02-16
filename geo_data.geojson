@@ -299,6 +299,19 @@
                 "Time": "Sat Feb 16 16:36:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "I will be in the shop today. Log in properly \ud83d\udcbb\ud83d\udc88 #GCU #ASU #phoenixbarber  #scottsdalebarber #LAbarber #pgatour\u2026 https://t.co/4JzYnO1D1K", 
+                "TweetLink": "1096819069632692224", 
+                "Place": "Phoenix", 
+                "Time": "Sat Feb 16 17:10:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
