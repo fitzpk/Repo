@@ -351,6 +351,19 @@
                 "Time": "Sat Feb 16 17:55:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/851075249487532032/rxLe5J4l_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.390041, 50.8313395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejohns2010", 
+                "Name": "Edward Johns", 
+                "Tweet": "Matt Kuchar should have paid his caddie, David Ortiz, the going rate of 10% after winning the Mayakoba Golf Classic\u2026 https://t.co/Cotwp3nyd4", 
+                "TweetLink": "1096833340500529153", 
+                "Place": "Worthing", 
+                "Time": "Sat Feb 16 18:07:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2514180055/akpfrlwi71khmqhqm2no_normal.jpeg"
+            }
         }
     ]
 }
