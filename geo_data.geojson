@@ -455,6 +455,19 @@
                 "Time": "Sat Feb 16 21:38:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ArroyoTrabuco", 
+                "Name": "Arroyo Trabuco Golf", 
+                "Tweet": "A look the classic par-4 10th at Riviera CC @genesisopen  So cool to finally see it in person. #pgatour #losangeles\u2026 https://t.co/n7eaMG9ZI9", 
+                "TweetLink": "1096901143781724160", 
+                "Place": "Los Angeles", 
+                "Time": "Sat Feb 16 22:36:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/91134453/18_hor_large_normal.jpg"
+            }
         }
     ]
 }
