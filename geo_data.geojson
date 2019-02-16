@@ -390,6 +390,45 @@
                 "Time": "Sat Feb 16 19:53:32 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1084371801759727616/8PcTKpdc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Honcho68", 
+                "Name": "Eric Haughan", 
+                "Tweet": "Have a feeling Radar Reilly will be apologising fairly for his #MattKuchar remarks just now during commentary... De\u2026 https://t.co/OnUhYHL8Q6", 
+                "TweetLink": "1096874980594380800", 
+                "Place": "South Dublin", 
+                "Time": "Sat Feb 16 20:52:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@GOLFonCBS ...good looking leaderboard!\n\n#GenesisOpen \n#pgatour https://t.co/MXBYrOrrP2", 
+                "TweetLink": "1096875448800292868", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 20:54:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Honcho68", 
+                "Name": "Eric Haughan", 
+                "Tweet": "Have a feeling Radar Reilly will be apologising fairly sharpish for his #MattKuchar remarks just now during comment\u2026 https://t.co/cVjhRfOlMb", 
+                "TweetLink": "1096875541075058694", 
+                "Place": "South Dublin", 
+                "Time": "Sat Feb 16 20:54:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
+            }
         }
     ]
 }
