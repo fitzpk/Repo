@@ -364,6 +364,19 @@
                 "Time": "Sat Feb 16 18:07:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2514180055/akpfrlwi71khmqhqm2no_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.267942, 32.099476]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JasonWittmer", 
+                "Name": "Witt", 
+                "Tweet": "@ColtKnost doing a nice job at the @genesisopen for @GolfChannel. I like a good mix of different analysts during golf telecasts. #PGATOUR", 
+                "TweetLink": "1096834709739524096", 
+                "Place": "Pooler", 
+                "Time": "Sat Feb 16 18:12:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/548332198349508609/mJo9bfRn_normal.jpeg"
+            }
         }
     ]
 }
