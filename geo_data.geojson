@@ -312,6 +312,19 @@
                 "Time": "Sat Feb 16 17:10:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BGPR_1", 
+                "Name": "BG Public Relations", 
+                "Tweet": "It\u2019s nice to see it\u2019s sunny at Riviera today. #genesisopen. #PGATour", 
+                "TweetLink": "1096826338852261889", 
+                "Place": "Portland", 
+                "Time": "Sat Feb 16 17:39:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1070052208115249152/J1i8o6OL_normal.jpg"
+            }
         }
     ]
 }
