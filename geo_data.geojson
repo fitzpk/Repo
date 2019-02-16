@@ -169,6 +169,32 @@
                 "Time": "Sat Feb 16 07:05:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1034599009980112896/sXjlVqU-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.1096165, 32.0172845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kingallan68", 
+                "Name": "Allan King", 
+                "Tweet": "@GCMorningDrive @mattkuchar It's life and we live and learn. Matt is a Great man.  He did the right thing. #PGATour #GolfChannel", 
+                "TweetLink": "1096794318067634178", 
+                "Place": "Savannah", 
+                "Time": "Sat Feb 16 15:31:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093275993215766529/KAYJLXTF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@chambleebrandel", 
+                "TweetLink": "1096794947104182272", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 16 15:34:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
