@@ -195,6 +195,19 @@
                 "Time": "Sat Feb 16 00:29:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GarryJGray", 
+                "Name": "Garry Gray", 
+                "Tweet": "C\u2019mon #Scotty. #LiveUnderPar", 
+                "TweetLink": "1096666964443914241", 
+                "Place": "Sydney", 
+                "Time": "Sat Feb 16 07:05:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1034599009980112896/sXjlVqU-_normal.jpg"
+            }
         }
     ]
 }
