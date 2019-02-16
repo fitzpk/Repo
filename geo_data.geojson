@@ -494,6 +494,19 @@
                 "Time": "Sat Feb 16 23:38:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/586011989341646848/hSPwFlpk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.053431, 41.275721]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bceagle83", 
+                "Name": "IamTheMob", 
+                "Tweet": "@4golfonline check this girls swing out....https://t.co/36lct9jWSw   ....thougths?", 
+                "TweetLink": "1096919545732886528", 
+                "Place": "Omaha", 
+                "Time": "Sat Feb 16 23:49:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2825111957/fdc62d478d9be9e6fbb4333b52758636_normal.jpeg"
+            }
         }
     ]
 }
