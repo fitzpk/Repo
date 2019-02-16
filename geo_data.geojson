@@ -429,6 +429,32 @@
                 "Time": "Sat Feb 16 20:54:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.5164375, 33.901311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "THENICKBRADLEY", 
+                "Name": "NICKBRADLEY", 
+                "Tweet": "Most missed the Matt Kuchar point/s:\n1. You get paid according to the value you bring...how much value did this loc\u2026 https://t.co/IPKNRTjAxW", 
+                "TweetLink": "1096885823969087489", 
+                "Place": "Sunset Beach", 
+                "Time": "Sat Feb 16 21:35:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.5164375, 33.901311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "THENICKBRADLEY", 
+                "Name": "NICKBRADLEY", 
+                "Tweet": "Most missed the Matt Kuchar point/s:\n1. You get paid according to the value you bring...how much value did this loc\u2026 https://t.co/iulp32l6iI", 
+                "TweetLink": "1096886448463187968", 
+                "Place": "Sunset Beach", 
+                "Time": "Sat Feb 16 21:38:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
+            }
         }
     ]
 }
