@@ -1092,6 +1092,19 @@
                 "Time": "Sun Feb 17 22:52:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1080157730231341056/fo9HT7c3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[27.968098, -26.2761385]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfshan17", 
+                "Name": "GolfShan17 \ud83d\udea8", 
+                "Tweet": "The Shot clock needs to make an appearance on the #PGATour \ud83d\ude34 Holmes bru speed it up", 
+                "TweetLink": "1097269889591623681", 
+                "Place": "Johannesburg", 
+                "Time": "Sun Feb 17 23:01:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095715834130063363/_xfbDYqD_normal.jpg"
+            }
         }
     ]
 }
