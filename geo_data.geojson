@@ -1027,6 +1027,45 @@
                 "Time": "Sun Feb 17 22:15:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1074418830124957696/B_fA924b_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Honcho68", 
+                "Name": "Eric Haughan", 
+                "Tweet": "JB Holmes presumably not Asian enough to qualify for a Slow-Play Penalty... chap is painful \ud83d\ude44\n#GenesisOpen #golf #pgaTour", 
+                "TweetLink": "1097266541752664065", 
+                "Place": "South Dublin", 
+                "Time": "Sun Feb 17 22:48:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.370871, 52.361575]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DesHallgren", 
+                "Name": "Des", 
+                "Tweet": "Whoa @JBHolmesgolf 3\u2019-6\u2019 three putt! Poor bastard #PGATour", 
+                "TweetLink": "1097267130121150464", 
+                "Place": "Eckville", 
+                "Time": "Sun Feb 17 22:50:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/915361912468021248/69bd-2kP_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.755776, 49.2854585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BradZiemer", 
+                "Name": "Brad Ziemer", 
+                "Tweet": "That, ladies and gentlemen, is called karma #slowpoke #PGATour", 
+                "TweetLink": "1097267146470477824", 
+                "Place": "Coquitlam", 
+                "Time": "Sun Feb 17 22:50:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/508729142997970944/ARI1KWix_normal.jpeg"
+            }
         }
     ]
 }
