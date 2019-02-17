@@ -585,6 +585,58 @@
                 "Time": "Sun Feb 17 00:46:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000723900881/96a1f5c0c7510b28360b813f8996e6f7_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.1668165, 33.1387415]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TaylorGrigsby", 
+                "Name": "Taylor Grigsby", 
+                "Tweet": "\ud83d\udc05 on \ud83d\udd25 #GenesisOpen #PGATour", 
+                "TweetLink": "1096935632406962176", 
+                "Place": "San Marcos", 
+                "Time": "Sun Feb 17 00:53:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/761376111443849216/n7xRJpr8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.692676, 35.0585215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sspires24", 
+                "Name": "Sam Spires", 
+                "Tweet": "@TigerWoods on fire right now!!  Set up some lights let\u2019s play on. #PGATour #pga #getinthehole", 
+                "TweetLink": "1096935663398801409", 
+                "Place": "Collierville", 
+                "Time": "Sun Feb 17 00:53:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939914793888157696/zfVeqHBG_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.6665785, 45.7474565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MaxLalonde_", 
+                "Name": "Max Lalonde", 
+                "Tweet": "-6 \u00e0 ses 5 derniers trous! Tiger is on fire! Birdie-birdie-eagle-birdie sur le 9 de retour \u00e0 date! Showdown in Cali! Wow! #PGATour", 
+                "TweetLink": "1096935800716054529", 
+                "Place": "Terrebonne", 
+                "Time": "Sun Feb 17 00:54:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989286977982824448/p_6_t_LB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.6795405, 39.7873205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "StephenASparks", 
+                "Name": "Stephen Sparks", 
+                "Tweet": "Will Tiger Woods make anything worse than a birdie before the day is over? #pgatour #GenesisOpen", 
+                "TweetLink": "1096936683134730240", 
+                "Place": "Hockessin", 
+                "Time": "Sun Feb 17 00:57:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/452354577065861120/8BsW5Bn2_normal.jpeg"
+            }
         }
     ]
 }
