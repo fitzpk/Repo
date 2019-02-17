@@ -637,6 +637,32 @@
                 "Time": "Sun Feb 17 00:57:40 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/452354577065861120/8BsW5Bn2_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "COSMICGIRL2009", 
+                "Name": "Annette B. Garcia", 
+                "Tweet": "\ud83d\udc83\ud83c\udffd #shakeyourbooty #torreypines #goodtimes with my #girlygirl my #gg iveronicamann #loveyougirl \ud83d\ude18 @ Del Mar, Califo\u2026 https://t.co/nTfdwdlbCk", 
+                "TweetLink": "1096938641581068288", 
+                "Place": "Del Mar", 
+                "Time": "Sun Feb 17 01:05:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1741870344/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "COSMICGIRL2009", 
+                "Name": "Annette B. Garcia", 
+                "Tweet": "#shakeyourbooty #partdeux with my #gg my #girlygirl iveronicamann \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\udc83\ud83c\udffd\ud83d\udc83\ud83c\udffd\ud83d\udc83\ud83c\udffd #rarh #goodtimes #torreypines\u2026 https://t.co/ubPXSYBpSn", 
+                "TweetLink": "1096939654450839552", 
+                "Place": "Del Mar", 
+                "Time": "Sun Feb 17 01:09:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1741870344/image_normal.jpg"
+            }
         }
     ]
 }
