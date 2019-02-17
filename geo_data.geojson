@@ -689,6 +689,19 @@
                 "Time": "Sun Feb 17 02:47:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Crash blocking the center divider, left lane and the right shoulder. in #TorreyPines on 5 SB at Carmel Mtn Rd, sto.\u2026 https://t.co/20pKheDVnN", 
+                "TweetLink": "1096991023337824256", 
+                "Place": "San Diego", 
+                "Time": "Sun Feb 17 04:33:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
