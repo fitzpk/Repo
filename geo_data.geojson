@@ -559,6 +559,32 @@
                 "Time": "Sun Feb 17 00:38:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/947929883627450368/8Mkvj2lZ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Flipstar30", 
+                "Name": "Dennis", 
+                "Tweet": "18 #torreypines #calixterioforever  #wishiwasgolfing @ Torrey Pines Golf Course https://t.co/SEoCPcoYke", 
+                "TweetLink": "1096932674164281346", 
+                "Place": "San Diego", 
+                "Time": "Sun Feb 17 00:41:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/431324172661190658/WX-y3TwH_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DutchMurray", 
+                "Name": "Dutch Murray", 
+                "Tweet": "Gary\u2019s been having a few #GenesisOpen #PGATour", 
+                "TweetLink": "1096933854319923200", 
+                "Place": "Tennessee", 
+                "Time": "Sun Feb 17 00:46:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000723900881/96a1f5c0c7510b28360b813f8996e6f7_normal.jpeg"
+            }
         }
     ]
 }
