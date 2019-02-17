@@ -871,6 +871,32 @@
                 "Time": "Sun Feb 17 20:41:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/877172930471448576/L2aYbWkC_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.877735, 37.6629475]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DipakPatel", 
+                "Name": "Dipak M. Patel", 
+                "Tweet": "Whoa...@JordanSpieth Make a #putt #pgatour https://t.co/ciWIbw9jXJ", 
+                "TweetLink": "1097236381166780416", 
+                "Place": "Pleasanton", 
+                "Time": "Sun Feb 17 20:48:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/685951590096764928/kPtinfPc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Devonshiredeb", 
+                "Name": "Debie Napoleon", 
+                "Tweet": "What is wrong with Jordan Spieth?  His weekend #PGATour golf game is not up to par. #nottheyips", 
+                "TweetLink": "1097236494517981184", 
+                "Place": "Pennsylvania", 
+                "Time": "Sun Feb 17 20:49:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1018197634014695424/IZ6b1Esz_normal.jpg"
+            }
         }
     ]
 }
