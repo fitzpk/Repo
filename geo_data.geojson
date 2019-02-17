@@ -845,6 +845,32 @@
                 "Time": "Sun Feb 17 20:24:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/576338217189785600/Bp1fXLZn_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.0581885, 52.9392035]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "samprice44", 
+                "Name": "Sam Price", 
+                "Tweet": "@JustinThomas34 is the best player on this planet!! Such a smooth player!! He is quality! FACT!!!\n#PGATour #Golf #GenesisOpen2019", 
+                "TweetLink": "1097232661435822082", 
+                "Place": "Chirk", 
+                "Time": "Sun Feb 17 20:33:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1058279283108577280/BIBtaHGP_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NorthGATrotter", 
+                "Name": "Isaac Trotter", 
+                "Tweet": "@CBSSports @genesisopen @NickFaldo006 how about give us another refresher on the new rules with the flag?! #Golf #PGATour #GenesisOpen2019", 
+                "TweetLink": "1097234485186387968", 
+                "Place": "Georgia", 
+                "Time": "Sun Feb 17 20:41:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/877172930471448576/L2aYbWkC_normal.jpg"
+            }
         }
     ]
 }
