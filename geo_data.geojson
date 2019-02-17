@@ -546,6 +546,19 @@
                 "Time": "Sun Feb 17 00:28:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1026065049847312384/dZrY1lq1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.021909, 42.7569225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "cmg799", 
+                "Name": "Chris Goodwin", 
+                "Tweet": "There should be a drinking game based on how many times they say #TopTracer on #PGATour broadcasts....", 
+                "TweetLink": "1096931924218703875", 
+                "Place": "Groveland", 
+                "Time": "Sun Feb 17 00:38:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947929883627450368/8Mkvj2lZ_normal.jpg"
+            }
         }
     ]
 }
