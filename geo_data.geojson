@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "LTGLSHOW", 
-                "Name": "LIVIN THE GOOD LIFE", 
-                "Tweet": "Doesn\u2019t get better than @bridgestonegolf SO SOFT! \n.\n.\n.\n.\n.\n#golfing #golfer #golfcourse #golfporn #golfcoach\u2026 https://t.co/dGBXCRmI1i", 
-                "TweetLink": "1095403758182326272", 
-                "Place": "Los Angeles", 
-                "Time": "Tue Feb 12 19:26:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809526870752382976/Q16N0wP0_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "golfperformance", 
                 "Name": "Terry Rowles", 
                 "Tweet": "Let\u2019s go! @Scott_Langley streels54. Rainy and cool again in Cali... #pgatour #genesisopen @ Genesis Open https://t.co/qVDxatVyXc", 
@@ -532,6 +519,32 @@
                 "Place": "Sydney", 
                 "Time": "Sun Feb 17 00:21:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/480012783963348992/1nzxuMuK_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TigerHelgelien", 
+                "Name": "Tiger Helgelien", 
+                "Tweet": "To the @CBSSports announcers @genesisopen. This is important: it\u2019s not Riviera, it\u2019s The Riviera - I found out the\u2026 https://t.co/CT4NG1QCmQ", 
+                "TweetLink": "1096928833247170560", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Feb 17 00:26:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1094334497175130112/MMXvLseo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CaskAleKev", 
+                "Name": "Kevin Rowe, Jr.", 
+                "Tweet": "Is Kelly Kraft wearing joggers and Stan Smiths around the course? #GenesisOpen2019 #PGATour @GolfChannel #NLU", 
+                "TweetLink": "1096929363566706694", 
+                "Place": "Pennsylvania", 
+                "Time": "Sun Feb 17 00:28:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1026065049847312384/dZrY1lq1_normal.jpg"
             }
         }
     ]
