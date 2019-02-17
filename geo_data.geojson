@@ -702,6 +702,19 @@
                 "Time": "Sun Feb 17 04:33:35 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NoahPGA", 
+                "Name": "Noah Vinyard", 
+                "Tweet": "@bobmenery #rippermagoos #pgatour @djohnsonpga @ Genesis Open https://t.co/gOCFdIGpqD", 
+                "TweetLink": "1097165512650321921", 
+                "Place": "Los Angeles", 
+                "Time": "Sun Feb 17 16:06:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
+            }
         }
     ]
 }
