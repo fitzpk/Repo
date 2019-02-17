@@ -819,6 +819,32 @@
                 "Time": "Sun Feb 17 19:59:17 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/853424850278461441/Z3YQOjlR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.8737305, 37.331159]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PrincessLouGirl", 
+                "Name": "Princess", 
+                "Tweet": "@NiallOfficial Hey Nialler \u2618\ufe0f Are you watching #PGATour Final Round \ud83d\ude1c", 
+                "TweetLink": "1097229718011564032", 
+                "Place": "San Jose", 
+                "Time": "Sun Feb 17 20:22:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1097154174691635200/fBZ9K-9t_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "styleandsociety", 
+                "Name": "STYLE & SOCIETY", 
+                "Tweet": "WHO\u2019S YOUR CADDIE?#GenesisOpen \ud83c\udfcc\ud83c\udffe\u200d\u2640\ufe0f\n.\n#ootd pumagolf x @genesisopen \n.\n.\n#GenesisUSA #Golf #Caddie #GolfTournament\u2026 https://t.co/uOqDvh5Rlg", 
+                "TweetLink": "1097230293814018048", 
+                "Place": "Los Angeles", 
+                "Time": "Sun Feb 17 20:24:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/576338217189785600/Bp1fXLZn_normal.jpeg"
+            }
         }
     ]
 }
