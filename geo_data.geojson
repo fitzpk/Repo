@@ -975,6 +975,32 @@
                 "Time": "Sun Feb 17 21:37:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1072373225739485185/DR8lHXxn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Riveted to the @ChubbClassic on the @ChampionsTour. Rooting hard for one of my favorites on Next on the Tee\u2026 https://t.co/ssBF1uxbtK", 
+                "TweetLink": "1097254023705608193", 
+                "Place": "Georgia", 
+                "Time": "Sun Feb 17 21:58:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.13517, 41.3466705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "slyn27", 
+                "Name": "Saralyn Fletcher", 
+                "Tweet": "Watching the #PGATour while it\u2019s snowing outside is quite depressing....\ud83d\ude2b #WinterSucks #IMissGolfing #NeedToLiveSomewhereWarm", 
+                "TweetLink": "1097254287829291010", 
+                "Place": "Peru", 
+                "Time": "Sun Feb 17 21:59:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1092785388287156226/tpsCNZPb_normal.jpg"
+            }
         }
     ]
 }
