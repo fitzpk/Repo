@@ -676,6 +676,19 @@
                 "Time": "Sun Feb 17 01:58:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NoahPGA", 
+                "Name": "Noah Vinyard", 
+                "Tweet": "Off the shoe! #left #pgatour #driver #genesisopen #golf @justinthomas34 @ Genesis Open https://t.co/Ab7rEo8urL", 
+                "TweetLink": "1096964427839004672", 
+                "Place": "Los Angeles", 
+                "Time": "Sun Feb 17 02:47:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
+            }
         }
     ]
 }
