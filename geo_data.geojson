@@ -1105,6 +1105,32 @@
                 "Time": "Sun Feb 17 23:01:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095715834130063363/_xfbDYqD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.8077615, 26.3613605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SteveBuzzaGolf", 
+                "Name": "Steven J Buzza", 
+                "Tweet": "That was unexpected... \ud83d\ude33 #pgatour #GenesisOpen", 
+                "TweetLink": "1097277830512214016", 
+                "Place": "Bonita Springs", 
+                "Time": "Sun Feb 17 23:33:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1043618278164373505/YlOhZl0M_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-64.810483, 46.0575795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GerryLowe", 
+                "Name": "GFL \ud83c\udde8\ud83c\udde6", 
+                "Tweet": "Nothing combines fun and cruelty like golf. #JustinThomas #GenesisOpen #PGATour #GenesisOpen2019", 
+                "TweetLink": "1097278812616884224", 
+                "Place": "Riverview", 
+                "Time": "Sun Feb 17 23:37:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1053796722193940480/9q8iLQaD_normal.jpg"
+            }
         }
     ]
 }
