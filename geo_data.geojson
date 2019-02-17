@@ -1001,6 +1001,32 @@
                 "Time": "Sun Feb 17 21:59:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1092785388287156226/tpsCNZPb_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.6885355, 43.2514515]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mt_cahill", 
+                "Name": "Mike Cahill", 
+                "Tweet": "Why is Adam Scott leaving the flag in?? #GenesisOpen #PGATour", 
+                "TweetLink": "1097258055539089408", 
+                "Place": "Greece", 
+                "Time": "Sun Feb 17 22:14:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095517689152458752/QWz63emm_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.58539, 51.457877]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "nick15cox", 
+                "Name": "Nick Cox", 
+                "Tweet": "2h 45m front 9. Love watching JT et al. but that\u2019s why golfs not more popular. I\u2019m not staying up til 1 to see this through. #PGAtour", 
+                "TweetLink": "1097258186246180864", 
+                "Place": "Bristol", 
+                "Time": "Sun Feb 17 22:15:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1074418830124957696/B_fA924b_normal.jpg"
+            }
         }
     ]
 }
