@@ -910,6 +910,19 @@
                 "Time": "Sun Feb 17 21:09:39 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1046798657662734336/HY6PYmMp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "paulbarny", 
+                "Name": "Paul Matthews", 
+                "Tweet": "Come on #adamscott you good thing! @genesisopen @PGATOUR #GenesisOpen #PGATour #aussie #feelthebarn", 
+                "TweetLink": "1097242270221459456", 
+                "Place": "Texas", 
+                "Time": "Sun Feb 17 21:11:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1037499975163359232/Ai4cLfK0_normal.jpg"
+            }
         }
     ]
 }
