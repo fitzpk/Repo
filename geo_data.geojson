@@ -1131,6 +1131,19 @@
                 "Time": "Sun Feb 17 23:37:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1053796722193940480/9q8iLQaD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.3997795, 33.9563835]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dwillo67", 
+                "Name": "dwillo67", 
+                "Tweet": "JB Holmes slow play is JTs Kryptonite #GenesisOpen2019 #JustinThomas #PGATour", 
+                "TweetLink": "1097282045032550400", 
+                "Place": "Athens", 
+                "Time": "Sun Feb 17 23:50:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854025424770355200/v69WoekJ_normal.jpg"
+            }
         }
     ]
 }
