@@ -507,6 +507,32 @@
                 "Time": "Sat Feb 16 23:49:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2825111957/fdc62d478d9be9e6fbb4333b52758636_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.632718, 35.1170025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jstuddog", 
+                "Name": "Justin Edgar", 
+                "Tweet": "That was fantastic! #Tiger eagles &amp; @PhilMickelson follows it up !!! #Riviera #PGATour #GenesisOpen", 
+                "TweetLink": "1096927262245511168", 
+                "Place": "Albuquerque", 
+                "Time": "Sun Feb 17 00:20:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/945646836492124160/WvmMqiU0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "adambest_", 
+                "Name": "Adam Best", 
+                "Tweet": "Here we go @TigerWoods! #PGATOUR", 
+                "TweetLink": "1096927461428801536", 
+                "Place": "Sydney", 
+                "Time": "Sun Feb 17 00:21:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/480012783963348992/1nzxuMuK_normal.jpeg"
+            }
         }
     ]
 }
