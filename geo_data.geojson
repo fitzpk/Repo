@@ -1261,6 +1261,58 @@
                 "Time": "Mon Feb 18 00:49:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.5285785, 42.2258985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JHill_21", 
+                "Name": "Jeff Hill (TB12 3-0; #6)", 
+                "Tweet": "What a surprise by a #LosAngeles #LA crowd. People are literally out here by the TENS! #GenesisOpen2019\u2026 https://t.co/fFOXoJEHBZ", 
+                "TweetLink": "1097298383331606528", 
+                "Place": "Hopkinton", 
+                "Time": "Mon Feb 18 00:54:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972309346880286721/API5lxja_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.853542, 38.187468]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MolenKathyAnne", 
+                "Name": "Kathy Hughes Molen", 
+                "Tweet": "Going out on a limb and predicting a Kentucky boy is going to win\ud83d\ude09 #PGATour", 
+                "TweetLink": "1097298392823271424", 
+                "Place": "Frankfort", 
+                "Time": "Mon Feb 18 00:54:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/892543495113629696/I3vpg_ZB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.6547945, 31.0533845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kathrynginger22", 
+                "Name": "Kathryn Elizabeth", 
+                "Tweet": "Congrats J.B Holmes!! #PGATour", 
+                "TweetLink": "1097299379529093121", 
+                "Place": "Harker Heights", 
+                "Time": "Mon Feb 18 00:58:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1096969745998467073/fcik0ve3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.181195, 37.7896455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rusman1981", 
+                "Name": "Rusty Udy", 
+                "Tweet": "Can't help but feel good for @JBHolmesgolf What perseverance not only today, but in life too! #PGATour", 
+                "TweetLink": "1097299451369132032", 
+                "Place": "Beckley", 
+                "Time": "Mon Feb 18 00:59:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1082637006637854723/gZ32IOaq_normal.jpg"
+            }
         }
     ]
 }
