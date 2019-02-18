@@ -1391,6 +1391,19 @@
                 "Time": "Mon Feb 18 09:51:46 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1096351417424637952/WHYZXNGL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "THENICKBRADLEY", 
+                "Name": "NICKBRADLEY", 
+                "Tweet": "Isn\u2019t it amazing that the rules of golf insist you drop a ball from knee high and look like a compete twat yet the\u2026 https://t.co/3SDveCasxr", 
+                "TweetLink": "1097487501680435205", 
+                "Place": "Charlotte", 
+                "Time": "Mon Feb 18 13:26:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
+            }
         }
     ]
 }
