@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "riofranklin1", 
-                "Name": "Mario Franklin", 
-                "Tweet": "323 person best. Working on the game #ONTARIO #ontariochristianschool #longdrivecompetition #asiantour\u2026 https://t.co/OotuAPpb3W", 
-                "TweetLink": "1095904549238386688", 
-                "Place": "Ontario", 
-                "Time": "Thu Feb 14 04:36:20 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/525007602145828865/09vioPSV_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-90.328675, 38.645911]}, 
             "type": "Feature", 
             "properties": {
