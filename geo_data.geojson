@@ -1339,6 +1339,19 @@
                 "Time": "Mon Feb 18 01:21:09 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1089408466257555456/srZ4Gu-A_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ColinGooch", 
+                "Name": "Colin Gooch, PGA", 
+                "Tweet": "Well played @JBHolmesgolf.  #GenesisOpen #FedExCup #pgatour #kyproud", 
+                "TweetLink": "1097311785248534529", 
+                "Place": "Kentucky", 
+                "Time": "Mon Feb 18 01:48:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1013572979794563072/_rjD7fDp_normal.jpg"
+            }
         }
     ]
 }
