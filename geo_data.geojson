@@ -1209,6 +1209,32 @@
                 "Time": "Mon Feb 18 00:20:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1061985021425266688/7oV_NPoP_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.501261, 34.050599]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "y9rog", 
+                "Name": "Roger Watson \ud83c\uddea\ud83c\uddfa", 
+                "Tweet": "Great viewing spot for the last few groups at Riv #GenesisOpen #pgatour #Riviera https://t.co/Y7SYpz1fjV", 
+                "TweetLink": "1097292803359559680", 
+                "Place": "Genesis Open Golf Tournament", 
+                "Time": "Mon Feb 18 00:32:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/752058355351453700/o8ZGdCvg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[145.581939, -35.807108]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "housebcfc", 
+                "Name": "Brad House", 
+                "Tweet": "Kick this fat cunt J.B Holmes off the tour. The amount of time he takes is ridiculous. No good for golf #PGATour", 
+                "TweetLink": "1097294424931876864", 
+                "Place": "Tocumwal", 
+                "Time": "Mon Feb 18 00:39:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095297279043518470/yUaAgH-N_normal.jpg"
+            }
         }
     ]
 }
