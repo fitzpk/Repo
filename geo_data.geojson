@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-90.328675, 38.645911]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LennyFassbender", 
-                "Name": "Leonardo Fassbender", 
-                "Tweet": "If we\u2019re gonna focus on this Matt Kuchar cheapskate thing &amp; fake nice guy image, it\u2019s gonna open a can of worms. Th\u2026 https://t.co/HIMfixNHLy", 
-                "TweetLink": "1095906856835469312", 
-                "Place": "Clayton", 
-                "Time": "Thu Feb 14 04:45:30 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1009106195913641984/SvpWSyHg_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-123.6694535, 48.8460845]}, 
             "type": "Feature", 
             "properties": {
