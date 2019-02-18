@@ -1430,6 +1430,19 @@
                 "Time": "Mon Feb 18 05:29:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1037427030650892289/7nxj529C_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Reales522", 
+                "Name": "Cindy Reales", 
+                "Tweet": "Follow your intuition, it will always lead you to the right destination. \u2013 #FearlessSoul #Nature #TorreyPines\u2026 https://t.co/y4Q7E8KYzF", 
+                "TweetLink": "1097375957038448640", 
+                "Place": "San Diego", 
+                "Time": "Mon Feb 18 06:03:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1078903964366704640/_xEJlSuO_normal.jpg"
+            }
         }
     ]
 }
