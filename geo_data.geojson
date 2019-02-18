@@ -1313,6 +1313,19 @@
                 "Time": "Mon Feb 18 00:59:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1082637006637854723/gZ32IOaq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShayleeLately", 
+                "Name": "Shaylee", 
+                "Tweet": "Congrats to @JBHolmesgolf! Gotta be honest, I feel bad for @JustinThomas34. He had a great tournament despite all t\u2026 https://t.co/sB8PtQ4TzO", 
+                "TweetLink": "1097300103742869505", 
+                "Place": "Kansas City", 
+                "Time": "Mon Feb 18 01:01:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800543528111706112/VhlCoi89_normal.jpg"
+            }
         }
     ]
 }
