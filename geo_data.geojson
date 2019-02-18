@@ -1235,6 +1235,32 @@
                 "Time": "Mon Feb 18 00:39:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095297279043518470/yUaAgH-N_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.1743985, 53.257283]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "derekgoulding", 
+                "Name": "Derek Goulding", 
+                "Tweet": "I would absolutely lose the plot if I were having to play with JB Holmes today. Shot clocks need to be introduced #GenesisOpen #PGATour", 
+                "TweetLink": "1097295048906027008", 
+                "Place": "Dun Laoghaire-Rathdown", 
+                "Time": "Mon Feb 18 00:41:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3771165654/ad682ef818539ee87a19dd4a8dde21ff_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "Would like to see the step counts of the caddies today at the @genesisopen \ud83d\udcaa#PGATour #longday", 
+                "TweetLink": "1097297029691248642", 
+                "Place": "South Burlington", 
+                "Time": "Mon Feb 18 00:49:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
+            }
         }
     ]
 }
