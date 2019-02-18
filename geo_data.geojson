@@ -1404,6 +1404,19 @@
                 "Time": "Mon Feb 18 03:32:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/986027655316279297/ViQ5rnGt_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Congratulations to @JBHolmesGolf's win today at the @genesisopen at @rivieragolf. It was his first win in four year\u2026 https://t.co/QiNSkLhI3p", 
+                "TweetLink": "1097358705073504256", 
+                "Place": "Los Angeles", 
+                "Time": "Mon Feb 18 04:54:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
         }
     ]
 }
