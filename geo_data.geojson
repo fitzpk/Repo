@@ -1391,6 +1391,19 @@
                 "Time": "Mon Feb 18 02:50:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1091565342797684736/dCVkQfLN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PetersonKira", 
+                "Name": "Miss Kira", 
+                "Tweet": "@HappyHourGolfSh at The Bottle Shop Lake Geneva. We will be doing our show there every Wednesday night at 3:30 CST.\u2026 https://t.co/kxytAv4eQ4", 
+                "TweetLink": "1097328181567242241", 
+                "Place": "Wisconsin", 
+                "Time": "Mon Feb 18 02:53:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095171397381435392/RnhSCqR3_normal.jpg"
+            }
         }
     ]
 }
