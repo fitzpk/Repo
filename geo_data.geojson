@@ -1183,6 +1183,32 @@
                 "Time": "Mon Feb 18 00:03:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/989286977982824448/p_6_t_LB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1354525, 37.6968065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TweetsFromTommy", 
+                "Name": "Tommy Castor", 
+                "Tweet": "Man, I love Sunday golf.\n\n#PGATour #GenesisOpen", 
+                "TweetLink": "1097289309646917634", 
+                "Place": "Andover", 
+                "Time": "Mon Feb 18 00:18:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/896217922087133184/Uhp0ZdCv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.071269, 26.589495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "melz19230", 
+                "Name": "Melz", 
+                "Tweet": "I am not a JB Holmes fan #pgatour #slowplay", 
+                "TweetLink": "1097289784693874688", 
+                "Place": "Lantana", 
+                "Time": "Mon Feb 18 00:20:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1061985021425266688/7oV_NPoP_normal.jpg"
+            }
         }
     ]
 }
