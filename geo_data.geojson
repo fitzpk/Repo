@@ -1534,6 +1534,19 @@
                 "Time": "Mon Feb 18 17:38:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.91805, 32.2568125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BoglePhoto", 
+                "Name": "Bill Bogle Jr.", 
+                "Tweet": "@FairwayFairholm People need to keep bringing this up like Kucher's caddie issue. Only then will the #PGATour start\u2026 https://t.co/sxh4SLVRhI", 
+                "TweetLink": "1097615554196787203", 
+                "Place": "Bluffton", 
+                "Time": "Mon Feb 18 21:55:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/409066955/20080917-Bridge_in_Fog_normal.jpg"
+            }
         }
     ]
 }
