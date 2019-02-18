@@ -1378,6 +1378,19 @@
                 "Time": "Mon Feb 18 02:34:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/843983789529452544/C8eqFTy__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-116.97168, 44.0275005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ZRibera", 
+                "Name": "ZaZa\u264d", 
+                "Tweet": "The seasons went from Winter to Spring with how long JB Holmes was taking for his putts. #PGATour", 
+                "TweetLink": "1097327350604124160", 
+                "Place": "Ontario", 
+                "Time": "Mon Feb 18 02:50:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1091565342797684736/dCVkQfLN_normal.jpg"
+            }
         }
     ]
 }
