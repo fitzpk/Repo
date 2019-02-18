@@ -1404,6 +1404,19 @@
                 "Time": "Mon Feb 18 02:53:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095171397381435392/RnhSCqR3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheAngelaAkins", 
+                "Name": "Angela Garcia", 
+                "Tweet": "Can\u2019t beat dinner with this crew and can\u2019t beat having amazing friends out here on the road! \u2764\ufe0f #golffriends\u2026 https://t.co/Si3iDXiQhs", 
+                "TweetLink": "1097338127096500224", 
+                "Place": "Los Angeles", 
+                "Time": "Mon Feb 18 03:32:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986027655316279297/ViQ5rnGt_normal.jpg"
+            }
         }
     ]
 }
