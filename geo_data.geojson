@@ -1365,6 +1365,19 @@
                 "Time": "Mon Feb 18 02:09:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ToddCaddie", 
+                "Name": "Todd Montoya\u2122", 
+                "Tweet": "Thank you @genesisopen for the @innoutburger after the round today as well as the great hospitality all week. You t\u2026 https://t.co/rnVoQRhgtA", 
+                "TweetLink": "1097323550061424640", 
+                "Place": "Los Angeles", 
+                "Time": "Mon Feb 18 02:34:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843983789529452544/C8eqFTy__normal.jpg"
+            }
         }
     ]
 }
