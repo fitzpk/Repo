@@ -1417,6 +1417,58 @@
                 "Time": "Mon Feb 18 14:01:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Improve your #Golf game with my guy Rob Strano @StranoGolf. See how you can improve your chipping, putting, &amp; drivi\u2026 https://t.co/4h7KGwalvL", 
+                "TweetLink": "1097496480355663872", 
+                "Place": "Georgia", 
+                "Time": "Mon Feb 18 14:02:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.2656345, 42.7539075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfMulberry", 
+                "Name": "Mulberry Hills GC \u26f3\ufe0f\ud83c\udf7b", 
+                "Tweet": "Was goin to tweet 2 hours ago but I saw how JD Holmes does it #PGATour #GolfChannel #golf #slowplay", 
+                "TweetLink": "1097500999860846593", 
+                "Place": "Orion", 
+                "Time": "Mon Feb 18 14:20:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085904786304782337/bt17mLTg_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Check out how to make positive impact in your #Golf swing with @BrianJacobsgolf https://t.co/duuHyysNrw\n#golfer\u2026 https://t.co/wiD8skt5Vh", 
+                "TweetLink": "1097501194333900800", 
+                "Place": "Georgia", 
+                "Time": "Mon Feb 18 14:20:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Check out how to make positive impact in your #Golf swing with @BrianJacobsgolf https://t.co/duuHyysNrw \n#golfer\u2026 https://t.co/XTq7XrHFNb", 
+                "TweetLink": "1097501379843764227", 
+                "Place": "Georgia", 
+                "Time": "Mon Feb 18 14:21:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
