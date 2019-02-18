@@ -1469,6 +1469,71 @@
                 "Time": "Mon Feb 18 14:21:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Coming up on Next on the Tee:\n2/19: @DonnieHammond &amp; @pgrangaard \n2/26: @CFishPGA Scott Simpson &amp; @TomPatri \n3/5: M\u2026 https://t.co/WLamEinqkO", 
+                "TweetLink": "1097514193476034560", 
+                "Place": "Georgia", 
+                "Time": "Mon Feb 18 15:12:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-105.1319435, 39.580225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PaulLuchau", 
+                "Name": "Luke22", 
+                "Tweet": "@GolfChannel - #jbholmes is a slow play disaster!  In an event last year he took just over 4 minutes to play his ne\u2026 https://t.co/rzZeiLwAam", 
+                "TweetLink": "1097526587300298754", 
+                "Place": "Ken Caryl", 
+                "Time": "Mon Feb 18 16:01:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/770476058852388865/qLSqE_uF_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "After an oft-delayed Genesis Open, its only fitting one of the slowest players on Tour was left holding the trophy.\u2026 https://t.co/CIPz03n39C", 
+                "TweetLink": "1097540227336302595", 
+                "Place": "Brampton", 
+                "Time": "Mon Feb 18 16:55:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.244546, 32.904616]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "br09402", 
+                "Name": "TJ Valenzuela", 
+                "Tweet": "A little windy on Sunday morning at #TorreyPines #sandiego @GolfTorrey still a perfect day. https://t.co/ezPcgzBGLr", 
+                "TweetLink": "1097550819409375233", 
+                "Place": "Torrey Pines Golf Course", 
+                "Time": "Mon Feb 18 17:38:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.4275355, 43.000058]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrianJacobsgolf", 
+                "Name": "Brian Jacobs Golf", 
+                "Tweet": "Thanks for posting @ctmascaro special times always at @GolfChannel", 
+                "TweetLink": "1097550824916570113", 
+                "Place": "Victor", 
+                "Time": "Mon Feb 18 17:38:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
+            }
         }
     ]
 }
