@@ -1417,6 +1417,19 @@
                 "Time": "Mon Feb 18 04:54:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.469664, 38.561722]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Brian_J_Lutz", 
+                "Name": "Brian J Lutz", 
+                "Tweet": "You\u2019re always working hard out there Paul!  If you remember, I met you a few years ago at Riviera.  I was the sheri\u2026 https://t.co/XZd1l4jLST", 
+                "TweetLink": "1097367556657041408", 
+                "Place": "Sacramento", 
+                "Time": "Mon Feb 18 05:29:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1037427030650892289/7nxj529C_normal.jpg"
+            }
         }
     ]
 }
