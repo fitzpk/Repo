@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BPSnow11", 
-                "Name": "BigBucksNoWhammies", 
-                "Tweet": "R1 Locations", 
-                "TweetLink": "1095882641969164289", 
-                "Place": "Virginia", 
-                "Time": "Thu Feb 14 03:09:17 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/547428385434386432/gpn3B-CF_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-89.949954, 34.3088885]}, 
             "type": "Feature", 
             "properties": {
