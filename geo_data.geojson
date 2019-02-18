@@ -1352,6 +1352,19 @@
                 "Time": "Mon Feb 18 01:48:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1013572979794563072/_rjD7fDp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LowTidePutters", 
+                "Name": "Low Tide Putters", 
+                "Tweet": "Sunday stamping some customs... #RollWithUs #USA\n\u2022\n\u2022\n#GolfWRX #MyGolfSpy #PGA365 #NBA #AllStar #PGATour #Golfer\u2026 https://t.co/feQ6pDOiKZ", 
+                "TweetLink": "1097317184362078209", 
+                "Place": "Charlotte", 
+                "Time": "Mon Feb 18 02:09:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
+            }
         }
     ]
 }
