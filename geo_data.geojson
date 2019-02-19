@@ -1560,6 +1560,19 @@
                 "Time": "Tue Feb 19 22:38:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/660290645941075968/J7s0Zjks_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IamTheGup", 
+                "Name": "Gup \ud83c\udfb2\ud83c\udfb2", 
+                "Tweet": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\n$100 charity bet \ud83d\udcb5 \ud83d\udd25 \nHow to attack NC Event \ud83d\udd25 \nGup\u2019s Rankings Upgrade \ud83d\udd25 \nRuvy\u2019s Island \ud83c\udf34 \ud83d\udd25 \nJoin Gup\u2026 https://t.co/n1wOQhigou", 
+                "TweetLink": "1097993604608466945", 
+                "Place": "Texas", 
+                "Time": "Tue Feb 19 22:57:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081373254428905472/kUvzg8lJ_normal.jpg"
+            }
         }
     ]
 }
