@@ -1573,6 +1573,19 @@
                 "Time": "Tue Feb 19 22:57:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081373254428905472/kUvzg8lJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-65.786424, 18.385125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "John_Rollins", 
+                "Name": "John Rollins", 
+                "Tweet": "Great view tonight for dinner. #PuertoRico #Richiescafe #pgatour @ Richies Cafe https://t.co/Drwx3KPR2x", 
+                "TweetLink": "1098006453204516864", 
+                "Place": "Zarzal", 
+                "Time": "Tue Feb 19 23:48:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/550777707177713665/lsnfKWEz_normal.jpeg"
+            }
         }
     ]
 }
