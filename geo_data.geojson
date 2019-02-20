@@ -1599,6 +1599,19 @@
                 "Time": "Wed Feb 20 00:18:32 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095735778838265857/v7Ub9Fpj_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.584618, 29.8935655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfPokerClub", 
+                "Name": "GOLF & POKER CLUB", 
+                "Tweet": "The equipment tweak Tiger Woods made to take advantage of the thin air in Mexico\u2014and why it\u2019s a smart move\u2026 https://t.co/BX2wbPgIio", 
+                "TweetLink": "1098017242384617475", 
+                "Place": "Jersey Village", 
+                "Time": "Wed Feb 20 00:31:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081734303070019584/zbxF3VRF_normal.jpg"
+            }
         }
     ]
 }
