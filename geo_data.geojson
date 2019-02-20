@@ -1586,6 +1586,19 @@
                 "Time": "Tue Feb 19 23:48:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/550777707177713665/lsnfKWEz_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.2719035, 26.75897]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RorySmithGolf", 
+                "Name": "Rory Smith", 
+                "Tweet": "Slow start really killed me today and couldn\u2019t really recover from it. Still some work to be done before\u2026 https://t.co/5SbYWpAmqS", 
+                "TweetLink": "1098014001651273728", 
+                "Place": "The Acreage", 
+                "Time": "Wed Feb 20 00:18:32 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735778838265857/v7Ub9Fpj_normal.jpg"
+            }
         }
     ]
 }
