@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-123.6694535, 48.8460845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "taiterstan", 
-                "Name": "David Tait", 
-                "Tweet": "Hmmm. So #Kuchar apparently will pay his fill-in caddie $50K. That's still less than half of what his regular caddi\u2026 https://t.co/qVvhGzxTxr", 
-                "TweetLink": "1096532754177478656", 
-                "Place": "North Cowichan", 
-                "Time": "Fri Feb 15 22:12:35 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1080157730231341056/fo9HT7c3_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
             "type": "Feature", 
             "properties": {
@@ -1624,6 +1611,19 @@
                 "Place": "San Jose", 
                 "Time": "Wed Feb 20 02:32:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/697505357011111938/QtLIwNc6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.5889745, 45.630589]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ALanoII", 
+                "Name": "Andrew Lano II", 
+                "Tweet": "@tonyromo offering my pro caddie services for the @attbyronnelson week....like back in 2008 at Dallas CC Lets go!!\u2026 https://t.co/iYx2snpL0p", 
+                "TweetLink": "1098058523294916610", 
+                "Place": "Vancouver", 
+                "Time": "Wed Feb 20 03:15:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1041342886887882754/6xSxmmOj_normal.jpg"
             }
         }
     ]
