@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Matt Kuchar has released a statement and will make things right with David Ortiz. #MattKuchar #DavidOrtiz\u2026 https://t.co/GesKbd2DLD", 
-                "TweetLink": "1096536269499305984", 
-                "Place": "Charlotte", 
-                "Time": "Fri Feb 15 22:26:33 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-93.3596435, 44.991707]}, 
             "type": "Feature", 
             "properties": {
