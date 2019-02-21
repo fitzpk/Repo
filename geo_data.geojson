@@ -1092,6 +1092,32 @@
                 "Time": "Thu Feb 21 17:17:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/958947250826199040/mGUSALvi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-9.159995, 38.743614]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gillinghammer", 
+                "Name": "Colin Gillingham", 
+                "Tweet": "Loving that the World Golf Championship relocated from @realDonaldTrump #Doral course and to #Mexico after his awfu\u2026 https://t.co/afzEJHXU58", 
+                "TweetLink": "1098634388080918528", 
+                "Place": "Lisbon", 
+                "Time": "Thu Feb 21 17:23:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/842320320925204480/-EHoDDLW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NMSUPGA", 
+                "Name": "NMSU PGA Golf Mgt", 
+                "Tweet": "NMSU.... Come join us!! \n.\n.\n.\n#nmsupga #pga #pgatour #europeantour #lpga #lpgatour #ajga #juniorgolf #juniorgolfer\u2026 https://t.co/uNWJln6F95", 
+                "TweetLink": "1098635039560982528", 
+                "Place": "University Park", 
+                "Time": "Thu Feb 21 17:26:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
+            }
         }
     ]
 }
