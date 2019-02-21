@@ -1066,6 +1066,19 @@
                 "Time": "Thu Feb 21 13:56:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/550777707177713665/lsnfKWEz_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.24357, 19.432979]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drspaventa", 
+                "Name": "Antonio Spaventa", 
+                "Tweet": "Formando parte por tercer a\u00f1o del equipo m\u00e9dico de los jugadores y staff de #PGA #WGCMexico #PGATOUR club de golf\u2026 https://t.co/Nx78drGV8e", 
+                "TweetLink": "1098610629898788864", 
+                "Place": "WGC Mexico Championship Media Center", 
+                "Time": "Thu Feb 21 15:49:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1201786919/FotoMisDoctores_normal.jpg"
+            }
         }
     ]
 }
