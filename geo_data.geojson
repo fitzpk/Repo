@@ -1053,6 +1053,19 @@
                 "Time": "Thu Feb 21 13:50:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/554896346139099137/nbnRgd9k_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-65.786424, 18.385125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "John_Rollins", 
+                "Name": "John Rollins", 
+                "Tweet": "Getting ready for Round 1 of the @puertoricoopen. Ready for a great week. #windy #hititlow #pgatour\u2026 https://t.co/TcABP6jMXD", 
+                "TweetLink": "1098582253997719554", 
+                "Place": "Zarzal", 
+                "Time": "Thu Feb 21 13:56:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/550777707177713665/lsnfKWEz_normal.jpeg"
+            }
         }
     ]
 }
