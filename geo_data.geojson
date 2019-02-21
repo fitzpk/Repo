@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[75.0684065, 32.657848]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DrVeeri", 
-                "Name": "Dr Veeri. \u200f\u0688\u0627\u06a9\u0679\u0631 \u0648\u0650\u06cc\u0631\u06cc", 
-                "Tweet": "\"PGA TOUR LIVE on Twitter\" #PGATOUR https://t.co/XvVgwmkZ44", 
-                "TweetLink": "1097172323663339521", 
-                "Place": "Jammu", 
-                "Time": "Sun Feb 17 16:34:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/839543907545399296/Pb6h7aY7_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "y9rog", 
-                "Name": "Roger Watson \ud83c\uddea\ud83c\uddfa", 
-                "Tweet": "Clubhouse access on Sunday at Riv \u2764 #GenesisOpen #Riviera #pgatour https://t.co/jfZ6mu9KWL", 
-                "TweetLink": "1097172719068680193", 
-                "Place": "Los Angeles", 
-                "Time": "Sun Feb 17 16:35:35 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/752058355351453700/o8ZGdCvg_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "theMVB", 
-                "Name": "MostValuableBarber\u2122", 
-                "Tweet": "Beard work.... \ud83d\udc88    #GCU #ASU #phoenixbarber  #scottsdalebarber #LAbarber #pgatour #springtraining #law #lawyer\u2026 https://t.co/4w3LmzJkxV", 
-                "TweetLink": "1097175355486420992", 
-                "Place": "Phoenix", 
-                "Time": "Sun Feb 17 16:46:03 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-123.6694535, 48.8460845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "taiterstan", 
-                "Name": "David Tait", 
-                "Tweet": "Biggest upward moves in round 3 of the @genesisopen? #TigerWoods (-7) through 15 &amp; @NickTaylorGolf (-5) through 12. YES! #PGATour #Golf", 
-                "TweetLink": "1097175878822375425", 
-                "Place": "North Cowichan", 
-                "Time": "Sun Feb 17 16:48:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1080157730231341056/fo9HT7c3_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
             "type": "Feature", 
             "properties": {
