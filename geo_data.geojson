@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "THENICKBRADLEY", 
-                "Name": "NICKBRADLEY", 
-                "Tweet": "Isn\u2019t it amazing that the rules of golf insist you drop a ball from knee high and look like a compete twat yet the\u2026 https://t.co/3SDveCasxr", 
-                "TweetLink": "1097487501680435205", 
-                "Place": "Charlotte", 
-                "Time": "Mon Feb 18 13:26:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
             "type": "Feature", 
             "properties": {
@@ -480,6 +467,32 @@
                 "Place": "Washington", 
                 "Time": "Fri Feb 22 17:59:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1008719564677533696/1HJLKHLT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "\"Unfortunately, due to the schedule this year, I cannot play all the events I want to. I will be taking next week o\u2026 https://t.co/zyYqvMObgV", 
+                "TweetLink": "1099013283812659200", 
+                "Place": "Winnipeg", 
+                "Time": "Fri Feb 22 18:29:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.2293965, 19.183953]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "yopo_canseco", 
+                "Name": "Y99", 
+                "Tweet": "Que chingon los que tienen la oportunidad de ver a Tiger Woods! \ud83d\udc05 #PGATour", 
+                "TweetLink": "1099013664114335744", 
+                "Place": "Veracruz", 
+                "Time": "Fri Feb 22 18:30:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954744457756323840/6kizqWa9_normal.jpg"
             }
         }
     ]
