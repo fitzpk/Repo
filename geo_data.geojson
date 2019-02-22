@@ -442,6 +442,19 @@
                 "Time": "Fri Feb 22 22:41:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/935075153087746048/3axH7YnW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.7396195, 55.1314185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "a6_ryg", 
+                "Name": "Ryan Gardiner", 
+                "Tweet": "Hosung Choi got battered for swinging the club something like this! #PGATour #Tiger", 
+                "TweetLink": "1099078468225171456", 
+                "Place": "North East", 
+                "Time": "Fri Feb 22 22:48:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1022007333952598017/JjE8y2aG_normal.jpg"
+            }
         }
     ]
 }
