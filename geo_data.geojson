@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctmascaro", 
-                "Name": "Chris Mascaro", 
-                "Tweet": "Coming up on Next on the Tee:\n2/19: @DonnieHammond &amp; @pgrangaard \n2/26: @CFishPGA Scott Simpson &amp; @TomPatri \n3/5: M\u2026 https://t.co/WLamEinqkO", 
-                "TweetLink": "1097514193476034560", 
-                "Place": "Georgia", 
-                "Time": "Mon Feb 18 15:12:29 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-105.1319435, 39.580225]}, 
             "type": "Feature", 
             "properties": {
