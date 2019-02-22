@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "up_glove", 
-                "Name": "UpGlove", 
-                "Tweet": "Getting some range work in. Don't ever leave without your UpGloves! Check us out, link in bio.\n.\n.\n#golf #pgatour\u2026 https://t.co/piWMbnJJ3q", 
-                "TweetLink": "1097223983852933122", 
-                "Place": "Florida", 
-                "Time": "Sun Feb 17 19:59:17 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/853424850278461441/Z3YQOjlR_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-121.8737305, 37.331159]}, 
             "type": "Feature", 
             "properties": {
