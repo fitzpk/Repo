@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.244546, 32.904616]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "br09402", 
-                "Name": "TJ Valenzuela", 
-                "Tweet": "A little windy on Sunday morning at #TorreyPines #sandiego @GolfTorrey still a perfect day. https://t.co/ezPcgzBGLr", 
-                "TweetLink": "1097550819409375233", 
-                "Place": "Torrey Pines Golf Course", 
-                "Time": "Mon Feb 18 17:38:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-77.4275355, 43.000058]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BrianJacobsgolf", 
-                "Name": "Brian Jacobs Golf", 
-                "Tweet": "Thanks for posting @ctmascaro special times always at @GolfChannel", 
-                "TweetLink": "1097550824916570113", 
-                "Place": "Victor", 
-                "Time": "Mon Feb 18 17:38:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.91805, 32.2568125]}, 
             "type": "Feature", 
             "properties": {
@@ -441,6 +415,32 @@
                 "Place": "Naucalpan de Ju\u00e1rez", 
                 "Time": "Fri Feb 22 21:34:49 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/951574677448687621/85xwDENE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.1540125, 53.0193965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rich16Allen", 
+                "Name": "Richard Allen SRSB", 
+                "Tweet": "Glimpsing Tiger from back of the day with shots like that!! #pgatour", 
+                "TweetLink": "1099075957162496000", 
+                "Place": "Stoke-on-Trent", 
+                "Time": "Fri Feb 22 22:38:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935075153087746048/3axH7YnW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.1540125, 53.0193965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rich16Allen", 
+                "Name": "Richard Allen SRSB", 
+                "Tweet": "I\u2019ve got stop betting on Rham! #PGATour", 
+                "TweetLink": "1099076685012582401", 
+                "Place": "Stoke-on-Trent", 
+                "Time": "Fri Feb 22 22:41:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935075153087746048/3axH7YnW_normal.jpg"
             }
         }
     ]
