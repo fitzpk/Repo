@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-3.5148765, 50.72094]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SmithyGolfs", 
-                "Name": "Mike Smith", 
-                "Tweet": "J.B. Holmes outlasts @justinthomas34 to win the @genesisopen \ud83c\udfc6\ud83e\udd47 \n\n\ud83d\udcf8- @golf.com #golfnews #genisisopen #jbholmes\u2026 https://t.co/32pWLCV6In", 
-                "TweetLink": "1097433482068938752", 
-                "Place": "Exeter", 
-                "Time": "Mon Feb 18 09:51:46 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1096351417424637952/WHYZXNGL_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
             "type": "Feature", 
             "properties": {
@@ -428,6 +415,19 @@
                 "Place": "Yorkshire and The Humber", 
                 "Time": "Fri Feb 22 14:20:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1066453276462333952/0N9Pw_f6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.302512, 30.8560845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "thomasstew1", 
+                "Name": "Thomas Stewart", 
+                "Tweet": "Going on the SB2k trip is becoming the golf version of football's Madden cover jinx. #cantbreakpar #JTandRicknext #pgatour", 
+                "TweetLink": "1098954022680231937", 
+                "Place": "Valdosta", 
+                "Time": "Fri Feb 22 14:33:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1050554193910657024/2clSUU9H_normal.jpg"
             }
         }
     ]
