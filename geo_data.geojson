@@ -442,6 +442,32 @@
                 "Time": "Fri Feb 22 15:25:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NeuropeakPro", 
+                "Name": "Neuropeak Pro", 
+                "Tweet": "We\u2019re going live at 3:15pm EST on PGA Tour Live. Tune in to hear Tim Bergsma talk more about our training with\u2026 https://t.co/mnV7Cg9JqW", 
+                "TweetLink": "1098986399695437825", 
+                "Place": "Naucalpan de Ju\u00e1rez", 
+                "Time": "Fri Feb 22 16:42:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1097892192398516227/XJgLbLSM_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Loews_Hotels", 
+                "Name": "Loews Hotels", 
+                "Tweet": "Hike #TorreyPines and discover nature or browse @LPMSanDiego's fresh food options? Plenty of ways to enjoy San Dieg\u2026 https://t.co/wLbaTu0Mfq", 
+                "TweetLink": "1098987300418138112", 
+                "Place": "Torrey Pines", 
+                "Time": "Fri Feb 22 16:46:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/859146416312156163/EX5u6DEu_normal.jpg"
+            }
         }
     ]
 }
