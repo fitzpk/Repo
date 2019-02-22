@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Fugazzo", 
-                "Name": "Karim A", 
-                "Tweet": "PGA World Golf Championship Mexico 2019 #pga #wgcmexico #pgatour #mexico #wgc2019 #faa107certified #faa107 #golf en\u2026 https://t.co/cvCNmnWvQf", 
-                "TweetLink": "1097221696577101824", 
-                "Place": "Naucalpan de Ju\u00e1rez", 
-                "Time": "Sun Feb 17 19:50:12 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2277841326/image_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
