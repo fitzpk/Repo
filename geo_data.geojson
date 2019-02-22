@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctmascaro", 
-                "Name": "Chris Mascaro", 
-                "Tweet": "Improve your #Golf game with my guy Rob Strano @StranoGolf. See how you can improve your chipping, putting, &amp; drivi\u2026 https://t.co/4h7KGwalvL", 
-                "TweetLink": "1097496480355663872", 
-                "Place": "Georgia", 
-                "Time": "Mon Feb 18 14:02:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.2656345, 42.7539075]}, 
             "type": "Feature", 
             "properties": {
@@ -480,6 +467,19 @@
                 "Place": "Veracruz", 
                 "Time": "Fri Feb 22 18:30:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/954744457756323840/6kizqWa9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "@jacknicklaus Happy Birthday sir. \ud83d\udc10 #golf #pgatour", 
+                "TweetLink": "1099023190658027524", 
+                "Place": "Vermont", 
+                "Time": "Fri Feb 22 19:08:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
         }
     ]
