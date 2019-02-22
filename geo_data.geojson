@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.877735, 37.6629475]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DipakPatel", 
-                "Name": "Dipak M. Patel", 
-                "Tweet": "Ummm. @TigerWoods ...hit a #fairway #PGATour", 
-                "TweetLink": "1097245209509879808", 
-                "Place": "Pleasanton", 
-                "Time": "Sun Feb 17 21:23:38 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/685951590096764928/kPtinfPc_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
             "type": "Feature", 
             "properties": {
