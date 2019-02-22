@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-114.087851, 51.027664]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JasonP_YYC", 
-                "Name": "Jason P.", 
-                "Tweet": "@the_fried_egg  Fed Ex Alert.", 
-                "TweetLink": "1097210319884222465", 
-                "Place": "Calgary", 
-                "Time": "Sun Feb 17 19:05:00 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1024856488999710720/ZNirylsD_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
             "type": "Feature", 
             "properties": {
