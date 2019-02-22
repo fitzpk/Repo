@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "paulonest87", 
-                "Name": "hoosierncali", 
-                "Tweet": "JB Holmes is so slow #PGATour", 
-                "TweetLink": "1097247800427855872", 
-                "Place": "Rancho Santa Margarita", 
-                "Time": "Sun Feb 17 21:33:56 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1035572016923869184/xv9TBfXR_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-72.757385, 41.500753]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Thom_Cordeiro", 
-                "Name": "Thom Cordeiro\u2122", 
-                "Tweet": "This is insane!  @JBHolmesgolf ball just disappears in the rough coming out of the fairway bunker! I don\u2019t think I\u2026 https://t.co/6oo5rqwkta", 
-                "TweetLink": "1097248103550369799", 
-                "Place": "Connecticut", 
-                "Time": "Sun Feb 17 21:35:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/948591675433156611/lS3-n-1S_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-2.228955, 53.59008]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SteLowe93", 
-                "Name": "Steven Lowe", 
-                "Tweet": "@JustinThomas34 having an absolute mare in this 4th round!! #GenesisOpen #pgatour", 
-                "TweetLink": "1097248772210548736", 
-                "Place": "Heywood", 
-                "Time": "Sun Feb 17 21:37:47 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1072373225739485185/DR8lHXxn_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
             "type": "Feature", 
             "properties": {
