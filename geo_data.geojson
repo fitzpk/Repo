@@ -429,6 +429,19 @@
                 "Time": "Fri Feb 22 14:33:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1050554193910657024/2clSUU9H_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "Raise your hand if you find @b_dechambeau exhausting. Me: \u270b #holf #pgatour #enough", 
+                "TweetLink": "1098966945846738945", 
+                "Place": "Vermont", 
+                "Time": "Fri Feb 22 15:25:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
+            }
         }
     ]
 }
