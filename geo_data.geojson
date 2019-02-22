@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-105.1319435, 39.580225]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PaulLuchau", 
-                "Name": "Luke22", 
-                "Tweet": "@GolfChannel - #jbholmes is a slow play disaster!  In an event last year he took just over 4 minutes to play his ne\u2026 https://t.co/rzZeiLwAam", 
-                "TweetLink": "1097526587300298754", 
-                "Place": "Ken Caryl", 
-                "Time": "Mon Feb 18 16:01:44 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/770476058852388865/qLSqE_uF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
