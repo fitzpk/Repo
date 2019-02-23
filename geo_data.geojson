@@ -455,6 +455,19 @@
                 "Time": "Fri Feb 22 22:58:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1096317531076395008/oFivFlxJ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "For the first time in his career I don\u2019t think the fans in Mexico were actually saying \u201cKooch\u201d\n\n#WGCMexico #PGATour #LiveUnderPar", 
+                "TweetLink": "1099373758949687296", 
+                "Place": "Brampton", 
+                "Time": "Sat Feb 23 18:21:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
         }
     ]
 }
