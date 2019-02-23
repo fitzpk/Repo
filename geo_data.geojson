@@ -468,6 +468,19 @@
                 "Time": "Sat Feb 23 18:21:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.494088, 42.48158]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NickelD1979", 
+                "Name": "Nickel D", 
+                "Tweet": "Someone please get #DavidFeherty a glass of water.  #cottonmouth #lipsmacking #PGATour #NBC", 
+                "TweetLink": "1099399501427736576", 
+                "Place": "Novi", 
+                "Time": "Sat Feb 23 20:04:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068074948219076608/5HeAkRmE_normal.jpg"
+            }
         }
     ]
 }
