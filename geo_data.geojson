@@ -507,6 +507,19 @@
                 "Time": "Sat Feb 23 22:53:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1060019125303545856/NteBLDDY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@DanHicksNBC every time you say...\n\n #JohnnyMiller\n\n...I'm going to tweet his @DigitalPaintCan cARToon \n\n@NBCSports\u2026 https://t.co/UAlZr75ecE", 
+                "TweetLink": "1099445266183274499", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Feb 23 23:05:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
