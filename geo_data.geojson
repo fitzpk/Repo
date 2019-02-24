@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-106.2717475, 23.46814]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "AntonyHeras", 
-                "Name": "HERAS\ud83d\udea2\ud83c\uddf2\ud83c\uddfd", 
-                "Tweet": "Tener al tigre en tierras mexicanas sin duda son de los momentos m\u00e1s hist\u00f3ricos del golf en M\u00e9xico #TigerWoods\u2026 https://t.co/eAwi6nOJ0Z", 
-                "TweetLink": "1098039244747096065", 
-                "Place": "Mazatl\u00e1n", 
-                "Time": "Wed Feb 20 01:58:51 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1088961735237615618/2lw6S6uq_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-121.8737305, 37.331159]}, 
             "type": "Feature", 
             "properties": {
