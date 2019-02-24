@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.8737305, 37.331159]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "EricBodtkerArt", 
-                "Name": "Eric Bodtker", 
-                "Tweet": "When an artist (me) \ud83d\udc68\ud83c\udffb\u200d\ud83c\udfa8 rediscovers his love for golf \u26f3\ufe0f  he designs his own ball stamp so there\u2019s no question who\u2026 https://t.co/cDC3g5OcYf", 
-                "TweetLink": "1098047696143671297", 
-                "Place": "San Jose", 
-                "Time": "Wed Feb 20 02:32:26 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/697505357011111938/QtLIwNc6_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-122.5889745, 45.630589]}, 
             "type": "Feature", 
             "properties": {
