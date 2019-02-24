@@ -546,6 +546,19 @@
                 "Time": "Sun Feb 24 01:41:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/892137459131318272/lH1X7rlg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.319862, 34.881923]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "richkmaxwell", 
+                "Name": "Rich K. Maxwell", 
+                "Tweet": "@mbutta326 what\u2019s next on the seasons tourney list? #thegirnd #PGATour #WebTour", 
+                "TweetLink": "1099492060342693888", 
+                "Place": "Wade Hampton", 
+                "Time": "Sun Feb 24 02:11:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/996195382039339009/f90kpyeF_normal.jpg"
+            }
         }
     ]
 }
