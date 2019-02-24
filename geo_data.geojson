@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-122.5889745, 45.630589]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ALanoII", 
-                "Name": "Andrew Lano II", 
-                "Tweet": "@tonyromo offering my pro caddie services for the @attbyronnelson week....like back in 2008 at Dallas CC Lets go!!\u2026 https://t.co/iYx2snpL0p", 
-                "TweetLink": "1098058523294916610", 
-                "Place": "Vancouver", 
-                "Time": "Wed Feb 20 03:15:27 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1041342886887882754/6xSxmmOj_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-88.1615555, 30.683649]}, 
             "type": "Feature", 
             "properties": {
