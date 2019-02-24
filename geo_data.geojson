@@ -585,6 +585,19 @@
                 "Time": "Sun Feb 24 15:52:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8886995, 40.6122155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "titleist4434", 
+                "Name": "Panda\ud83d\udc3c", 
+                "Tweet": "PGA TOUR LIVE on Twitter #PGATOUR https://t.co/15WTkTZTZI", 
+                "TweetLink": "1099709658330062848", 
+                "Place": "Midvale", 
+                "Time": "Sun Feb 24 16:36:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1083445304769171457/Brk5yTGT_normal.jpg"
+            }
         }
     ]
 }
