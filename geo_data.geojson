@@ -559,6 +559,19 @@
                 "Time": "Sun Feb 24 02:11:49 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/996195382039339009/f90kpyeF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Diaz_Mariana", 
+                "Name": "Mariana Diaz PR", 
+                "Tweet": "Johnson toma la ventaja de 4 disparos en el Campeonato de M\u00e9xico WGC #lovegolf #lovemydad #worldgolfchampionships\u2026 https://t.co/Udu4PUZEhW", 
+                "TweetLink": "1099500725514555395", 
+                "Place": "Naucalpan de Ju\u00e1rez", 
+                "Time": "Sun Feb 24 02:46:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972271383886684160/su3y1_J9_normal.jpg"
+            }
         }
     ]
 }
