@@ -871,6 +871,45 @@
                 "Time": "Sun Feb 24 22:50:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/741300117555150848/WFKbnAW6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.2218725, 45.5635995]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stubbs40", 
+                "Name": "Stubbs", 
+                "Tweet": "Lets see a #pga golf tourney called Just You. PGA pro's playing the entire tournament without a caddy.\nCan you carr\u2026 https://t.co/5v0GJxOdk8", 
+                "TweetLink": "1099804339546267650", 
+                "Place": "Cambridge", 
+                "Time": "Sun Feb 24 22:52:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/853643675661996032/SbscW5_4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.153366, 19.432836]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Diaz_Mariana", 
+                "Name": "Mariana Diaz PR", 
+                "Tweet": "#lovegolf #lovemydad #worldgolfchampionships #tigerwoods #pgatour #wgcmexico #dustinjohnson is winning! @ Mexico Ci\u2026 https://t.co/Vopg5oECy5", 
+                "TweetLink": "1099805360989171713", 
+                "Place": "Cuauht\u00e9moc", 
+                "Time": "Sun Feb 24 22:56:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972271383886684160/su3y1_J9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "frankgasaway", 
+                "Name": "frank gasaway", 
+                "Tweet": "Somebody please remind @DJohnsonPGA 50k Pesos is only $ 2600 us #PGATour", 
+                "TweetLink": "1099809373239558144", 
+                "Place": "Georgia", 
+                "Time": "Sun Feb 24 23:12:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068290677442789382/Di6rGDnF_normal.jpg"
+            }
         }
     ]
 }
