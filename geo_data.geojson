@@ -689,6 +689,32 @@
                 "Time": "Sun Feb 24 19:04:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/477308073111863296/BXs5hgei_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.1922505, 34.851658]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jeff5768", 
+                "Name": "Jeff Murray", 
+                "Tweet": "That moment.  \"Oh, no no.\"  Just one of those things you don't do when you attend a golf tournament.  Doh!\u2026 https://t.co/JPRKBZm1mg", 
+                "TweetLink": "1099749087631466497", 
+                "Place": "Rosamond", 
+                "Time": "Sun Feb 24 19:13:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1382193682/Tony_wins_at_Cali_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-100.366033, 25.6502875]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "svillarrg", 
+                "Name": "Santiago Villarreal", 
+                "Tweet": "PENDEJAAAA NOOOOOOOOOOOOOOO!!!!!!!", 
+                "TweetLink": "1099750219850354688", 
+                "Place": "San Pedro Garza Garc\u00eda", 
+                "Time": "Sun Feb 24 19:17:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1069472852108173312/3JRI-CeL_normal.jpg"
+            }
         }
     ]
 }
