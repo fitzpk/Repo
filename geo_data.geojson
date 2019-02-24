@@ -598,6 +598,19 @@
                 "Time": "Sun Feb 24 16:36:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1083445304769171457/Brk5yTGT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.547029, 39.499762]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfersInc", 
+                "Name": "Brian", 
+                "Tweet": "\"PGA TOUR LIVE on Twitter\" #PGATOUR https://t.co/CGvPTtUHHZ", 
+                "TweetLink": "1099711310659411968", 
+                "Place": "Utah", 
+                "Time": "Sun Feb 24 16:43:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/958947250826199040/mGUSALvi_normal.jpg"
+            }
         }
     ]
 }
