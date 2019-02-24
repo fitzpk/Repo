@@ -728,6 +728,45 @@
                 "Time": "Sun Feb 24 19:33:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/971869436054515713/cnm0QdzM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrEnDi18_", 
+                "Name": "Brenda Arteaga", 
+                "Tweet": "Tiger Woods! #wgcmexico #golf #pgatour #tigerwoods wgcmexico \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f en Club de Golf Chapultepec https://t.co/UztQFc9cqB", 
+                "TweetLink": "1099757356097945600", 
+                "Place": "Naucalpan de Ju\u00e1rez", 
+                "Time": "Sun Feb 24 19:46:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1020160450825252864/DR4Vd3Pp_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.815333, 53.1548065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Cullen_Jordan1", 
+                "Name": "Jordan Cullen", 
+                "Tweet": "One rule for DJ different rule for Rory #purejoke #pgatour #corrupt", 
+                "TweetLink": "1099757832403062784", 
+                "Place": "Kildare", 
+                "Time": "Sun Feb 24 19:47:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1076862556386529280/T-pY2NvS_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3613205, 46.4418605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PiraticalPat", 
+                "Name": "Patrick Petersen", 
+                "Tweet": "Sad that DJ will win by whining. Sadder that an official caved to said whining.\n#PGATOUR #fraud", 
+                "TweetLink": "1099758215158530048", 
+                "Place": "Minnesota", 
+                "Time": "Sun Feb 24 19:49:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1057635529183780866/haaeuLYK_normal.jpg"
+            }
         }
     ]
 }
