@@ -520,6 +520,19 @@
                 "Time": "Sun Feb 24 11:40:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1064641200005758977/-mQ_CNCR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-5.667601, 54.6476705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rafferty_paul", 
+                "Name": "Paul Daniel Rafferty", 
+                "Tweet": "What a day ahead... \n\n@ManUtd \n@IrishRugby \n@McIlroyRory  \n\nBring it home!! \ud83d\udc9a\ud83d\udc9a \n\n#MUFC \n#ManUtdVLiverpool \n#ITAvIRE\u2026 https://t.co/3g4oQEny2t", 
+                "TweetLink": "1099668988676767744", 
+                "Place": "Bangor", 
+                "Time": "Sun Feb 24 13:54:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1049637917809893376/Z7PX9Crs_normal.jpg"
+            }
         }
     ]
 }
