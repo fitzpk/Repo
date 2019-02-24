@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-118.502312, 34.050242]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "annemcdaniels", 
-                "Name": "Anne McDaniels", 
-                "Tweet": "Hello from the one hour devoid of rain at @genesisopen @PGATOUR #GenesisOpen #PGATour from the #GenesisSkybox...\u2026 https://t.co/DLMpZIm7JX", 
-                "TweetLink": "1097988841330233344", 
-                "Place": "Riviera Country Club", 
-                "Time": "Tue Feb 19 22:38:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/660290645941075968/J7s0Zjks_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
             "type": "Feature", 
             "properties": {
