@@ -559,6 +559,19 @@
                 "Time": "Sun Feb 24 15:13:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "G_Drive1", 
+                "Name": "Garrett Driver", 
+                "Tweet": "@USGA @PGATOUR what is the ruling if @K_Kisner ball would have hit Patrick Cantlay\u2019s ball on the way into the hole?\u2026 https://t.co/hs5yJeFCVj", 
+                "TweetLink": "1099694247953887232", 
+                "Place": "Houston", 
+                "Time": "Sun Feb 24 15:35:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/730164239164313600/38qgiD2b_normal.jpg"
+            }
         }
     ]
 }
