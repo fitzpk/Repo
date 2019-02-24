@@ -767,6 +767,19 @@
                 "Time": "Sun Feb 24 19:49:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1057635529183780866/haaeuLYK_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.7120565, 41.138491]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AlexMyers3", 
+                "Name": "Alex Myers", 
+                "Tweet": "Or if he keeps it near a cart path or a TV cable in the woods... https://t.co/5fEU9Riv6H", 
+                "TweetLink": "1099764047736655872", 
+                "Place": "Armonk", 
+                "Time": "Sun Feb 24 20:12:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1029474139084677121/2zoypiRy_normal.jpg"
+            }
         }
     ]
 }
