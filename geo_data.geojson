@@ -819,6 +819,19 @@
                 "Time": "Sun Feb 24 22:05:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/790803186269298688/5sKO_81u_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "S_Vandergriff", 
+                "Name": "Steve Vandergriff", 
+                "Tweet": "Championship Sunday at the #WGC - thank you #Mexico for the hospitality! #PGATour #golf #NBCGolf #TVtruck @ WGC Mex\u2026 https://t.co/EdGPbPHb3a", 
+                "TweetLink": "1099796324000489472", 
+                "Place": "Naucalpan de Ju\u00e1rez", 
+                "Time": "Sun Feb 24 22:20:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1351470474/BCMTweetpic_normal.jpg"
+            }
         }
     ]
 }
