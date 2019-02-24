@@ -637,6 +637,32 @@
                 "Time": "Sun Feb 24 18:38:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/972271383886684160/su3y1_J9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KMarchino", 
+                "Name": "Kourtney Marchino", 
+                "Tweet": "That\u2019s how to finish a Sunday! Proud of you @acschenk1 and thank you @bmegel11 for taking the bag this week! I know\u2026 https://t.co/D5h2NKhT7Z", 
+                "TweetLink": "1099744900843794432", 
+                "Place": "Florida", 
+                "Time": "Sun Feb 24 18:56:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1089730312551026688/KmoCRkHs_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mggolfdesign", 
+                "Name": "Mike Gogel", 
+                "Tweet": "@GCImagazine I challenge @b_dechambeau @jtedscott &amp; @bubbawatson to work on a maintenance staff for one week! Come\u2026 https://t.co/RvnRPDGdeF", 
+                "TweetLink": "1099746183965171712", 
+                "Place": "Phoenix", 
+                "Time": "Sun Feb 24 19:01:37 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/532204312420941825/2-uTIfYu_normal.jpeg"
+            }
         }
     ]
 }
