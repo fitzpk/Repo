@@ -780,6 +780,19 @@
                 "Time": "Sun Feb 24 20:12:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1029474139084677121/2zoypiRy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.3583795, 48.4267305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Dave_T_Dickson", 
+                "Name": "Double", 
+                "Tweet": "Watching DJ dominate another #worldgolfchampionships event, how does he not have five majors by now and 30+\u2026 https://t.co/uB54Yqb4Ia", 
+                "TweetLink": "1099779727177347072", 
+                "Place": "Victoria", 
+                "Time": "Sun Feb 24 21:14:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/841774704771837956/Stg1Pu8D_normal.jpg"
+            }
         }
     ]
 }
