@@ -897,6 +897,19 @@
                 "Time": "Mon Feb 25 17:05:09 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/939210410825277441/uQtjriNQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ae546fAna", 
+                "Name": "Ana", 
+                "Tweet": "@Faces_socal @SDHACEMOS  IHX  \ud83d\ude45\ud83c\udffb\u200d\u2640\ufe0fand Mobile Events \ud83d\ude99Hike \u26f0 #torreypines #lifeatt #ERG #swempireonwheels\ud83d\udd31 https://t.co/YxmiPa41YK", 
+                "TweetLink": "1100138286423502848", 
+                "Place": "Torrey Pines", 
+                "Time": "Mon Feb 25 20:59:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917417040553447424/7r1-gWPE_normal.jpg"
+            }
         }
     ]
 }
