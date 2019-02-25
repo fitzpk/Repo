@@ -936,6 +936,19 @@
                 "Time": "Mon Feb 25 16:55:15 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.093664, 45.400851]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eaglesnbirdies", 
+                "Name": "Scott", 
+                "Tweet": "Smooth as butter #PGATour", 
+                "TweetLink": "1100079263712202752", 
+                "Place": "Vaudreuil-Dorion", 
+                "Time": "Mon Feb 25 17:05:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939210410825277441/uQtjriNQ_normal.jpg"
+            }
         }
     ]
 }
