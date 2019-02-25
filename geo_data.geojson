@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-0.252754, 51.3854455]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LewisAtkinson79", 
-                "Name": "Lewis Atkinson GXPRO", 
-                "Tweet": "Extending, tilting and turning. The knees must change flex.\n#noyoganeeded #nogolfbiomechanicsneeded \n#golf\u2026 https://t.co/vx77vLkyrZ", 
-                "TweetLink": "1098580626435907584", 
-                "Place": "South East", 
-                "Time": "Thu Feb 21 13:50:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/554896346139099137/nbnRgd9k_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-65.786424, 18.385125]}, 
             "type": "Feature", 
             "properties": {
