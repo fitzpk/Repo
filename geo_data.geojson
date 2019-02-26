@@ -832,6 +832,19 @@
                 "Time": "Mon Feb 25 20:59:41 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917417040553447424/7r1-gWPE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.271087, 25.6994485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "McLeanGolf", 
+                "Name": "Jim McLean Golf", 
+                "Tweet": "I always told Leaky I taught him his swing. Which of course I did not. I learned so much from Bruce Lietzke and it\u2026 https://t.co/qTK6qQuN4f", 
+                "TweetLink": "1100217731734011906", 
+                "Place": "Coral Gables", 
+                "Time": "Tue Feb 26 02:15:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/894922840146923520/sDeMbq_d_normal.jpg"
+            }
         }
     ]
 }
