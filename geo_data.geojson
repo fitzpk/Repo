@@ -845,6 +845,19 @@
                 "Time": "Tue Feb 26 02:15:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/894922840146923520/sDeMbq_d_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SteveAHorn", 
+                "Name": "Steve Horn", 
+                "Tweet": "#TorreyPines growing a grassy, mossy too because this year in #SanDiego, we actually got rain for our winter rainy\u2026 https://t.co/A1ZeyKtOcM", 
+                "TweetLink": "1100222224731131906", 
+                "Place": "San Diego", 
+                "Time": "Tue Feb 26 02:33:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1088558413422850048/Xyro4blu_normal.jpg"
+            }
         }
     ]
 }
