@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.584618, 29.8935655]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GolfPokerClub", 
-                "Name": "GOLF & POKER CLUB", 
-                "Tweet": "How to Get the Most Out of Your Swing With Proper Golf Swing Sequence https://t.co/tdtpXD3qcf #Golf #PGATour", 
-                "TweetLink": "1098945764666081281", 
-                "Place": "Jersey Village", 
-                "Time": "Fri Feb 22 14:01:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081734303070019584/zbxF3VRF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-1.2074825, 53.9318445]}, 
             "type": "Feature", 
             "properties": {
