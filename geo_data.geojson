@@ -884,6 +884,19 @@
                 "Time": "Tue Feb 26 20:26:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/685853493014429699/xG-5F_QK_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.4788095, 51.8724385]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JeremyDaleGolf", 
+                "Name": "Jeremy Dale", 
+                "Tweet": "So many top players talk about feel not positions", 
+                "TweetLink": "1100506195692003335", 
+                "Place": "Charlbury", 
+                "Time": "Tue Feb 26 21:21:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3452106581/fef8b766ba0fa89aaa941bced62ac9b9_normal.jpeg"
+            }
         }
     ]
 }
