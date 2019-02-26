@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-1.2074825, 53.9318445]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "iPursuitPP", 
-                "Name": "iPursuit Performance Psychology", 
-                "Tweet": "#ipursuit #golf #golfpsychology #golfmindset #instagolf #pgatour #europeantour #challengetour #webtour #europrotour\u2026 https://t.co/iyFxirujIS", 
-                "TweetLink": "1098950603818946561", 
-                "Place": "Yorkshire and The Humber", 
-                "Time": "Fri Feb 22 14:20:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1066453276462333952/0N9Pw_f6_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.302512, 30.8560845]}, 
             "type": "Feature", 
             "properties": {
@@ -857,6 +844,32 @@
                 "Place": "Palm Beach Gardens", 
                 "Time": "Tue Feb 26 14:02:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/843983789529452544/C8eqFTy__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "#JordanSpeith ...the only #golfer in his family. Jordan comes from a long line of athletes, non of them golf.\u2026 https://t.co/NVmOyqPfZr", 
+                "TweetLink": "1100473850154893313", 
+                "Place": "Winnipeg", 
+                "Time": "Tue Feb 26 19:13:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.645081, 43.4181905]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JasonDiplock", 
+                "Name": "Jason Diplock", 
+                "Tweet": "Join in the fun on June 5th this year! #RBCCO @HamiltonGolf", 
+                "TweetLink": "1100475007862358016", 
+                "Place": "Oakville", 
+                "Time": "Tue Feb 26 19:17:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/865344574566412289/GWJ7Nboy_normal.jpg"
             }
         }
     ]
