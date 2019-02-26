@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "\"Unfortunately, due to the schedule this year, I cannot play all the events I want to. I will be taking next week o\u2026 https://t.co/zyYqvMObgV", 
-                "TweetLink": "1099013283812659200", 
-                "Place": "Winnipeg", 
-                "Time": "Fri Feb 22 18:29:20 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-96.2293965, 19.183953]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "yopo_canseco", 
-                "Name": "Y99", 
-                "Tweet": "Que chingon los que tienen la oportunidad de ver a Tiger Woods! \ud83d\udc05 #PGATour", 
-                "TweetLink": "1099013664114335744", 
-                "Place": "Veracruz", 
-                "Time": "Fri Feb 22 18:30:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/954744457756323840/6kizqWa9_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
             "type": "Feature", 
             "properties": {
