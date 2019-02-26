@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.302512, 30.8560845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "thomasstew1", 
-                "Name": "Thomas Stewart", 
-                "Tweet": "Going on the SB2k trip is becoming the golf version of football's Madden cover jinx. #cantbreakpar #JTandRicknext #pgatour", 
-                "TweetLink": "1098954022680231937", 
-                "Place": "Valdosta", 
-                "Time": "Fri Feb 22 14:33:51 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1050554193910657024/2clSUU9H_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
             "type": "Feature", 
             "properties": {
