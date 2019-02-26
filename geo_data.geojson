@@ -858,6 +858,19 @@
                 "Time": "Tue Feb 26 19:17:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/865344574566412289/GWJ7Nboy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PGATOUR_mikemc", 
+                "Name": "Mike McAllister", 
+                "Tweet": "Two of his six career #PGATOUR wins have come @TheHondaClassic including his most recent in 2015", 
+                "TweetLink": "1100481581993680896", 
+                "Place": "Palm Beach Gardens", 
+                "Time": "Tue Feb 26 19:43:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/685853493014429699/xG-5F_QK_normal.jpg"
+            }
         }
     ]
 }
