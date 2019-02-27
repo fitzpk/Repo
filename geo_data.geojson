@@ -806,6 +806,32 @@
                 "Time": "Wed Feb 27 14:31:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ValsparChamp", 
+                "Name": "Valspar Championship", 
+                "Tweet": "See PGA TOUR\u00ae stars Jason Day, Jon Rahm, Bubba Watson, Sergio Garcia and more March 18-24. Visit\u2026 https://t.co/OI3iOgYRBU", 
+                "TweetLink": "1100771959636414464", 
+                "Place": "Palm Harbor", 
+                "Time": "Wed Feb 27 14:57:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000767434639/30f7649a19ea3fce42090826628bf2a2_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jnb1966", 
+                "Name": "Jbressgolf", 
+                "Tweet": "Justin Thomas at the ProAm #hondaclassic #pga#putterporn #pgatour #tysonlamb #pgashow2019 #hondaclassic2019\u2026 https://t.co/sYRCI0N65S", 
+                "TweetLink": "1100772975962337282", 
+                "Place": "Palm Beach Gardens", 
+                "Time": "Wed Feb 27 15:01:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/901440107999375360/XQWav8fl_normal.jpg"
+            }
         }
     ]
 }
