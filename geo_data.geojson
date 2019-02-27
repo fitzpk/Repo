@@ -923,6 +923,19 @@
                 "Time": "Wed Feb 27 18:50:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/866870377548533761/rspwuo3W_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.605217, 41.5525265]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tolohgolfr", 
+                "Name": "Fred Altvater", 
+                "Tweet": "Listin to @Back9Report NOW Available on TuneIN.\nhttps://t.co/pdohsH77NP #golf #golftalk #pgatour #usga\u2026 https://t.co/Lr9BY0UUpG", 
+                "TweetLink": "1100832176415928320", 
+                "Place": "Perrysburg", 
+                "Time": "Wed Feb 27 18:56:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/503870047752699905/yskwvcag_normal.jpeg"
+            }
         }
     ]
 }
