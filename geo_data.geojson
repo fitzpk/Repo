@@ -858,6 +858,19 @@
                 "Time": "Wed Feb 27 15:27:40 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/946495665634496512/mxJyiVpc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RRRepellent", 
+                "Name": "Ranger Ready Repellents", 
+                "Tweet": "PRO-AM day at the #HondaClassic! #PGATour https://t.co/mEGl7Kdolg", 
+                "TweetLink": "1100798703680532480", 
+                "Place": "Florida", 
+                "Time": "Wed Feb 27 16:43:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/950773206947831809/CbpMnyH5_normal.jpg"
+            }
         }
     ]
 }
