@@ -936,6 +936,19 @@
                 "Time": "Wed Feb 27 18:56:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/503870047752699905/yskwvcag_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[18.4961165, -33.823411]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "setumadi", 
+                "Name": "dora the dicksplorer", 
+                "Tweet": "@Bra_Daki i thought this was done by you \ud83d\ude02", 
+                "TweetLink": "1100854265940201472", 
+                "Place": "Milnerton", 
+                "Time": "Wed Feb 27 20:24:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095040920846827520/YV-GZ6Ye_normal.jpg"
+            }
         }
     ]
 }
