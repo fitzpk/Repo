@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-2.1540125, 53.0193965]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Rich16Allen", 
-                "Name": "Richard Allen SRSB", 
-                "Tweet": "Glimpsing Tiger from back of the day with shots like that!! #pgatour", 
-                "TweetLink": "1099075957162496000", 
-                "Place": "Stoke-on-Trent", 
-                "Time": "Fri Feb 22 22:38:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/935075153087746048/3axH7YnW_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-2.1540125, 53.0193965]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Rich16Allen", 
-                "Name": "Richard Allen SRSB", 
-                "Tweet": "I\u2019ve got stop betting on Rham! #PGATour", 
-                "TweetLink": "1099076685012582401", 
-                "Place": "Stoke-on-Trent", 
-                "Time": "Fri Feb 22 22:41:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/935075153087746048/3axH7YnW_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-1.7396195, 55.1314185]}, 
             "type": "Feature", 
             "properties": {
