@@ -871,6 +871,19 @@
                 "Time": "Wed Feb 27 16:43:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/950773206947831809/CbpMnyH5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.822218, 43.8309855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Lyonaboot", 
+                "Name": "Joanne Lyon \ud83c\udde8\ud83c\udde6 \ud83d\udc9a\ud83c\udfd2\ud83d\udc9b", 
+                "Tweet": "@MikeWeir  Best of luck on the upcoming https://t.co/0pH8GKBJ5z tour.  I'll be following, as usual.  First though I\u2026 https://t.co/RKMZUxihIt", 
+                "TweetLink": "1100801466271453184", 
+                "Place": "Oshawa", 
+                "Time": "Wed Feb 27 16:54:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1037335504944082946/KwHXYsUz_normal.jpg"
+            }
         }
     ]
 }
