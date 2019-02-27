@@ -793,6 +793,19 @@
                 "Time": "Wed Feb 27 14:08:09 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.45553, 34.569472]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JOXSports", 
+                "Name": "JOX Sports", 
+                "Tweet": "Looking forward to seeing former @ArizonaMGolf \u2b50  &amp; 3-time #PGATour winner Robert Gamez back in #Tucson\u2026 https://t.co/WELQ4hWghh", 
+                "TweetLink": "1100765303137431552", 
+                "Place": "Prescott", 
+                "Time": "Wed Feb 27 14:31:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
+            }
         }
     ]
 }
