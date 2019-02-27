@@ -780,6 +780,19 @@
                 "Time": "Wed Feb 27 14:00:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/461588988000604160/pcK3j59L_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "accapi_medical", 
+                "Name": "Accapi Medical Division", 
+                "Tweet": "Medical Device in Europe since 2008. Our #MedicalDevices can be resold in any store with or without registering its\u2026 https://t.co/uiK0brKxei", 
+                "TweetLink": "1100759496798994432", 
+                "Place": "United States", 
+                "Time": "Wed Feb 27 14:08:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
+            }
         }
     ]
 }
