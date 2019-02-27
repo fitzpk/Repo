@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "edcolemangolf", 
-                "Name": "Ed Coleman", 
-                "Tweet": "@jacknicklaus Happy Birthday sir. \ud83d\udc10 #golf #pgatour", 
-                "TweetLink": "1099023190658027524", 
-                "Place": "Vermont", 
-                "Time": "Fri Feb 22 19:08:42 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.1818345, 38.9201425]}, 
             "type": "Feature", 
             "properties": {
