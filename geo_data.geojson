@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "@DanHicksNBC every time you say...\n\n #JohnnyMiller\n\n...I'm going to tweet his @DigitalPaintCan cARToon \n\n@NBCSports\u2026 https://t.co/UAlZr75ecE", 
-                "TweetLink": "1099445266183274499", 
-                "Place": "Winnipeg", 
-                "Time": "Sat Feb 23 23:05:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-75.0676305, 38.538853]}, 
             "type": "Feature", 
             "properties": {
@@ -896,6 +883,19 @@
                 "Place": "Milnerton", 
                 "Time": "Wed Feb 27 20:24:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095040920846827520/YV-GZ6Ye_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7374385, 32.3422995]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NMSUPGA", 
+                "Name": "NMSU PGA Golf Mgt", 
+                "Tweet": "It\u2019s always fun watching our Level 2 students work with the high school golf teams in Las Cruces! Here they are wor\u2026 https://t.co/gl9v8JO0o0", 
+                "TweetLink": "1100970006588899328", 
+                "Place": "Las Cruces", 
+                "Time": "Thu Feb 28 04:04:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
             }
         }
     ]
