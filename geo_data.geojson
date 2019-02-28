@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.087032, 42.110703]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SchellPaul", 
-                "Name": "Paul Schell", 
-                "Tweet": "@Fehertwit Looks like a Pro Am broke out! Best line in golf I\u2019ve ever heard in 40 years watching golf!\nThanks for m\u2026 https://t.co/wH528xuQON", 
-                "TweetLink": "1099432826078986242", 
-                "Place": "Erie", 
-                "Time": "Sat Feb 23 22:16:26 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1011769697702957057/xZAXuZdM_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-94.370308, 35.3572525]}, 
             "type": "Feature", 
             "properties": {
