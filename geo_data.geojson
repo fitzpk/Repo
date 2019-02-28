@@ -728,6 +728,19 @@
                 "Time": "Thu Feb 28 21:52:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1044585931859095557/tx8vCYNH_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, left lane blocked in #TorreyPines on 5 SB after Carmel Mtn Rd #SDtraffic https://t.co/m44DG45MF1", 
+                "TweetLink": "1101247395847958534", 
+                "Place": "San Diego", 
+                "Time": "Thu Feb 28 22:26:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
