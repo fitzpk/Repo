@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PattyChocMilk", 
-                "Name": "PattyChocolateMilk", 
-                "Tweet": "That dumbass did not just pick up that golf ball... \u26f3\n\n#PGATour \n#golf", 
-                "TweetLink": "1099746366090145792", 
-                "Place": "Los Angeles", 
-                "Time": "Sun Feb 24 19:02:20 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/840480156959485952/031igP-I_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-70.891243, 43.187098]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RyeFuller", 
-                "Name": "Ryan Fuller", 
-                "Tweet": "Look what I found! #pgatour https://t.co/acu9mQz3lT", 
-                "TweetLink": "1099746967184392193", 
-                "Place": "Dover", 
-                "Time": "Sun Feb 24 19:04:43 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/477308073111863296/BXs5hgei_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-118.1922505, 34.851658]}, 
             "type": "Feature", 
             "properties": {
