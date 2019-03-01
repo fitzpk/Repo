@@ -442,6 +442,19 @@
                 "Time": "Fri Mar 01 13:47:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/886938151012286470/y-z8AS-Q_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PGATOURComms", 
+                "Name": "PGA TOUR Communications", 
+                "Tweet": "Peter Uihlein withdrew during the second round of @TheHondaClassic due to back injury #pgatour", 
+                "TweetLink": "1101502805620203520", 
+                "Place": "Palm Beach Gardens", 
+                "Time": "Fri Mar 01 15:21:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/999835918696509440/tNKPoytL_normal.jpg"
+            }
         }
     ]
 }
