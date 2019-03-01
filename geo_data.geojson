@@ -429,6 +429,19 @@
                 "Time": "Thu Feb 28 22:26:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.7751835, 33.547673]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mozm", 
+                "Name": "mark mozilo", 
+                "Tweet": "@MarkCalc PGA and USGA have their heads up their asses!! It\u2019s form over substance in the rules of golf. \n#PGATour #usga #championstour", 
+                "TweetLink": "1101479197644488705", 
+                "Place": "Laguna Beach", 
+                "Time": "Fri Mar 01 13:47:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/886938151012286470/y-z8AS-Q_normal.jpg"
+            }
         }
     ]
 }
