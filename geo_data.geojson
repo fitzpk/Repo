@@ -520,6 +520,19 @@
                 "Time": "Sat Mar 02 14:45:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502830577142071296/KK_i2T3X_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "benturnwal", 
+                "Name": "Ted Burnwall", 
+                "Tweet": "@giffroy @GolfDigest @K_m_Mitchell Travesty!!  If someone forgot to tag El Tigre, they\u2019d be fired.  Let\u2019s go\u2026 https://t.co/6VFTqyXi2y", 
+                "TweetLink": "1101868315620737027", 
+                "Place": "San Diego", 
+                "Time": "Sat Mar 02 15:34:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1566598583/twitterpic_normal.jpg"
+            }
         }
     ]
 }
