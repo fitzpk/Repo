@@ -533,6 +533,19 @@
                 "Time": "Sat Mar 02 15:34:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1566598583/twitterpic_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NMSUPGA", 
+                "Name": "NMSU PGA Golf Mgt", 
+                "Tweet": "Day 1 of Intermediate Teaching Seminars are off and running! Thanks to Dr. Alison Curdt and Gene Powell for sharing\u2026 https://t.co/hbBSFjXEkf", 
+                "TweetLink": "1101898905397059584", 
+                "Place": "University Park", 
+                "Time": "Sat Mar 02 17:35:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
+            }
         }
     ]
 }
