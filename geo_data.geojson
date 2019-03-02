@@ -585,6 +585,19 @@
                 "Time": "Sat Mar 02 19:36:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/961060110578659328/VzNnYF1r_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.136035, 26.832316]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "julia_palmbeach", 
+                "Name": "Julia Mlayess", 
+                "Tweet": "#HondaClassic #HondaClassicCares #HondaClassic2019 #Golf #PGATour #PGA #Fire #Lit https://t.co/ls7M6uureK", 
+                "TweetLink": "1101931347352973313", 
+                "Place": "PGA NATIONAL", 
+                "Time": "Sat Mar 02 19:44:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1023575206500155393/08vk5nJl_normal.jpg"
+            }
         }
     ]
 }
