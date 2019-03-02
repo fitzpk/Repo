@@ -520,6 +520,19 @@
                 "Time": "Sat Mar 02 02:00:13 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JobySlay", 
+                "Name": "Joby Slay, MBA", 
+                "Tweet": "The golden hour @TheHondaClassic  I think #18 on the Champion course is such a great finishing hole\u2026 https://t.co/DaiK6s2QbZ", 
+                "TweetLink": "1101664328552456194", 
+                "Place": "Palm Beach Gardens", 
+                "Time": "Sat Mar 02 02:03:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/500067981372579841/wKFHOemU_normal.jpeg"
+            }
         }
     ]
 }
