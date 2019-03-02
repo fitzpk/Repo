@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ae546fAna", 
-                "Name": "Ana", 
-                "Tweet": "@Faces_socal @SDHACEMOS  IHX  \ud83d\ude45\ud83c\udffb\u200d\u2640\ufe0fand Mobile Events \ud83d\ude99Hike \u26f0 #torreypines #lifeatt #ERG #swempireonwheels\ud83d\udd31 https://t.co/YxmiPa41YK", 
-                "TweetLink": "1100138286423502848", 
-                "Place": "Torrey Pines", 
-                "Time": "Mon Feb 25 20:59:41 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917417040553447424/7r1-gWPE_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.271087, 25.6994485]}, 
             "type": "Feature", 
             "properties": {
@@ -519,6 +506,19 @@
                 "Place": "Austin", 
                 "Time": "Sat Mar 02 01:35:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1064363152987574272/NVpPUV69_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.059287, 26.8745205]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bsilvermangolf", 
+                "Name": "Ben Silverman", 
+                "Tweet": "Enjoying my home event this week @TheHondaClassic Looking forward to the weekend. #pgatour #weekend #hondaclassic\u2026 https://t.co/eJhTCDb04Y", 
+                "TweetLink": "1101663470515380224", 
+                "Place": "Juno Beach", 
+                "Time": "Sat Mar 02 02:00:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
             }
         }
     ]
