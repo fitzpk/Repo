@@ -507,6 +507,19 @@
                 "Time": "Sat Mar 02 23:40:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/999835918696509440/tNKPoytL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.1842935, 5.6231985]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eanokwah", 
+                "Name": "Ebenezer K. Anokwah", 
+                "Tweet": "2019 #SSGolf on @SuperSport @DStv (1/2):\n\n#SunshineTour\n#SunshineLadiesTour\n#NedbankGolfChallenge\n#RyderCup\u2026 https://t.co/J8RbdP9Zi3", 
+                "TweetLink": "1102273325642981376", 
+                "Place": "Accra", 
+                "Time": "Sun Mar 03 18:23:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1084143684449460226/zgkWuR4d_normal.jpg"
+            }
         }
     ]
 }
