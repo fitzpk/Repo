@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "accapi_medical", 
-                "Name": "Accapi Medical Division", 
-                "Tweet": "Medical Device in Europe since 2008. Our #MedicalDevices can be resold in any store with or without registering its\u2026 https://t.co/uiK0brKxei", 
-                "TweetLink": "1100759496798994432", 
-                "Place": "United States", 
-                "Time": "Wed Feb 27 14:08:09 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-112.45553, 34.569472]}, 
             "type": "Feature", 
             "properties": {
@@ -519,6 +506,19 @@
                 "Place": "Staten Island", 
                 "Time": "Sun Mar 03 18:32:13 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.2420715, 42.394453]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ddgonefishing", 
+                "Name": "Double D", 
+                "Tweet": "Oh my @RickieFowler - what a shot! #PGATour #HondaClassic", 
+                "TweetLink": "1102285407159574528", 
+                "Place": "Waltham", 
+                "Time": "Sun Mar 03 19:11:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/874214637578924035/EBfqA3-U_normal.jpg"
             }
         }
     ]
