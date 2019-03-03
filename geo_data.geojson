@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-115.038337, 36.006256]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ShrinersOpen", 
-                "Name": "shrinersopen", 
-                "Tweet": "He then went on to win his first @PGATOUR event with us in 1996!  \ud83c\udfc6", 
-                "TweetLink": "1100757530219704320", 
-                "Place": "Henderson", 
-                "Time": "Wed Feb 27 14:00:20 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/461588988000604160/pcK3j59L_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
             "type": "Feature", 
             "properties": {
