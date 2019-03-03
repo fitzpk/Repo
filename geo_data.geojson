@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "#JordanSpeith ...the only #golfer in his family. Jordan comes from a long line of athletes, non of them golf.\u2026 https://t.co/NVmOyqPfZr", 
-                "TweetLink": "1100473850154893313", 
-                "Place": "Winnipeg", 
-                "Time": "Tue Feb 26 19:13:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.645081, 43.4181905]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JasonDiplock", 
-                "Name": "Jason Diplock", 
-                "Tweet": "Join in the fun on June 5th this year! #RBCCO @HamiltonGolf", 
-                "TweetLink": "1100475007862358016", 
-                "Place": "Oakville", 
-                "Time": "Tue Feb 26 19:17:42 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/865344574566412289/GWJ7Nboy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
             "type": "Feature", 
             "properties": {
