@@ -364,6 +364,19 @@
                 "Time": "Mon Mar 04 14:23:09 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095858218285191169/Yox_dfiF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "Mirror mirror on the wall, who is the freshest barber of them all? \ud83e\udd14 \ud83d\udc88     #GCU #ASU #phoenixbarber\u2026 https://t.co/P7BaW6gt1R", 
+                "TweetLink": "1102578289653223424", 
+                "Place": "Phoenix", 
+                "Time": "Mon Mar 04 14:35:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
