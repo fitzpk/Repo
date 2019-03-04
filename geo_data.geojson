@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "dylanparks", 
-                "Name": "Dylan\ud83e\udd18", 
-                "Tweet": "PGA TOUR LIVE on Twitter #PGATOUR https://t.co/mENDOHVoQ5", 
-                "TweetLink": "1101102947172319232", 
-                "Place": "Manhattan", 
-                "Time": "Thu Feb 28 12:52:54 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/590713604732821504/kEp5gWEy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-2.525742, 51.9392165]}, 
             "type": "Feature", 
             "properties": {
