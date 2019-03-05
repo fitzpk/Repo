@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[9.5563535, 33.8949285]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "byIGS", 
-                "Name": "IGS", 
-                "Tweet": "#Golf #GOLFTV #golfing #golfcourse #golfer #package #golfmates #Maroc #France #franceinter #Tunisia\u2026 https://t.co/57v87di7Kq", 
-                "TweetLink": "1101513139986796549", 
-                "Place": "Tunisie", 
-                "Time": "Fri Mar 01 16:02:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/908327741002567685/2Izt8a_v_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
             "type": "Feature", 
             "properties": {
