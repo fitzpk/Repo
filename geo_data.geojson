@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LowTidePutters", 
-                "Name": "Low Tide Putters", 
-                "Tweet": "Custom options on a rainy Friday...\n\u2022\n\u2022\n\u2022\n#MadeInUSA #Golf #Shiny #New #Sparkle #PGATour #Made #Bespoke #Craftsman\u2026 https://t.co/kUidVi2BHg", 
-                "TweetLink": "1101525947864547328", 
-                "Place": "Charlotte", 
-                "Time": "Fri Mar 01 16:53:45 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.5330735, 27.3411215]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Jenny495", 
-                "Name": "Jennifer Hardwich", 
-                "Tweet": "@MouseCreative", 
-                "TweetLink": "1101526904312680448", 
-                "Place": "Sarasota", 
-                "Time": "Fri Mar 01 16:57:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1098187197973491712/6acCDQAy_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "It took just two months, but players are already fed up with golf\u2019s new rules. @FanSided @PGATOUR\u2026 https://t.co/wrVDGwzR1S", 
-                "TweetLink": "1101533776067276801", 
-                "Place": "Brampton", 
-                "Time": "Fri Mar 01 17:24:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-105.5508905, 38.997936]}, 
             "type": "Feature", 
             "properties": {
