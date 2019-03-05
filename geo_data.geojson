@@ -533,6 +533,19 @@
                 "Time": "Tue Mar 05 16:10:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1091696658545553409/dOUsli1f_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JOXSports", 
+                "Name": "JOX Sports", 
+                "Tweet": "\ud83e\udd14 REMEMBER WHEN the #PGATour's \ud83d\udcb2leading money winner list was the benchmark for a successful season?  Hardly mentio\u2026 https://t.co/5p6xvOvbEY", 
+                "TweetLink": "1102970514413281280", 
+                "Place": "United States", 
+                "Time": "Tue Mar 05 16:33:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
+            }
         }
     ]
 }
