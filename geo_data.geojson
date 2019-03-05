@@ -546,6 +546,19 @@
                 "Time": "Tue Mar 05 16:33:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wiley77", 
+                "Name": "Matthew Wiley", 
+                "Tweet": "it\u2019s nonstop &gt;&gt;", 
+                "TweetLink": "1102987855117385728", 
+                "Place": "Kentucky", 
+                "Time": "Tue Mar 05 17:42:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/804562918666862592/L-AgXcmx_normal.jpg"
+            }
         }
     ]
 }
