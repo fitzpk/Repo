@@ -585,6 +585,19 @@
                 "Time": "Wed Mar 06 23:00:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.771409, 40.45943]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "linksandkings", 
+                "Name": "linksandkings", 
+                "Tweet": "GIVEAWAY. Tonight we will select a winner for some Links &amp; Kings swag. See previous post to enter. #linksandkings\u2026 https://t.co/3laM7L5IMi", 
+                "TweetLink": "1103436425603637248", 
+                "Place": "Alpine", 
+                "Time": "Wed Mar 06 23:25:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/445011055089967104/FRT77oLs_normal.jpeg"
+            }
         }
     ]
 }
