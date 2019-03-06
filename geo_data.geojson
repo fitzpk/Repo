@@ -520,6 +520,32 @@
                 "Time": "Wed Mar 06 14:08:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/926803416042500096/Re1Z2_jq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "That's these guys...\n#APInv\n#pgatour\n\n\"Great to be back at @APinv to remember Arnie and all he did for the game! It\u2026 https://t.co/7OMFMiAeZY", 
+                "TweetLink": "1103326733665742851", 
+                "Place": "Winnipeg", 
+                "Time": "Wed Mar 06 16:09:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CBrueyWFTV", 
+                "Name": "Christian Bruey", 
+                "Tweet": "Tee it high... and let it fly!\n\n#ArnoldPalmer #BayHill #PGATour https://t.co/OroPcXvbDX", 
+                "TweetLink": "1103326862372204547", 
+                "Place": "Bay Hill", 
+                "Time": "Wed Mar 06 16:09:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/949477388982898688/QPa5jhyn_normal.jpg"
+            }
         }
     ]
 }
