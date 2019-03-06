@@ -481,6 +481,19 @@
                 "Time": "Wed Mar 06 00:36:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1084507350319288321/3t4brxic_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, right lane blocked in #TorreyPines on 5 SB before Balboa Ave, stop and go traffic back to 805, delay of 18 mins #SDtraffic", 
+                "TweetLink": "1103115733851090945", 
+                "Place": "San Diego", 
+                "Time": "Wed Mar 06 02:11:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
