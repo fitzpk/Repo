@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BlueGiraffeSprt", 
-                "Name": "Blue Giraffe", 
-                "Tweet": "This guy @tula_etulain is going on a #MovingDay \"Bear Hunt \" @TheHondaClassic today ! Go get em today Tula!!!\u2026 https://t.co/OHsNU59dHT", 
-                "TweetLink": "1101856163992346624", 
-                "Place": "Palm Beach Gardens", 
-                "Time": "Sat Mar 02 14:45:55 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/502830577142071296/KK_i2T3X_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
