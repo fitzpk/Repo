@@ -572,6 +572,19 @@
                 "Time": "Wed Mar 06 22:44:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/603445113553952768/x4IRQ2zj_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Arnold Palmer might not be there in person anymore, but his spirit will still be felt this week at Bay Hill.\u2026 https://t.co/EpCsL58WoM", 
+                "TweetLink": "1103430239361818624", 
+                "Place": "Brampton", 
+                "Time": "Wed Mar 06 23:00:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
         }
     ]
 }
