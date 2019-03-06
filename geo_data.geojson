@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "MichaelClayto15", 
-                "Name": "Michael Clayton", 
-                "Tweet": "@Evansgolf1John Finally got one  into a good players bag??", 
-                "TweetLink": "1101587933893558273", 
-                "Place": "Melbourne", 
-                "Time": "Fri Mar 01 21:00:04 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1022414967687929856/tAsovkQs_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
             "type": "Feature", 
             "properties": {
