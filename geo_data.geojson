@@ -481,6 +481,19 @@
                 "Time": "Wed Mar 06 00:26:00 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1087819058169270273/5wVOg4Qp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "amitsalyan", 
+                "Name": "amitsalyan", 
+                "Tweet": "#SanDiego #California #torreypines #lajolla #delmar #beach #pebble https://t.co/iwm98foM2S", 
+                "TweetLink": "1103092006614556672", 
+                "Place": "San Diego", 
+                "Time": "Wed Mar 06 00:36:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1084507350319288321/3t4brxic_normal.jpg"
+            }
         }
     ]
 }
