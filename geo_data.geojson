@@ -572,6 +572,19 @@
                 "Time": "Wed Mar 06 16:59:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/919940440819949569/G9zejdA9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "We're all ready and waiting...\n#PGATOUR\n\n\"Rory wonders how cool it\u2019d be if this year he won the Masters, Phil won t\u2026 https://t.co/KEwsDsxPgl", 
+                "TweetLink": "1103374514589704192", 
+                "Place": "Winnipeg", 
+                "Time": "Wed Mar 06 19:19:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
