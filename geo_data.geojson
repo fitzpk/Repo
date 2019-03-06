@@ -546,6 +546,19 @@
                 "Time": "Wed Mar 06 16:09:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/949477388982898688/QPa5jhyn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.5164375, 33.901311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "THENICKBRADLEY", 
+                "Name": "NICKBRADLEY", 
+                "Tweet": "Think again...or not? Meditation (or mind training for the left brainless and scared). #Golf #BradleyGolf.com", 
+                "TweetLink": "1103336632168648705", 
+                "Place": "Sunset Beach", 
+                "Time": "Wed Mar 06 16:48:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
+            }
         }
     ]
 }
