@@ -468,6 +468,19 @@
                 "Time": "Tue Mar 05 17:42:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/804562918666862592/L-AgXcmx_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "StrobeTraining", 
+                "Name": "Strobe Training Arizona", 
+                "Tweet": "@IamCodyRoss Awesome!  #BucketList #PGATour  If you are lucky enough try and stay at #casapalermo @PebbleBeachGolf", 
+                "TweetLink": "1103089311430262784", 
+                "Place": "Scottsdale", 
+                "Time": "Wed Mar 06 00:26:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1087819058169270273/5wVOg4Qp_normal.jpg"
+            }
         }
     ]
 }
