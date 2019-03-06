@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-105.5508905, 38.997936]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LynnBeasley33", 
-                "Name": "Lynn Beasley, PsyD,CSCS,TPI", 
-                "Tweet": "Absolutely incredible \u2764\ufe0f", 
-                "TweetLink": "1101561710224134144", 
-                "Place": "Colorado", 
-                "Time": "Fri Mar 01 19:15:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2820244561/10c42765daa7d32592fa235eb04ce777_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
             "type": "Feature", 
             "properties": {
