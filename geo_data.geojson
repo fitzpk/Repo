@@ -494,6 +494,19 @@
                 "Time": "Wed Mar 06 03:31:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/886938151012286470/y-z8AS-Q_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[55.5511725, 24.9934625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "eGolfMegastore", 
+                "Name": "eGolf Megastore", 
+                "Tweet": "PURE ROLL\u2122 meets all-new TRUE PATH\u2122 alignment to make the #1 putter model on the #PGATour even BETTER\ud83d\udc4a. #TaylorMade\u2026 https://t.co/nl9euE5S4B", 
+                "TweetLink": "1103273282982285312", 
+                "Place": "Dubai", 
+                "Time": "Wed Mar 06 12:37:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/824668529844715520/FI-seFDl_normal.jpg"
+            }
         }
     ]
 }
