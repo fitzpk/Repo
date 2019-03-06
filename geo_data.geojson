@@ -507,6 +507,19 @@
                 "Time": "Wed Mar 06 02:15:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rightfitclub", 
+                "Name": "\ud83c\udd95\u3231\u30d5\u30e9\u30c3\u30c8\u30b9\u30c6\u30a3\u30c3\u30af", 
+                "Tweet": "\u26f3PGA\u30c4\u30a2\u30fc\u300eA.\u30d1\u30fc\u30de\u30fc\u62db\u5f85\u300f\u3067\u30b5\u30dd\u30fc\u30c8\u3057\u3066\u3044\u308b\ud83c\udf39\u30ed\u30fc\u30ba\u30de\u30fc\u30af\u30b0\u30ea\u30c3\u30d7\u52d5\u753b\ud83c\udfa5 #arnoldpalmer #arnoldpalmerinvitational #pgatour #toursupport #pga\u2026 https://t.co/7DDgHlBDUd", 
+                "TweetLink": "1103120226311385089", 
+                "Place": "Bay Hill", 
+                "Time": "Wed Mar 06 02:28:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1073382096125587456/ZLDYf5_r_normal.jpg"
+            }
         }
     ]
 }
