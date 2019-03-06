@@ -559,6 +559,19 @@
                 "Time": "Wed Mar 06 20:00:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/904460664701407233/77RaLkFo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.0350275, 32.9852905]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KyleKraska", 
+                "Name": "Kyle Kraska", 
+                "Tweet": "Check out the gear @RickieFowler will be rockin' this weekend at the #ArnoldPalmerInvitational in honor of the King\u2026 https://t.co/mGmXrjKJAC", 
+                "TweetLink": "1103426257507631104", 
+                "Place": "Poway", 
+                "Time": "Wed Mar 06 22:44:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/603445113553952768/x4IRQ2zj_normal.jpg"
+            }
         }
     ]
 }
