@@ -507,6 +507,19 @@
                 "Time": "Wed Mar 06 12:37:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/824668529844715520/FI-seFDl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.364662, 28.585307]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DrGampolo", 
+                "Name": "Dr. G_UCF", 
+                "Tweet": "Neck strain? We can help with that \ud83d\ude01 If you or someone you know is suffering with the same injury as @TigerWoods we\u2026 https://t.co/2Yh39rOgPb", 
+                "TweetLink": "1103296384776716288", 
+                "Place": "Orlando City Health and Wellness", 
+                "Time": "Wed Mar 06 14:08:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/926803416042500096/Re1Z2_jq_normal.jpg"
+            }
         }
     ]
 }
