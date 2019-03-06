@@ -520,6 +520,19 @@
                 "Time": "Wed Mar 06 02:28:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1073382096125587456/ZLDYf5_r_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.7751835, 33.547673]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mozm", 
+                "Name": "mark mozilo", 
+                "Tweet": "@golf_strange His $1.25MM paycheck surely softens the blow. \n#pgatour #post #usga", 
+                "TweetLink": "1103135924810969088", 
+                "Place": "Laguna Beach", 
+                "Time": "Wed Mar 06 03:31:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/886938151012286470/y-z8AS-Q_normal.jpg"
+            }
         }
     ]
 }
