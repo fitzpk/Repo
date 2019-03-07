@@ -611,6 +611,32 @@
                 "Time": "Thu Mar 07 14:52:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "wilsongolfcana1", 
+                "Name": "wilsongolfcanada", 
+                "Tweet": "This week is all about the \ud83d\udc51 #Wilson #WilsonStaff #WilsonGolf #ArnoldPalmer #Arnie #ArniesArmy #Pga #PgaTour\u2026 https://t.co/JyM5mC6jc5", 
+                "TweetLink": "1103682479880192005", 
+                "Place": "Toronto", 
+                "Time": "Thu Mar 07 15:43:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1060558620084109313/kwnFY8QE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "B_Rad_Silvers", 
+                "Name": "DFS_FAMILY_PREMIUM", 
+                "Tweet": "Preview Of What You Get\nClick THE LINK\nhttps://t.co/UgSCBS3aSx\n@dfscheatsheet1 @PicksCity @LowOwnedWR @DFSMooseDFS\u2026 https://t.co/gy3br99OBq", 
+                "TweetLink": "1103683296922427394", 
+                "Place": "St Louis", 
+                "Time": "Thu Mar 07 15:46:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1089408466257555456/srZ4Gu-A_normal.jpg"
+            }
         }
     ]
 }
