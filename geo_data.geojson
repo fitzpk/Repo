@@ -585,6 +585,32 @@
                 "Time": "Thu Mar 07 00:09:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/809526870752382976/Q16N0wP0_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GHaakAttack", 
+                "Name": "Green Screen Greg \ud83d\udd25", 
+                "Tweet": "@APinv time again! No @TigerWoods? Where you gonna go now? Well sir, tout-o-meter time.  It's #PGATOUR #dfs Podcast\u2026 https://t.co/shqsKIIB3G", 
+                "TweetLink": "1103449487018811393", 
+                "Place": "Dallas", 
+                "Time": "Thu Mar 07 00:17:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980628321141710848/NkmvOQ_-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SeanStefan", 
+                "Name": "Sean Stefan", 
+                "Tweet": "My family bent to my begging - we will be attending the @APinv #PGAtour event at Bay Hill tomorrow afternoon! For m\u2026 https://t.co/GMAYkNdcD8", 
+                "TweetLink": "1103450122762027009", 
+                "Place": "Florida", 
+                "Time": "Thu Mar 07 00:19:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/812141599895396352/_8tWiIxp_normal.jpg"
+            }
         }
     ]
 }
