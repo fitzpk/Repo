@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PGATOURComms", 
-                "Name": "PGA TOUR Communications", 
-                "Tweet": ".@VijaySinghGolf is in the final pairing of a final round for the first time since the 2012 @BMWchamps #PGATour", 
-                "TweetLink": "1101990658909319169", 
-                "Place": "Palm Beach Gardens", 
-                "Time": "Sat Mar 02 23:40:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/999835918696509440/tNKPoytL_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-0.1842935, 5.6231985]}, 
             "type": "Feature", 
             "properties": {
