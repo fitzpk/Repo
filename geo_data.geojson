@@ -572,6 +572,32 @@
                 "Time": "Thu Mar 07 03:35:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.5152985, 32.6467655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DonCrow", 
+                "Name": "Don Crow", 
+                "Tweet": "Me. Wishing I was in Orlando this week for the @APinv Admitted #PGATour super fan https://t.co/Zp4AQLc7Xp", 
+                "TweetLink": "1103660426011779072", 
+                "Place": "Ridge Grove", 
+                "Time": "Thu Mar 07 14:15:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987071569707941888/G0vJ150O_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.703255, 37.278994]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "subourbonginger", 
+                "Name": "Colt Allgood", 
+                "Tweet": "Molinari to @callawaygolf @theopen Champion and @RyderCupEurope Hero...good get. Excited to see what he does in 201\u2026 https://t.co/e829niyuSC", 
+                "TweetLink": "1103660430872985600", 
+                "Place": "Williamsburg", 
+                "Time": "Thu Mar 07 14:15:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/892510008189091842/cHkdn5Um_normal.jpg"
+            }
         }
     ]
 }
