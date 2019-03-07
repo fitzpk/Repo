@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-105.5508905, 38.997936]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LynnBeasley33", 
-                "Name": "Lynn Beasley, PsyD,CSCS,TPI", 
-                "Tweet": "Wedge distance control is tricky for most amateurs...this is a simple way to work at it next time you\u2019re on the ran\u2026 https://t.co/nNx3Wxkp6E", 
-                "TweetLink": "1101922435203399680", 
-                "Place": "Colorado", 
-                "Time": "Sat Mar 02 19:09:15 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2820244561/10c42765daa7d32592fa235eb04ce777_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
             "type": "Feature", 
             "properties": {
@@ -584,6 +571,19 @@
                 "Place": "Orlando", 
                 "Time": "Wed Mar 06 23:54:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LTGLSHOW", 
+                "Name": "LIVIN THE GOOD LIFE", 
+                "Tweet": "Hanging in studio during a commercial break with friend CHRISTO GARCIA OF @myswingevo \n.\n.\n.\n.\n.\n#golf #vwgolf\u2026 https://t.co/xcmbLYJu6Q", 
+                "TweetLink": "1103447545622208519", 
+                "Place": "Los Angeles", 
+                "Time": "Thu Mar 07 00:09:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809526870752382976/Q16N0wP0_normal.jpg"
             }
         }
     ]
