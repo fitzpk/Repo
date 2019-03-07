@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.121529, 26.8408065]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KrankitholeFL", 
-                "Name": "Shawn LaRusso", 
-                "Tweet": "Great day today at a first class event with baronknowlton and oahugolfapparel #thehondaclassic electric_golf\u2026 https://t.co/0GLayjNobv", 
-                "TweetLink": "1101929325010538501", 
-                "Place": "Palm Beach Gardens", 
-                "Time": "Sat Mar 02 19:36:38 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/961060110578659328/VzNnYF1r_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.136035, 26.832316]}, 
             "type": "Feature", 
             "properties": {
