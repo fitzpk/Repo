@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-0.1842935, 5.6231985]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "eanokwah", 
-                "Name": "Ebenezer K. Anokwah", 
-                "Tweet": "2019 #SSGolf on @SuperSport @DStv (1/2):\n\n#SunshineTour\n#SunshineLadiesTour\n#NedbankGolfChallenge\n#RyderCup\u2026 https://t.co/J8RbdP9Zi3", 
-                "TweetLink": "1102273325642981376", 
-                "Place": "Accra", 
-                "Time": "Sun Mar 03 18:23:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1084143684449460226/zgkWuR4d_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-74.153947, 40.572376]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jimhunterb1", 
-                "Name": "james hunter", 
-                "Tweet": "Big day for #RyanPalmer at the #HondaClassic #pgatour #golf https://t.co/sPoPjAV1ox", 
-                "TweetLink": "1102275500725149696", 
-                "Place": "Staten Island", 
-                "Time": "Sun Mar 03 18:32:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-71.2420715, 42.394453]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ddgonefishing", 
-                "Name": "Double D", 
-                "Tweet": "Oh my @RickieFowler - what a shot! #PGATour #HondaClassic", 
-                "TweetLink": "1102285407159574528", 
-                "Place": "Waltham", 
-                "Time": "Sun Mar 03 19:11:35 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/874214637578924035/EBfqA3-U_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
             "type": "Feature", 
             "properties": {
