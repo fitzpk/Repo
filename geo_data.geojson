@@ -611,6 +611,19 @@
                 "Time": "Fri Mar 08 17:14:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/622232208225472512/z5hD_q7D_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[9.4696195, 48.906793]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bee77102", 
+                "Name": "Beatrice von Schmidt", 
+                "Tweet": "Heating things up @MKaymer59...make it 4 in a row! \ud83d\ude32\u2764\ud83d\udcaa\ud83c\udffb\ud83c\udde9\ud83c\uddea #PGATour #LiveUnderPar #APInv #TeamMK \ud83c\udf3b", 
+                "TweetLink": "1104092435037208577", 
+                "Place": "Allmersbach im Tal", 
+                "Time": "Fri Mar 08 18:52:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1058127081555615745/A2_qshdS_normal.jpg"
+            }
         }
     ]
 }
