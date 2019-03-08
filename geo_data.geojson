@@ -7,19 +7,6 @@
             "properties": {
                 "Handle": "theMVB", 
                 "Name": "MostValuableBarber\u2122", 
-                "Tweet": "Mirror mirror on the wall, who is the freshest barber of them all? \ud83e\udd14 \ud83d\udc88     #GCU #ASU #phoenixbarber\u2026 https://t.co/P7BaW6gt1R", 
-                "TweetLink": "1102578289653223424", 
-                "Place": "Phoenix", 
-                "Time": "Mon Mar 04 14:35:23 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "theMVB", 
-                "Name": "MostValuableBarber\u2122", 
                 "Tweet": "Ain\u2019t too many homes games left &amp; the Suns ain\u2019t goin\u2019 2 the playoffs. Holla at @cartiye if ya tryna see somethin\u2019\u2026 https://t.co/2o184B6AMv", 
                 "TweetLink": "1102590298717216768", 
                 "Place": "Phoenix", 
