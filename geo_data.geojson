@@ -598,6 +598,97 @@
                 "Time": "Fri Mar 08 18:52:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1058127081555615745/A2_qshdS_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TomPatri", 
+                "Name": "Tom Patri", 
+                "Tweet": "#golf #golfinstructor #tompatri #tpgolf #tpgolftips #top25 #top100 #golfswing #golfing #balance #tempo #naples\u2026 https://t.co/C0ajCjnoyf", 
+                "TweetLink": "1104105259566288901", 
+                "Place": "Florida", 
+                "Time": "Fri Mar 08 19:43:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090075313235812352/dyVP075h_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stream_gtv", 
+                "Name": "Gtv-stream", 
+                "Tweet": "[[PGA~Tour]]Watch Arnold Palmer Invitational 2019 Live Online Streaming\n\nMobile \ud83d\udcf1 LINK \ud83c\udfa51\u20e3&gt;&gt;\u2026 https://t.co/n2lVVC4uVf", 
+                "TweetLink": "1104106827183120384", 
+                "Place": "United States", 
+                "Time": "Fri Mar 08 19:49:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stream_gtv", 
+                "Name": "Gtv-stream", 
+                "Tweet": "[[PGA~Tour]]Watch Arnold Palmer Invitational 2019 Live Online Streaming\n\nMobile \ud83d\udcf1 LINK \ud83c\udfa51\u20e3&gt;&gt;\u2026 https://t.co/1Gv5hCaCiQ", 
+                "TweetLink": "1104106972595380224", 
+                "Place": "United States", 
+                "Time": "Fri Mar 08 19:49:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "petertellone", 
+                "Name": "Peter Tellone", 
+                "Tweet": "\u201cCan\u2019t Cross Over\u201d\n#torreypines #torreypinesstatebeach #lajolla #conflicted #blackandwhite #monochromatic #monotone\u2026 https://t.co/ri7gxVg1xy", 
+                "TweetLink": "1104106994745655298", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 08 19:49:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1076877139708788736/jFDiJXK0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stream_gtv", 
+                "Name": "Gtv-stream", 
+                "Tweet": "((PGA-Tour))Arnold Palmer Invitational 2019 Live Stream/Watch Online\n\nMobile \ud83d\udcf1 LINK \ud83c\udfa51\u20e3&gt;&gt; https://t.co/qBVjUE4jgB\u2026 https://t.co/sQRSIfIS7Z", 
+                "TweetLink": "1104107144343744512", 
+                "Place": "United States", 
+                "Time": "Fri Mar 08 19:50:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stream_gtv", 
+                "Name": "Gtv-stream", 
+                "Tweet": "((PGA-Tour))Arnold Palmer Invitational 2019 Live Stream/Watch Online\n\nMobile \ud83d\udcf1 LINK \ud83c\udfa51\u20e3&gt;&gt; https://t.co/qBVjUE4jgB\u2026 https://t.co/AfyYHk1tzv", 
+                "TweetLink": "1104107206708846593", 
+                "Place": "United States", 
+                "Time": "Fri Mar 08 19:50:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stream_gtv", 
+                "Name": "Gtv-stream", 
+                "Tweet": "((PGA-Tour))Arnold Palmer Invitational 2019 Live Stream/Watch Online\n\nMobile \ud83d\udcf1 LINK \ud83c\udfa51\u20e3&gt;&gt; https://t.co/qBVjUE4jgB\u2026 https://t.co/PDPF3ok5lN", 
+                "TweetLink": "1104107368328003584", 
+                "Place": "United States", 
+                "Time": "Fri Mar 08 19:51:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
         }
     ]
 }
