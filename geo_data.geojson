@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "fmerritt2001", 
-                "Name": "Floyd Merritt", 
-                "Tweet": "@rickiefowler draining putts on the back nine like a champ, showing true #sportsmanship congratulating Mitchell who\u2026 https://t.co/IHzwS9LP4y", 
-                "TweetLink": "1102594507546247168", 
-                "Place": "Georgia", 
-                "Time": "Mon Mar 04 15:39:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/999398486729637892/wRRYF8Vp_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
             "type": "Feature", 
             "properties": {
