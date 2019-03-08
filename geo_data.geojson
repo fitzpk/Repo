@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TotalTrafficSD", 
-                "Name": "TTWN San Diego", 
-                "Tweet": "A vehicle hit the center wall and is now blocking the left lane. in #TorreyPines on 5 NB at 56, stop and go traffic back to Carmel Mtn Rd", 
-                "TweetLink": "1102614876713701376", 
-                "Place": "San Diego", 
-                "Time": "Mon Mar 04 17:00:46 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
             "type": "Feature", 
             "properties": {
