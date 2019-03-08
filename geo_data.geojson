@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "chriscoverton", 
-                "Name": "Chris Overton", 
-                "Tweet": "@GOLF_com @AlanShipnuck Agree 100%. The policies and procedure in any workplace can change. You don\u2019t get the privi\u2026 https://t.co/Nig7ik956c", 
-                "TweetLink": "1102575210312527878", 
-                "Place": "Portland", 
-                "Time": "Mon Mar 04 14:23:09 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1095858218285191169/Yox_dfiF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
             "type": "Feature", 
             "properties": {
