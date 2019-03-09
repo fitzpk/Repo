@@ -611,6 +611,19 @@
                 "Time": "Sat Mar 09 22:03:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/824775670215671808/OlgSY_25_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.253906, 33.045009]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "darrenesl", 
+                "Name": "Darren Johnson", 
+                "Tweet": "From #swamis \u27a1\ufe0f #cardiff \u27a1\ufe0f #solanabeach \u27a1\ufe0f #delmar \u27a1\ufe0f #torreypines \u27a1\ufe0f #lajolla #sandiegoliving #beachtime\u2026 https://t.co/RcwPPheTel", 
+                "TweetLink": "1104527811493199872", 
+                "Place": "Encinitas", 
+                "Time": "Sat Mar 09 23:42:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/565729098052288512/aKkkf_-P_normal.jpeg"
+            }
         }
     ]
 }
