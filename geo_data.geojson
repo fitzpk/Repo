@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.508925, 29.5742845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "rab3pgapro", 
-                "Name": "Richard A. Brown III", 
-                "Tweet": "Weather does not prohibit those who want to get better. FlightScope inside wedge distance control session. The grin\u2026 https://t.co/m9TSAiMyXu", 
-                "TweetLink": "1102964594098782208", 
-                "Place": "Missouri City", 
-                "Time": "Tue Mar 05 16:10:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1091696658545553409/dOUsli1f_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
             "type": "Feature", 
             "properties": {
