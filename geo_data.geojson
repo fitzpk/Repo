@@ -559,6 +559,19 @@
                 "Time": "Sat Mar 09 01:54:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[7.959723, 45.2469015]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AndreaISMarengo", 
+                "Name": "l\u2019Uomo Canestrello", 
+                "Tweet": "Style on Green \u00b7\n\u00b7\n\u00b7\n\u00b7\n\u00b7\n#golf #golfing #tagswow @tagswow #golfcourse #golfer #pga #golflife #titleist #taylormade\u2026 https://t.co/3dnf17mXMH", 
+                "TweetLink": "1104392058138230785", 
+                "Place": "Rondissone", 
+                "Time": "Sat Mar 09 14:42:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1102309531470704642/vmmR4Lr9_normal.jpg"
+            }
         }
     ]
 }
