@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "edcolemangolf", 
-                "Name": "Ed Coleman", 
-                "Tweet": "Well @TigerWoods just pulled out of Bay Hill, thus fucking up my late Sunday afternoon. Get well soon Big Cat. #PGATour #Tiger #GOAT", 
-                "TweetLink": "1102751794629918726", 
-                "Place": "South Burlington", 
-                "Time": "Tue Mar 05 02:04:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "golfperformance", 
-                "Name": "Terry Rowles", 
-                "Tweet": "streels54 First on the amazing new short game area at Bay Hill this Monday morning. #earlybirdcatchestheworm\u2026 https://t.co/aeZlrMoW03", 
-                "TweetLink": "1102765711284289537", 
-                "Place": "Bay Hill", 
-                "Time": "Tue Mar 05 03:00:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/866870377548533761/rspwuo3W_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
             "type": "Feature", 
             "properties": {
