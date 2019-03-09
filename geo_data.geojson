@@ -585,6 +585,32 @@
                 "Time": "Sat Mar 09 15:16:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1049122990829518848/h1maiue8_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[36.86362, -1.2748635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Badiah", 
+                "Name": "BADIAH W.", 
+                "Tweet": "After doing a 9-hole \u26f3 today, I feel like my limbs are in pieces \ud83d\ude15 Working towards my handicap status by end year\u2026 https://t.co/ysBj6lnX2T", 
+                "TweetLink": "1104450926989983749", 
+                "Place": "Nairobi", 
+                "Time": "Sat Mar 09 18:36:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1072811822414209024/hHgt3CTc_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0269885, 42.492846]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theffej_91", 
+                "Name": "JB", 
+                "Tweet": "If you\u2019re not rooting for Sam Saunders to win his grandfathers tournament this weekend, you\u2019re just plain wrong\u2026 https://t.co/53PfZVUTfx", 
+                "TweetLink": "1104451815024848897", 
+                "Place": "Warren", 
+                "Time": "Sat Mar 09 18:40:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/890831713835855872/XQhiJdR__normal.jpg"
+            }
         }
     ]
 }
