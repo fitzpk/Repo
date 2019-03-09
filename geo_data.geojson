@@ -611,6 +611,19 @@
                 "Time": "Sat Mar 09 18:40:07 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/890831713835855872/XQhiJdR__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.111975, 38.7431675]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kimby2929", 
+                "Name": "darin kimble", 
+                "Tweet": "Those are some sweet socks", 
+                "TweetLink": "1104453028051124227", 
+                "Place": "Granite City", 
+                "Time": "Sat Mar 09 18:44:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/633231606388535296/zB7tkZN3_normal.jpg"
+            }
         }
     ]
 }
