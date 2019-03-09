@@ -624,6 +624,19 @@
                 "Time": "Sat Mar 09 23:42:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/565729098052288512/aKkkf_-P_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LowTidePutters", 
+                "Name": "Low Tide Putters", 
+                "Tweet": "Happy Saturday! Some new things in process... more to come #RollWithUs \n\u2022\n\u2022\n\u2022\n#MadeInUSA #Golf #Steel #Shiny #New\u2026 https://t.co/PIN7DIWQRp", 
+                "TweetLink": "1104529584995926016", 
+                "Place": "Charlotte", 
+                "Time": "Sat Mar 09 23:49:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
+            }
         }
     ]
 }
