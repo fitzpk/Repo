@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "bradsgolf23", 
-                "Name": "andrew bradley", 
-                "Tweet": "Austin made his first trip to a golf course today! Quick stop off @apinv after doctors appointment! #pgatour\u2026 https://t.co/MiRGnADGE1", 
-                "TweetLink": "1102646506564157440", 
-                "Place": "Bay Hill", 
-                "Time": "Mon Mar 04 19:06:28 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-95.8778875, 35.962259]}, 
             "type": "Feature", 
             "properties": {
