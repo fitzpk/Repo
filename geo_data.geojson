@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.8778875, 35.962259]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Poke44OSU", 
-                "Name": "Craig Wagner", 
-                "Tweet": "@RickieFowler is a great ambassador for both the PGA and @OSUCowboyGolf @OSUAthletics WELL DONE, so glad you\u2019re a C\u2026 https://t.co/S5NrdC89fZ", 
-                "TweetLink": "1102653045932994561", 
-                "Place": "Bixby", 
-                "Time": "Mon Mar 04 19:32:27 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/836312254098309120/LA9ZdbuM_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
             "type": "Feature", 
             "properties": {
@@ -623,6 +610,19 @@
                 "Place": "United States", 
                 "Time": "Fri Mar 08 19:51:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.3036705, 29.550859]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sikemaenz", 
+                "Name": "Mike Saenz", 
+                "Tweet": "I got some \"new\" used clubs today. A year old @Callaway Rogue Pro irons. I am not going to pay a ton of \ud83d\udcb0for the la\u2026 https://t.co/fvvYSUG8Lz", 
+                "TweetLink": "1104180378582036481", 
+                "Place": "Universal City", 
+                "Time": "Sat Mar 09 00:41:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1070715631475941376/lympsoeJ_normal.jpg"
             }
         }
     ]
