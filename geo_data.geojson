@@ -572,6 +572,19 @@
                 "Time": "Sat Mar 09 14:42:39 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1102309531470704642/vmmR4Lr9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Dsg25", 
+                "Name": "David Gallaher", 
+                "Tweet": "\"Just tap it in. Just tap it in. Give it a little tappy. Tap Tap Taparoo.\u201d #HappyGilmore #arnoldpalmerinvitational\u2026 https://t.co/01c6HQO7GC", 
+                "TweetLink": "1104400635850563584", 
+                "Place": "Bay Hill", 
+                "Time": "Sat Mar 09 15:16:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1049122990829518848/h1maiue8_normal.jpg"
+            }
         }
     ]
 }
