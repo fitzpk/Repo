@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "Congrats #ArnoldPalmer...\n\n\"@PGATOUR has announced that it's Rookie of the Year honor will be named the Arnold Palm\u2026 https://t.co/fUGpHY0sTm", 
-                "TweetLink": "1102658597912227840", 
-                "Place": "Winnipeg", 
-                "Time": "Mon Mar 04 19:54:30 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.1096165, 32.0172845]}, 
             "type": "Feature", 
             "properties": {
