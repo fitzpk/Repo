@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Birdie18th", 
-                "Name": "Birdie 18", 
-                "Tweet": "Tiger Woods out at API #PGATour #BayHill https://t.co/DWTMWv6YcY", 
-                "TweetLink": "1102657229398790145", 
-                "Place": "Los Angeles", 
-                "Time": "Mon Mar 04 19:49:04 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1027760348613541888/ze8zYcnt_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-0.252754, 51.3854455]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PedroLemosGolf", 
-                "Name": "Pedro Lemos", 
-                "Tweet": "rhysieboy15 Getting ready for 2019 season \ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb Looking good boy \ud83d\udcb0\ud83d\udcb0 @foxhillssurrey #golfcoach #golfswing\u2026 https://t.co/ECtsRzSd6n", 
-                "TweetLink": "1102657248902299648", 
-                "Place": "South East", 
-                "Time": "Mon Mar 04 19:49:09 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/758234175740731392/Ir7XZlbN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
