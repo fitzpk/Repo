@@ -650,6 +650,19 @@
                 "Time": "Sun Mar 10 00:03:46 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "\"@RickieFowler continues to carry on #ArnoldPalmer\u2019s legacy this week at the @APinv...\"\n@PGATOUREnt \n\n#APInv\u2026 https://t.co/coHg023pse", 
+                "TweetLink": "1104555078009188352", 
+                "Place": "Winnipeg", 
+                "Time": "Sun Mar 10 01:30:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081595844376387584/VnqswDBY_normal.jpg"
+            }
         }
     ]
 }
