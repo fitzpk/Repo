@@ -637,6 +637,19 @@
                 "Time": "Sat Mar 09 23:49:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.244546, 32.904616]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "br09402", 
+                "Name": "TommyJoe Valenzuela", 
+                "Tweet": "Nice finish. #golf #torreypines https://t.co/gmyA5Gyvsp", 
+                "TweetLink": "1104533266835488769", 
+                "Place": "Torrey Pines Golf Course", 
+                "Time": "Sun Mar 10 00:03:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
+            }
         }
     ]
 }
