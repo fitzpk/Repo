@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "B_Rad_Silvers", 
-                "Name": "DFS_FAMILY_PREMIUM", 
-                "Tweet": "Preview Of What You Get\nClick THE LINK\nhttps://t.co/UgSCBS3aSx\n@dfscheatsheet1 @PicksCity @LowOwnedWR @DFSMooseDFS\u2026 https://t.co/gy3br99OBq", 
-                "TweetLink": "1103683296922427394", 
-                "Place": "St Louis", 
-                "Time": "Thu Mar 07 15:46:18 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1089408466257555456/srZ4Gu-A_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
             "type": "Feature", 
             "properties": {
