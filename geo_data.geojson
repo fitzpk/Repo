@@ -351,6 +351,19 @@
                 "Time": "Mon Mar 11 18:06:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1073965781287866368/IGVkp4hF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mikewhitejr", 
+                "Name": "Michael White", 
+                "Tweet": "Time to tame or be tamed by #torreypines @ Torrey Pines Municipal Golf Course https://t.co/CS4vNTykla", 
+                "TweetLink": "1105200294118461446", 
+                "Place": "San Diego", 
+                "Time": "Mon Mar 11 20:14:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/417101064945430528/pv0NGC38_normal.jpeg"
+            }
         }
     ]
 }
