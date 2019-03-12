@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jonmccarthySUN", 
-                "Name": "Jon McCarthy", 
-                "Tweet": "Don\u2019t tell anyone but @PepperellEddie has a secret weapon today at Arnie\u2019s place #pgatour https://t.co/yPn3ieGAHy", 
-                "TweetLink": "1104067990948114432", 
-                "Place": "Bay Hill", 
-                "Time": "Fri Mar 08 17:14:56 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/622232208225472512/z5hD_q7D_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[9.4696195, 48.906793]}, 
             "type": "Feature", 
             "properties": {
