@@ -364,6 +364,19 @@
                 "Time": "Mon Mar 11 20:14:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/417101064945430528/pv0NGC38_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.394759, 30.193203]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bradsgolf23", 
+                "Name": "andrew bradley", 
+                "Tweet": "@tigerwoods out for a 9 hole practice round with @justinthomas34 and htmullinax theplayerschamp #golf#golfchannel\u2026 https://t.co/ivryUCIkVh", 
+                "TweetLink": "1105474080055152640", 
+                "Place": "Palm Valley", 
+                "Time": "Tue Mar 12 14:22:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1021044092422287360/RsCUfrGV_normal.jpg"
+            }
         }
     ]
 }
