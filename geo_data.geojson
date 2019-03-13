@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-98.3036705, 29.550859]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "sikemaenz", 
-                "Name": "Mike Saenz", 
-                "Tweet": "I got some \"new\" used clubs today. A year old @Callaway Rogue Pro irons. I am not going to pay a ton of \ud83d\udcb0for the la\u2026 https://t.co/fvvYSUG8Lz", 
-                "TweetLink": "1104180378582036481", 
-                "Place": "Universal City", 
-                "Time": "Sat Mar 09 00:41:31 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1070715631475941376/lympsoeJ_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "Tommy Fleetwood, one half of Ryder Cup heroes \u201cMoli-Wood,\u201d in hunt for first win on American soil at Bay Hill.\u2026 https://t.co/1GxhW746xz", 
-                "TweetLink": "1104198768776241154", 
-                "Place": "Brampton", 
-                "Time": "Sat Mar 09 01:54:36 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[7.959723, 45.2469015]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "AndreaISMarengo", 
-                "Name": "l\u2019Uomo Canestrello", 
-                "Tweet": "Style on Green \u00b7\n\u00b7\n\u00b7\n\u00b7\n\u00b7\n#golf #golfing #tagswow @tagswow #golfcourse #golfer #pga #golflife #titleist #taylormade\u2026 https://t.co/3dnf17mXMH", 
-                "TweetLink": "1104392058138230785", 
-                "Place": "Rondissone", 
-                "Time": "Sat Mar 09 14:42:39 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1102309531470704642/vmmR4Lr9_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.511232, 28.4593125]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Dsg25", 
-                "Name": "David Gallaher", 
-                "Tweet": "\"Just tap it in. Just tap it in. Give it a little tappy. Tap Tap Taparoo.\u201d #HappyGilmore #arnoldpalmerinvitational\u2026 https://t.co/01c6HQO7GC", 
-                "TweetLink": "1104400635850563584", 
-                "Place": "Bay Hill", 
-                "Time": "Sat Mar 09 15:16:45 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1049122990829518848/h1maiue8_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[36.86362, -1.2748635]}, 
             "type": "Feature", 
             "properties": {
