@@ -65,6 +65,19 @@
                 "Time": "Wed Mar 13 02:02:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@PlayYellow4Kids\n ...who's this kid?\n\nGreat job @jacknicklaus...I'm following \n\n#PlayYellow !!!\n\n#PGATour https://t.co/d4QUajAroy", 
+                "TweetLink": "1106330304111960064", 
+                "Place": "Winnipeg", 
+                "Time": "Thu Mar 14 23:04:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
+            }
         }
     ]
 }
