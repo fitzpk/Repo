@@ -104,6 +104,19 @@
                 "Time": "Fri Mar 15 01:02:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095755396164214784/6Mv-il5a_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jearl14", 
+                "Name": "Jason Earl", 
+                "Tweet": "THE PLAYERS CHAMPIONSHIP 2019 #ThePlayers #LiveUnderPar #PGATour #TPCSawgrass #PonteVedraBeach #Florida\u2026 https://t.co/5AONCRN5Mf", 
+                "TweetLink": "1106362844864487424", 
+                "Place": "Florida", 
+                "Time": "Fri Mar 15 01:13:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1053389887741792256/KBkP8i3F_normal.jpg"
+            }
         }
     ]
 }
