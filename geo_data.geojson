@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "AndersonLance", 
-                "Name": "Lance Anderson", 
-                "Tweet": "#ParaGliding off of the #California coast\n\n#paraglide #paraglider #Californiacoast #coastline #beach #torreypines\u2026 https://t.co/3ctRVAmozA", 
-                "TweetLink": "1105168162771869696", 
-                "Place": "San Diego", 
-                "Time": "Mon Mar 11 18:06:37 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1073965781287866368/IGVkp4hF_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "mikewhitejr", 
                 "Name": "Michael White", 
                 "Tweet": "Time to tame or be tamed by #torreypines @ Torrey Pines Municipal Golf Course https://t.co/CS4vNTykla", 
@@ -142,6 +129,32 @@
                 "Place": "Florida", 
                 "Time": "Fri Mar 15 02:35:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3383090118/dfaa5b557f7d8ed5633b74b6706e9060_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.0350195, 51.5148305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HatcherNick", 
+                "Name": "Nick Hatcher", 
+                "Tweet": "1. Tommy\n2. Ian\n3. Rory\n\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\n#LiveUnderPar #THEPLAYERS #goonthebrits #EnglandGolf #PGATour #europeantour", 
+                "TweetLink": "1106678545798127619", 
+                "Place": "Poplar", 
+                "Time": "Fri Mar 15 22:08:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3479972295/60218f5269d9ccbec09548578a678bc6_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "Live split screen with shot tracer on the 18th tee at the @THEPLAYERSChamp is so entertaining! #nbc #pgatour", 
+                "TweetLink": "1106678763096559618", 
+                "Place": "South Burlington", 
+                "Time": "Fri Mar 15 22:09:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
         }
     ]
