@@ -156,6 +156,19 @@
                 "Time": "Fri Mar 15 22:09:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.8583985, 33.63934]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WELLPUT_BRAND", 
+                "Name": "WELL PUT\u00ae", 
+                "Tweet": "WE WOULD LIKE TO POINT OUT \ud83d\udc49\ud83c\udffc GOLF IS HARD AF. \ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f #golfishardaf #golf #pgatour #pga #golfswag #golflife\u2026 https://t.co/V1RTe3r3FR", 
+                "TweetLink": "1106689009093214208", 
+                "Place": "Scottsdale", 
+                "Time": "Fri Mar 15 22:49:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/987170580653793280/duu-lRf6_normal.jpg"
+            }
         }
     ]
 }
