@@ -169,6 +169,19 @@
                 "Time": "Fri Mar 15 22:49:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/987170580653793280/duu-lRf6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.7754335, 53.649918]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "paul020765", 
+                "Name": "Paul Ryan", 
+                "Tweet": "@McIlroyRory - 6 iron 250yds @THEPLAYERSChamp #PGATour #europeantour #impressive #golf #SkySports #golfpros  https://t.co/cdUxczT91j", 
+                "TweetLink": "1106699064937234432", 
+                "Place": "Meath", 
+                "Time": "Fri Mar 15 23:29:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/790644529695170560/NxVpJ3xv_normal.jpg"
+            }
         }
     ]
 }
