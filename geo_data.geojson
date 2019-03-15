@@ -130,6 +130,19 @@
                 "Time": "Fri Mar 15 02:04:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/883741647523151874/V8cJOFqi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Cannonball63", 
+                "Name": "David Cannon", 
+                "Tweet": "Not many #fairways today @THEPLAYERSChamp for @TigerWoods battles to 2under first round #PGATour #TPCSawgrass\u2026 https://t.co/1kLi66gVZR", 
+                "TweetLink": "1106383425051787264", 
+                "Place": "Florida", 
+                "Time": "Fri Mar 15 02:35:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3383090118/dfaa5b557f7d8ed5633b74b6706e9060_normal.jpeg"
+            }
         }
     ]
 }
