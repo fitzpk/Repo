@@ -182,6 +182,19 @@
                 "Time": "Fri Mar 15 23:29:53 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/790644529695170560/NxVpJ3xv_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.391284, 30.202195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Joshua_E_Kelley", 
+                "Name": "Joshua Kelley", 
+                "Tweet": "This hole has a nice design. I think it should be famous. #ThePlayersChampionship #TPCSawgrass #PGATour https://t.co/jCBimgLlqn", 
+                "TweetLink": "1106702296581320711", 
+                "Place": "17th Hole", 
+                "Time": "Fri Mar 15 23:42:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3159125719/cc46ed4d69360f47060ecb75f345eaf5_normal.jpeg"
+            }
         }
     ]
 }
