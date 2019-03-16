@@ -429,6 +429,19 @@
                 "Time": "Sat Mar 16 21:40:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.3425245, 41.144642]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shortenbj", 
+                "Name": "Ben Shorten", 
+                "Tweet": "Since when did the Florida swing become a wing of @EuropeanTour? #PGATour #LiveUnderPar #ifEuropean", 
+                "TweetLink": "1107048250006216704", 
+                "Place": "Westport", 
+                "Time": "Sat Mar 16 22:37:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/975706390688870402/miziiejI_normal.jpg"
+            }
         }
     ]
 }
