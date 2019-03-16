@@ -390,6 +390,19 @@
                 "Time": "Sat Mar 16 20:27:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/959424292797558784/ymFY7IzQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Luiscostajr", 
+                "Name": "Luis Costa Jr", 
+                "Tweet": "Oh, man, I look like a serial killer in this TV commercial ad with @McIlroyRory \ud83e\udd23\ud83d\ude02\ud83e\udd23    @DanielNewman\u2026 https://t.co/xU3gyDkRZm", 
+                "TweetLink": "1107020783325454341", 
+                "Place": "Florida", 
+                "Time": "Sat Mar 16 20:48:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1091923416188358656/xzmbsxH6_normal.jpg"
+            }
         }
     ]
 }
