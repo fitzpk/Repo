@@ -260,6 +260,19 @@
                 "Time": "Sat Mar 16 14:58:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/980808118685831168/DPrFz1B9_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davesansom", 
+                "Name": "Dave Sansom", 
+                "Tweet": "Sunrise at West Bay Club, in Estero, Florida. I love this time of day! \ud83d\ude00 #golf #golfporn #pgatour #golfphotos\u2026 https://t.co/EnsNAaJHqZ", 
+                "TweetLink": "1106971044600938496", 
+                "Place": "Florida", 
+                "Time": "Sat Mar 16 17:30:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
+            }
         }
     ]
 }
