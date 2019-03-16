@@ -234,6 +234,19 @@
                 "Time": "Sat Mar 16 02:04:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1095735192885460992/9XPAEyda_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LowTidePutters", 
+                "Name": "Low Tide Putters", 
+                "Tweet": "Good morning from @kiawahresort Looking forward to playing some golf today with the boys.  \n\u2022\n\u2022\n\u2022\n#MadeInUSA #Golf\u2026 https://t.co/qWOmnvc5QM", 
+                "TweetLink": "1106925243686281220", 
+                "Place": "South Carolina", 
+                "Time": "Sat Mar 16 14:28:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
+            }
         }
     ]
 }
