@@ -247,6 +247,19 @@
                 "Time": "Sat Mar 16 14:28:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.394658, 30.198757]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mhow93", 
+                "Name": "Mary Howard DiPronio", 
+                "Tweet": "#TigerWoods at the @THEPLAYERSChamp! #theplayers #ThePlayersChampionship #tpcsawgrass #golf #PGATour https://t.co/t7I4jI94il", 
+                "TweetLink": "1106932771417657345", 
+                "Place": "TPC Sawgrass", 
+                "Time": "Sat Mar 16 14:58:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980808118685831168/DPrFz1B9_normal.jpg"
+            }
         }
     ]
 }
