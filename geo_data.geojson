@@ -468,6 +468,19 @@
                 "Time": "Sun Mar 17 00:03:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/131419127/ted_normal.gif"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.394759, 30.193203]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rheathcote", 
+                "Name": "Richard Heathcote", 
+                "Tweet": "Round 3 done and dusted #theplayerschampionship #golf #pgatour #gettysport @ THE PLAYERS Championship https://t.co/VECcWe33tl", 
+                "TweetLink": "1107078236431896577", 
+                "Place": "Palm Valley", 
+                "Time": "Sun Mar 17 00:36:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1008280790873071618/vlk0equ3_normal.jpg"
+            }
         }
     ]
 }
