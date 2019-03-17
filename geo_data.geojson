@@ -455,6 +455,19 @@
                 "Time": "Sun Mar 17 00:36:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1008280790873071618/vlk0equ3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.18414, 44.4547525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "Do be clear, the 17th green at the @THEPLAYERSChamp isn\u2019t really an island. #PGATour #PlayersChampionship2019 https://t.co/tG4oAyTYDB", 
+                "TweetLink": "1107274736218705920", 
+                "Place": "South Burlington", 
+                "Time": "Sun Mar 17 13:37:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
+            }
         }
     ]
 }
