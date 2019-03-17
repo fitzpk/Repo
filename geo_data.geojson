@@ -442,6 +442,32 @@
                 "Time": "Sat Mar 16 22:37:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/975706390688870402/miziiejI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-123.6694535, 48.8460845]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "taiterstan", 
+                "Name": "David Tait", 
+                "Tweet": "Solid Saturday from Canada's @coreconn &amp; @ntaylorgolf59, moving UP the @THEPLAYERSChamp leaderboard. Even better Su\u2026 https://t.co/cFG3COsPm3", 
+                "TweetLink": "1107068336183996416", 
+                "Place": "North Cowichan", 
+                "Time": "Sat Mar 16 23:57:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080157730231341056/fo9HT7c3_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.6018025, 42.245713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "juniorspecial", 
+                "Name": "Stokely Van Camp", 
+                "Tweet": "@mileyvirusDFS @THEPLAYERSChamp Feherty is a dick. #PGATour", 
+                "TweetLink": "1107069820133097474", 
+                "Place": "Ypsilanti", 
+                "Time": "Sun Mar 17 00:03:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/131419127/ted_normal.gif"
+            }
         }
     ]
 }
