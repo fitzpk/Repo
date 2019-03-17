@@ -468,6 +468,19 @@
                 "Time": "Sun Mar 17 13:37:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-19.00682, 64.893057]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "EdwinRoald", 
+                "Name": "Edwin Roald", 
+                "Tweet": "Fun, but this is a reminder that vertical water edges like this have a negative impact on wildlife. Plus, they gene\u2026 https://t.co/qTElJBy44a", 
+                "TweetLink": "1107283710011940864", 
+                "Place": "Iceland", 
+                "Time": "Sun Mar 17 14:13:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/574549332579348480/uFzr-O5P_normal.jpeg"
+            }
         }
     ]
 }
