@@ -546,6 +546,19 @@
                 "Time": "Sun Mar 17 17:14:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.4641715, 41.44099]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "the_fege", 
+                "Name": "the fege", 
+                "Tweet": "Championship Sunday #PlayersChampionship2019 #PGATour", 
+                "TweetLink": "1107332769280155649", 
+                "Place": "St John", 
+                "Time": "Sun Mar 17 17:28:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907881706119733248/XKEuS2xk_normal.jpg"
+            }
         }
     ]
 }
