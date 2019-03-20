@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.837322, 32.8479465]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "1ManWolfpack22", 
-                "Name": "Tim Bott PhD", 
-                "Tweet": "TPC is a great tournament, but it's missing something without Johnny Miller. #PGATour", 
-                "TweetLink": "1106989575442968578", 
-                "Place": "Mount Pleasant", 
-                "Time": "Sat Mar 16 18:44:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1063481327289282561/rsr1vUA6_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-77.4771055, 39.0311595]}, 
             "type": "Feature", 
             "properties": {
