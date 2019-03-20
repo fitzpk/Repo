@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-88.1613215, 41.748496]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mjpesquire", 
-                "Name": "Matt Patterson", 
-                "Tweet": "Pro golfers are shameless when it comes to trying to get favorable drops. #Players #PGATour", 
-                "TweetLink": "1106999399362822151", 
-                "Place": "Naperville", 
-                "Time": "Sat Mar 16 19:23:18 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/489372627/Me_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.837322, 32.8479465]}, 
             "type": "Feature", 
             "properties": {
