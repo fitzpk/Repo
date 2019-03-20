@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.837322, 32.8479465]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "1ManWolfpack22", 
-                "Name": "Tim Bott PhD", 
-                "Tweet": "Ian Poulter wasting time... He knows full well that ball never cleared the hazard. #PGATour  #THEPLAYERS https://t.co/Ox7TtIXegH", 
-                "TweetLink": "1106999507265507328", 
-                "Place": "Mount Pleasant", 
-                "Time": "Sat Mar 16 19:23:44 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1063481327289282561/rsr1vUA6_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-77.4771055, 39.0311595]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mrbpconnelly", 
-                "Name": "Brian", 
-                "Tweet": "I do appreciate the last couple groups of the @THEPLAYERSChamp playing shots like I did when I played the @TPCSawgrass #Golf #PGATour #PGA", 
-                "TweetLink": "1107000203725410309", 
-                "Place": "Ashburn", 
-                "Time": "Sat Mar 16 19:26:30 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/458431676268687360/DooyY0TM_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.723025, 45.5578305]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SAllard09", 
-                "Name": "St\u00e9phane Allard", 
-                "Tweet": "C'est bon de voir Woods avec cette attitude! \ud83d\ude04\ud83d\ude04 #PGATour #ThePlayersChampionship #tigerwoods", 
-                "TweetLink": "1107000778445778944", 
-                "Place": "Montr\u00e9al", 
-                "Time": "Sat Mar 16 19:28:47 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/894372751049449473/2fiTQPl__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-76.1288105, 43.052607]}, 
             "type": "Feature", 
             "properties": {
@@ -324,6 +285,19 @@
                 "Place": "Palm Harbor", 
                 "Time": "Wed Mar 20 21:51:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/919940440819949569/G9zejdA9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-114.4095175, 62.4751085]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mrhooie", 
+                "Name": "i am Hughie", 
+                "Tweet": "I meet the best people at the #mgawc ! Thanks Ken and @PEBBLEKENTHE2 for sending the hat, it made\u2026 https://t.co/2qKgNwA3nR", 
+                "TweetLink": "1108510556208549888", 
+                "Place": "Yellowknife", 
+                "Time": "Wed Mar 20 23:28:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1181120144/hughiedan_normal.JPG"
             }
         }
     ]
