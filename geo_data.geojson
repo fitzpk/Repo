@@ -7,19 +7,6 @@
             "properties": {
                 "Handle": "mrbpconnelly", 
                 "Name": "Brian", 
-                "Tweet": "This last group at the @THEPLAYERSChamp are way over thinking the game of golf. I have no idea what Rory is doing #PGATour #Golf", 
-                "TweetLink": "1106991464662396933", 
-                "Place": "Ashburn", 
-                "Time": "Sat Mar 16 18:51:46 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/458431676268687360/DooyY0TM_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-77.4771055, 39.0311595]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mrbpconnelly", 
-                "Name": "Brian", 
                 "Tweet": "@TigerWoods and Kevin Na just reminded us all that professional golf can be be fun at the 17th @THEPLAYERSChamp Bra\u2026 https://t.co/jIehzzBByP", 
                 "TweetLink": "1106993016764620800", 
                 "Place": "Ashburn", 
