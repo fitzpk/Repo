@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LowTidePutters", 
-                "Name": "Low Tide Putters", 
-                "Tweet": "Out with the boys seabrookgolfclub @seabrook_sc \n\u2022\n\u2022\n\u2022\n#MadeInUSA #Golf #Shiny #New #Sparkle #PGATour #Made\u2026 https://t.co/y0Q9UWUNKB", 
-                "TweetLink": "1107033805531955200", 
-                "Place": "South Carolina", 
-                "Time": "Sat Mar 16 21:40:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.3425245, 41.144642]}, 
             "type": "Feature", 
             "properties": {
