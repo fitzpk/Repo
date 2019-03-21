@@ -130,6 +130,19 @@
                 "Time": "Thu Mar 21 03:00:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1014624200538099712/3XRrywsi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "3 car accident on the right shoulder in #TorreyPines on 5 SB before Balboa Ave, stop and go traffic back to 805, delay of 18 mins #SDtraffic", 
+                "TweetLink": "1108853727102939137", 
+                "Place": "San Diego", 
+                "Time": "Thu Mar 21 22:11:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
