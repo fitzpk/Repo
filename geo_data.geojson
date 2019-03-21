@@ -299,6 +299,19 @@
                 "Time": "Wed Mar 20 23:28:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1181120144/hughiedan_normal.JPG"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.753032, 28.114414]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BettinardiGolf", 
+                "Name": "Bettinardi Golf", 
+                "Tweet": "The @pgatour makes its final stop of its Florida swing for the @ValsparChamp . Our Tour reps are on the grounds &amp; h\u2026 https://t.co/3S4zIJ71i1", 
+                "TweetLink": "1108518439382069248", 
+                "Place": "Copperhead Golf Course", 
+                "Time": "Wed Mar 20 23:59:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1072153812419391490/hSDUXj2__normal.jpg"
+            }
         }
     ]
 }
