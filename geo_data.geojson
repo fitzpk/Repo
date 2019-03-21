@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-81.394759, 30.193203]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jimsmithgolf", 
-                "Name": "Jim Smith", 
-                "Tweet": "@fitteamglobal Brand Ambassador @jhonattanvegas climbing up the leaderboard theplayerschamp, only 2 shots back!\u2026 https://t.co/NDu26QL9P3", 
-                "TweetLink": "1107347787434201090", 
-                "Place": "Palm Valley", 
-                "Time": "Sun Mar 17 18:27:40 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.3681705, 30.1901485]}, 
             "type": "Feature", 
             "properties": {
