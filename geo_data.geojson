@@ -260,6 +260,19 @@
                 "Time": "Thu Mar 21 01:34:07 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780537235984617472/yuahqcUn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_golfxfit", 
+                "Name": "Golf X Fit", 
+                "Tweet": "One of my favorite texts of the week \ud83d\ude0d\ud83d\ude0d \n.\nLet\u2019s gooooo\ud83c\udfcc\ud83c\udffb\ud83c\udfc6\n.\n.\n#onlinegolffitness #pgatour #tourgolfxfit #golfxfit\u2026 https://t.co/yenvvyBOYz", 
+                "TweetLink": "1108563905859604480", 
+                "Place": "Palm Harbor", 
+                "Time": "Thu Mar 21 03:00:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1014624200538099712/3XRrywsi_normal.jpg"
+            }
         }
     ]
 }
