@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-93.2620465, 44.9706105]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "shaffnerphoto", 
-                "Name": "Chris Shaffner", 
-                "Tweet": "@Fehertwit assuming homeless people have long hair and rob stores is assinine. Shitty comment. #PGATour #PlayersChampionship2019", 
-                "TweetLink": "1107032078573625344", 
-                "Place": "Minneapolis", 
-                "Time": "Sat Mar 16 21:33:09 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/932751929582804992/TrX6qPdM_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
             "type": "Feature", 
             "properties": {
@@ -285,6 +272,19 @@
                 "Place": "Copperhead Golf Course", 
                 "Time": "Wed Mar 20 23:59:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1072153812419391490/hSDUXj2__normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.7375655, 33.4057545]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "2GGapparel", 
+                "Name": "2GG Apparel", 
+                "Tweet": "Our boy @byronmethgolf tee times the next 2 days on @webdotcomtour. They\u2019re in Louisiana. Let\u2019s go Byron!!\u2026 https://t.co/XHD4Ritoma", 
+                "TweetLink": "1108542270968655873", 
+                "Place": "Mesa", 
+                "Time": "Thu Mar 21 01:34:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780537235984617472/yuahqcUn_normal.jpg"
             }
         }
     ]
