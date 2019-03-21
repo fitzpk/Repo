@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-76.1288105, 43.052607]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "bdonner07", 
-                "Name": "Brian R. Donner", 
-                "Tweet": "The fact that people still yell #getinthehole and #bababooey at #PGATour events blows my mind. #ThePlayers", 
-                "TweetLink": "1107015557419884544", 
-                "Place": "Syracuse", 
-                "Time": "Sat Mar 16 20:27:30 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/959424292797558784/ymFY7IzQ_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
