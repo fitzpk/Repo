@@ -130,6 +130,19 @@
                 "Time": "Thu Mar 21 22:11:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident cleared in #TorreyPines on 5 SB before Balboa Ave, stop and go traffic back to 805, delay of 18 mins #SDtraffic", 
+                "TweetLink": "1108860052843188229", 
+                "Place": "San Diego", 
+                "Time": "Thu Mar 21 22:36:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
