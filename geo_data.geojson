@@ -143,6 +143,19 @@
                 "Time": "Thu Mar 21 22:36:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheKGFIT", 
+                "Name": "Kristopher Goeden", 
+                "Tweet": "Great day out at the #valspar \ud83c\udfcc\ud83c\udffc\u26f3\ufe0f\ud83c\udf7bwatching DJ, Woodland and Casey battle it out #pgatour #valsparchampionship @ Co\u2026 https://t.co/O3OawRUo1O", 
+                "TweetLink": "1108871657723179008", 
+                "Place": "Palm Harbor", 
+                "Time": "Thu Mar 21 23:22:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/648528938487058432/yf7sH_u-_normal.jpg"
+            }
         }
     ]
 }
