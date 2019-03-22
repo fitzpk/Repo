@@ -260,6 +260,19 @@
                 "Time": "Fri Mar 22 02:04:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1038258666665857025/9elTtxVN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SeeMorePutters", 
+                "Name": "SeeMore Putters", 
+                "Tweet": "\u2022 \ud83c\udfcd 100% Premium Milled Series SeeMore putters. \ud83d\udc8e \u2022\nClick link in bio to view more.\n\u2022\n\u2022\n\u2022\n\u2022\n#teamseemore #golf\u2026 https://t.co/d0NY1q9mvs", 
+                "TweetLink": "1108912911085383682", 
+                "Place": "Franklin", 
+                "Time": "Fri Mar 22 02:06:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/872447279180857344/7mQ-Qh97_normal.jpg"
+            }
         }
     ]
 }
