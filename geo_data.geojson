@@ -156,6 +156,19 @@
                 "Time": "Thu Mar 21 23:22:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/648528938487058432/yf7sH_u-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PGATOURComms", 
+                "Name": "PGA TOUR Communications", 
+                "Tweet": "R2 hole locations for the @ValsparChamp #pgatour https://t.co/npdZACo5FR", 
+                "TweetLink": "1108882662041759746", 
+                "Place": "Palm Harbor", 
+                "Time": "Fri Mar 22 00:06:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1108819541923192832/vRW1JgBK_normal.jpg"
+            }
         }
     ]
 }
