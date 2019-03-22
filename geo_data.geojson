@@ -195,6 +195,45 @@
                 "Time": "Fri Mar 22 01:16:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1075122646076002304/5FD74jnt_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, right lane blocked in #TorreyPines on 5 NB before 56 #SDtraffic https://t.co/m44DG45MF1", 
+                "TweetLink": "1108907817069658112", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 22 01:46:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, right lane blocked in #TorreyPines on 5 NB before 56, stopped traffic back to 805, delay of 13 mins #SDtraffic", 
+                "TweetLink": "1108909040501952512", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 22 01:51:32 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, shoulder blocked in #TorreyPines on 5 NB before 56, stopped traffic back to 805, delay of 13 mins\u2026 https://t.co/4pVtEX6e2S", 
+                "TweetLink": "1108909180444966914", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 22 01:52:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
