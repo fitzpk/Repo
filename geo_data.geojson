@@ -234,6 +234,32 @@
                 "Time": "Fri Mar 22 01:52:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident, shoulder blocked in #TorreyPines on 5 NB before 56 #SDtraffic https://t.co/m44DG45MF1", 
+                "TweetLink": "1108910641870446592", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 22 01:57:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.285151, 39.862183]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SusanEngle50", 
+                "Name": "Susan Engle", 
+                "Tweet": "My amazing roster for THE PLAYERS Championship #PGATOUR Fantasy golf https://t.co/94UJu9vKxY. To check it out yha", 
+                "TweetLink": "1108912279926571009", 
+                "Place": "Englewood", 
+                "Time": "Fri Mar 22 02:04:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1038258666665857025/9elTtxVN_normal.jpg"
+            }
         }
     ]
 }
