@@ -169,6 +169,19 @@
                 "Time": "Fri Mar 22 00:06:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1108819541923192832/vRW1JgBK_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BPSnow11", 
+                "Name": "BigBucksNoWhammies", 
+                "Tweet": "Another doozy for the cut sweats!", 
+                "TweetLink": "1108884960906219525", 
+                "Place": "Virginia", 
+                "Time": "Fri Mar 22 00:15:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/547428385434386432/gpn3B-CF_normal.jpeg"
+            }
         }
     ]
 }
