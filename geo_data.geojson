@@ -325,6 +325,45 @@
                 "Time": "Sun Mar 24 12:49:53 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1060558620084109313/kwnFY8QE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[46.685077, 24.7219435]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AbeerZa18495441", 
+                "Name": "Abeer Zawati", 
+                "Tweet": "PGA TOUR LIVE on Twitter #PGATOUR https://t.co/rqM1yH53WZ", 
+                "TweetLink": "1109805621304545281", 
+                "Place": "Riyadh", 
+                "Time": "Sun Mar 24 13:14:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1109433450187186176/FySHsKUI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "\u201cI just stood there watching him walk past and thinking, \u2018I don\u2019t know what that is, but I know there weren\u2019t two o\u2026 https://t.co/9WVis8QzwM", 
+                "TweetLink": "1109806947782541312", 
+                "Place": "Winnipeg", 
+                "Time": "Sun Mar 24 13:19:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.5330735, 27.3411215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davesansom", 
+                "Name": "Dave Sansom", 
+                "Tweet": "One of the things I enjoy most about golf is the opportunity to make new friends almost every time I\u2019m on a course!\u2026 https://t.co/FZK26pXEm3", 
+                "TweetLink": "1109807201273548800", 
+                "Place": "Sarasota", 
+                "Time": "Sun Mar 24 13:20:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
+            }
         }
     ]
 }
