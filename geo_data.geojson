@@ -429,6 +429,19 @@
                 "Time": "Sun Mar 24 18:38:49 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/844686634167742464/8XQVbP9B_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.174843, 40.749871]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ejt300", 
+                "Name": "EJ Tackett", 
+                "Tweet": "Sometimes it\u2019s nice to just kick back, relax and enjoy watching the pgatour @valsparchamp #relax #relaxing #pgatour\u2026 https://t.co/2Mltj2Ikbz", 
+                "TweetLink": "1109898969486893056", 
+                "Place": "Bluffton", 
+                "Time": "Sun Mar 24 19:25:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/504733522851266561/QyuhecpB_normal.jpeg"
+            }
         }
     ]
 }
