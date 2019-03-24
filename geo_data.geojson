@@ -377,6 +377,19 @@
                 "Time": "Sun Mar 24 15:58:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027315811797614594/ggJHQWY6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Rob_Roth", 
+                "Name": "Rob Roth", 
+                "Tweet": "The man. The Myth. The Legend Dom D! #thegodfather #torreypines @ Torrey Pines Golf Course https://t.co/yN3KTP3dDM", 
+                "TweetLink": "1109848884208111616", 
+                "Place": "San Diego", 
+                "Time": "Sun Mar 24 16:06:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953747104928878593/zQstVRpT_normal.jpg"
+            }
         }
     ]
 }
