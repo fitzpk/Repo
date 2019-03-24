@@ -390,6 +390,19 @@
                 "Time": "Sun Mar 24 16:06:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/953747104928878593/zQstVRpT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jimhunterb1", 
+                "Name": "james hunter", 
+                "Tweet": "Good afternoon @jimfuryk . Here\u2019s a bit of positive energy to feed off of, for today\u2019s round!!!\ud83d\udc4a\ud83c\udffb\u2026 https://t.co/RNxPE3mP7C", 
+                "TweetLink": "1109858996498907141", 
+                "Place": "Brooklyn", 
+                "Time": "Sun Mar 24 16:46:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
+            }
         }
     ]
 }
