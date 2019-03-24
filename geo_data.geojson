@@ -468,6 +468,19 @@
                 "Time": "Sun Mar 24 20:51:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3613205, 46.4418605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "b_schaffler", 
+                "Name": "Brittany Schaffler", 
+                "Tweet": "What tournament is this one again? #golf #pgatour #reallynaileditwiththemarketing @ValsparChamp https://t.co/SbC7nOHrXF", 
+                "TweetLink": "1109922833495478272", 
+                "Place": "Minnesota", 
+                "Time": "Sun Mar 24 20:59:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1092934337006317570/y89-WZRo_normal.jpg"
+            }
         }
     ]
 }
