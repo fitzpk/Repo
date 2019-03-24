@@ -286,6 +286,19 @@
                 "Time": "Sat Mar 23 15:31:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jimhunterb1", 
+                "Name": "james hunter", 
+                "Tweet": "We\u2019re pulling for ya Jimbo! You\u2019re so in this!! Go low tomorrow and show these whipper snappers how to play the gam\u2026 https://t.co/GAK8GhpGhX", 
+                "TweetLink": "1109604973111848965", 
+                "Place": "Brooklyn", 
+                "Time": "Sat Mar 23 23:56:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
+            }
         }
     ]
 }
