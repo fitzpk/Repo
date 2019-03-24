@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "davesansom", 
-                "Name": "Dave Sansom", 
-                "Tweet": "This is the same par 3 at West Bay Club as yesterday\u2019s image. Hard to tell, right? It\u2019s all about the light!  #golf\u2026 https://t.co/2a7ItdpAeu", 
-                "TweetLink": "1108117711324737536", 
-                "Place": "Florida", 
-                "Time": "Tue Mar 19 21:27:04 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-3.5148765, 50.72094]}, 
             "type": "Feature", 
             "properties": {
@@ -298,6 +285,19 @@
                 "Place": "Brooklyn", 
                 "Time": "Sat Mar 23 23:56:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TomPatri", 
+                "Name": "Tom Patri", 
+                "Tweet": "The Seaside Course at Sea Island is simply awesome. Great track. Great shot values , awesome green complexes.\u2026 https://t.co/DEr5VCBLUy", 
+                "TweetLink": "1109628998907125760", 
+                "Place": "Georgia", 
+                "Time": "Sun Mar 24 01:32:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090075313235812352/dyVP075h_normal.jpg"
             }
         }
     ]
