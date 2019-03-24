@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-3.5148765, 50.72094]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SmithyGolfs", 
-                "Name": "Mike Smith", 
-                "Tweet": "Next stop on the @PGATOUR \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f #valsparchampionship #pgatour https://t.co/tTiRmx93Op", 
-                "TweetLink": "1108163890104414208", 
-                "Place": "Exeter", 
-                "Time": "Wed Mar 20 00:30:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1096351417424637952/WHYZXNGL_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
             "type": "Feature", 
             "properties": {
