@@ -403,6 +403,19 @@
                 "Time": "Sun Mar 24 16:46:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943708034697539584/abl8f5z5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.559707, 33.929913]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "PA2 Drill with Golf Channel Junior Elite \ud83d\udc4a\ud83d\udcb0\n.\n.\n.\n\n.\n.\n.\n.\n.\n#pgatour #golf #vw #cars #golfers #golfchannel #golfer\u2026 https://t.co/GXnvyCyvRq", 
+                "TweetLink": "1109864016522944512", 
+                "Place": "Norco", 
+                "Time": "Sun Mar 24 17:06:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
