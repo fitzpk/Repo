@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.753032, 28.114414]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BettinardiGolf", 
-                "Name": "Bettinardi Golf", 
-                "Tweet": "The @pgatour makes its final stop of its Florida swing for the @ValsparChamp . Our Tour reps are on the grounds &amp; h\u2026 https://t.co/3S4zIJ71i1", 
-                "TweetLink": "1108518439382069248", 
-                "Place": "Copperhead Golf Course", 
-                "Time": "Wed Mar 20 23:59:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1072153812419391490/hSDUXj2__normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-111.7375655, 33.4057545]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "2GGapparel", 
-                "Name": "2GG Apparel", 
-                "Tweet": "Our boy @byronmethgolf tee times the next 2 days on @webdotcomtour. They\u2019re in Louisiana. Let\u2019s go Byron!!\u2026 https://t.co/XHD4Ritoma", 
-                "TweetLink": "1108542270968655873", 
-                "Place": "Mesa", 
-                "Time": "Thu Mar 21 01:34:07 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/780537235984617472/yuahqcUn_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "_golfxfit", 
-                "Name": "Golf X Fit", 
-                "Tweet": "One of my favorite texts of the week \ud83d\ude0d\ud83d\ude0d \n.\nLet\u2019s gooooo\ud83c\udfcc\ud83c\udffb\ud83c\udfc6\n.\n.\n#onlinegolffitness #pgatour #tourgolfxfit #golfxfit\u2026 https://t.co/yenvvyBOYz", 
-                "TweetLink": "1108563905859604480", 
-                "Place": "Palm Harbor", 
-                "Time": "Thu Mar 21 03:00:05 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1014624200538099712/3XRrywsi_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
@@ -519,6 +480,19 @@
                 "Place": "Damansara", 
                 "Time": "Mon Mar 25 03:26:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1108520314969833472/I1Lapx8h_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[36.86362, -1.2748635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jndegz", 
+                "Name": "Jaquiski", 
+                "Tweet": "I had the privilege of working at the #MagicalKenyaOpen leg of the #EuropeanTour, and as an avid sports fan, watchi\u2026 https://t.co/uIggAXuA9N", 
+                "TweetLink": "1110298978023669760", 
+                "Place": "Nairobi", 
+                "Time": "Mon Mar 25 21:54:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/777136199488139264/a5wyyLbU_normal.jpg"
             }
         }
     ]
