@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-114.4095175, 62.4751085]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mrhooie", 
-                "Name": "i am Hughie", 
-                "Tweet": "I meet the best people at the #mgawc ! Thanks Ken and @PEBBLEKENTHE2 for sending the hat, it made\u2026 https://t.co/2qKgNwA3nR", 
-                "TweetLink": "1108510556208549888", 
-                "Place": "Yellowknife", 
-                "Time": "Wed Mar 20 23:28:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1181120144/hughiedan_normal.JPG"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-82.753032, 28.114414]}, 
             "type": "Feature", 
             "properties": {
@@ -519,6 +506,19 @@
                 "Place": "Palm Harbor", 
                 "Time": "Mon Mar 25 02:35:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[101.552669, 3.05122]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GolfAustMag", 
+                "Name": "GolfAustraliaMag", 
+                "Tweet": "Another week of deserving winners around the world. Especially \ud83c\udde6\ud83c\uddfa Scott Hend. Congratulations also to @Paul_Casey a\u2026 https://t.co/2YJXzmo7vQ", 
+                "TweetLink": "1110019981226311681", 
+                "Place": "Damansara", 
+                "Time": "Mon Mar 25 03:26:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1108520314969833472/I1Lapx8h_normal.jpg"
             }
         }
     ]
