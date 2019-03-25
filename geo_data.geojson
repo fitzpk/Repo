@@ -481,6 +481,32 @@
                 "Time": "Sun Mar 24 20:59:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1092934337006317570/y89-WZRo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Paul Casey tames the Snake Pit to win the Valspar Championship for the second straight year. @FanSided @pgatour\u2026 https://t.co/exEubPQzOA", 
+                "TweetLink": "1109993729442480130", 
+                "Place": "Brampton", 
+                "Time": "Mon Mar 25 01:41:42 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Paul Casey tames the Snake Pit to go back-to-back at the Valspar Championship. @FanSided @PGATOUR @ValsparChamp\u2026 https://t.co/iF6s19SLPn", 
+                "TweetLink": "1109994152794570752", 
+                "Place": "Brampton", 
+                "Time": "Mon Mar 25 01:43:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
         }
     ]
 }
