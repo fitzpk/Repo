@@ -364,6 +364,19 @@
                 "Time": "Tue Mar 26 22:51:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/409066955/20080917-Bridge_in_Fog_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mgirafferty", 
+                "Name": "Megan Girafferty", 
+                "Tweet": "Playing tour guide to kaatelewwis  at #torreypines and #lajollacove today \ud83d\udc6d\ud83c\udf0a\ud83c\udf3a\ud83c\udf3e @ San Diego, California https://t.co/9wRgxqg44y", 
+                "TweetLink": "1110678048255426561", 
+                "Place": "San Diego", 
+                "Time": "Tue Mar 26 23:00:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3716621405/87a211ff6f132406e6d97bc0054e716c_normal.jpeg"
+            }
         }
     ]
 }
