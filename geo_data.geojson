@@ -351,6 +351,19 @@
                 "Time": "Tue Mar 26 01:14:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BoglePhoto", 
+                "Name": "Bill Bogle Jr.", 
+                "Tweet": "Got to believe now that the #PGATour is aligning itself and working on betting, match play may become more interest\u2026 https://t.co/nkRFKzkILZ", 
+                "TweetLink": "1110675727052091392", 
+                "Place": "South Carolina", 
+                "Time": "Tue Mar 26 22:51:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/409066955/20080917-Bridge_in_Fog_normal.jpg"
+            }
         }
     ]
 }
