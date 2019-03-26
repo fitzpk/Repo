@@ -507,6 +507,19 @@
                 "Time": "Mon Mar 25 23:00:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/918422927976095745/_1RSDICn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "If you love #Golf check out 300+ episodes of Next on the Tee featuring the #PGA &amp; #LPGA Players, Legends &amp; the Top\u2026 https://t.co/2QlsQfaOD0", 
+                "TweetLink": "1110349375249752067", 
+                "Place": "Georgia", 
+                "Time": "Tue Mar 26 01:14:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
