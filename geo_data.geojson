@@ -390,6 +390,45 @@
                 "Time": "Wed Mar 27 00:32:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1100218801021505536/1QvIsUrU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "THENICKBRADLEY", 
+                "Name": "NICKBRADLEY", 
+                "Tweet": "#wgcmexico #pgatour 3 keys to bring a GREAT match player: 1. Get off to a fast uninhibited start. 2. Play the cours\u2026 https://t.co/cQBFTlTWyP", 
+                "TweetLink": "1110717848610062336", 
+                "Place": "Charlotte", 
+                "Time": "Wed Mar 27 01:39:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917093987835670528/M5QO8ZiN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "18 days until golfers aren\u2019t the only ones making decisions. #AugustaCountdown #TheMasters #AugustaNational\u2026 https://t.co/W3F7zqOzmV", 
+                "TweetLink": "1110718644143771648", 
+                "Place": "Augusta", 
+                "Time": "Wed Mar 27 01:42:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.2991555, 31.489066]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MattRobertsTV", 
+                "Name": "Matt Roberts", 
+                "Tweet": "Tiger Woods was number one in the world for 281 straight weeks (683 overall). This is one of the most underrated st\u2026 https://t.co/zxCVEbazZn", 
+                "TweetLink": "1110719084545667072", 
+                "Place": "South Bosque", 
+                "Time": "Wed Mar 27 01:44:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1098300014328270849/wYmG6BGn_normal.jpg"
+            }
         }
     ]
 }
