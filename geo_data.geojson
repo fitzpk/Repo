@@ -377,6 +377,19 @@
                 "Time": "Tue Mar 26 23:00:56 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3716621405/87a211ff6f132406e6d97bc0054e716c_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.252259, 32.919355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bob_DeFoor", 
+                "Name": "Bob DeFoor", 
+                "Tweet": "Wildflower season along the Pacific Coast...\n\n#TorreyPines\n#SoCal \n#CanonRebelT6s https://t.co/JWWhFb3Qrj", 
+                "TweetLink": "1110701178898153472", 
+                "Place": "Torrey Pines State Natural Reserve", 
+                "Time": "Wed Mar 27 00:32:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1100218801021505536/1QvIsUrU_normal.jpg"
+            }
         }
     ]
 }
