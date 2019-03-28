@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ConciergegolfIE", 
-                "Name": "Concierge Golf IRL", 
-                "Tweet": "Watching the @valsparchamp at @Innisbrook #yestoinnisbrook #pgatour #lovegolf #valsparchampionship nice view of the\u2026 https://t.co/kU6TtgIuWu", 
-                "TweetLink": "1109887308206166017", 
-                "Place": "Palm Harbor", 
-                "Time": "Sun Mar 24 18:38:49 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/844686634167742464/8XQVbP9B_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-85.174843, 40.749871]}, 
             "type": "Feature", 
             "properties": {
