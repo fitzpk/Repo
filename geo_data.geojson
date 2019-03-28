@@ -416,6 +416,19 @@
                 "Time": "Thu Mar 28 03:42:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1025975484989857793/JVIIqNbR_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.6262705, 40.565021]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NealChiro", 
+                "Name": "Barry Neal", 
+                "Tweet": "This may be trivial, but i'm not a big fan of \"tied\" vs. All Square or A/S in regards to the @DellMatchPlay\u2026 https://t.co/Jw6jSMisA5", 
+                "TweetLink": "1111121003869020161", 
+                "Place": "Pekin", 
+                "Time": "Thu Mar 28 04:21:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/432964092953772032/7S_x3XcQ_normal.jpeg"
+            }
         }
     ]
 }
