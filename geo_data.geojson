@@ -416,6 +416,19 @@
                 "Time": "Wed Mar 27 01:55:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1098300014328270849/wYmG6BGn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.244546, 32.904616]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theJohnnyUte", 
+                "Name": "JohnnyUtah", 
+                "Tweet": "It's a beautiful Wednesday morning, John... What the hell else have we gotta do?\n#torreypines https://t.co/qynhwBRBMv", 
+                "TweetLink": "1111111352595013632", 
+                "Place": "Torrey Pines Golf Course", 
+                "Time": "Thu Mar 28 03:42:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1025975484989857793/JVIIqNbR_normal.jpg"
+            }
         }
     ]
 }
