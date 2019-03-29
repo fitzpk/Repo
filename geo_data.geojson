@@ -156,6 +156,19 @@
                 "Time": "Thu Mar 28 04:21:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/432964092953772032/7S_x3XcQ_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WillBJRob", 
+                "Name": "William BJ Robinson", 
+                "Tweet": "These are a few of my favorite things.\ud83c\udfb6\ud83d\udc9e\ud83d\udc15\u26f3\u2728 #simplejoys #tgif #friday #afternoondelight #meandmystudly #Brody\u2026 https://t.co/8rMudNz8pj", 
+                "TweetLink": "1111776515916746754", 
+                "Place": "San Diego", 
+                "Time": "Fri Mar 29 23:45:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055499934995304450/GoSRIbOT_normal.jpg"
+            }
         }
     ]
 }
