@@ -260,6 +260,19 @@
                 "Time": "Sat Mar 30 21:01:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/489372627/Me_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-61.8117305, 44.321234]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drchisholm", 
+                "Name": "Dave Chisholm", 
+                "Tweet": "Yes. That is the rule, and Sergio knows better!", 
+                "TweetLink": "1112101231504384004", 
+                "Place": "Halifax", 
+                "Time": "Sat Mar 30 21:16:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3453877468/d95fdb6c00eafd627648e3dd5f5e2540_normal.jpeg"
+            }
         }
     ]
 }
