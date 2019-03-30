@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[36.86362, -1.2748635]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jndegz", 
-                "Name": "Jaquiski", 
-                "Tweet": "I had the privilege of working at the #MagicalKenyaOpen leg of the #EuropeanTour, and as an avid sports fan, watchi\u2026 https://t.co/uIggAXuA9N", 
-                "TweetLink": "1110298978023669760", 
-                "Place": "Nairobi", 
-                "Time": "Mon Mar 25 21:54:39 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/777136199488139264/a5wyyLbU_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[0.511578, 52.2204505]}, 
             "type": "Feature", 
             "properties": {
