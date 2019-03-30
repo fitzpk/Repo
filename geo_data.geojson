@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[0.511578, 52.2204505]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GolfWorld1", 
-                "Name": "Golf World", 
-                "Tweet": "Which @DellMatchPlay group are you most excited about? And who\u2019s going to win the event? #DellMatchPlay #golf #WGC\u2026 https://t.co/3T81CobzRm", 
-                "TweetLink": "1110315536817246214", 
-                "Place": "East", 
-                "Time": "Mon Mar 25 23:00:27 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/918422927976095745/_1RSDICn_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
             "type": "Feature", 
             "properties": {
