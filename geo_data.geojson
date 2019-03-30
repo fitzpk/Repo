@@ -195,6 +195,19 @@
                 "Time": "Sat Mar 30 19:44:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-4.200441, 57.739454]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lomalley99", 
+                "Name": "Liam Omalley", 
+                "Tweet": "That was poor from kuchar and silly from garcia. Feisty match incoming #PGATour", 
+                "TweetLink": "1112087724280958981", 
+                "Place": "Scotland", 
+                "Time": "Sat Mar 30 20:22:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/994543680819212288/WRKzbkoS_normal.jpg"
+            }
         }
     ]
 }
