@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-68.623478, 18.725815]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "AnaNewmanC", 
-                "Name": "Ana Newman C.", 
-                "Tweet": "Una gente no puede ser tan linda \ud83d\ude0d #pga #pgatour #laprincesaemma en Corales Golf Course https://t.co/U8SXT0wVmd", 
-                "TweetLink": "1112154622137978880", 
-                "Place": "Hig\u00fcey", 
-                "Time": "Sun Mar 31 00:48:19 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1087901517301141504/vO2Rrssd_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-4.0059365, 51.582079]}, 
             "type": "Feature", 
             "properties": {
