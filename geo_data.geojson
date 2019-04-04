@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-88.3246495, 36.6123495]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "davidramey", 
-                "Name": "David Ramey", 
-                "Tweet": "Really wish @danjenkinsgd was tweeting about Sergio right now. #PGATour", 
-                "TweetLink": "1112096171177271297", 
-                "Place": "Murray", 
-                "Time": "Sat Mar 30 20:56:03 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1060350971937804288/-vnmGKUk_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-101.816092, 35.2111155]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Markie_Trilll", 
-                "Name": "Mark Hernandez \ud83d\udc88", 
-                "Tweet": "After #mattkuchar pulled that bitch move for not paying the caddy it's fuck him no matter who he's playing #PGATour", 
-                "TweetLink": "1112096446357090305", 
-                "Place": "Amarillo", 
-                "Time": "Sat Mar 30 20:57:09 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1111722303715504128/q2PEWd4T_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-88.1613215, 41.748496]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mjpesquire", 
-                "Name": "Matt Patterson", 
-                "Tweet": "It\u2019s really more of a coincidence than ironic. #pgatour", 
-                "TweetLink": "1112097320093605888", 
-                "Place": "Naperville", 
-                "Time": "Sat Mar 30 21:00:37 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/489372627/Me_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-88.1613215, 41.748496]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mjpesquire", 
-                "Name": "Matt Patterson", 
-                "Tweet": "Kisner seems like he might knife you to win a match. #Pgatour", 
-                "TweetLink": "1112097664328482816", 
-                "Place": "Naperville", 
-                "Time": "Sat Mar 30 21:01:59 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/489372627/Me_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-61.8117305, 44.321234]}, 
             "type": "Feature", 
             "properties": {
