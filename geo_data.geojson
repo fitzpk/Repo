@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-66.0400515, 45.1203835]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "coolcourier", 
-                "Name": "\ud83c\udde8\ud83c\udde6GordDownie\ud83c\udde8\ud83c\udde6", 
-                "Tweet": "Sergio should use this incident as motivation to change his on course attitude from piss poor to professional.\u2026 https://t.co/fZH4v778qK", 
-                "TweetLink": "1112126090640789504", 
-                "Place": "Saint John", 
-                "Time": "Sat Mar 30 22:54:56 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/953827559803932673/URs0jE1d_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-85.9785995, 35.8305215]}, 
             "type": "Feature", 
             "properties": {
