@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-4.0059365, 51.582079]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "iPursuitPP", 
-                "Name": "iPursuit Performance Psychology", 
-                "Tweet": "2nd round of golf in 4 days... clynegolfclub in great condition and the views were incredible!\n\n#ipursuit #golf\u2026 https://t.co/g26dRrFWZY", 
-                "TweetLink": "1112363648477847552", 
-                "Place": "Black Pill", 
-                "Time": "Sun Mar 31 14:38:55 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1066453276462333952/0N9Pw_f6_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-86.290863, 41.6796555]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "juebler", 
-                "Name": "Jeff Uebler", 
-                "Tweet": "Watching the Dell Technologies match play, and it\u2019s amazing to watch how these guys recover from bad shots. There h\u2026 https://t.co/yBS5QQkDVm", 
-                "TweetLink": "1112367335623536640", 
-                "Place": "South Bend", 
-                "Time": "Sun Mar 31 14:53:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/968285381316825088/AMFMtwAT_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
