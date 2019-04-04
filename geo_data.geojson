@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-85.6059405, 43.0977305]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ChadSlagter", 
-                "Name": "Chad Slagter", 
-                "Tweet": "Only about 10 weeks until the #Meijer #LPGA Classic is back. Looking forward to watching our favorite golfers again\u2026 https://t.co/gvdAIkRgSs", 
-                "TweetLink": "1112123108687675392", 
-                "Place": "Belmont", 
-                "Time": "Sat Mar 30 22:43:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1569341865/twitter001_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-66.0400515, 45.1203835]}, 
             "type": "Feature", 
             "properties": {
