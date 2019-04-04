@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-111.931711, 34.1682535]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JOXSports", 
-                "Name": "JOX Sports", 
-                "Tweet": "Tons going on today across the \ud83c\udf0f\n\u26a1Their lighting it up @CoralesChamp\u2757#Golf #PGATour https://t.co/vdpwI876MX", 
-                "TweetLink": "1112078054103236608", 
-                "Place": "Arizona", 
-                "Time": "Sat Mar 30 19:44:04 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-4.200441, 57.739454]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "lomalley99", 
-                "Name": "Liam Omalley", 
-                "Tweet": "That was poor from kuchar and silly from garcia. Feisty match incoming #PGATour", 
-                "TweetLink": "1112087724280958981", 
-                "Place": "Scotland", 
-                "Time": "Sat Mar 30 20:22:29 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/994543680819212288/WRKzbkoS_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-88.3246495, 36.6123495]}, 
             "type": "Feature", 
             "properties": {
