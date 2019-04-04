@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.844905, 41.168273]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "patrickgillon1", 
-                "Name": "Looper", 
-                "Tweet": "#Tiger \ud83e\udd2e#PGATour", 
-                "TweetLink": "1112115951049281536", 
-                "Place": "Ossining", 
-                "Time": "Sat Mar 30 22:14:39 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/796898646956478464/BDiIuctq_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-66.0400515, 45.1203835]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "coolcourier", 
-                "Name": "\ud83c\udde8\ud83c\udde6GordDownie\ud83c\udde8\ud83c\udde6", 
-                "Tweet": "What. A. Different. Tiger. Woods. Folks. #PGATour #MatchPlay", 
-                "TweetLink": "1112116044284526592", 
-                "Place": "Saint John", 
-                "Time": "Sat Mar 30 22:15:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/953827559803932673/URs0jE1d_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-92.342322, 34.721886]}, 
             "type": "Feature", 
             "properties": {
