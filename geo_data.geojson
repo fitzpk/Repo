@@ -247,6 +247,19 @@
                 "Time": "Wed Apr 03 22:16:40 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1080877312508346369/x0ZJUsyU_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.759533, 41.708954]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NotBenHogansSon", 
+                "Name": "Scott Hogan Golf", 
+                "Tweet": "Working the wedge trajectory to start the season, predictable height means better distance control for me. #beepic\u2026 https://t.co/XoS0JkfGml", 
+                "TweetLink": "1113604697192116224", 
+                "Place": "Oak Lawn", 
+                "Time": "Thu Apr 04 00:50:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080268324079063040/PHOB7j11_normal.jpg"
+            }
         }
     ]
 }
