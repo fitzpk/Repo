@@ -91,6 +91,19 @@
                 "Time": "Fri Apr 05 01:24:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1098080980378836992/lp5VIK2T_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Jordan Spieth hasn\u2019t won in 21 months, but with the Masters next week he looks back to his old self. @FanSided\u2026 https://t.co/7wcVJlF4aG", 
+                "TweetLink": "1114289277834125312", 
+                "Place": "Brampton", 
+                "Time": "Fri Apr 05 22:10:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
         }
     ]
 }
