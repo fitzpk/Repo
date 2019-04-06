@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "riofranklin1", 
-                "Name": "Mario Franklin", 
-                "Tweet": "3 WEEK PROGRESSION. GREAT  JOB MIKE DOWN 14LBS AND GAINED 22 yards in 3 weeks!  #300y #upecfitness909 #ONTARIO\u2026 https://t.co/2pyTBwzO6l", 
-                "TweetLink": "1112878285032120320", 
-                "Place": "Ontario", 
-                "Time": "Tue Apr 02 00:43:54 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/525007602145828865/09vioPSV_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "Two days after their match in Austin was engulfed in controversy, Matt Kuchar and Sergio Garcia insist there\u2019s no b\u2026 https://t.co/Gep8MukafY", 
-                "TweetLink": "1112880137035407362", 
-                "Place": "Brampton", 
-                "Time": "Tue Apr 02 00:51:15 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.127693, 26.834523]}, 
             "type": "Feature", 
             "properties": {
