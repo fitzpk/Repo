@@ -130,6 +130,19 @@
                 "Time": "Sat Apr 06 18:07:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/754867414177722368/prj6QuvY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-64.810483, 46.0575795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GerryLowe", 
+                "Name": "GFL \ud83c\udde8\ud83c\udde6", 
+                "Tweet": "Great round today @coreconn! Canada \ud83c\udde8\ud83c\udde6 is rooting for you!!\n#ValeroTexasOpen #PGATour", 
+                "TweetLink": "1114647081636061187", 
+                "Place": "Riverview", 
+                "Time": "Sat Apr 06 21:52:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1053796722193940480/9q8iLQaD_normal.jpg"
+            }
         }
     ]
 }
