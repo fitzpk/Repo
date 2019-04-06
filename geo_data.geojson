@@ -117,6 +117,19 @@
                 "Time": "Sat Apr 06 00:34:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tour_Junkies", 
+                "Name": "Tour Junkies", 
+                "Tweet": "1st time since 2015 playing DraftKings #PGATour #DFS that every single player (19) in my pool made the cut (MDF tho\u2026 https://t.co/TniI06iHVC", 
+                "TweetLink": "1114335853097172993", 
+                "Place": "Georgia", 
+                "Time": "Sat Apr 06 01:15:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843885305098719232/Zeo9e8aU_normal.jpg"
+            }
         }
     ]
 }
