@@ -104,6 +104,19 @@
                 "Time": "Sat Apr 06 03:40:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/879895432440168448/7QEorkTE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MICProductRevi1", 
+                "Name": "MICProductReview-Karen Moore", 
+                "Tweet": "Got a golf injury in Charleston,SC? No problem!\ud83d\ude09\nhttps://t.co/CCkvvHLW4Y #golf #golfer #golfing #golfcourse\u2026 https://t.co/jyVg1FvYQT", 
+                "TweetLink": "1114545261920100352", 
+                "Place": "South Carolina", 
+                "Time": "Sat Apr 06 15:07:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1082537039671771136/lH4Hp1qN_normal.jpg"
+            }
         }
     ]
 }
