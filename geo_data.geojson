@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DigitalPaintCan", 
-                "Name": "DigitalPaintCan Inc.", 
-                "Tweet": "@jtedscott...that's this guy!\n\n\"Listen up, folks! We're teaming up with the #CajunCaddie, @jtedscott to give you an\u2026 https://t.co/rYtzHnETeT", 
-                "TweetLink": "1112845167424425985", 
-                "Place": "Winnipeg", 
-                "Time": "Mon Apr 01 22:32:18 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.603783, 34.0451585]}, 
             "type": "Feature", 
             "properties": {
