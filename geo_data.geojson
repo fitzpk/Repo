@@ -221,6 +221,19 @@
                 "Time": "Sun Apr 07 16:00:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1112343966735847426/g48spc-3_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Flight down those wedges chloe.carraway @LBSUwomensgolf @trackmangolf @golfgoosecreek tijerascreekgolfclub\u2026 https://t.co/qb1zwJ9Qps", 
+                "TweetLink": "1114927773112459264", 
+                "Place": "Rancho Santa Margarita", 
+                "Time": "Sun Apr 07 16:27:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
