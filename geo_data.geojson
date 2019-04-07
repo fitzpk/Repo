@@ -182,6 +182,19 @@
                 "Time": "Sun Apr 07 03:02:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RandallElms", 
+                "Name": "RANDALL ELMS Realtor", 
+                "Tweet": "Open House Sunday 2-4pm. 3/2/2/Study. Near shopping, schools and the lake. #pga #PGATour #nearfriscotexas\u2026 https://t.co/aTa80HhaIw", 
+                "TweetLink": "1114888851015778311", 
+                "Place": "Dallas", 
+                "Time": "Sun Apr 07 13:53:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093358689388511232/9FkXyesC_normal.jpg"
+            }
         }
     ]
 }
