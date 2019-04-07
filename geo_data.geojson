@@ -143,6 +143,19 @@
                 "Time": "Sat Apr 06 21:52:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1053796722193940480/9q8iLQaD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "COSMICGIRL2009", 
+                "Name": "Annette B. Garcia", 
+                "Tweet": "#yay finally #omw to #Torreypines for a #hike \ud83d\ude18 @ Del Mar, California https://t.co/e4qQtakLAr", 
+                "TweetLink": "1114679959316987904", 
+                "Place": "Del Mar", 
+                "Time": "Sun Apr 07 00:03:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1741870344/image_normal.jpg"
+            }
         }
     ]
 }
