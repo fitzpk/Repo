@@ -260,6 +260,19 @@
                 "Time": "Sun Apr 07 17:41:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/735972199463424000/uoTdxSy0_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "merch313_", 
+                "Name": "Mickey Merch", 
+                "Tweet": "Beautiful SoCal weekend...\n#SoCalVibes\n\u25aa\ufe0f\n\ud83d\uddbc\n\u25aa\ufe0f\n#torreypines #paraglider #imbroimages #nikon #abc7eyewitness\u2026 https://t.co/YMgsukoNkU", 
+                "TweetLink": "1114948181739986945", 
+                "Place": "San Diego", 
+                "Time": "Sun Apr 07 17:48:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/844761965893337090/TcoRv6wS_normal.jpg"
+            }
         }
     ]
 }
