@@ -169,6 +169,19 @@
                 "Time": "Sun Apr 07 00:51:35 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000456766828/ebf4271be9d54c76917091be46838c26_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "br09402", 
+                "Name": "TommyJoe Valenzuela", 
+                "Tweet": "#torreypines lovely day to play terrible. Course is in great shape. https://t.co/H4MCvOlU2Z", 
+                "TweetLink": "1114725029164359680", 
+                "Place": "Carlsbad", 
+                "Time": "Sun Apr 07 03:02:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090697355517513728/XbppS2r8_normal.jpg"
+            }
         }
     ]
 }
