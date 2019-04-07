@@ -247,6 +247,19 @@
                 "Time": "Sun Apr 07 17:31:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/844761965893337090/TcoRv6wS_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3694935, 44.949067]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ashotty7", 
+                "Name": "Andrew Shotwell", 
+                "Tweet": "Poll: What would the PGA rather have for 2019 season? \n@darrenrovell #MastersWeek #PgaTour #Tiger #Rory \u26f3\ufe0f", 
+                "TweetLink": "1114946285109436416", 
+                "Place": "St Louis Park", 
+                "Time": "Sun Apr 07 17:41:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/735972199463424000/uoTdxSy0_normal.jpg"
+            }
         }
     ]
 }
