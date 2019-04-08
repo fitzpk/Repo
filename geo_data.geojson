@@ -273,6 +273,19 @@
                 "Time": "Mon Apr 08 22:01:46 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1121944377/SEATS_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Crash blocking the right shoulder. in #TorreyPines on 5 NB at La Costa Ave, stop and go traffic back to 56, delay of 30 mins #SDtraffic", 
+                "TweetLink": "1115388350989578242", 
+                "Place": "Carlsbad", 
+                "Time": "Mon Apr 08 22:58:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
