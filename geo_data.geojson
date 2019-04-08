@@ -260,6 +260,19 @@
                 "Time": "Mon Apr 08 21:44:07 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.1567105, 33.8091715]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "datsungLide", 
+                "Name": "Dat Sun Glide", 
+                "Tweet": "@8fuld @TUSK81 #2thank #justinrose99 #johnrohmpga #gratefuLenergy #westwoodLee #rogerbezanis #thesergiogarcia\u2026 https://t.co/pwZOWudeAu", 
+                "TweetLink": "1115374199990702081", 
+                "Place": "Long Beach", 
+                "Time": "Mon Apr 08 22:01:46 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1121944377/SEATS_normal.jpg"
+            }
         }
     ]
 }
