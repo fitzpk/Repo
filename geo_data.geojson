@@ -286,6 +286,19 @@
                 "Time": "Mon Apr 08 22:58:00 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.394759, 30.193203]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Doriel02", 
+                "Name": "Doriel", 
+                "Tweet": "New video... a few weeks ago I got to cover Fashion at TPC !!! I will post a link soon!!! #tpcsawgrass #tpc2019\u2026 https://t.co/wv9MwcmKIM", 
+                "TweetLink": "1115394163917254656", 
+                "Place": "Palm Valley", 
+                "Time": "Mon Apr 08 23:21:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1086240734959861760/ScSClfjT_normal.jpg"
+            }
         }
     ]
 }
