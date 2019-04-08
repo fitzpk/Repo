@@ -299,6 +299,19 @@
                 "Time": "Mon Apr 08 23:21:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1086240734959861760/ScSClfjT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Peterripa", 
+                "Name": "Peter Ripa", 
+                "Tweet": "\u2066@WeAreFarmers\u2069 donated $1K for every birdie on 14th Hole during \u2066@FarmersInsOpen\u2069 to \u2066@sdfirerescue\u2069 and \u2066\u2026 https://t.co/BNALiN47gw", 
+                "TweetLink": "1115395541452464129", 
+                "Place": "San Diego", 
+                "Time": "Mon Apr 08 23:26:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
+            }
         }
     ]
 }
