@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-99.6050475, 19.326146]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "laura_islas", 
-                "Name": "Laura Islas \ud83c\uddf2\ud83c\uddfd", 
-                "Tweet": "Otro mexicano \ud83c\uddf2\ud83c\uddfd que cada d\u00eda levanta m\u00e1s su nivel deportivo, @Abraham_Ancer. \n\u26f3\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f @PGATOUR #pgatour", 
-                "TweetLink": "1113975587440418816", 
-                "Place": "M\u00e9xico", 
-                "Time": "Fri Apr 05 01:24:11 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1098080980378836992/lp5VIK2T_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
