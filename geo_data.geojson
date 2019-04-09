@@ -312,6 +312,19 @@
                 "Time": "Mon Apr 08 23:26:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981965121441316864/IDhHG_kB_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9806895, 40.431389]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KDPomp", 
+                "Name": "Bob Pompeani", 
+                "Tweet": "Amazing to think that Jordan Spieth is currently 212th on #PGATour in  driving accuracy...  #MastersWeek", 
+                "TweetLink": "1115404837657694208", 
+                "Place": "Pittsburgh", 
+                "Time": "Tue Apr 09 00:03:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/683500766062063620/XncLr3_Z_normal.jpg"
+            }
         }
     ]
 }
