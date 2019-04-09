@@ -390,6 +390,19 @@
                 "Time": "Tue Apr 09 16:44:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/882052123856445442/-ycSv7vY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rubycube11", 
+                "Name": "Aaron Rubinstein", 
+                "Tweet": "Excited for the best #golf in the world on LI. #pgachampionship #bethpageblack #pgatour #\u26f3\ufe0f @ Bethpage Black Course https://t.co/giSQbrlR9e", 
+                "TweetLink": "1115671679982817280", 
+                "Place": "Old Bethpage", 
+                "Time": "Tue Apr 09 17:43:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/690269253358993409/I-ZdIvsx_normal.jpg"
+            }
         }
     ]
 }
