@@ -338,6 +338,19 @@
                 "Time": "Tue Apr 09 01:23:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1094602050288132096/f4w-t9MD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.723025, 45.5578305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SAllard09", 
+                "Name": "St\u00e9phane Allard", 
+                "Tweet": "Pour un passionn\u00e9 de golf, il s'agit sans aucun doute de la plus belle semaine de la saison!!! #TheMasters #rds\u2026 https://t.co/vV8GIjDdH5", 
+                "TweetLink": "1115436159121883136", 
+                "Place": "Montr\u00e9al", 
+                "Time": "Tue Apr 09 02:07:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/894372751049449473/2fiTQPl__normal.jpg"
+            }
         }
     ]
 }
