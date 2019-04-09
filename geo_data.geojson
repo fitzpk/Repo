@@ -325,6 +325,19 @@
                 "Time": "Tue Apr 09 00:03:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/683500766062063620/XncLr3_Z_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.868681, 32.5557705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "shawnross66", 
+                "Name": "Shawn Stewart", 
+                "Tweet": "@3buzzbrothers \n\n#torreypines", 
+                "TweetLink": "1115425030781964288", 
+                "Place": "Canton", 
+                "Time": "Tue Apr 09 01:23:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1094602050288132096/f4w-t9MD_normal.jpg"
+            }
         }
     ]
 }
