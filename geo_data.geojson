@@ -351,6 +351,45 @@
                 "Time": "Tue Apr 09 15:04:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NMSUPGA", 
+                "Name": "NMSU PGA Golf Mgt", 
+                "Tweet": "Another great weekend of seminars! This time with the help of Charlie King and Don Cook. \n.\n.\n.\n.\n.\n#nmsupga #nmsu\u2026 https://t.co/TrvzFOzLJj", 
+                "TweetLink": "1115654673480986626", 
+                "Place": "University Park", 
+                "Time": "Tue Apr 09 16:36:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShannonTFish", 
+                "Name": "Shannon Fish", 
+                "Tweet": "This article made me smile. But Angela never made the team any Tres Leches cake and I want a do-over. She was also\u2026 https://t.co/JCrLsAeuyN", 
+                "TweetLink": "1115655962537484289", 
+                "Place": "Houston", 
+                "Time": "Tue Apr 09 16:41:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/696520220119212032/osgZ_hJ2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.372482, 32.717593]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Ida_DuweOlsen", 
+                "Name": "Ida Duwe-Olsen", 
+                "Tweet": "INCREDIBLE VIEWS of the #1 fairway at #Colonial #golf course from the family rooms, kitchen, master suite and HUGE\u2026 https://t.co/61hn2dchyA", 
+                "TweetLink": "1115656760629575680", 
+                "Place": "Colonial Country Club", 
+                "Time": "Tue Apr 09 16:44:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/882052123856445442/-ycSv7vY_normal.jpg"
+            }
         }
     ]
 }
