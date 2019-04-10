@@ -507,6 +507,19 @@
                 "Time": "Wed Apr 10 16:31:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/515570948934619137/L7KrY3AY_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Great work this morning with @bigredstep714 \ud83d\udc4a\ud83d\udc4d Small adjustments to set up helps to control low point. \n.\n.\n\n.\n.\n.\u2026 https://t.co/xsoT9MEiXC", 
+                "TweetLink": "1116033592981897216", 
+                "Place": "Rancho Santa Margarita", 
+                "Time": "Wed Apr 10 17:41:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
