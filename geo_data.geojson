@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TotalTrafficSD", 
-                "Name": "TTWN San Diego", 
-                "Tweet": "Accident cleared in #TorreyPines on 5 SB before Balboa Ave, stop and go traffic back to 805, delay of 18 mins #SDtraffic", 
-                "TweetLink": "1114325587978543104", 
-                "Place": "San Diego", 
-                "Time": "Sat Apr 06 00:34:57 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Tour_Junkies", 
-                "Name": "Tour Junkies", 
-                "Tweet": "1st time since 2015 playing DraftKings #PGATour #DFS that every single player (19) in my pool made the cut (MDF tho\u2026 https://t.co/TniI06iHVC", 
-                "TweetLink": "1114335853097172993", 
-                "Place": "Georgia", 
-                "Time": "Sat Apr 06 01:15:45 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/843885305098719232/Zeo9e8aU_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[150.931975, -33.848244]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "davidmoffet", 
-                "Name": "David Moffet", 
-                "Tweet": "And then this happened.... #onthetour #pro #pgatour #legend #lookingfornumber5 #abundance #customerservice\u2026 https://t.co/ZGfLYaRfDM", 
-                "TweetLink": "1114372220736942080", 
-                "Place": "Sydney", 
-                "Time": "Sat Apr 06 03:40:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/879895432440168448/7QEorkTE_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
             "type": "Feature", 
             "properties": {
@@ -454,6 +415,19 @@
                 "Place": "Brampton", 
                 "Time": "Tue Apr 09 20:06:26 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "2019 @TheMasters Club Dinner, aka Champions Dinner, tonight hosted by 2018 Masters Champion @PReedGolf.\u2026 https://t.co/JcykuZuptW", 
+                "TweetLink": "1115816183909974016", 
+                "Place": "Augusta", 
+                "Time": "Wed Apr 10 03:18:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
         }
     ]
