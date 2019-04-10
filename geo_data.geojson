@@ -494,6 +494,19 @@
                 "Time": "Wed Apr 10 16:17:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/833719962774695941/EWawfyL7_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PGAShow", 
+                "Name": "PGA Golf Shows", 
+                "Tweet": "Are you ready for themasters ?? \ud83d\udc4f\ud83c\udffb\u26f3\ufe0f We have our predictions ready! \ud83d\ude0f\n\n#themasters #pga #pgatour #augustanational\u2026 https://t.co/32Qq4xmNc8", 
+                "TweetLink": "1116015972341690368", 
+                "Place": "Augusta", 
+                "Time": "Wed Apr 10 16:31:57 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/515570948934619137/L7KrY3AY_normal.jpeg"
+            }
         }
     ]
 }
