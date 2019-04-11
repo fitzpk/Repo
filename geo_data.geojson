@@ -546,6 +546,19 @@
                 "Time": "Thu Apr 11 00:39:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.8277745, 35.397155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BigHUNT_12", 
+                "Name": "Hunter Smith \ud83c\uddfa\ud83c\uddf8", 
+                "Tweet": "The #Masters are finally here #PGATour #AugustaNational https://t.co/H2sxYUHAs0", 
+                "TweetLink": "1116148065306648583", 
+                "Place": "Lillington", 
+                "Time": "Thu Apr 11 01:16:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1108109975191195654/uE-Gv9Ri_normal.jpg"
+            }
         }
     ]
 }
