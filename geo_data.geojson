@@ -455,6 +455,19 @@
                 "Time": "Fri Apr 12 03:52:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/344513261577999519/4ce211a72dd879841743bb3ff3e52994_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.5330735, 27.3411215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davesansom", 
+                "Name": "Dave Sansom", 
+                "Tweet": "Wrapping up a day on the golf course during this pastel, blue hour moment is a perfect ending, in my opinion. And t\u2026 https://t.co/imKVU6Ws5R", 
+                "TweetLink": "1116818572490285056", 
+                "Place": "Sarasota", 
+                "Time": "Fri Apr 12 21:41:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
+            }
         }
     ]
 }
