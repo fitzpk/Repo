@@ -442,6 +442,19 @@
                 "Time": "Thu Apr 11 02:20:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1116029645005238274/4u50_i_1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WallyGPX", 
+                "Name": "WallyGPX", 
+                "Tweet": "*11.27mi GPS Masters!\n\n#TheMasters #golf #Augusta #AugustaNational #ATraditionUnlikeAnyOther #GPSdrawing #PGAtour\u2026 https://t.co/AgsFP8pclM", 
+                "TweetLink": "1116549729020784641", 
+                "Place": "Baltimore", 
+                "Time": "Fri Apr 12 03:52:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/344513261577999519/4ce211a72dd879841743bb3ff3e52994_normal.jpeg"
+            }
         }
     ]
 }
