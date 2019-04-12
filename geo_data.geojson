@@ -468,6 +468,45 @@
                 "Time": "Fri Apr 12 21:41:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.169485, 44.6659225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KellyNoreen", 
+                "Name": "K J Noreen", 
+                "Tweet": "@BKoepka love your game, shirts etc. not so much the hats!  #masters #PGATour", 
+                "TweetLink": "1116827752672501760", 
+                "Place": "Marshfield", 
+                "Time": "Fri Apr 12 22:17:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1107353484322574338/-Ld6RuSY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ErnestSports", 
+                "Name": "Ernest Sports", 
+                "Tweet": "Are you watching the @themasters ? \ud83d\udc40\n\nOur Turn Key Sumulation Package doubles as a in home entertainment system.\u2026 https://t.co/FMGPRTKO7M", 
+                "TweetLink": "1116828085687595010", 
+                "Place": "Georgia", 
+                "Time": "Fri Apr 12 22:18:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951826949160165379/exb_Obm8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident in #TorreyPines on 5 NB before Tamarack Ave, stop and go traffic back to 805, delay of 49 mins #SDtraffic https://t.co/m44DG45MF1", 
+                "TweetLink": "1116829434756173827", 
+                "Place": "Carlsbad", 
+                "Time": "Fri Apr 12 22:24:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
