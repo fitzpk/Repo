@@ -533,6 +533,19 @@
                 "Time": "Fri Apr 12 23:04:53 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/772171212961308672/vebQYHi5_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[12.381694, 45.4041605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "FrancescoBube", 
+                "Name": "Francesco Bubacco \u2122", 
+                "Tweet": "#MOLINARI  oggi tanta roba!! Peccato aver visto poco del suo ottimo giro!!! #AugustaNational #PGATour #golf", 
+                "TweetLink": "1116845789949628416", 
+                "Place": "Venezia", 
+                "Time": "Fri Apr 12 23:29:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080914730577997824/3DPOFxqc_normal.jpg"
+            }
         }
     ]
 }
