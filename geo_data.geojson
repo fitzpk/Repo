@@ -520,6 +520,19 @@
                 "Time": "Fri Apr 12 22:42:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Leishac", 
+                "Name": "Bossypants BasketBarn", 
+                "Tweet": "A little thicker in the middle, but as stylish as ever! @IanJamesPoulter  #ThenAndNow #TheMasters #PGATour https://t.co/meLT3R5G9E", 
+                "TweetLink": "1116839634485567497", 
+                "Place": "Florida", 
+                "Time": "Fri Apr 12 23:04:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/772171212961308672/vebQYHi5_normal.jpg"
+            }
         }
     ]
 }
