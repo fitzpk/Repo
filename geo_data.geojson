@@ -507,6 +507,19 @@
                 "Time": "Fri Apr 12 22:24:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Crash on the right shoulder in #TorreyPines on 5 NB before Tamarack Ave, stop and go traffic back to 805, delay of 49 mins #SDtraffic", 
+                "TweetLink": "1116834062327582721", 
+                "Place": "Carlsbad", 
+                "Time": "Fri Apr 12 22:42:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
