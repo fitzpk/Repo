@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jimsmithgolf", 
-                "Name": "Jim Smith", 
-                "Tweet": "Are you getting excited?\n#masters #mastersweek #mastersweek2019 #golf #agusta #amencorner #greenjacket\u2026 https://t.co/wwK9qXiMd8", 
-                "TweetLink": "1115631486093418497", 
-                "Place": "Augusta", 
-                "Time": "Tue Apr 09 15:04:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
             "type": "Feature", 
             "properties": {
@@ -493,6 +480,45 @@
                 "Place": "Sandy Springs", 
                 "Time": "Sat Apr 13 17:45:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/898379696580304900/KD20Nj02_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Hole locations for today\u2019s 3rd Round, aka \u201cMoving Day\u201d, of The Masters Tournament at Augusta National Golf Club.\u2026 https://t.co/MRoiuZW3x0", 
+                "TweetLink": "1117128596588515328", 
+                "Place": "Augusta", 
+                "Time": "Sat Apr 13 18:13:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Phil Mickelson oozing confidence heading into the weekend at Augusta. @FanSided @TheMasters @PGATOUR\u2026 https://t.co/WN0EEJIuri", 
+                "TweetLink": "1117129010255765504", 
+                "Place": "Brampton", 
+                "Time": "Sat Apr 13 18:14:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Pairings and Tee Times for today\u2019s 3rd Round, aka \u201cMoving Day\u201d, of The Masters Tournament at Augusta National Golf\u2026 https://t.co/UVnJFOqFW5", 
+                "TweetLink": "1117129650105405447", 
+                "Place": "Augusta", 
+                "Time": "Sat Apr 13 18:17:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
         }
     ]
