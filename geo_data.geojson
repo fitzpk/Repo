@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ShannonTFish", 
-                "Name": "Shannon Fish", 
-                "Tweet": "This article made me smile. But Angela never made the team any Tres Leches cake and I want a do-over. She was also\u2026 https://t.co/JCrLsAeuyN", 
-                "TweetLink": "1115655962537484289", 
-                "Place": "Houston", 
-                "Time": "Tue Apr 09 16:41:24 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/696520220119212032/osgZ_hJ2_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-97.372482, 32.717593]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Ida_DuweOlsen", 
-                "Name": "Ida Duwe-Olsen", 
-                "Tweet": "INCREDIBLE VIEWS of the #1 fairway at #Colonial #golf course from the family rooms, kitchen, master suite and HUGE\u2026 https://t.co/61hn2dchyA", 
-                "TweetLink": "1115656760629575680", 
-                "Place": "Colonial Country Club", 
-                "Time": "Tue Apr 09 16:44:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/882052123856445442/-ycSv7vY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
             "type": "Feature", 
             "properties": {
@@ -635,6 +609,45 @@
                 "TweetLink": "1117164173807382528", 
                 "Place": "United States", 
                 "Time": "Sat Apr 13 20:34:29 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1116418409464389632/zZNNUq6x_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AnjelLesa", 
+                "Name": "Lesa Anjel", 
+                "Tweet": "@TheMasters Free Watch Link - https://t.co/0VDgvNFkvZ\n\n#TheMasters #masters2019 #Golf #Woods #PGATour", 
+                "TweetLink": "1117165597064699904", 
+                "Place": "United States", 
+                "Time": "Sat Apr 13 20:40:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1116418409464389632/zZNNUq6x_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AnjelLesa", 
+                "Name": "Lesa Anjel", 
+                "Tweet": "@TheMasters @tonyfinaugolf Free Watch Link - https://t.co/0VDgvNFkvZ\n\n#TheMasters #masters2019 #Golf #Woods #PGATour", 
+                "TweetLink": "1117165643621527552", 
+                "Place": "United States", 
+                "Time": "Sat Apr 13 20:40:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1116418409464389632/zZNNUq6x_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[0.3142995, 42.308346]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AnjelLesa", 
+                "Name": "Lesa Anjel", 
+                "Tweet": "@CBSSports Free Watch Link - https://t.co/0VDgvNFkvZ\n\n#TheMasters #masters2019 #Golf #Woods #PGATour", 
+                "TweetLink": "1117165825708838912", 
+                "Place": "United States", 
+                "Time": "Sat Apr 13 20:41:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1116418409464389632/zZNNUq6x_normal.png"
             }
         }
