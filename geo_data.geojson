@@ -546,6 +546,45 @@
                 "Time": "Fri Apr 12 23:29:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1080914730577997824/3DPOFxqc_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ThePURCompany", 
+                "Name": "The PUR Company Inc.", 
+                "Tweet": "@tigerwoods\u2019 performance at #TheMasters is one for the books, and we think it has something to do with his gum chew\u2026 https://t.co/vzYwoWRBqO", 
+                "TweetLink": "1116857702645411840", 
+                "Place": "Augusta", 
+                "Time": "Sat Apr 13 00:16:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786214663499444224/gS0k6NiC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.48042, 34.022688]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoshBradburnCS", 
+                "Name": "Joshua Bradburn,CFP\u00ae,CWS\u00ae", 
+                "Tweet": "In honor of this weekend.  Throwback to peak Tiger at our @CharlesSchwab golf event in #Miami @PGATOUR  @Nike\u2026 https://t.co/5HgT1vs2n0", 
+                "TweetLink": "1116858384567820288", 
+                "Place": "Santa Monica", 
+                "Time": "Sat Apr 13 00:19:23 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/817429691103461377/ppyU2c6V_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2879235, 33.121484]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Earlier accident in #TorreyPines on 5 NB before Tamarack Ave, stop and go traffic back to 805, delay of 49 mins #SDtraffic", 
+                "TweetLink": "1116858615523106817", 
+                "Place": "Carlsbad", 
+                "Time": "Sat Apr 13 00:20:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
