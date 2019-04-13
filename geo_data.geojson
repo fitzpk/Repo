@@ -481,6 +481,19 @@
                 "Time": "Sat Apr 13 15:52:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/734771278159056896/GN0knJ5i_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.3524445, 33.943457]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mreaglesr", 
+                "Name": "William D. Burage Sr", 
+                "Tweet": "Quick Banana Pudding.  #mastersweek #golfforlife #livephoto #gotiger #golfaddict #cbs #thegolfchannel #pgatour @ Sa\u2026 https://t.co/BeviDk4ryQ", 
+                "TweetLink": "1117121605732163587", 
+                "Place": "Sandy Springs", 
+                "Time": "Sat Apr 13 17:45:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898379696580304900/KD20Nj02_normal.jpg"
+            }
         }
     ]
 }
