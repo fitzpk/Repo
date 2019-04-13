@@ -468,6 +468,19 @@
                 "Time": "Sat Apr 13 00:20:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "EdJoyce", 
+                "Name": "Ed Joyce", 
+                "Tweet": "Sunny morning at #TorreyPines Golf Course, #SanDiego, California. @StormHour #StormHour \nPhoto by @EdJoyce 13-April\u2026 https://t.co/EJwlArtNJV", 
+                "TweetLink": "1117093135358644224", 
+                "Place": "Torrey Pines", 
+                "Time": "Sat Apr 13 15:52:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/734771278159056896/GN0knJ5i_normal.jpg"
+            }
         }
     ]
 }
