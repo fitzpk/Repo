@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-3.5148765, 50.72094]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SmithyGolfs", 
-                "Name": "Mike Smith", 
-                "Tweet": "Another upload?! I\u2019m becoming a daily vlogger!! \ud83d\ude48 \ud83c\udfa5\u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f #instagolfer #golf #golfer #instagolf #golflife\u2026 https://t.co/puTuU66gEV", 
-                "TweetLink": "1115687914124513282", 
-                "Place": "Exeter", 
-                "Time": "Tue Apr 09 18:48:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1096351417424637952/WHYZXNGL_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
