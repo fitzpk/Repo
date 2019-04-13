@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.748747, 32.1898025]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RealEstateonHHI", 
-                "Name": "Tammy Moody", 
-                "Tweet": "It is a great time to #buyrealestate Why are you waiting? Contact #realtortammymoody and I will help you reach your\u2026 https://t.co/oxHHQvDH61", 
-                "TweetLink": "1115687581864296450", 
-                "Place": "Hilton Head Island", 
-                "Time": "Tue Apr 09 18:47:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/911021421563916289/SmpVIJkM_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-3.5148765, 50.72094]}, 
             "type": "Feature", 
             "properties": {
