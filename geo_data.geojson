@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-3.009982, 56.200291]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "stuclaytongolf", 
-                "Name": "Stuart Clayton", 
-                "Tweet": "ICYMI - GIVEAWAY! Masters week is here!! I am giving away 4 free video swing analysis. 1 winner will be announced e\u2026 https://t.co/KBylF9fEau", 
-                "TweetLink": "1115677389147787265", 
-                "Place": "Leven", 
-                "Time": "Tue Apr 09 18:06:32 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1000104702133096453/Ey5rkBti_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-1.3441025, 54.633583]}, 
             "type": "Feature", 
             "properties": {
