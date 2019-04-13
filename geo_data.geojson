@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.7092255, 35.1272405]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Oh Yeah Baby, It\u2019s officially Masters Week! #RedRocks #CountdownToAugusta #TheMasters #GreenJacket #AugustaNational\u2026 https://t.co/gXCENkJBks", 
-                "TweetLink": "1115369499400777728", 
-                "Place": "Matthews", 
-                "Time": "Mon Apr 08 21:43:05 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.5330735, 27.3411215]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "davesansom", 
-                "Name": "Dave Sansom", 
-                "Tweet": "The last little bit of light at the end of the day on the 18th hole at The Ritz Carlton, Sarasota Golf Club. A fine\u2026 https://t.co/8SExYT967Z", 
-                "TweetLink": "1115369758487191553", 
-                "Place": "Sarasota", 
-                "Time": "Mon Apr 08 21:44:07 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-118.1567105, 33.8091715]}, 
             "type": "Feature", 
             "properties": {
