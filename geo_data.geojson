@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jimsmithgolf", 
-                "Name": "Jim Smith", 
-                "Tweet": "Get ready, ONE more day!\n\n#masters #mastersweek #mastersweek2019 #golf #agusta #amencorner #greenjacket\u2026 https://t.co/ZalzMvSLFe", 
-                "TweetLink": "1115953107446452224", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 10 12:22:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
