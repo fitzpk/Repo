@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "jimsmithgolf", 
-                "Name": "Jim Smith", 
-                "Tweet": "Get ready, ONE more day!\n\n#masters #mastersweek #mastersweek2019 #golf #agusta #amencorner #greenjacket\u2026 https://t.co/hsx9JUfmcb", 
-                "TweetLink": "1115976148742299652", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 10 13:53:42 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "Will_ODonoghue", 
                 "Name": "Will O'Donoghue", 
                 "Tweet": "2 days until perfection! #AugustaCountdown #CountdownToAugusta #TheMasters #AugustaNational #AmenCorner\u2026 https://t.co/jPfsMbow4B", 
@@ -857,6 +844,110 @@
                 "Place": "Pinellas Park", 
                 "Time": "Sun Apr 14 17:48:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1032735713471676416/V-E6R781_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-92.4367735, 38.3045585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CarlsonSwede", 
+                "Name": "Swede", 
+                "Tweet": "Tiger Woods have got to be humming to himself \"Eye of the Tiger\" while dropping dimes on the golf course today.\u2026 https://t.co/cAeV3ZgDym", 
+                "TweetLink": "1117485808636833792", 
+                "Place": "Missouri", 
+                "Time": "Sun Apr 14 17:52:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1112081148660932608/Vpile16s_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ImGoingEast", 
+                "Name": "Epps 305", 
+                "Tweet": "Yo\u2019, \ud83d\udc05 might really win! \ud83c\udfcc\ud83c\udffe\ud83c\udfcc\ud83c\udffe\ud83c\udfcc\ud83c\udffe#MastersSunday #PGATour", 
+                "TweetLink": "1117486092486414336", 
+                "Place": "Florida", 
+                "Time": "Sun Apr 14 17:53:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1109560050899656704/sAgBxmdY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "_Tidmore", 
+                "Name": "Zack Tidmore", 
+                "Tweet": "Let\u2019s go Tiger bringing back the good old days #TigerWoods #Masters #PGATour", 
+                "TweetLink": "1117486667546472448", 
+                "Place": "Pennsylvania", 
+                "Time": "Sun Apr 14 17:55:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1099009582867902465/L_r5QF1Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.1288105, 43.052607]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "gfletcher1166", 
+                "Name": "Grant Fletcher", 
+                "Tweet": "Does @TigerWoods golf ball have \u201c15\u201d on it? #MastersSunday #PGATour", 
+                "TweetLink": "1117487058321330176", 
+                "Place": "Syracuse", 
+                "Time": "Sun Apr 14 17:57:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/551041969242136577/bWr8h2Mv_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-102.9859185, 49.139437]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "darcymeyers", 
+                "Name": "Darcy Meyers", 
+                "Tweet": "@TigerWoods GOAT #MastersSunday #PGATour", 
+                "TweetLink": "1117487108476719104", 
+                "Place": "Estevan", 
+                "Time": "Sun Apr 14 17:57:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1602756704/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[24.669943, -28.4794855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Sipho_Nzama", 
+                "Name": "Sipho Nzama", 
+                "Tweet": "Tiger woods is back! #PGATour", 
+                "TweetLink": "1117487274466390016", 
+                "Place": "South Africa", 
+                "Time": "Sun Apr 14 17:58:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093524979419877377/kCjrNnTw_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.3900855, 43.7204255]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KyleTurriff", 
+                "Name": "Kyle Turriff", 
+                "Tweet": "Wife: Tiger is the only golfer I know playing in the masters.\n\nMe: ....\n\nMe: Can you name another golfer?\n\nWife: Sh\u2026 https://t.co/IsEMcQWd95", 
+                "TweetLink": "1117487638745944064", 
+                "Place": "Centre Wellington", 
+                "Time": "Sun Apr 14 17:59:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/931660528686047232/Rj-skMi8_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.433618, 45.5109365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "lmcolas", 
+                "Name": "Louis Colas", 
+                "Tweet": "Les gars de la @PGATOUR aujourd\u2019hui\n\nPlayers on the #PGATour be like:\n\nhttps://t.co/4xG5AardKb via @YouTube\u2026 https://t.co/3MWtAI7Cg0", 
+                "TweetLink": "1117487645247135746", 
+                "Place": "Longueuil", 
+                "Time": "Sun Apr 14 17:59:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1098584807498571776/HF407lR6_normal.png"
             }
         }
     ]
