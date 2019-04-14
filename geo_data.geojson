@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "PhilipNewnes", 
-                "Name": "Philip Newnes", 
-                "Tweet": "It\u2019s Masters week &amp; the world is a beautiful place! #masters #magnolialane #pgatour #mastersgolf #augusta\u2026 https://t.co/6WmyIXcoA9", 
-                "TweetLink": "1116012218359996416", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 10 16:17:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/833719962774695941/EWawfyL7_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "PGAShow", 
                 "Name": "PGA Golf Shows", 
                 "Tweet": "Are you ready for themasters ?? \ud83d\udc4f\ud83c\udffb\u26f3\ufe0f We have our predictions ready! \ud83d\ude0f\n\n#themasters #pga #pgatour #augustanational\u2026 https://t.co/32Qq4xmNc8", 
@@ -1637,6 +1624,19 @@
                 "Place": "McKinney", 
                 "Time": "Sun Apr 14 20:16:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1032456431176437760/LYWYPT_T_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Tiger Woods\u2019 patented fist pump wasn\u2019t seen on the 18th green at the Masters for 14 years. That is, until Sunday.\u2026 https://t.co/iuztbmIf2O", 
+                "TweetLink": "1117524576437542913", 
+                "Place": "Brampton", 
+                "Time": "Sun Apr 14 20:26:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
             }
         }
     ]
