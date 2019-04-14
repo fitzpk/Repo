@@ -689,6 +689,19 @@
                 "Time": "Sun Apr 14 01:51:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1351470474/BCMTweetpic_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.5330735, 27.3411215]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "davesansom", 
+                "Name": "Dave Sansom", 
+                "Tweet": "Sitting here, watching The Masters... loving it... and thought I\u2019d post another image from my recent shoot at The R\u2026 https://t.co/IDCErxaXaB", 
+                "TweetLink": "1117445639070265344", 
+                "Place": "Sarasota", 
+                "Time": "Sun Apr 14 15:12:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/606435928651919360/uBENYVAV_normal.jpg"
+            }
         }
     ]
 }
