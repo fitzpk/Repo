@@ -793,6 +793,71 @@
                 "Time": "Sun Apr 14 17:31:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1032735713471676416/V-E6R781_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.896662, 34.0471795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachJM1988", 
+                "Name": "J", 
+                "Tweet": "Tiger effect is back\n#MastersTournament #PGATour", 
+                "TweetLink": "1117482977087242240", 
+                "Place": "West Covina", 
+                "Time": "Sun Apr 14 17:41:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1069481484594044928/6oGw_srx_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.0278695, 42.0568865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "woodman56", 
+                "Name": "Terry Wood", 
+                "Tweet": "You're an idiot.", 
+                "TweetLink": "1117483102048280576", 
+                "Place": "Vestal", 
+                "Time": "Sun Apr 14 17:41:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1024477622514999296/IRf9h5ig_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.707778, 27.8610145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Boxster219", 
+                "Name": "John vandenHeuvel", 
+                "Tweet": "Can @TigerWoods make it his fifth @TheMasters? He is playing well, now leading going to 16. Molinari has fallen off. #PGATour", 
+                "TweetLink": "1117483555670691840", 
+                "Place": "Pinellas Park", 
+                "Time": "Sun Apr 14 17:43:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1032735713471676416/V-E6R781_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.0278695, 42.0568865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "woodman56", 
+                "Name": "Terry Wood", 
+                "Tweet": "Americans are assholes when it comes to Tiger and golf. They think he is a God even with all his infidelities.", 
+                "TweetLink": "1117483589078278144", 
+                "Place": "Vestal", 
+                "Time": "Sun Apr 14 17:43:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1024477622514999296/IRf9h5ig_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.707778, 27.8610145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Boxster219", 
+                "Name": "John vandenHeuvel", 
+                "Tweet": "Inches from a hole \ud83d\udd73 in one at 16! Tiger Woods. #PGATour #TheMasters", 
+                "TweetLink": "1117484672513187840", 
+                "Place": "Pinellas Park", 
+                "Time": "Sun Apr 14 17:48:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1032735713471676416/V-E6R781_normal.jpg"
+            }
         }
     ]
 }
