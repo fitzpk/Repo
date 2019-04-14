@@ -949,6 +949,71 @@
                 "Time": "Sun Apr 14 17:59:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1098584807498571776/HF407lR6_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.9672925, 43.0567225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jasonfechner", 
+                "Name": "Jason Fechner", 
+                "Tweet": "Via @TheMasters: \u201c14 years after his last victory at Augusta National, #Tiger Woods leads the Masters.\u201d #Tiger\u2026 https://t.co/LhnSALiOv1", 
+                "TweetLink": "1117488061569478659", 
+                "Place": "Milwaukee", 
+                "Time": "Sun Apr 14 18:01:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/886781861346910208/euZ-15_O_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.366933, 51.3796495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Pete__uk", 
+                "Name": "Peter", 
+                "Tweet": "Maybe the PGA should look at this format being played at the Masters for all competitions. 3 ball groups, split sta\u2026 https://t.co/s0Ur1dlUxo", 
+                "TweetLink": "1117488161318408192", 
+                "Place": "Bath", 
+                "Time": "Sun Apr 14 18:01:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/871271825111646210/fzd90ZP6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "bryanjamesross", 
+                "Name": "Bryan Ross", 
+                "Tweet": "You got @TigerWoods about to win and  @PhilMickelson bombing drives! Are you not entertained?!? #theMasters #PGATour", 
+                "TweetLink": "1117489404216586240", 
+                "Place": "Wisconsin", 
+                "Time": "Sun Apr 14 18:06:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111276688351076354/fbZ03buB_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[3.3386055, 6.4931125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "femifada", 
+                "Name": "23/25 Ent.", 
+                "Tweet": "Tiger is winning this! #Augusta #pgatour https://t.co/v86buzTvAw", 
+                "TweetLink": "1117489502233223168", 
+                "Place": "Lagos", 
+                "Time": "Sun Apr 14 18:07:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1047182257004470272/-q56Qzgl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "krisbradley", 
+                "Name": "Kris Bradley", 
+                "Tweet": "I think Tiger Woods has got this (barring a major collapse on 18 \u26f3\ufe0f )! He\u2019ll then be only 3 major wins away from pa\u2026 https://t.co/Nq10w4qP4U", 
+                "TweetLink": "1117489664850563074", 
+                "Place": "Pennsylvania", 
+                "Time": "Sun Apr 14 18:07:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1052308391387963392/UZmuZYTI_normal.jpg"
+            }
         }
     ]
 }
