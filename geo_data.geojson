@@ -1534,6 +1534,45 @@
                 "Time": "Sun Apr 14 18:55:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1865552815/iTunesArtwork_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.244984, 36.0871685]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BernardWilljr", 
+                "Name": "Bernard Williams,Jr", 
+                "Tweet": "Congratulations Tiger Woods #Masters #PGATour #15thmajor https://t.co/X6HJF4SEpR", 
+                "TweetLink": "1117502139264307201", 
+                "Place": "Winston-Salem", 
+                "Time": "Sun Apr 14 18:57:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1099906524275724289/eMEDU5s0_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KeepitKlassyMod", 
+                "Name": "Keep It Klassy Models", 
+                "Tweet": "Congratulations #tigerwoods. So happy for you. #1 #champion. #ceo #ceolife. #pgatour. #pga #golf. @ The Masters gol\u2026 https://t.co/i6H7XgLnMi", 
+                "TweetLink": "1117502418835726336", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 18:58:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/504662752539860992/_4fyXiSS_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.3733495, 42.3973155]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LisaLandvogt", 
+                "Name": "Lisa Landvogt", 
+                "Tweet": "Congrats Tiger Woods #themasters #comeback #resilience #PGATour", 
+                "TweetLink": "1117502670837825536", 
+                "Place": "Livonia", 
+                "Time": "Sun Apr 14 18:59:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1949472735/lisaprofile2010_normal.jpg"
+            }
         }
     ]
 }
