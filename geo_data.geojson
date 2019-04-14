@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PGAShow", 
-                "Name": "PGA Golf Shows", 
-                "Tweet": "Are you ready for themasters ?? \ud83d\udc4f\ud83c\udffb\u26f3\ufe0f We have our predictions ready! \ud83d\ude0f\n\n#themasters #pga #pgatour #augustanational\u2026 https://t.co/32Qq4xmNc8", 
-                "TweetLink": "1116015972341690368", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 10 16:31:57 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/515570948934619137/L7KrY3AY_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
             "type": "Feature", 
             "properties": {
@@ -1637,6 +1624,32 @@
                 "Place": "Brampton", 
                 "Time": "Sun Apr 14 20:26:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "msjxray", 
+                "Name": "TANKcollects", 
+                "Tweet": "What a weekend!\n-\n\u2014\n-\n#golf #golfing #golfer #golflife #golfswing #golfstagram #instagolf #golfers #golfcourse\u2026 https://t.co/ChLht1W1wL", 
+                "TweetLink": "1117524941342236675", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 20:28:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081133466069086209/ztRDxdHC_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "msjxray", 
+                "Name": "TANKcollects", 
+                "Tweet": "What a weekend!\n-\n\u2014\n-\n#golf #golfing #golfer #golflife #golfswing #golfstagram #instagolf #golfers #golfcourse\u2026 https://t.co/Jxu5AVHCKP", 
+                "TweetLink": "1117524954717855744", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 20:28:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081133466069086209/ztRDxdHC_normal.jpg"
             }
         }
     ]
