@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "2 days until perfection! #AugustaCountdown #CountdownToAugusta #TheMasters #AugustaNational #AmenCorner\u2026 https://t.co/jPfsMbow4B", 
-                "TweetLink": "1116007232255086592", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 10 15:57:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "PhilipNewnes", 
                 "Name": "Philip Newnes", 
                 "Tweet": "It\u2019s Masters week &amp; the world is a beautiful place! #masters #magnolialane #pgatour #mastersgolf #augusta\u2026 https://t.co/6WmyIXcoA9", 
@@ -1572,6 +1559,58 @@
                 "Place": "Livonia", 
                 "Time": "Sun Apr 14 18:59:33 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1949472735/lisaprofile2010_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.26434, 39.1701115]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kraffin614", 
+                "Name": "M C MatasChamberlain", 
+                "Tweet": ".ICONIC #golf #TheMasters #TigerWoods #PGATour https://t.co/b4ZRE5AhK0", 
+                "TweetLink": "1117513886020849664", 
+                "Place": "Germantown", 
+                "Time": "Sun Apr 14 19:44:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/822935340839239680/Q_Hrr_Y2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.524305, 41.7769225]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "44Davestevens", 
+                "Name": "DaveStevensSpeaks", 
+                "Tweet": "Sometimes you get to see the most Amazing Sports moments live... and you just sit back and look back at how you got\u2026 https://t.co/ZcGAO1iUDM", 
+                "TweetLink": "1117514132947963905", 
+                "Place": "Manchester", 
+                "Time": "Sun Apr 14 19:45:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1079104142851928064/5nOsFX9a_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WillBJRob", 
+                "Name": "William BJ Robinson", 
+                "Tweet": "TIGER!!!!!!! \u26f3\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f #tigerwoods #pgatour #themasters #liveunderpar #champ #champion #augustanational #golf #golffan\u2026 https://t.co/IBLkhJyBXF", 
+                "TweetLink": "1117514410958966784", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 19:46:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055499934995304450/GoSRIbOT_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[3.5018455, 6.4415305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "maverickhills", 
+                "Name": "Vladimir Maverick", 
+                "Tweet": "They all wrote him off\n\nHe came back and proved them all wrong\n\nHardwork, Persistence and grit\n\nCongratulations onc\u2026 https://t.co/ZdJMDq74Sr", 
+                "TweetLink": "1117516085723639811", 
+                "Place": "Victoria Island", 
+                "Time": "Sun Apr 14 19:52:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1101888105668403200/CwheyYm8_normal.jpg"
             }
         }
     ]
