@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-95.3268995, 29.5478845]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "MattScheweGolf", 
-                "Name": "Matt Schewe", 
-                "Tweet": "The Masters week is my favorite of the year. Who do you think will be wearing the green jacket this year? 713-291-8\u2026 https://t.co/RjiC0tPC8R", 
-                "TweetLink": "1116060253156724737", 
-                "Place": "Pearland", 
-                "Time": "Wed Apr 10 19:27:54 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/810678082449252352/9puMnugV_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-3.3731165, 51.67656]}, 
             "type": "Feature", 
             "properties": {
