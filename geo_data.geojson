@@ -715,6 +715,19 @@
                 "Time": "Sun Apr 14 15:23:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1097034247666188288/2ywfjxQX_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ImGoingEast", 
+                "Name": "Epps 305", 
+                "Tweet": "I\u2019m really watching \ud83c\udfcc\ud83c\udffe today only cause of \ud83d\udc05 #PGATour #Masters", 
+                "TweetLink": "1117455950397476869", 
+                "Place": "Florida", 
+                "Time": "Sun Apr 14 15:53:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1109560050899656704/sAgBxmdY_normal.jpg"
+            }
         }
     ]
 }
