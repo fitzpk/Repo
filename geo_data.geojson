@@ -1196,6 +1196,279 @@
                 "Time": "Sun Apr 14 18:32:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1110041547477786624/ZFVQy7Wb_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.874032, 33.617638]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ranhea1751", 
+                "Name": "Randy Heath", 
+                "Tweet": "Golf is better when Tiger is playing. Great fun watching Tiger Woods win the @TheMasters today. #PGATour #themasters2019", 
+                "TweetLink": "1117495918649995264", 
+                "Place": "Newport Beach", 
+                "Time": "Sun Apr 14 18:32:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1078858296524660736/VrEYzk4R_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[3.3386055, 6.4931125]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "femifada", 
+                "Name": "23/25 Ent.", 
+                "Tweet": "We did it!!! @Tigerwoods does the impossible!!! #Augusta #pgatour #TheMasters https://t.co/BWd77QRppa", 
+                "TweetLink": "1117496055573118981", 
+                "Place": "Lagos", 
+                "Time": "Sun Apr 14 18:33:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1047182257004470272/-q56Qzgl_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.2476215, 53.3549025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "06Dagr", 
+                "Name": "David Ryan \ud83c\uddee\ud83c\uddea", 
+                "Tweet": "Fucking delighted for @TigerWoods ! Amazing scenes, crowd going wild!!! Long live the king \ud83d\udc10#THEMASTERS #PGATour #Masters2019 #TigerWoods", 
+                "TweetLink": "1117496146526658564", 
+                "Place": "Dublin City", 
+                "Time": "Sun Apr 14 18:33:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/485538128128905216/LymNyyKI_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-98.5406515, 29.417501]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drockatkinesio", 
+                "Name": "Dianne Rockefeller", 
+                "Tweet": "Heeee\u2019s back!!! #MastersSunday #PGATour #PGA #TigerWoods", 
+                "TweetLink": "1117496681354932224", 
+                "Place": "San Antonio", 
+                "Time": "Sun Apr 14 18:35:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/649007344488050688/Okubidxe_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "parkerandtheman", 
+                "Name": "Parker andTheMan", 
+                "Tweet": "Nevada guy who bet $85,000 on #TigerWoods at 14 to 1, just grabbed a sweet $1,190,000.  Good for HIM!  #Masters2019\u2026 https://t.co/AUDstP4SOf", 
+                "TweetLink": "1117496766453014528", 
+                "Place": "Las Vegas", 
+                "Time": "Sun Apr 14 18:36:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/443953011304329217/iOuNxdvg_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.473111, 44.320833]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SteveCoville", 
+                "Name": "Steve Coville", 
+                "Tweet": "Tiger winning on a Sunday.. been a long time 11 years between majors 14 years since last masters 5th green jacket..\u2026 https://t.co/NUbu6YQPQ6", 
+                "TweetLink": "1117496868546674699", 
+                "Place": "Kingston", 
+                "Time": "Sun Apr 14 18:36:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1015812922021502976/_h7MnhN-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.6477035, 40.676613]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jazzee1969", 
+                "Name": "Jazz", 
+                "Tweet": "Tiger is Back!!! \u26f3 #TigerWoods #TheMasters #PGATour #golf \u26f3 https://t.co/rsrHhjDPZ0", 
+                "TweetLink": "1117496996796018689", 
+                "Place": "Lakeview", 
+                "Time": "Sun Apr 14 18:37:00 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/480009413311217665/xayxmAP0_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.4839355, 40.591825]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LuizGarciaLDG", 
+                "Name": "Luiz D. Garcia \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf7", 
+                "Tweet": "We all can make a comeback!!!! Great job @TigerWoods @PGATOUR @TheMasters  #MastersWeek #Augusta #tiger #PGATour", 
+                "TweetLink": "1117497025233338373", 
+                "Place": "Allentown", 
+                "Time": "Sun Apr 14 18:37:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085363559549337601/NMPGK_Ac_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.2685445, 42.2255775]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ER_FAN1280", 
+                "Name": "Michael Roberts", 
+                "Tweet": "Nevada guy who bet $85,000 on #TigerWoods at 14 to 1, just grabbed a sweet $1,190,000.  Good for HIM!  #Masters2019\u2026 https://t.co/os8NWOzA65", 
+                "TweetLink": "1117497205227773953", 
+                "Place": "Taylor", 
+                "Time": "Sun Apr 14 18:37:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1108782774918483968/p_xfu4ED_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BSZsports", 
+                "Name": "Buckeye Sports Zone", 
+                "Tweet": "Tiger Woods wins the Masters!!! Bring on the Green Jacket #PGATour #MastersWeek #buckeyenation #OhioState https://t.co/ODUhgDKkV5", 
+                "TweetLink": "1117497268427534339", 
+                "Place": "Ohio", 
+                "Time": "Sun Apr 14 18:38:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/808765959938985988/DIXgsaSq_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-2.23348, 53.4569525]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ToniNavarroYes", 
+                "Name": "Toni Navarro - Digital Marketing", 
+                "Tweet": "He\u2019s back \ud83d\udd25\ud83d\udcaa\ud83d\ude4c #nevergiveup #TigerWoods #PGATour", 
+                "TweetLink": "1117497513265827840", 
+                "Place": "Manchester", 
+                "Time": "Sun Apr 14 18:39:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948961733179256832/s8ma1iAd_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "youngrealtyinc", 
+                "Name": "Stephen Young", 
+                "Tweet": "I\u2019m such a big fan of @tigerwoods and I couldn\u2019t be happier for the 5 time champ!  Way to go.\n-\n#masters\u2026 https://t.co/LgxT4jlUTn", 
+                "TweetLink": "1117497666437562370", 
+                "Place": "Toronto", 
+                "Time": "Sun Apr 14 18:39:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866745502104264704/PjyihGfk_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.567456, 45.261585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "timmycats30", 
+                "Name": "Tim Peterson", 
+                "Tweet": "The Rest of the Players in Golf #TheMasters #barstoolsports #PGA #PGATour https://t.co/S0wewvoINu", 
+                "TweetLink": "1117497677896462337", 
+                "Place": "Otsego", 
+                "Time": "Sun Apr 14 18:39:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/612727369971822592/sQAyIFv6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1818345, 38.9201425]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "sports_beard", 
+                "Name": "\ud835\udc13\ud835\udc21\ud835\udc1e\ud835\udc12\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc2c\ud835\udc01\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1d \ud83e\uddd4", 
+                "Tweet": "Tiger Woods 15th Major, 5th Green Jacket. Historical Day. #themasters #PGATour #tigerwoods https://t.co/MsCRmVjJBr", 
+                "TweetLink": "1117497899158507520", 
+                "Place": "West Virginia", 
+                "Time": "Sun Apr 14 18:40:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1116029645005238274/4u50_i_1_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MariusSose", 
+                "Name": "SD Master Trainer", 
+                "Tweet": "TIGER OS BACK\u203c\ufe0f I TOLD Y\u2019ALL\u203c\ufe0f\ud83e\udde2\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\n#golf #pgatour #tigerwoods @ Pacific Beach, San Diego https://t.co/T0PDwgIsZ7", 
+                "TweetLink": "1117498258740453377", 
+                "Place": "San Diego", 
+                "Time": "Sun Apr 14 18:42:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/895194365542506496/MQl2dO-S_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.184848, 40.734494]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Wavy_Gravy420", 
+                "Name": "IMMORTAL Sweet Daddy", 
+                "Tweet": "Man SHOUTS OUT TO TIGER!!!!!!!! That's how you shake bacc!! #Masters19 #PGATour \ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f\ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f\ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f", 
+                "TweetLink": "1117498329590566918", 
+                "Place": "Newark", 
+                "Time": "Sun Apr 14 18:42:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105441094920228866/Uzr99SmQ_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "daburls721", 
+                "Name": "Michael Burlew", 
+                "Tweet": "Congrats to Tiger Woods on winning the masters alwayssunnyfxx #itsalwayssunny #masters #augustanational #pgatour\u2026 https://t.co/PYG40X757A", 
+                "TweetLink": "1117498539872063489", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 18:43:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000321091029/1d9fd2e61e46f9054fb4112150131aff_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.746851, 28.0858635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Innisbrook", 
+                "Name": "Innisbrook Resort", 
+                "Tweet": "Congratulations Tiger! #themasters #PGATOUR", 
+                "TweetLink": "1117498770495877120", 
+                "Place": "Palm Harbor", 
+                "Time": "Sun Apr 14 18:44:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919940440819949569/G9zejdA9_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HackersForHope", 
+                "Name": "Hackers For Hope", 
+                "Tweet": "#Repost thegolfingthing\n\u30fb\u30fb\u30fb\nSunday Mood\ud83d\udc2f\n.\n.\n.\n#golfing #golfer #pga #golfcourse #instagolf #golflife\u2026 https://t.co/WyxKsQn9Wr", 
+                "TweetLink": "1117498794709413888", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 18:44:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961329859770265600/W7zgQZQK_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-0.8380555, 52.796791]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DannyD678", 
+                "Name": "DJ Dan-E-D", 
+                "Tweet": "Fair play @TigerWoods. Special performance from a special player. Knew I should\u2019ve had a tenner on it... #masters\u2026 https://t.co/iV1ya3A6YA", 
+                "TweetLink": "1117498892667506696", 
+                "Place": "East Midlands", 
+                "Time": "Sun Apr 14 18:44:32 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/819872255320657920/gjMrleXh_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-70.5189175, -33.4254005]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "vmartinezl", 
+                "Name": "Veronica Martinez L", 
+                "Tweet": "@SC_ESPN Qu\u00e9 alegr\u00eda Tiger!!! Se puede renacer chicos !!!! #PGATour", 
+                "TweetLink": "1117499014310658048", 
+                "Place": "Las Condes", 
+                "Time": "Sun Apr 14 18:45:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1003868705212772353/x2g20zhu_normal.jpg"
+            }
         }
     ]
 }
