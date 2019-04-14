@@ -728,6 +728,32 @@
                 "Time": "Sun Apr 14 16:31:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/956993440553807872/YBTUc3_A_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-85.7682405, 37.822244]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "haynes_melody", 
+                "Name": "Melody Haynes", 
+                "Tweet": "Me too!!! \u26f3\ufe0f\ud83d\udc9a\ud83c\udfcc\ud83c\udffb\u200d\u2642\ufe0f\u2764\ufe0f @TigerWoods", 
+                "TweetLink": "1117469383738187777", 
+                "Place": "Kentucky", 
+                "Time": "Sun Apr 14 16:47:17 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1113970641059876864/q70hsi8S_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.853563, 42.8962295]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "StevewojKCCO", 
+                "Name": "Steve Wojcik", 
+                "Tweet": "When Tiger wears red and black on Sunday, you know no ones safe!!! Let\u2019s go tiger!!! #THEMASTERS #masters\u2026 https://t.co/jCx9IP4hDj", 
+                "TweetLink": "1117470412668121093", 
+                "Place": "Buffalo", 
+                "Time": "Sun Apr 14 16:51:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/828411716665036801/lDbS_RK-_normal.jpg"
+            }
         }
     ]
 }
