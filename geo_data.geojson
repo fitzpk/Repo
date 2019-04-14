@@ -715,6 +715,19 @@
                 "Time": "Sun Apr 14 15:53:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1109560050899656704/sAgBxmdY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.0280425, 40.5838765]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dadaevan", 
+                "Name": "GolfDoc", 
+                "Tweet": "The only thing really annoying me today about the Masters is Ian Poulter and his plaid pants. They sincerely look l\u2026 https://t.co/r5lonkVKih", 
+                "TweetLink": "1117465415855280128", 
+                "Place": "McCandless", 
+                "Time": "Sun Apr 14 16:31:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/956993440553807872/YBTUc3_A_normal.jpg"
+            }
         }
     ]
 }
