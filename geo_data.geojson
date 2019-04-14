@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.5957275, 33.629414]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CoachErikGolf", 
-                "Name": "Coach Erik Golf", 
-                "Tweet": "Great work this morning with @bigredstep714 \ud83d\udc4a\ud83d\udc4d Small adjustments to set up helps to control low point. \n.\n.\n\n.\n.\n.\u2026 https://t.co/xsoT9MEiXC", 
-                "TweetLink": "1116033592981897216", 
-                "Place": "Rancho Santa Margarita", 
-                "Time": "Wed Apr 10 17:41:58 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-95.3268995, 29.5478845]}, 
             "type": "Feature", 
             "properties": {
@@ -1676,6 +1663,19 @@
                 "Place": "Brampton", 
                 "Time": "Sun Apr 14 21:14:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Masters Sunday, The Final Chapter. #TheMasters  #GreenJacket #AugustaNational #AmenCorner #PGATour #MastersWeek\u2026 https://t.co/C5CsA3gTGm", 
+                "TweetLink": "1117543083942477825", 
+                "Place": "Augusta", 
+                "Time": "Sun Apr 14 21:40:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
         }
     ]
