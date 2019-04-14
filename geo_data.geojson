@@ -1508,6 +1508,32 @@
                 "Time": "Sun Apr 14 18:50:00 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/995764653606219777/O-BmhJZi_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.967821, 37.37099]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DaBarrera87", 
+                "Name": "Daniel Barrera", 
+                "Tweet": "The last time @TigerWoods put on a fresh green jacket was 14 years ago. Sports never fails to surprise and amaze.\u2026 https://t.co/CTvXeojb5u", 
+                "TweetLink": "1117500489044619266", 
+                "Place": "Santa Clara", 
+                "Time": "Sun Apr 14 18:50:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/602248924817063936/ub9vE5eI_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.117998, 40.0048655]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iradiophilly", 
+                "Name": "iradiophilly", 
+                "Tweet": "Tiger Woods has won The Masters at Augusta National Golf Club. \n\nThis is Woods' 15th major championship and 5th Mas\u2026 https://t.co/rPJbx8ONXz", 
+                "TweetLink": "1117501668793495552", 
+                "Place": "Philadelphia", 
+                "Time": "Sun Apr 14 18:55:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1865552815/iTunesArtwork_normal.png"
+            }
         }
     ]
 }
