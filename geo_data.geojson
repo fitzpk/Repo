@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "He might not want to admit it, but Rory McIlroy will look back at this Masters as the most important week of his ca\u2026 https://t.co/1no5wg7r8h", 
-                "TweetLink": "1115961343280963587", 
-                "Place": "Brampton", 
-                "Time": "Wed Apr 10 12:54:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
@@ -753,6 +740,19 @@
                 "Place": "Buffalo", 
                 "Time": "Sun Apr 14 16:51:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/828411716665036801/lDbS_RK-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-76.324382, 39.5031]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "kyletheeplug", 
+                "Name": "Kyle", 
+                "Tweet": "Other then the many woman tiger \ud83d\udc2f played I think everyone in the world is cheering for this man! Let\u2019s go!\u2026 https://t.co/EL3yZdFNy3", 
+                "TweetLink": "1117471902396817409", 
+                "Place": "Abingdon", 
+                "Time": "Sun Apr 14 16:57:17 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/923238076826181632/JtcfGOzl_normal.jpg"
             }
         }
     ]
