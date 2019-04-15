@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-78.8277745, 35.397155]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BigHUNT_12", 
-                "Name": "Hunter Smith \ud83c\uddfa\ud83c\uddf8", 
-                "Tweet": "The #Masters are finally here #PGATour #AugustaNational https://t.co/H2sxYUHAs0", 
-                "TweetLink": "1116148065306648583", 
-                "Place": "Lillington", 
-                "Time": "Thu Apr 11 01:16:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1108109975191195654/uE-Gv9Ri_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Masters Eve is the equivalent of Christmas Eve for golfers! \u26f3\ufe0f\ud83c\udf3a #CountdownToAugusta #MastersWeek #TheMasters\u2026 https://t.co/5ZtV9F8vSj", 
-                "TweetLink": "1116160106679472131", 
-                "Place": "Augusta", 
-                "Time": "Thu Apr 11 02:04:41 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-80.1818345, 38.9201425]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "sports_beard", 
-                "Name": "\ud835\udc13\ud835\udc21\ud835\udc1e\ud835\udc12\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc2c\ud835\udc01\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1d \ud83e\uddd4", 
-                "Tweet": "First Golf Major, The Masters starts Tomorrow. #PGATour #TheMasters #Golf https://t.co/n5AG2A0bY2", 
-                "TweetLink": "1116164091993894912", 
-                "Place": "West Virginia", 
-                "Time": "Thu Apr 11 02:20:31 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1116029645005238274/4u50_i_1_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-76.620482, 39.284713]}, 
             "type": "Feature", 
             "properties": {
