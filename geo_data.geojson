@@ -1677,6 +1677,19 @@
                 "Time": "Mon Apr 15 22:19:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.5013145, 41.1626585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Jclark1935", 
+                "Name": "JUNIUS CLARK", 
+                "Tweet": "#tigerwoods #golf #pgatour #pga #golfer #golfswing #golflife #instagolf #golfcourse #golfing #golfporn #nikegolf\u2026 https://t.co/eXu3cVO2yr", 
+                "TweetLink": "1117965324408770560", 
+                "Place": "New Canaan", 
+                "Time": "Tue Apr 16 01:37:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/715775536602202114/hNAlZapl_normal.jpg"
+            }
         }
     ]
 }
