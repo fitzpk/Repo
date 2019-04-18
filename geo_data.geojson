@@ -1313,6 +1313,19 @@
                 "Time": "Tue Apr 16 01:37:58 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/715775536602202114/hNAlZapl_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1171165, 26.931496]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "@tigerwoods pitching motion. What stands out to you here? What would you change? \n\n.\n.\n.\n.\n.\n#pgatour #golfporn\u2026 https://t.co/zraur9y8Ic", 
+                "TweetLink": "1118677446646046720", 
+                "Place": "Jupiter", 
+                "Time": "Thu Apr 18 00:47:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
