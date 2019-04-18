@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "Augusta played soft and calm on Saturday, and no one took advantage more than Tony Finau and Webb Simpson.\u2026 https://t.co/5BX4tyn3rQ", 
-                "TweetLink": "1117194512143536129", 
-                "Place": "Brampton", 
-                "Time": "Sat Apr 13 22:35:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
             "type": "Feature", 
             "properties": {
