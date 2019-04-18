@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-77.604684, 41.1179365]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PureBlarney", 
-                "Name": "Tom Craig", 
-                "Tweet": "@GregSheva Of course. #CBSSports has turned into Tiger Woods television. #embarrassing #PGATOUR #Masters #whatabouttheotherguys", 
-                "TweetLink": "1117200061467852802", 
-                "Place": "Pennsylvania", 
-                "Time": "Sat Apr 13 22:57:05 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/743980739394404352/4SeHq2ct_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.1818345, 38.9201425]}, 
             "type": "Feature", 
             "properties": {
