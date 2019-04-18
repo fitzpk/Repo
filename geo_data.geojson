@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Lindasantangel1", 
-                "Name": "Linda Santangelo", 
-                "Tweet": "@PGATOUR @F_Molinari \ud83d\udc9a Go #molinari #pgatour", 
-                "TweetLink": "1117226253373837317", 
-                "Place": "Manhattan", 
-                "Time": "Sun Apr 14 00:41:10 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/554235517685231616/5fGIHHca_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
