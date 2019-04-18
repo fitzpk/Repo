@@ -1300,6 +1300,19 @@
                 "Time": "Thu Apr 18 00:47:41 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MXBS13", 
+                "Name": "z\u01dd\u0265\u0254u\u0250s x\u0250\u026f \ud83e\udd86", 
+                "Tweet": "Saying hi from Torrey Pines o/ \n\ud83d\ude81\n\n------------------------------------------------------------\n#drone #california\u2026 https://t.co/RuyskJ40mj", 
+                "TweetLink": "1118694279294046208", 
+                "Place": "San Diego", 
+                "Time": "Thu Apr 18 01:54:35 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1071830110829854720/B0AIxof0_normal.jpg"
+            }
         }
     ]
 }
