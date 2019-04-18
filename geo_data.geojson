@@ -1313,6 +1313,19 @@
                 "Time": "Thu Apr 18 01:54:35 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1071830110829854720/B0AIxof0_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.926628, 33.6311395]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "dpharr1", 
+                "Name": "David Pharr", 
+                "Tweet": "\u201cchoppa long like a golf club.. \nhold that thang like Tiger Woods\u201c \u26f3\ufe0f happy birthday to big slime \ud83c\udf88#masters\u2026 https://t.co/2OORKDAp2S", 
+                "TweetLink": "1118696201522515968", 
+                "Place": "South Carolina", 
+                "Time": "Thu Apr 18 02:02:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1113813594947375104/STVVSpYE_normal.jpg"
+            }
         }
     ]
 }
