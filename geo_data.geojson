@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-96.699604, 33.1946515]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DominicGBrown", 
-                "Name": "\u15eaominic G. Brown", 
-                "Tweet": "Congratulations #TigerWoods \nIt took 11 years, but persistence &amp; dedication allowed you to #achieve your #goals\u2026 https://t.co/tYLa8ZTJys", 
-                "TweetLink": "1117521924979085312", 
-                "Place": "McKinney", 
-                "Time": "Sun Apr 14 20:16:04 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1032456431176437760/LYWYPT_T_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
