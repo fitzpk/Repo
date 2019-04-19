@@ -143,6 +143,19 @@
                 "Time": "Fri Apr 19 18:58:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/648528938487058432/yf7sH_u-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.3452625, 27.300765]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BPSnow11", 
+                "Name": "BigBucksNoWhammies", 
+                "Tweet": "Say what? \ud83d\ude33", 
+                "TweetLink": "1119329087393345536", 
+                "Place": "Port St Lucie", 
+                "Time": "Fri Apr 19 19:57:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1115208800015925249/tFH9NkrL_normal.jpg"
+            }
         }
     ]
 }
