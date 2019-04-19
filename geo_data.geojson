@@ -104,6 +104,19 @@
                 "Time": "Fri Apr 19 04:27:36 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1093701561639784448/5zGuAdYT_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.3056735, 40.822634]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "samkangpga", 
+                "Name": "Sam Kang, PGA", 
+                "Tweet": "Bill working it! Keep it up!! #golf #golflesson #rotation #nj #njpga #golftips #pga #birdie #pgatour #birdienow\u2026 https://t.co/JRCfZyOFlM", 
+                "TweetLink": "1119279087720091648", 
+                "Place": "Roseland", 
+                "Time": "Fri Apr 19 16:38:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1847178883/image_normal.jpg"
+            }
         }
     ]
 }
