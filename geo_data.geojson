@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "Tiger Woods\u2019 patented fist pump wasn\u2019t seen on the 18th green at the Masters for 14 years. That is, until Sunday.\u2026 https://t.co/iuztbmIf2O", 
-                "TweetLink": "1117524576437542913", 
-                "Place": "Brampton", 
-                "Time": "Sun Apr 14 20:26:36 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090414557460348928/FXFEgYgy_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "msjxray", 
-                "Name": "TANKcollects", 
-                "Tweet": "What a weekend!\n-\n\u2014\n-\n#golf #golfing #golfer #golflife #golfswing #golfstagram #instagolf #golfers #golfcourse\u2026 https://t.co/ChLht1W1wL", 
-                "TweetLink": "1117524941342236675", 
-                "Place": "Augusta", 
-                "Time": "Sun Apr 14 20:28:03 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081133466069086209/ztRDxdHC_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "msjxray", 
-                "Name": "TANKcollects", 
-                "Tweet": "What a weekend!\n-\n\u2014\n-\n#golf #golfing #golfer #golflife #golfswing #golfstagram #instagolf #golfers #golfcourse\u2026 https://t.co/Jxu5AVHCKP", 
-                "TweetLink": "1117524954717855744", 
-                "Place": "Augusta", 
-                "Time": "Sun Apr 14 20:28:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081133466069086209/ztRDxdHC_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
             "type": "Feature", 
             "properties": {
