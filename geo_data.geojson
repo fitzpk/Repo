@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "krisjonesmd", 
-                "Name": "Kristofer Jones M.D.", 
-                "Tweet": "Always enjoy spending time in beautiful #TorreyPines. This weekend I had an opportunity to share my thoughts on\u2026 https://t.co/5idBjx9252", 
-                "TweetLink": "1117573381941895168", 
-                "Place": "Torrey Pines", 
-                "Time": "Sun Apr 14 23:40:32 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/871216849295351808/u8JQrUcz_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.252259, 32.919355]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "brittpsych", 
-                "Name": "Britt Bohrer", 
-                "Tweet": "View from our #hike today at #TorreyPines https://t.co/drKnv9meyj", 
-                "TweetLink": "1117574509215797248", 
-                "Place": "Torrey Pines State Natural Reserve", 
-                "Time": "Sun Apr 14 23:45:01 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1032053016034267137/YpWMvDO-_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
