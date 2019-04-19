@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-3.7035075, 40.4777945]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "OHerencia", 
-                "Name": "Oscar Herencia", 
-                "Tweet": "No puede caber mas talento en una sola foto!", 
-                "TweetLink": "1117555375555977218", 
-                "Place": "Madrid", 
-                "Time": "Sun Apr 14 22:28:59 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1001218526991011846/IPuo6Sw__normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-105.121782, 52.199128]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "fedcop04", 
-                "Name": "Chris Greenslade", 
-                "Tweet": "You know, golf is so much more enjoyable to watch when @TigerWoods is kicking ass!! #TheMasters  #PGATour  #PGA", 
-                "TweetLink": "1117557302054334464", 
-                "Place": "Humboldt", 
-                "Time": "Sun Apr 14 22:36:38 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000078779510/657c17a3ce82482b4b74917d7910af47_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
             "type": "Feature", 
             "properties": {
