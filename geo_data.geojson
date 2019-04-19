@@ -104,6 +104,19 @@
                 "Time": "Fri Apr 19 02:49:48 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/696726621018046464/klOVQbif_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[153.074157, -26.6064825]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "PaulWillgolf", 
+                "Name": "Paul Williamson Golf", 
+                "Tweet": "This is how to practice! Learn to play the game", 
+                "TweetLink": "1119095177870577664", 
+                "Place": "Sunshine Coast", 
+                "Time": "Fri Apr 19 04:27:36 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093701561639784448/5zGuAdYT_normal.jpg"
+            }
         }
     ]
 }
