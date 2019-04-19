@@ -117,6 +117,19 @@
                 "Time": "Fri Apr 19 16:38:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1847178883/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SeeMorePutters", 
+                "Name": "SeeMore Putters", 
+                "Tweet": "SPi CT Training Mirror \u2022\nAvailable in RH and LH. See \ud83d\udd17 in bio to view list of training accessories. \u2022 Take your pra\u2026 https://t.co/K7tX2U0X1w", 
+                "TweetLink": "1119287524353089536", 
+                "Place": "Franklin", 
+                "Time": "Fri Apr 19 17:11:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/872447279180857344/7mQ-Qh97_normal.jpg"
+            }
         }
     ]
 }
