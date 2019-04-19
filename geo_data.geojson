@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LemorAbrams", 
-                "Name": "Lemor Abrams", 
-                "Tweet": "First hike in a long time and found our new favorite trail! #torreypines #sandiego #beachtrails #springtime\ud83c\udf38\u2026 https://t.co/SbQoqDL2FX", 
-                "TweetLink": "1117648746282721282", 
-                "Place": "San Diego", 
-                "Time": "Mon Apr 15 04:40:00 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/558697657275645952/-qQj96zq_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
