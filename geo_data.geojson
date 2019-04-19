@@ -130,6 +130,19 @@
                 "Time": "Fri Apr 19 17:11:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/872447279180857344/7mQ-Qh97_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.8528835, 41.595411]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheKGFIT", 
+                "Name": "Kristopher Goeden", 
+                "Tweet": "Teach them passion for the game \u26f3\ufe0f\ud83c\udfcc\ud83c\udffc very early \ud83d\ude4c\ud83c\udffd\ud83d\udc81\ud83c\udffd\u200d\u2642\ufe0f\u26f3\ufe0f #theadventuresofkrew #slatereverett #littlegolfers\u2026 https://t.co/ogQ3bmWH1f", 
+                "TweetLink": "1119314299338547200", 
+                "Place": "Waukee", 
+                "Time": "Fri Apr 19 18:58:19 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/648528938487058432/yf7sH_u-_normal.jpg"
+            }
         }
     ]
 }
