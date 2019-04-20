@@ -169,6 +169,32 @@
                 "Time": "Sat Apr 20 17:22:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1741870344/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "COSMICGIRL2009", 
+                "Name": "Annette B. Garcia", 
+                "Tweet": "Let me get up these #stairs #myguad #torreypines #delmar #delmarbeach @ Del Mar, California https://t.co/BralHcBb02", 
+                "TweetLink": "1119659608052604928", 
+                "Place": "Del Mar", 
+                "Time": "Sat Apr 20 17:50:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1741870344/image_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.748747, 32.1898025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jon_laporte444", 
+                "Name": "Jonathan LaPorte", 
+                "Tweet": "It\u2019s a beauty! \n\n@rbc_heritage \n\n#pgatour @ Hilton Head Island, South Carolina https://t.co/zvFmIOIE2Y", 
+                "TweetLink": "1119661238059855872", 
+                "Place": "Hilton Head Island", 
+                "Time": "Sat Apr 20 17:56:56 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068951209275465728/LkJVQeuH_normal.jpg"
+            }
         }
     ]
 }
