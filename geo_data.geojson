@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "NeverAverage37", 
-                "Name": "derick james zak", 
-                "Tweet": "\ud83c\udfcc\ufe0f\u200d\u2642\ufe0fBoss \u26f3\n\n#tigerwoods #golf #pgatour #pga #golfer #golfswing #golflife #instagolf #golfcourse #golfing #golfporn\u2026 https://t.co/j3n8svUHjk", 
-                "TweetLink": "1117912103958933504", 
-                "Place": "Augusta", 
-                "Time": "Mon Apr 15 22:06:30 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/936633725600878593/Px5PJC0m_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "Will_ODonoghue", 
                 "Name": "Will O'Donoghue", 
                 "Tweet": "Exclusive footage of @JoeBiden presenting @TigerWoods with his Green Jacket In Butler Cabin yesterday. #TigerWoods\u2026 https://t.co/pQygwAR4jm", 
