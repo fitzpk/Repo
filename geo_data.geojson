@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Exclusive footage of @JoeBiden presenting @TigerWoods with his Green Jacket In Butler Cabin yesterday. #TigerWoods\u2026 https://t.co/pQygwAR4jm", 
-                "TweetLink": "1117915461709025280", 
-                "Place": "Augusta", 
-                "Time": "Mon Apr 15 22:19:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.5013145, 41.1626585]}, 
             "type": "Feature", 
             "properties": {
