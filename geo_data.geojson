@@ -247,6 +247,32 @@
                 "Time": "Sun Apr 21 18:46:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1105605527235674124/3_1RCeYr_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Honcho68", 
+                "Name": "Eric Haughan", 
+                "Tweet": "Big par putts on 3 &amp; 4 for Shane Lowry... tied for the lead at the #Heritage\n#PGATour #golf", 
+                "TweetLink": "1120037906163359757", 
+                "Place": "South Dublin", 
+                "Time": "Sun Apr 21 18:53:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-74.0960495, 40.9027595]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DanoCruz", 
+                "Name": "Dan Crisham \u26f3\ufe0f\ud83c\udfcc\ud83c\udffd", 
+                "Tweet": "What\u2019s going on with Jordan Spieth this year ???  Come on dude ! Get your game on #jordanspieth #PGATour", 
+                "TweetLink": "1120038447815757824", 
+                "Place": "Saddle Brook", 
+                "Time": "Sun Apr 21 18:55:49 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/736031954429214721/XT0EtBUO_normal.jpg"
+            }
         }
     ]
 }
