@@ -234,6 +234,19 @@
                 "Time": "Sun Apr 21 18:07:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1091107318819971072/FPE40FRL_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.809915, 32.135511]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "justintshelley", 
+                "Name": "Justin Shelley", 
+                "Tweet": "Sunday at the Heritage \ud83d\udc4c\ud83c\udffd #PGATour #HiltonHeadSC https://t.co/DdhLgBOQJE", 
+                "TweetLink": "1120036105179602946", 
+                "Place": "Harbour Town Golf Links", 
+                "Time": "Sun Apr 21 18:46:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105605527235674124/3_1RCeYr_normal.jpg"
+            }
         }
     ]
 }
