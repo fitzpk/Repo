@@ -221,6 +221,19 @@
                 "Time": "Sat Apr 20 18:23:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.0498145, 44.191137]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "immacrecep", 
+                "Name": "Sandra Lynne", 
+                "Tweet": "Let\u2019s go Poults!!! #PGAtour", 
+                "TweetLink": "1120026219641278464", 
+                "Place": "Deseronto", 
+                "Time": "Sun Apr 21 18:07:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1091107318819971072/FPE40FRL_normal.jpg"
+            }
         }
     ]
 }
