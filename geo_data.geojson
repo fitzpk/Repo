@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-86.789445, 35.994883]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "sizemattersfis", 
-                "Name": "Size Matters Fishing", 
-                "Tweet": "@RealSaavedra Looks like he has a lot in common with Matt Kuchar @GoodGuyKuchar @PGATOUR @ClubProGuy\u2026 https://t.co/26lIPDAnZq", 
-                "TweetLink": "1119070562423324672", 
-                "Place": "Brentwood Library", 
-                "Time": "Fri Apr 19 02:49:48 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/696726621018046464/klOVQbif_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[153.074157, -26.6064825]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PaulWillgolf", 
-                "Name": "Paul Williamson Golf", 
-                "Tweet": "This is how to practice! Learn to play the game", 
-                "TweetLink": "1119095177870577664", 
-                "Place": "Sunshine Coast", 
-                "Time": "Fri Apr 19 04:27:36 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1093701561639784448/5zGuAdYT_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-74.3056735, 40.822634]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "samkangpga", 
-                "Name": "Sam Kang, PGA", 
-                "Tweet": "Bill working it! Keep it up!! #golf #golflesson #rotation #nj #njpga #golftips #pga #birdie #pgatour #birdienow\u2026 https://t.co/JRCfZyOFlM", 
-                "TweetLink": "1119279087720091648", 
-                "Place": "Roseland", 
-                "Time": "Fri Apr 19 16:38:24 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1847178883/image_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SeeMorePutters", 
-                "Name": "SeeMore Putters", 
-                "Tweet": "SPi CT Training Mirror \u2022\nAvailable in RH and LH. See \ud83d\udd17 in bio to view list of training accessories. \u2022 Take your pra\u2026 https://t.co/K7tX2U0X1w", 
-                "TweetLink": "1119287524353089536", 
-                "Place": "Franklin", 
-                "Time": "Fri Apr 19 17:11:55 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/872447279180857344/7mQ-Qh97_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-93.8528835, 41.595411]}, 
             "type": "Feature", 
             "properties": {
