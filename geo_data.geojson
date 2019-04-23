@@ -221,6 +221,19 @@
                 "Time": "Mon Apr 22 01:24:29 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000103994266/2d9eb4932420388890e61c4b20a26f45_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-64.1980255, -31.4154565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ferfotoracing", 
+                "Name": "Fernando Molina", 
+                "Tweet": "El finde en C\u00f3rdoba\n\ud83d\udccc #RallyArgentina #WRCArgentina \n\ud83d\udccc #PGATour #Golf", 
+                "TweetLink": "1120834545178296320", 
+                "Place": "C\u00f3rdoba", 
+                "Time": "Tue Apr 23 23:39:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/940807375463829504/6nc_DSYR_normal.jpg"
+            }
         }
     ]
 }
