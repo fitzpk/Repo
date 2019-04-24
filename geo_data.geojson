@@ -234,6 +234,45 @@
                 "Time": "Wed Apr 24 00:00:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/863480006/Kelly_Sheehan1rev_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.0316645, 21.048719]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hartursan", 
+                "Name": "Hartursan", 
+                "Tweet": "\u2022 \u2022 \u2022 \u2022 \u2022 #golf #wildlife #wildlifephotography #golfcourse #golflife #instagolf #pga #golfstagram #pgatour\u2026 https://t.co/YOoAzgWsY5", 
+                "TweetLink": "1120869825432227840", 
+                "Place": "Benito Ju\u00e1rez", 
+                "Time": "Wed Apr 24 01:59:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111751540153507840/jKGZyBS2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.0316645, 21.048719]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hartursan", 
+                "Name": "Hartursan", 
+                "Tweet": "\u2022 \u2022 \u2022 \u2022 \u2022 #golf #wildlife #wildlifephotography #golfcourse #golflife #instagolf #pga #golfstagram #pgatour\u2026 https://t.co/7YJJ38J2cN", 
+                "TweetLink": "1120869851935981573", 
+                "Place": "Benito Ju\u00e1rez", 
+                "Time": "Wed Apr 24 01:59:32 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111751540153507840/jKGZyBS2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-87.0316645, 21.048719]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Hartursan", 
+                "Name": "Hartursan", 
+                "Tweet": "\u2022 \u2022 \u2022 \u2022 \u2022 #golf #wildlife #wildlifephotography #golfcourse #golflife #instagolf #pga #golfstagram #pgatour\u2026 https://t.co/nM6v2JFwYG", 
+                "TweetLink": "1120869881409179648", 
+                "Place": "Benito Ju\u00e1rez", 
+                "Time": "Wed Apr 24 01:59:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111751540153507840/jKGZyBS2_normal.jpg"
+            }
         }
     ]
 }
