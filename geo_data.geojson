@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.748747, 32.1898025]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "nataliegparsons", 
-                "Name": "NATALIE PARSONS", 
-                "Tweet": "Left #ColumbiaSC around 4am on Thursday to be in #HiltonHead by 7am. Working a PROMOTIONAL event at the #pgatour. G\u2026 https://t.co/fT335FIJDk", 
-                "TweetLink": "1119381885237567488", 
-                "Place": "Hilton Head Island", 
-                "Time": "Fri Apr 19 23:26:53 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1118329213172498433/15LBtaBT_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
