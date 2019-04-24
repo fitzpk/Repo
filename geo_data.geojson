@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.3452625, 27.300765]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BPSnow11", 
-                "Name": "BigBucksNoWhammies", 
-                "Tweet": "Say what? \ud83d\ude33", 
-                "TweetLink": "1119329087393345536", 
-                "Place": "Port St Lucie", 
-                "Time": "Fri Apr 19 19:57:05 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1115208800015925249/tFH9NkrL_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.748747, 32.1898025]}, 
             "type": "Feature", 
             "properties": {
@@ -233,6 +220,19 @@
                 "Place": "C\u00f3rdoba", 
                 "Time": "Tue Apr 23 23:39:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/940807375463829504/6nc_DSYR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KellySheehanPGA", 
+                "Name": "Kelly Sheehan, PGA", 
+                "Tweet": "This #pgaofamerica #golfpro just booked a group of his members to @casadecampo from our meeting themasters augusta.\u2026 https://t.co/YaZEx0CTpE", 
+                "TweetLink": "1120839804705476609", 
+                "Place": "Augusta", 
+                "Time": "Wed Apr 24 00:00:08 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/863480006/Kelly_Sheehan1rev_normal.jpg"
             }
         }
     ]
