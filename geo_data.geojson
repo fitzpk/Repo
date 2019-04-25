@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctbere", 
-                "Name": "Mary M-S", 
-                "Tweet": "@ShaneLowryGolf back in the lead after DJ bogey. Keep it going \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\u26f3\ufe0f\ud83c\uddee\ud83c\uddea  #PGATour", 
-                "TweetLink": "1120050029350346752", 
-                "Place": "Cork", 
-                "Time": "Sun Apr 21 19:41:51 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1051941269725835270/00wIp8B__normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-120.5834015, 44.1454365]}, 
             "type": "Feature", 
             "properties": {
