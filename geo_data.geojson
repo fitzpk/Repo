@@ -143,6 +143,19 @@
                 "Time": "Sat Apr 27 18:51:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/879822532643127296/1hZ8eZxr_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "edcolemangolf", 
+                "Name": "Ed Coleman", 
+                "Tweet": "Just a subtle reminder to the haters. #tiger #bigcat #bigfeline #PGATour https://t.co/g0ZHd4SgyV", 
+                "TweetLink": "1122267853997187072", 
+                "Place": "Vermont", 
+                "Time": "Sat Apr 27 22:34:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
+            }
         }
     ]
 }
