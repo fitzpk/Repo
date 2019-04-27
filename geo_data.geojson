@@ -91,6 +91,19 @@
                 "Time": "Sat Apr 27 00:56:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-96.7617535, 32.8198585]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RandallElms", 
+                "Name": "RANDALL ELMS Realtor", 
+                "Tweet": "Open House Sunday 2p-4p Check out this listing: https://t.co/sNb5HTjPzL #lakehouse #pgatour #frisconextdoor\u2026 https://t.co/xgJnJ6j1P6", 
+                "TweetLink": "1122131502630940677", 
+                "Place": "Dallas", 
+                "Time": "Sat Apr 27 13:32:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093358689388511232/9FkXyesC_normal.jpg"
+            }
         }
     ]
 }
