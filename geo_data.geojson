@@ -117,6 +117,19 @@
                 "Time": "Sat Apr 27 14:52:44 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "LowTidePutters", 
+                "Name": "Low Tide Putters", 
+                "Tweet": "Finishing up an custom order of golf ball repair tools. \ud83d\udc4d\ud83c\udffb #RollWithUs \n\u2022\n\u2022\n#MadeInUSA #Golf #Shiny #New #Sparkle\u2026 https://t.co/gxoLrkO6d2", 
+                "TweetLink": "1122182339856150532", 
+                "Place": "Charlotte", 
+                "Time": "Sat Apr 27 16:54:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/774838338700382208/7EHAfszF_normal.jpg"
+            }
         }
     ]
 }
