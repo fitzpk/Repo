@@ -104,6 +104,19 @@
                 "Time": "Sat Apr 27 13:32:53 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1093358689388511232/9FkXyesC_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theMVB", 
+                "Name": "MostValuableBarber\u2122", 
+                "Tweet": "The most trusted &amp; respected brand in barbering. \ud83d\udc88     #GCU #ASU #phoenixbarber  #scottsdalebarber #LAbarber\u2026 https://t.co/rIK5is3Hv2", 
+                "TweetLink": "1122151600972271616", 
+                "Place": "Phoenix", 
+                "Time": "Sat Apr 27 14:52:44 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2285685094/image_normal.jpg"
+            }
         }
     ]
 }
