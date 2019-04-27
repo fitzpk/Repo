@@ -78,6 +78,19 @@
                 "Time": "Thu Apr 25 22:46:54 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1117125881321881601/fsnYQZcv_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@McIlroyRory @PGAjrLeague @CBSSports \"Pumped to watch the @PGAJrLeague special on Saturday at 2pm ET on @CBSSports.\u2026 https://t.co/oLeNWcfNT0", 
+                "TweetLink": "1121941120563412992", 
+                "Place": "Winnipeg", 
+                "Time": "Sat Apr 27 00:56:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1106259602524565506/eozWw-ZM_normal.jpg"
+            }
         }
     ]
 }
