@@ -104,6 +104,19 @@
                 "Time": "Sun Apr 28 03:40:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/786825856882663424/B3Wu2Vu3_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1223555, 26.301198]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jessgolflessons", 
+                "Name": "Jess Frank", 
+                "Tweet": "Dawn patrol playing lessons with this new golfer getting him comfortable on the golf course!\u2026 https://t.co/1WIoRPXdX4", 
+                "TweetLink": "1122500937627553794", 
+                "Place": "Deerfield Beach", 
+                "Time": "Sun Apr 28 14:00:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg"
+            }
         }
     ]
 }
