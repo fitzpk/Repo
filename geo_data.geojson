@@ -117,6 +117,19 @@
                 "Time": "Sun Apr 28 14:00:53 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.252259, 32.919355]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "candaceschu", 
+                "Name": "Candace Chu", 
+                "Tweet": "Hi @calparks @CAStateParks love the signs on this crazy #TorreyPines hill #LJhalfMarathon https://t.co/a51ZDSFfe2", 
+                "TweetLink": "1122515510682238977", 
+                "Place": "Torrey Pines State Natural Reserve", 
+                "Time": "Sun Apr 28 14:58:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962142273675837440/e69OKfDz_normal.jpg"
+            }
         }
     ]
 }
