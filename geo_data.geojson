@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-82.063185, 33.4407175]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KellySheehanPGA", 
-                "Name": "Kelly Sheehan, PGA", 
-                "Tweet": "This #pgaofamerica #golfpro just booked a group of his members to @casadecampo from our meeting themasters augusta.\u2026 https://t.co/YaZEx0CTpE", 
-                "TweetLink": "1120839804705476609", 
-                "Place": "Augusta", 
-                "Time": "Wed Apr 24 00:00:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/863480006/Kelly_Sheehan1rev_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-87.0316645, 21.048719]}, 
             "type": "Feature", 
             "properties": {
