@@ -117,6 +117,19 @@
                 "Time": "Sun Apr 28 14:58:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/962142273675837440/e69OKfDz_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NMSUPGA", 
+                "Name": "NMSU PGA Golf Mgt", 
+                "Tweet": "Good luck to our friend and fellow alumni, Matt Lohmeyer, as he contends for the PGA Professional Championship and\u2026 https://t.co/oPdUhaaap5", 
+                "TweetLink": "1123358649823395850", 
+                "Place": "University Park", 
+                "Time": "Tue Apr 30 22:49:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
+            }
         }
     ]
 }
