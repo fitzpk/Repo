@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-86.760091, 33.385555]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "WildmanPammer4", 
-                "Name": "Wildman Pammer", 
-                "Tweet": "HellYeah", 
-                "TweetLink": "1121546153030504448", 
-                "Place": "Hoover", 
-                "Time": "Thu Apr 25 22:46:54 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1117125881321881601/fsnYQZcv_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
