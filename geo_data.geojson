@@ -130,6 +130,19 @@
                 "Time": "Tue Apr 30 22:49:07 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.4526985, 37.6787795]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Great Day at the @LPGA @medihealchamp. Love supporting my girl dayoung_kim1996 \n.\n.\n#golfer #golfday #golfstagram\u2026 https://t.co/M0xSO6yFxG", 
+                "TweetLink": "1123383279313248256", 
+                "Place": "Daly City", 
+                "Time": "Wed May 01 00:26:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
