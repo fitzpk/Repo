@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-99.310428, 19.473794]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "juanjomtzp", 
-                "Name": "Juanjomtzp", 
-                "Tweet": "PGA Tour 2019 \u26f3\ufe0f\n\n#pga #pgatour #golfer #golfing #golfswing #clearday #clearsky #blueksky #golf #golfcamp\u2026 https://t.co/FN8gXNe69J", 
-                "TweetLink": "1122211648872304645", 
-                "Place": "Naucalpan de Ju\u00e1rez", 
-                "Time": "Sat Apr 27 18:51:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/879822532643127296/1hZ8eZxr_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
             "type": "Feature", 
             "properties": {
