@@ -143,6 +143,32 @@
                 "Time": "Wed May 01 00:26:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1223555, 26.301198]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jessgolflessons", 
+                "Name": "Jess Frank", 
+                "Tweet": "spencerslaine making some huge changes! Way to go sir! \nhttps://t.co/lKZxErDrAa \n#golf #golflessons #bocaraton\u2026 https://t.co/y13y7NT923", 
+                "TweetLink": "1123383470384918529", 
+                "Place": "Deerfield Beach", 
+                "Time": "Wed May 01 00:27:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.1223555, 26.301198]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jessgolflessons", 
+                "Name": "Jess Frank", 
+                "Tweet": "luisper1 making it happen on the range today! Well done sir! \n#golf #golflessons #golfinstruction #bocaraton\u2026 https://t.co/c2MXpJIoue", 
+                "TweetLink": "1123384249049059328", 
+                "Place": "Deerfield Beach", 
+                "Time": "Wed May 01 00:30:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg"
+            }
         }
     ]
 }
