@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-72.4511725, 43.8717565]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "edcolemangolf", 
-                "Name": "Ed Coleman", 
-                "Tweet": "Just a subtle reminder to the haters. #tiger #bigcat #bigfeline #PGATour https://t.co/g0ZHd4SgyV", 
-                "TweetLink": "1122267853997187072", 
-                "Place": "Vermont", 
-                "Time": "Sat Apr 27 22:34:41 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-97.4451735, 35.222301]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "dundysmiff", 
-                "Name": "Dundy Smiff", 
-                "Tweet": "\u201cThis \u201cmoth-afucka\u201d right here\u201d\ud83d\udc48\ud83d\udc48\ud83d\udc48\ud83c\udfff", 
-                "TweetLink": "1122344785761701888", 
-                "Place": "Norman", 
-                "Time": "Sun Apr 28 03:40:23 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786825856882663424/B3Wu2Vu3_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-80.1223555, 26.301198]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jessgolflessons", 
-                "Name": "Jess Frank", 
-                "Tweet": "Dawn patrol playing lessons with this new golfer getting him comfortable on the golf course!\u2026 https://t.co/1WIoRPXdX4", 
-                "TweetLink": "1122500937627553794", 
-                "Place": "Deerfield Beach", 
-                "Time": "Sun Apr 28 14:00:53 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.252259, 32.919355]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "candaceschu", 
-                "Name": "Candace Chu", 
-                "Tweet": "Hi @calparks @CAStateParks love the signs on this crazy #TorreyPines hill #LJhalfMarathon https://t.co/a51ZDSFfe2", 
-                "TweetLink": "1122515510682238977", 
-                "Place": "Torrey Pines State Natural Reserve", 
-                "Time": "Sun Apr 28 14:58:47 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962142273675837440/e69OKfDz_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-106.7496595, 32.2743365]}, 
             "type": "Feature", 
             "properties": {
