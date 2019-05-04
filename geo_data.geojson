@@ -130,6 +130,19 @@
                 "Time": "Sat May 04 16:03:11 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/711130120044593153/KVTK-i8f_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.842404, 35.116821]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "iveGOTtomister", 
+                "Name": "Levi (EekaArk)", 
+                "Tweet": "A little break from the monitors and keyboards #wellsfargochamp #PGATour https://t.co/8RENCjTXMy", 
+                "TweetLink": "1124718722353115137", 
+                "Place": "Quail Hollow Club", 
+                "Time": "Sat May 04 16:53:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2688626610/ef71585ea1bff78066c4d3150e89c83a_normal.jpeg"
+            }
         }
     ]
 }
