@@ -156,6 +156,19 @@
                 "Time": "Sat May 04 18:18:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1099296834181390338/58tmOv3P_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CurbFlip", 
+                "Name": "Rod", 
+                "Tweet": "Need PGA Tour Championship Parking?  CurbFlip has you covered\n#pgatour #golf #pga #tigerwoods #golfer #golflife\u2026 https://t.co/7XOCH5rhBb", 
+                "TweetLink": "1124742795963633665", 
+                "Place": "Old Bethpage", 
+                "Time": "Sat May 04 18:29:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/622609374108852229/QNn-HQOY_normal.jpg"
+            }
         }
     ]
 }
