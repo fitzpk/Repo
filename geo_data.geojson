@@ -91,6 +91,19 @@
                 "Time": "Wed May 01 23:58:00 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/992422559537770496/WZ9PfDes_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "IvanSHarris", 
+                "Name": "Ivan S. Harris", 
+                "Tweet": "\ud83d\udd0a\ud83c\udfbc\"Gotta Tell em, winning is the protocol, cause we score before we even touch the ball, #Flawless.\u2026 https://t.co/LGUyUQU4GO", 
+                "TweetLink": "1124526633866522625", 
+                "Place": "San Diego", 
+                "Time": "Sat May 04 04:10:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000648677530/53da853bccd9352776cab49bb490ecec_normal.png"
+            }
         }
     ]
 }
