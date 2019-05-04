@@ -143,6 +143,19 @@
                 "Time": "Sat May 04 16:53:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2688626610/ef71585ea1bff78066c4d3150e89c83a_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.402347, 28.2993705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Salgado_Realty", 
+                "Name": "JULIO SALGADO-FL Realtor", 
+                "Tweet": "Under Contract Few Days After Listing!\n#CentralFloridaRealEstate #RealtorLife \n#Hustle #Sellers #Buyers\u2026 https://t.co/g4fbyYYtwT", 
+                "TweetLink": "1124740158908248064", 
+                "Place": "Kissimmee", 
+                "Time": "Sat May 04 18:18:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1099296834181390338/58tmOv3P_normal.jpg"
+            }
         }
     ]
 }
