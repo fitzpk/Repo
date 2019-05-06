@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-106.026119, 34.166235]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "NMSUPGA", 
-                "Name": "NMSU PGA Golf Mgt", 
-                "Tweet": "Congratulations to Ivan Appert and Hunter Muxworthy for passing the PAT this week! \n.\n.\n.\n.\n#nmsupga #pga #pgatour\u2026 https://t.co/Xgz5uvaGCk", 
-                "TweetLink": "1123717841700687875", 
-                "Place": "New Mexico", 
-                "Time": "Wed May 01 22:36:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
