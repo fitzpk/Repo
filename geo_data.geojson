@@ -195,6 +195,19 @@
                 "Time": "Mon May 06 02:53:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/875359720198066177/2SkGCip6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.8467855, 35.209059]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ADSportsNetwork", 
+                "Name": "ADSN", 
+                "Tweet": "BREAKING NEWS: Homa wins Wells Fargo Championship.  #pgatour #wellsfargochampionship\n\nREAD MORE:\u2026 https://t.co/UvIy7QBD09", 
+                "TweetLink": "1125235344285347840", 
+                "Place": "Charlotte", 
+                "Time": "Mon May 06 03:06:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/875359720198066177/2SkGCip6_normal.jpg"
+            }
         }
     ]
 }
