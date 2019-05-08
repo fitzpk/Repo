@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "IvanSHarris", 
-                "Name": "Ivan S. Harris", 
-                "Tweet": "\ud83d\udd0a\ud83c\udfbc\"Gotta Tell em, winning is the protocol, cause we score before we even touch the ball, #Flawless.\u2026 https://t.co/LGUyUQU4GO", 
-                "TweetLink": "1124526633866522625", 
-                "Place": "San Diego", 
-                "Time": "Sat May 04 04:10:16 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000648677530/53da853bccd9352776cab49bb490ecec_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "hereistabs", 
-                "Name": "Tabbitha", 
-                "Tweet": "Change up your routine,\ncreate new habits,\nturn it into a lifestyle, \nsee your life expand\nreap the rewards,\nrepeat\u2026 https://t.co/LhwdNUomll", 
-                "TweetLink": "1124704489087340546", 
-                "Place": "San Diego", 
-                "Time": "Sat May 04 15:57:00 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1119403129483608065/doJBTXh6_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-1.128591, 52.923513]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Topcatsmith", 
-                "Name": "Matthew Smith", 
-                "Tweet": "Why doesn\u2019t @SkySportsGolf show @PGATOUR featured groups on a weekend? #golf #PGATour #WellsFargo", 
-                "TweetLink": "1124706042955337728", 
-                "Place": "West Bridgford", 
-                "Time": "Sat May 04 16:03:11 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/711130120044593153/KVTK-i8f_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-80.842404, 35.116821]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "iveGOTtomister", 
-                "Name": "Levi (EekaArk)", 
-                "Tweet": "A little break from the monitors and keyboards #wellsfargochamp #PGATour https://t.co/8RENCjTXMy", 
-                "TweetLink": "1124718722353115137", 
-                "Place": "Quail Hollow Club", 
-                "Time": "Sat May 04 16:53:34 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2688626610/ef71585ea1bff78066c4d3150e89c83a_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-81.402347, 28.2993705]}, 
             "type": "Feature", 
             "properties": {
