@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-0.252754, 51.3854455]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PedroLemosGolf", 
-                "Name": "Pedro Lemos", 
-                "Tweet": "alexphelpsgolf Drills and Bombs \ud83d\ude80\ud83d\ude80\ud83d\ude80 From -4.6 AoA to +2.1 AoA \ud83d\udcaa\ud83d\udcaa #womengolf #golfcoach #mytpi #tpicertified\u2026 https://t.co/8VTo5I6Zql", 
-                "TweetLink": "1124784118498299908", 
-                "Place": "South East", 
-                "Time": "Sat May 04 21:13:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/758234175740731392/Ir7XZlbN_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
