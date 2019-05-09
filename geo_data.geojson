@@ -78,6 +78,19 @@
                 "Time": "Wed May 08 00:40:42 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/790997443420819461/6AWA9_OY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0914005, 42.780778]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheFav_orite", 
+                "Name": "M.L Flagg", 
+                "Tweet": "Adding on a matchup I really like for this week\u2019s #PGATour event. @TrinityForestGC doesn\u2019t want to see a repeat of\u2026 https://t.co/XYeLRrBa54", 
+                "TweetLink": "1126337062918131712", 
+                "Place": "Haverhill", 
+                "Time": "Thu May 09 04:04:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046231447395356673/6GpFfSTG_normal.jpg"
+            }
         }
     ]
 }
