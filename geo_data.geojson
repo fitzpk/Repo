@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.616073, 43.555244]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "rm_taylor12", 
-                "Name": "Ryan M. Taylor", 
-                "Tweet": "Serge Ibaka has a hematoma, who coincidentally just won the Wells Fargo championship last weekend! #RaptorsVsSixers\u2026 https://t.co/OMH0i3hrHl", 
-                "TweetLink": "1125923445269762048", 
-                "Place": "Mississauga", 
-                "Time": "Wed May 08 00:40:42 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/790997443420819461/6AWA9_OY_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-71.0914005, 42.780778]}, 
             "type": "Feature", 
             "properties": {
