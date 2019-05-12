@@ -78,6 +78,19 @@
                 "Time": "Sun May 12 21:33:21 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/686388427550396416/rYNIK6T0_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.592614, 41.0512635]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "faketylerj", 
+                "Name": "Tyler Jenkins", 
+                "Tweet": "Sung Kang has the strangest shot #pgatour", 
+                "TweetLink": "1127692226216247296", 
+                "Place": "Cos Cob", 
+                "Time": "Sun May 12 21:49:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1100405407590375425/C6Dkb0R8_normal.jpg"
+            }
         }
     ]
 }
