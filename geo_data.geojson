@@ -91,6 +91,19 @@
                 "Time": "Mon May 13 00:38:43 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.633465, 35.0838255]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Another first-time winner on the @PGATour! Congratulations to @SungKang on his victory on the PGA Tour at the\u2026 https://t.co/H3wJRmvEF5", 
+                "TweetLink": "1128066358414053377", 
+                "Place": "Lake Park", 
+                "Time": "Mon May 13 22:35:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
         }
     ]
 }
