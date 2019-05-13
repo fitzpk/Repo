@@ -104,6 +104,19 @@
                 "Time": "Mon May 13 22:35:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "We'll be talking #PGAChampionship tomorrow night on Next on the Tee. Join my guests @perryfrench11 Jason Kuiper, &amp;\u2026 https://t.co/c6QU7dM1NP", 
+                "TweetLink": "1128079181902950401", 
+                "Place": "Georgia", 
+                "Time": "Mon May 13 23:26:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
