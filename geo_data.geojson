@@ -117,6 +117,19 @@
                 "Time": "Mon May 13 23:26:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CamperDrifter", 
+                "Name": "Ro Man989", 
+                "Tweet": "You name it and #torreypines #state #beach got it- #hiking #trails #surfing #flyfishing #chilling #watching\u2026 https://t.co/1JQJCMTvP7", 
+                "TweetLink": "1128134545725767681", 
+                "Place": "Torrey Pines", 
+                "Time": "Tue May 14 03:06:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1117544077753344000/XAl_kxTw_normal.jpg"
+            }
         }
     ]
 }
