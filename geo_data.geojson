@@ -104,6 +104,19 @@
                 "Time": "Tue May 14 03:06:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1117544077753344000/XAl_kxTw_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "Hear @golftipsmag Top 25 Instructor @TomPatri and @bobbyjonesgc Director of Instruction Jason Kuiper talking\u2026 https://t.co/CleNZdTtnE", 
+                "TweetLink": "1128827382478135296", 
+                "Place": "Georgia", 
+                "Time": "Thu May 16 00:59:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
