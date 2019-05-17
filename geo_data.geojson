@@ -104,6 +104,19 @@
                 "Time": "Fri May 17 01:00:45 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/747453154837565441/pkxD64xD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Defending champion @BKoepka shot a Bethpage Black course record 7 under 63 and leads the @PGAChampionship by 1 shot\u2026 https://t.co/jLqBhTpqBA", 
+                "TweetLink": "1129212032140664833", 
+                "Place": "Bethpage", 
+                "Time": "Fri May 17 02:28:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
         }
     ]
 }
