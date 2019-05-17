@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-2.5995885, 52.3070575]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "bertiebenbow", 
-                "Name": "Mark Benbow", 
-                "Tweet": "European tour as weak as it can possibly be this weekend, has beens, weak rookies and poor quality all round! Tommy\u2026 https://t.co/V103xK6BsX", 
-                "TweetLink": "1127684367999021056", 
-                "Place": "Tenbury Wells", 
-                "Time": "Sun May 12 21:17:59 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1123455444478038016/KksmW-GD_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.8374295, 33.615603]}, 
             "type": "Feature", 
             "properties": {
