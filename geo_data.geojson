@@ -117,6 +117,19 @@
                 "Time": "Fri May 17 02:28:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jjagolf", 
+                "Name": "Jeremy Anderson", 
+                "Tweet": "Putting averages for elite players... pgatour #players to be exact... how do y\u2019all stack up? #golfislife\u2026 https://t.co/XlZcUR3woy", 
+                "TweetLink": "1129241249813340161", 
+                "Place": "Old Bethpage", 
+                "Time": "Fri May 17 04:24:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957479332431020032/5Zg-G-GE_normal.jpg"
+            }
         }
     ]
 }
