@@ -130,6 +130,19 @@
                 "Time": "Thu May 16 23:53:06 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-81.441568, 41.176533]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RosieHickin", 
+                "Name": "Rosie", 
+                "Tweet": "Less than 69 days away!\nGot your tickets?\n#PGAChampions\n#pgatour\n#PGATOURChampions\nhttps://t.co/KmbzAlXvas", 
+                "TweetLink": "1129189982130851840", 
+                "Place": "Stow", 
+                "Time": "Fri May 17 01:00:45 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/747453154837565441/pkxD64xD_normal.jpg"
+            }
         }
     ]
 }
