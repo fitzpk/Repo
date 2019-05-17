@@ -117,6 +117,19 @@
                 "Time": "Fri May 17 04:24:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/957479332431020032/5Zg-G-GE_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "granger_md", 
+                "Name": "James Granger,MD", 
+                "Tweet": "Tiger Woods misses cut and execs at weekend broadcast network have to be more than disappointed! #ratingsdrop\u2026 https://t.co/J0DHJx1bXA", 
+                "TweetLink": "1129518974180483079", 
+                "Place": "Marietta", 
+                "Time": "Fri May 17 22:48:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/901071518402199556/EvvkDc9b_normal.jpg"
+            }
         }
     ]
 }
