@@ -143,6 +143,19 @@
                 "Time": "Fri May 17 23:41:25 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/649189272139005952/QPM0Iwcq_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JustinOLeary", 
+                "Name": "Justin O'Leary", 
+                "Tweet": "It was a tough week at the @PGAChampionship but I would like to thank everybody for the support this week \ud83d\ude02\u2026 https://t.co/9BXUGj8mHD", 
+                "TweetLink": "1129534362897256448", 
+                "Place": "Toronto", 
+                "Time": "Fri May 17 23:49:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/867158683599470594/ko1iuuMn_normal.jpg"
+            }
         }
     ]
 }
