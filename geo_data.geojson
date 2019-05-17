@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.8374295, 33.615603]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "WC_Rider", 
-                "Name": "West Coast Rider", 
-                "Tweet": "From a viewers perspective The Byron Nelson #PGA tour event seems to have lost some of it's luster since leaving th\u2026 https://t.co/nYLoLiK2Bm", 
-                "TweetLink": "1127688236594188288", 
-                "Place": "San Joaquin Hills", 
-                "Time": "Sun May 12 21:33:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/686388427550396416/rYNIK6T0_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.592614, 41.0512635]}, 
             "type": "Feature", 
             "properties": {
