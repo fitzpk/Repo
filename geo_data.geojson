@@ -130,6 +130,19 @@
                 "Time": "Thu May 16 01:20:07 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Will_ODonoghue", 
+                "Name": "Will O'Donoghue", 
+                "Tweet": "Welcome to Bethpage Black Golf Course holes 15-18, site of the 101st PGA Championship! #PGAChampionship\u00a0\u2026 https://t.co/9PQq6QDHHH", 
+                "TweetLink": "1129172956393988097", 
+                "Place": "Bethpage", 
+                "Time": "Thu May 16 23:53:06 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
+            }
         }
     ]
 }
