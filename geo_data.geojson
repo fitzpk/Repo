@@ -130,6 +130,19 @@
                 "Time": "Fri May 17 22:48:03 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/901071518402199556/EvvkDc9b_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JoeLarsenRealty", 
+                "Name": "Joseph Larsen", 
+                "Tweet": "Impressive performance this week. But, Who ya got? Present day Koepka or Tiger of 20 years ago?\n\n#golf #golfchannel\u2026 https://t.co/UL1CtzjETG", 
+                "TweetLink": "1129532405704843264", 
+                "Place": "Old Bethpage", 
+                "Time": "Fri May 17 23:41:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/649189272139005952/QPM0Iwcq_normal.jpg"
+            }
         }
     ]
 }
