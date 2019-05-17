@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-118.4119065, 34.0207895]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jfull1914", 
-                "Name": "Lord Petyr Baeless", 
-                "Tweet": "George Bush is on tv like \u201cwell I sent a lot of people to war and they got hurt so I made a golf tournament to make\u2026 https://t.co/YAmYr6A5NE", 
-                "TweetLink": "1127671825314435075", 
-                "Place": "Los Angeles", 
-                "Time": "Sun May 12 20:28:08 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1124695718352998400/9pKcmyo9_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-2.5995885, 52.3070575]}, 
             "type": "Feature", 
             "properties": {
