@@ -130,6 +130,19 @@
                 "Time": "Sat May 18 00:11:14 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1076446241872113664/EfD6JVQz_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[27.9574575, -26.0197195]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "MndaweSivuyile", 
+                "Name": "Fanatic", 
+                "Tweet": "Brooks Koekpa is playing some amazing golf!!\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\n\nGot me feeling sorry for #TigerWoods yesterday. \n\nHe's definitely winning this #PGAtour", 
+                "TweetLink": "1129881004578091009", 
+                "Place": "Randburg", 
+                "Time": "Sat May 18 22:46:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1042333134975590400/3xEEKEc6_normal.jpg"
+            }
         }
     ]
 }
