@@ -156,6 +156,19 @@
                 "Time": "Fri May 17 23:49:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/867158683599470594/ko1iuuMn_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrettGorney", 
+                "Name": "Brett Gorney", 
+                "Tweet": "When your team working the @pgachampionship catches the leader @bkoepka after a post-round practice sesh! \ud83d\ude0d\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\ud83d\udc4d\ud83c\udffc\u2026 https://t.co/AMRLMIE3bZ", 
+                "TweetLink": "1129539909218459649", 
+                "Place": "Old Bethpage", 
+                "Time": "Sat May 18 00:11:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1076446241872113664/EfD6JVQz_normal.jpg"
+            }
         }
     ]
 }
