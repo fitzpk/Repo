@@ -156,6 +156,19 @@
                 "Time": "Sun May 19 18:16:39 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/823940275940704256/0yDzLgOD_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-93.3613205, 46.4418605]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Acehgh", 
+                "Name": "Jeff Leslie", 
+                "Tweet": "3", 
+                "TweetLink": "1130177497809612800", 
+                "Place": "Minnesota", 
+                "Time": "Sun May 19 18:24:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2607340154/image_normal.jpg"
+            }
         }
     ]
 }
