@@ -143,6 +143,19 @@
                 "Time": "Sat May 18 22:46:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1042333134975590400/3xEEKEc6_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-112.4249755, 33.4128725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "HozeKing", 
+                "Name": "HozeKing\ud83c\udf35\ud83c\udfd7\ud83e\uddf1", 
+                "Tweet": "Will someone please make Gary McCord to shut up? Not everything deserves a 'clever' remark. Shut up!!\n\n#PGAChamp #Golf #PGA #pgatour", 
+                "TweetLink": "1130175448581677056", 
+                "Place": "Goodyear", 
+                "Time": "Sun May 19 18:16:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/823940275940704256/0yDzLgOD_normal.jpg"
+            }
         }
     ]
 }
