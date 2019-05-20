@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ctmascaro", 
-                "Name": "Chris Mascaro", 
-                "Tweet": "Hear @golftipsmag Top 25 Instructor @TomPatri and @bobbyjonesgc Director of Instruction Jason Kuiper talking\u2026 https://t.co/CleNZdTtnE", 
-                "TweetLink": "1128827382478135296", 
-                "Place": "Georgia", 
-                "Time": "Thu May 16 00:59:55 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[113.4197245, 22.869936]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "NMSUPGA", 
-                "Name": "NMSU PGA Golf Mgt", 
-                "Tweet": "Angela Xu has arrived in China for her internship at PGA Golf Academy - Mission Hills China. Good luck Angela! \n.\n.\u2026 https://t.co/xMxpjSZ20V", 
-                "TweetLink": "1128832466045812738", 
-                "Place": "Guangdong", 
-                "Time": "Thu May 16 01:20:07 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2391534225/NM-State_logo_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
             "type": "Feature", 
             "properties": {
