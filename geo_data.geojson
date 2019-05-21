@@ -143,6 +143,19 @@
                 "Time": "Tue May 21 22:37:23 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/864934885852463105/uQmTPk-E_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BennyBaltrotsky", 
+                "Name": "Benny Baltrotsky", 
+                "Tweet": "Great times golfing #torreypines with my fellow #constructiondorks @IronmanOfIT @joshuacheney and Eric Doris https://t.co/8a5FSROXHJ", 
+                "TweetLink": "1130984676909207553", 
+                "Place": "San Diego", 
+                "Time": "Tue May 21 23:52:14 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1344671066/loudie_pic_normal.jpg"
+            }
         }
     ]
 }
