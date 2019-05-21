@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Welcome to Bethpage Black Golf Course holes 15-18, site of the 101st PGA Championship! #PGAChampionship\u00a0\u2026 https://t.co/9PQq6QDHHH", 
-                "TweetLink": "1129172956393988097", 
-                "Place": "Bethpage", 
-                "Time": "Thu May 16 23:53:06 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-81.441568, 41.176533]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "RosieHickin", 
-                "Name": "Rosie", 
-                "Tweet": "Less than 69 days away!\nGot your tickets?\n#PGAChampions\n#pgatour\n#PGATOURChampions\nhttps://t.co/KmbzAlXvas", 
-                "TweetLink": "1129189982130851840", 
-                "Place": "Stow", 
-                "Time": "Fri May 17 01:00:45 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/747453154837565441/pkxD64xD_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.4831675, 40.7504485]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Will_ODonoghue", 
-                "Name": "Will O'Donoghue", 
-                "Tweet": "Defending champion @BKoepka shot a Bethpage Black course record 7 under 63 and leads the @PGAChampionship by 1 shot\u2026 https://t.co/jLqBhTpqBA", 
-                "TweetLink": "1129212032140664833", 
-                "Place": "Bethpage", 
-                "Time": "Fri May 17 02:28:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jjagolf", 
-                "Name": "Jeremy Anderson", 
-                "Tweet": "Putting averages for elite players... pgatour #players to be exact... how do y\u2019all stack up? #golfislife\u2026 https://t.co/XlZcUR3woy", 
-                "TweetLink": "1129241249813340161", 
-                "Place": "Old Bethpage", 
-                "Time": "Fri May 17 04:24:28 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/957479332431020032/5Zg-G-GE_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
             "type": "Feature", 
             "properties": {
@@ -168,6 +116,19 @@
                 "Place": "Old Bethpage", 
                 "Time": "Mon May 20 19:23:57 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/658115931596414976/L_7O7Zy2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-157.9178165, 21.3748325]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Eaglesfan83", 
+                "Name": "Zac M.", 
+                "Tweet": "Start your evening with @Liunas and @Eaglesfan83 as we break down this weeks #pga event. Plenty to talk about this\u2026 https://t.co/n4ZnNgLykn", 
+                "TweetLink": "1130962025276878848", 
+                "Place": "Halawa", 
+                "Time": "Tue May 21 22:22:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1100935886303301632/JaIQDh9Y_normal.png"
             }
         }
     ]
