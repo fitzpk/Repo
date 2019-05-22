@@ -2,58 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-84.5321325, 33.9481235]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "granger_md", 
-                "Name": "James Granger,MD", 
-                "Tweet": "Tiger Woods misses cut and execs at weekend broadcast network have to be more than disappointed! #ratingsdrop\u2026 https://t.co/J0DHJx1bXA", 
-                "TweetLink": "1129518974180483079", 
-                "Place": "Marietta", 
-                "Time": "Fri May 17 22:48:03 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/901071518402199556/EvvkDc9b_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JoeLarsenRealty", 
-                "Name": "Joseph Larsen", 
-                "Tweet": "Impressive performance this week. But, Who ya got? Present day Koepka or Tiger of 20 years ago?\n\n#golf #golfchannel\u2026 https://t.co/UL1CtzjETG", 
-                "TweetLink": "1129532405704843264", 
-                "Place": "Old Bethpage", 
-                "Time": "Fri May 17 23:41:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/649189272139005952/QPM0Iwcq_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.2725695, 43.629311]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "JustinOLeary", 
-                "Name": "Justin O'Leary", 
-                "Tweet": "It was a tough week at the @PGAChampionship but I would like to thank everybody for the support this week \ud83d\ude02\u2026 https://t.co/9BXUGj8mHD", 
-                "TweetLink": "1129534362897256448", 
-                "Place": "Toronto", 
-                "Time": "Fri May 17 23:49:12 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/867158683599470594/ko1iuuMn_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-73.4541735, 40.758497]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BrettGorney", 
-                "Name": "Brett Gorney", 
-                "Tweet": "When your team working the @pgachampionship catches the leader @bkoepka after a post-round practice sesh! \ud83d\ude0d\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\ud83d\udc4d\ud83c\udffc\u2026 https://t.co/AMRLMIE3bZ", 
-                "TweetLink": "1129539909218459649", 
-                "Place": "Old Bethpage", 
-                "Time": "Sat May 18 00:11:14 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1076446241872113664/EfD6JVQz_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[27.9574575, -26.0197195]}, 
             "type": "Feature", 
             "properties": {
