@@ -52,6 +52,19 @@
                 "Time": "Sun May 26 18:07:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/458747970830102528/sP4OSiGA_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "raysfan50", 
+                "Name": "Richard Johns", 
+                "Tweet": "@KCTV5  Weather map hiding scores again. Upper left is better. #pgatour  #Colonial", 
+                "TweetLink": "1132732006322851842", 
+                "Place": "Kansas City", 
+                "Time": "Sun May 26 19:35:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/458747970830102528/sP4OSiGA_normal.jpeg"
+            }
         }
     ]
 }
