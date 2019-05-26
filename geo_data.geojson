@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "sdsurfphotos", 
-                "Name": "SanDiego Surf Photos", 
-                "Tweet": "Oh glorious swells, where have you gone? Flashback to winter waves at Blacks \u2728\n.\n.\n.\n#sandiegosurfphotos\u2026 https://t.co/lugwoMpJGJ", 
-                "TweetLink": "1130965842588520450", 
-                "Place": "San Diego", 
-                "Time": "Tue May 21 22:37:23 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/864934885852463105/uQmTPk-E_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "BennyBaltrotsky", 
                 "Name": "Benny Baltrotsky", 
                 "Tweet": "Great times golfing #torreypines with my fellow #constructiondorks @IronmanOfIT @joshuacheney and Eric Doris https://t.co/8a5FSROXHJ", 
