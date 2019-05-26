@@ -26,6 +26,32 @@
                 "Time": "Thu May 23 01:14:32 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/893674291245588480/8hJTrbF4_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.559707, 33.929913]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Junior Elite Player f_i_o_n_a_y_a_n_g Looking good. 7th grader already talking about college golf. Love it!!\u2026 https://t.co/nrXIo2OBvP", 
+                "TweetLink": "1132708351329095682", 
+                "Place": "Norco", 
+                "Time": "Sun May 26 18:01:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "raysfan50", 
+                "Name": "Richard Johns", 
+                "Tweet": "@GolfChannel  Do you guys pay Perks to go extra heavy on the accent?  Still annoying. #Colonial #pgatour", 
+                "TweetLink": "1132709819230629889", 
+                "Place": "Kansas City", 
+                "Time": "Sun May 26 18:07:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/458747970830102528/sP4OSiGA_normal.jpeg"
+            }
         }
     ]
 }
