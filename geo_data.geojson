@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-157.9178165, 21.3748325]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Eaglesfan83", 
-                "Name": "Zac M.", 
-                "Tweet": "Start your evening with @Liunas and @Eaglesfan83 as we break down this weeks #pga event. Plenty to talk about this\u2026 https://t.co/n4ZnNgLykn", 
-                "TweetLink": "1130962025276878848", 
-                "Place": "Halawa", 
-                "Time": "Tue May 21 22:22:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1100935886303301632/JaIQDh9Y_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
