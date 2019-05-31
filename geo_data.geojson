@@ -1,4 +1,18 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[144.5163535, -38.2687975]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "errolatbh", 
+                "Name": "Peter Flinn \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f", 
+                "Tweet": "Trying to tell the rules officials that his ball made a pitch mark on the second bounce! #stretch #PGATour", 
+                "TweetLink": "1134263815216852992", 
+                "Place": "Ocean Grove - Barwon Heads", 
+                "Time": "Fri May 31 01:02:21 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/539618203953922048/GIsyZT_Q_normal.jpeg"
+            }
+        }
+    ]
 }
