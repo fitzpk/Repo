@@ -26,6 +26,19 @@
                 "Time": "Fri May 31 01:15:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1114226522720743424/LAF1wMKI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.3515335, 43.8756855]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "erik5sson", 
+                "Name": "Christian Eriksson", 
+                "Tweet": "@HomelessHubbs @BMWCharityProAm Makes sense, rest well and keep it up. Great season so far....keep it going #top25 #pgatour", 
+                "TweetLink": "1134309266137812992", 
+                "Place": "Port Hope", 
+                "Time": "Fri May 31 04:02:58 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1119648205812174848/IG5z8u4P_normal.png"
+            }
         }
     ]
 }
