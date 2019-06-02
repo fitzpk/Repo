@@ -65,6 +65,19 @@
                 "Time": "Sun Jun 02 00:35:38 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1114226522720743424/LAF1wMKI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SoftwareVerde", 
+                "Name": "Software Verde", 
+                "Tweet": "Thanks to our friends in @DublinOhio for hosting us and providing such a fun and exciting experience on the\u2026 https://t.co/1lgClxWrIB", 
+                "TweetLink": "1134989814766473218", 
+                "Place": "Upper Arlington", 
+                "Time": "Sun Jun 02 01:07:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/902899443787210753/GsUKUDBI_normal.jpg"
+            }
         }
     ]
 }
