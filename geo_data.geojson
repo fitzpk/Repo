@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[144.5163535, -38.2687975]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "errolatbh", 
-                "Name": "Peter Flinn \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f", 
-                "Tweet": "Trying to tell the rules officials that his ball made a pitch mark on the second bounce! #stretch #PGATour", 
-                "TweetLink": "1134263815216852992", 
-                "Place": "Ocean Grove - Barwon Heads", 
-                "Time": "Fri May 31 01:02:21 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/539618203953922048/GIsyZT_Q_normal.jpeg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PetersonKira", 
-                "Name": "Miss Kira", 
-                "Tweet": "I highly recommend watching @HBO series #Chernobyl it is amazing I\u2019m on pines and needles I need more #wine\u2026 https://t.co/9e8wfpN006", 
-                "TweetLink": "1134267041140154373", 
-                "Place": "Wisconsin", 
-                "Time": "Fri May 31 01:15:10 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1114226522720743424/LAF1wMKI_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-78.3515335, 43.8756855]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "erik5sson", 
-                "Name": "Christian Eriksson", 
-                "Tweet": "@HomelessHubbs @BMWCharityProAm Makes sense, rest well and keep it up. Great season so far....keep it going #top25 #pgatour", 
-                "TweetLink": "1134309266137812992", 
-                "Place": "Port Hope", 
-                "Time": "Fri May 31 04:02:58 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1119648205812174848/IG5z8u4P_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
             "type": "Feature", 
             "properties": {
