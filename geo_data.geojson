@@ -78,6 +78,19 @@
                 "Time": "Sun Jun 02 01:07:13 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/902899443787210753/GsUKUDBI_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rhea_kacie", 
+                "Name": "Kacie Rhea", 
+                "Tweet": "Can we please get a little more coverage of @JordanSpieth on @NBCSports #TheMemorial #PGATour", 
+                "TweetLink": "1135278822008532992", 
+                "Place": "Austin", 
+                "Time": "Sun Jun 02 20:15:38 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1133518486557417473/kHU8zCzg_normal.jpg"
+            }
         }
     ]
 }
