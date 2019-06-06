@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-89.5694915, 44.900818]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "PetersonKira", 
-                "Name": "Miss Kira", 
-                "Tweet": "Just saw @PUMAGolf @cobragolf new products and im in love\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #golf #golfing #pumagolf #cobragolf #PGATour", 
-                "TweetLink": "1134981865365016576", 
-                "Place": "Wisconsin", 
-                "Time": "Sun Jun 02 00:35:38 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1114226522720743424/LAF1wMKI_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "SoftwareVerde", 
-                "Name": "Software Verde", 
-                "Tweet": "Thanks to our friends in @DublinOhio for hosting us and providing such a fun and exciting experience on the\u2026 https://t.co/1lgClxWrIB", 
-                "TweetLink": "1134989814766473218", 
-                "Place": "Upper Arlington", 
-                "Time": "Sun Jun 02 01:07:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/902899443787210753/GsUKUDBI_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
             "type": "Feature", 
             "properties": {
