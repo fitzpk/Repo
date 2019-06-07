@@ -39,6 +39,19 @@
                 "Time": "Fri Jun 07 00:54:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/870287225937838082/jIsyBXkp_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Crash is on the right shoulder in #TorreyPines on 5 SB before Sea World Dr, stop and go traffic back to 805, delay of 30 mins #SDtraffic", 
+                "TweetLink": "1136800807930781696", 
+                "Place": "San Diego", 
+                "Time": "Fri Jun 07 01:03:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
