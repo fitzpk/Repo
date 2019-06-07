@@ -26,6 +26,19 @@
                 "Time": "Fri Jun 07 00:23:13 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-110.0447835, 46.6798]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CalMensGolf", 
+                "Name": "Cal Men's Golf", 
+                "Tweet": "#PGATOUR new employee photo day @ Hamilton Golf Club https://t.co/g8GqNvysfp", 
+                "TweetLink": "1136798644831756288", 
+                "Place": "Montana", 
+                "Time": "Fri Jun 07 00:54:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/870287225937838082/jIsyBXkp_normal.jpg"
+            }
         }
     ]
 }
