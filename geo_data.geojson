@@ -13,6 +13,19 @@
                 "Time": "Thu Jun 06 03:28:27 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000561393401/49a224bdb4313e3c2127fd409ecfdc28_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Bsilvermangolf", 
+                "Name": "Ben Silverman", 
+                "Tweet": "Playing in style this week rbccanadianopen in @galvingreen. #galvingreen #pgatour #canada #canadianopen @ Ancaster,\u2026 https://t.co/ryT1jAmq6U", 
+                "TweetLink": "1136790681412931584", 
+                "Place": "Hamilton", 
+                "Time": "Fri Jun 07 00:23:13 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
+            }
         }
     ]
 }
