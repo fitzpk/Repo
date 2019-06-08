@@ -52,6 +52,19 @@
                 "Time": "Fri Jun 07 01:03:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.4372425, 36.0135305]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TNgolf", 
+                "Name": "Tennessee Golf Association", 
+                "Tweet": "\ud83d\udcca\u26f3\ufe0f\n\nWho has a better chance of winning the U.S. Open at Pebble Beach?\n\n#Golf #TigerWoods #BrooksKoepka\u2026 https://t.co/5QOH4lcQxC", 
+                "TweetLink": "1137150877494652929", 
+                "Place": "Dandridge", 
+                "Time": "Sat Jun 08 00:14:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1082068841025425408/lbKRuiwV_normal.jpg"
+            }
         }
     ]
 }
