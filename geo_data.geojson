@@ -91,6 +91,19 @@
                 "Time": "Sun Jun 09 19:29:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/532869472432820224/BInmW2O0_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@FanDuel That's easy \n...cARToonists!!!\n\n\"Which sport has the best athletes? \ud83e\udd14\"\n\n@FanDuel \n\n#mlb\n#NFL \n#pgatour\u2026 https://t.co/eVgtlMwBCG", 
+                "TweetLink": "1137813456718090240", 
+                "Place": "Winnipeg", 
+                "Time": "Sun Jun 09 20:07:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1128500511127363584/yC6i6hgI_normal.jpg"
+            }
         }
     ]
 }
