@@ -117,6 +117,19 @@
                 "Time": "Sun Jun 09 20:39:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-119.4568255, 49.8991485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jbigler7", 
+                "Name": "Jordie Bigler", 
+                "Tweet": "I think Rors has a shot at winning the @RBCCanadianOpen might be close tho i don't know #PGATour", 
+                "TweetLink": "1137824481085288448", 
+                "Place": "Kelowna", 
+                "Time": "Sun Jun 09 20:51:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922188257667956736/j3lLLXls_normal.jpg"
+            }
         }
     ]
 }
