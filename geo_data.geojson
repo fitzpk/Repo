@@ -195,6 +195,19 @@
                 "Time": "Sun Jun 09 21:12:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3479972295/60218f5269d9ccbec09548578a678bc6_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.3064885, 33.9430725]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rwnylen58", 
+                "Name": "Bob Nylen", 
+                "Tweet": "Rory...REALLY!?!  #canadianopen #RBC #PGAtour https://t.co/aS9wPtkUjP", 
+                "TweetLink": "1137836477688291335", 
+                "Place": "Dunwoody", 
+                "Time": "Sun Jun 09 21:38:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1026148079106514950/BGYFOwZQ_normal.jpg"
+            }
         }
     ]
 }
