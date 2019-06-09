@@ -208,6 +208,45 @@
                 "Time": "Sun Jun 09 21:38:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1026148079106514950/BGYFOwZQ_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-1.8906405, 52.4939665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TruGolfAcademy", 
+                "Name": "Tru Golf Academy", 
+                "Tweet": "59 watch\ud83e\udd1e\ud83c\udffb Come on Rory!  \n\n#hereshoping #59 #rorymcilroy #golf #pgatour #pga #rbccanadianopen @ Sutton Coldfield https://t.co/fUWMzb6cxc", 
+                "TweetLink": "1137839079645687808", 
+                "Place": "Birmingham", 
+                "Time": "Sun Jun 09 21:49:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/532869472432820224/BInmW2O0_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "RaulOmana89", 
+                "Name": "Raul Omana", 
+                "Tweet": "Two sides of #SanDiego #California the #intellectual and #fun #sides for example @salkinstitute and #ucsd are right\u2026 https://t.co/TI9Sz0aXw1", 
+                "TweetLink": "1137839351453241344", 
+                "Place": "Torrey Pines", 
+                "Time": "Sun Jun 09 21:50:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/807761346787876864/0BGkUN2P_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.247824, 38.653771]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Birdie18th", 
+                "Name": "Birdie 18", 
+                "Tweet": "This picture captures the #PGATour today #RBCCanadianOpen #RBCCO #TheOpen #Portrush \nRory McIlroy\nGraeme McDowell https://t.co/q8cr3K8XN6", 
+                "TweetLink": "1137839834473648129", 
+                "Place": "St Louis", 
+                "Time": "Sun Jun 09 21:52:11 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027760348613541888/ze8zYcnt_normal.jpg"
+            }
         }
     ]
 }
