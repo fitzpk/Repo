@@ -286,6 +286,19 @@
                 "Time": "Sun Jun 09 23:25:08 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1029386425282658305/lqsLVBtY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Rory McIlroy flirts with 59 and runs away with RBC Canadian Open. @FanSided @RBCCanadianOpen @PGATOUR\u2026 https://t.co/i9yImNrjc8", 
+                "TweetLink": "1137896643326558209", 
+                "Place": "Brampton", 
+                "Time": "Mon Jun 10 01:37:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123794874258591756/6-o01gil_normal.jpg"
+            }
         }
     ]
 }
