@@ -312,6 +312,19 @@
                 "Time": "Mon Jun 10 02:01:30 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1049078850448060416/l-bK6EaF_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DigitalPaintCan", 
+                "Name": "DigitalPaintCan Inc.", 
+                "Tweet": "@RBCCanadianOpen @McIlroyRory Congrats @McIlroyRory and @RBCCanadianOpen \n...great #pgatour event!\n\n#Rory, sorry th\u2026 https://t.co/iWRLSxdNRz", 
+                "TweetLink": "1137905788595445760", 
+                "Place": "Winnipeg", 
+                "Time": "Mon Jun 10 02:14:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1128500511127363584/yC6i6hgI_normal.jpg"
+            }
         }
     ]
 }
