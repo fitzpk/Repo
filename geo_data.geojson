@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "paulagreenfield", 
-                "Name": "Paula Greenfield", 
-                "Tweet": "Welcome to Austin PGA Tour Superstore! Thanks @mattcorey \n-an amazing store!! #pgachampionship #pgatour pgatoursupe\u2026 https://t.co/FLzc4kxORh", 
-                "TweetLink": "1136474909335523328", 
-                "Place": "Austin", 
-                "Time": "Thu Jun 06 03:28:27 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000561393401/49a224bdb4313e3c2127fd409ecfdc28_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
             "type": "Feature", 
             "properties": {
