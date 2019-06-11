@@ -325,6 +325,19 @@
                 "Time": "Mon Jun 10 23:42:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Piker73", 
+                "Name": "Marshall", 
+                "Tweet": "Everybody talking about the #nbafinals  and I\u2019m sitting here like Retief is getting inducted into the World Gold Ha\u2026 https://t.co/LFtIrxQdSp", 
+                "TweetLink": "1138248244377595904", 
+                "Place": "Houston", 
+                "Time": "Tue Jun 11 00:55:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/751252283325755392/6G8wqEAK_normal.jpg"
+            }
         }
     ]
 }
