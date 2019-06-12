@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Bsilvermangolf", 
-                "Name": "Ben Silverman", 
-                "Tweet": "Playing in style this week rbccanadianopen in @galvingreen. #galvingreen #pgatour #canada #canadianopen @ Ancaster,\u2026 https://t.co/ryT1jAmq6U", 
-                "TweetLink": "1136790681412931584", 
-                "Place": "Hamilton", 
-                "Time": "Fri Jun 07 00:23:13 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/898133955236515840/MnqD0ewk_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-110.0447835, 46.6798]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CalMensGolf", 
-                "Name": "Cal Men's Golf", 
-                "Tweet": "#PGATOUR new employee photo day @ Hamilton Golf Club https://t.co/g8GqNvysfp", 
-                "TweetLink": "1136798644831756288", 
-                "Place": "Montana", 
-                "Time": "Fri Jun 07 00:54:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/870287225937838082/jIsyBXkp_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TotalTrafficSD", 
-                "Name": "TTWN San Diego", 
-                "Tweet": "Crash is on the right shoulder in #TorreyPines on 5 SB before Sea World Dr, stop and go traffic back to 805, delay of 30 mins #SDtraffic", 
-                "TweetLink": "1136800807930781696", 
-                "Place": "San Diego", 
-                "Time": "Fri Jun 07 01:03:28 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.4372425, 36.0135305]}, 
             "type": "Feature", 
             "properties": {
