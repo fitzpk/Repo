@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-80.263517, 26.1245075]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Rydawgsquared99", 
-                "Name": "Fr'Adams", 
-                "Tweet": "https://t.co/QuFoEjK81t #PGATour", 
-                "TweetLink": "1137732735311798277", 
-                "Place": "Plantation", 
-                "Time": "Sun Jun 09 14:46:36 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1041434325642817536/XXk1pV-P_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-1.8906405, 52.4939665]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TruGolfAcademy", 
-                "Name": "Tru Golf Academy", 
-                "Tweet": "I guess that\u2019s not a bad way to start the final round when a joint leader to start the day! \n\n#rorymcilroy #onfire\u2026 https://t.co/hVPmcbm0GC", 
-                "TweetLink": "1137803957877780481", 
-                "Place": "Birmingham", 
-                "Time": "Sun Jun 09 19:29:37 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/532869472432820224/BInmW2O0_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1526765, 49.8538055]}, 
             "type": "Feature", 
             "properties": {
