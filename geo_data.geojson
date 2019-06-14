@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-6.399521, 53.2735025]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "Honcho68", 
-                "Name": "Eric Haughan", 
-                "Tweet": "Rory's play over the weekend at #RBCCanadianOpen is as good as we've ever seen from him... sublime stuff.\n#golf #pgatour #OhCanada", 
-                "TweetLink": "1137821547987701760", 
-                "Place": "South Dublin", 
-                "Time": "Sun Jun 09 20:39:31 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/929758477337157633/u4xyqXBu_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-119.4568255, 49.8991485]}, 
             "type": "Feature", 
             "properties": {
