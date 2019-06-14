@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "Danny_Willett", 
-                "Name": "Danny Willett", 
-                "Tweet": "Happy with that finish! Enjoyed the week @RBCCanadianOpen fans have been incredible, looking forward to coming back\u2026 https://t.co/aHsrPqfNbS", 
-                "TweetLink": "1137845683220881409", 
-                "Place": "Hamilton", 
-                "Time": "Sun Jun 09 22:15:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1064403026272755712/wnWxnLxv_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "marcusrebelo94", 
                 "Name": "Marcus Rebelo", 
                 "Tweet": "Rory McIlroy following his 16th #PGATour victory and sixth national open title which moves him to second on the\u2026 https://t.co/F8YhWwIng5", 
