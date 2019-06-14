@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-119.4568255, 49.8991485]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "jbigler7", 
-                "Name": "Jordie Bigler", 
-                "Tweet": "I think Rors has a shot at winning the @RBCCanadianOpen might be close tho i don't know #PGATour", 
-                "TweetLink": "1137824481085288448", 
-                "Place": "Kelowna", 
-                "Time": "Sun Jun 09 20:51:10 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/922188257667956736/j3lLLXls_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[5.5321415, 51.78083]}, 
             "type": "Feature", 
             "properties": {
@@ -259,6 +246,19 @@
                 "Place": "Topgolf", 
                 "Time": "Thu Jun 13 01:54:17 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1109436109468119041/HpxmiCBX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.9638415, 35.9824705]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "GrnEyedBanditTN", 
+                "Name": "D Caruthers", 
+                "Tweet": "What a par save by @TigerWoods at 14! #USOpen #PGATour", 
+                "TweetLink": "1139336519133667328", 
+                "Place": "Knoxville", 
+                "Time": "Fri Jun 14 00:59:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1052152004297060352/tKax97MX_normal.jpg"
             }
         }
     ]
