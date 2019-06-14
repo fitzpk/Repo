@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "marcusrebelo94", 
-                "Name": "Marcus Rebelo", 
-                "Tweet": "Rory McIlroy following his 16th #PGATour victory and sixth national open title which moves him to second on the\u2026 https://t.co/F8YhWwIng5", 
-                "TweetLink": "1137854192712912898", 
-                "Place": "Hamilton", 
-                "Time": "Sun Jun 09 22:49:14 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1108485269387251712/b9mn2c-a_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.9135205, 43.2606955]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "Weesesports", 
                 "Name": "Lukas Weese", 
                 "Tweet": "With a final round 61, Rory McIlroy dominated the field to capture his inaugural @RBCCanadianOpen, becoming the six\u2026 https://t.co/Bl58yiTk3F", 
