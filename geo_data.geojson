@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-9.0333065, 51.903863]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "paul_dinneen", 
-                "Name": "paul", 
-                "Tweet": "59 Watch @McIlroyRory \ud83d\udc40\ud83d\udc40 #CanadianOpen #PGATOUR", 
-                "TweetLink": "1137829134212718593", 
-                "Place": "Cork", 
-                "Time": "Sun Jun 09 21:09:40 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1127994132063035398/pbQ6NkZV_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-0.0350195, 51.5148305]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "HatcherNick", 
-                "Name": "Nick Hatcher", 
-                "Tweet": "Umm... \ud83d\udea85\ufe0f\u20e39\ufe0f\u20e3 watch?!!..\ud83d\udea8\n#LiveUnderPar #PGATour #HearTheRors #crazygolf #RBCCO Come on #Rory \ud83d\udc4a\n@EuropeanTour @PGATOUR", 
-                "TweetLink": "1137829733180366849", 
-                "Place": "Poplar", 
-                "Time": "Sun Jun 09 21:12:02 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3479972295/60218f5269d9ccbec09548578a678bc6_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-84.3064885, 33.9430725]}, 
             "type": "Feature", 
             "properties": {
@@ -220,6 +194,19 @@
                 "Place": "Knoxville", 
                 "Time": "Fri Jun 14 00:59:28 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1052152004297060352/tKax97MX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-118.1361935, 34.1938085]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "KyBermel", 
+                "Name": "Kyle Bermel", 
+                "Tweet": "Switching back and forth between NBAand the PGA! #Merica #NBAFinal2019 #PGATour", 
+                "TweetLink": "1139341392235229184", 
+                "Place": "Altadena", 
+                "Time": "Fri Jun 14 01:18:50 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1050243559486439424/qaIR97W-_normal.jpg"
             }
         }
     ]
