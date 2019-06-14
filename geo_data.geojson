@@ -78,6 +78,19 @@
                 "Time": "Fri Jun 14 01:18:50 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1050243559486439424/qaIR97W-_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "Justin Rose builds two shot lead while Tiger falls 7 behind on Friday at Pebble Beach. @FanSided @pgatour\u2026 https://t.co/WF4o07rn6D", 
+                "TweetLink": "1139648652576792579", 
+                "Place": "Brampton", 
+                "Time": "Fri Jun 14 21:39:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123794874258591756/6-o01gil_normal.jpg"
+            }
         }
     ]
 }
