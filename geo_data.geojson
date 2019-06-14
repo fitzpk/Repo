@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-1.8906405, 52.4939665]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "TruGolfAcademy", 
-                "Name": "Tru Golf Academy", 
-                "Tweet": "59 watch\ud83e\udd1e\ud83c\udffb Come on Rory!  \n\n#hereshoping #59 #rorymcilroy #golf #pgatour #pga #rbccanadianopen @ Sutton Coldfield https://t.co/fUWMzb6cxc", 
-                "TweetLink": "1137839079645687808", 
-                "Place": "Birmingham", 
-                "Time": "Sun Jun 09 21:49:11 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/532869472432820224/BInmW2O0_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.2363075, 32.8939145]}, 
             "type": "Feature", 
             "properties": {
