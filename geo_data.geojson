@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-121.945574, 36.587838]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "tigergasmic", 
-                "Name": "TigerGasm", 
-                "Tweet": "Close the gap...\n.\n.\n.\n#tigerwoods #goat #greatestofalltime #majornumber16 #pebblebeach #pebblebeachgolflinks\u2026 https://t.co/qk0gDex9P1", 
-                "TweetLink": "1138980270973939712", 
-                "Place": "Del Monte Forest", 
-                "Time": "Thu Jun 13 01:23:52 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1032422727632740352/T-YoIvNo_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-111.876577, 33.541247]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "cadmanturner", 
-                "Name": "The Mighty Cadman", 
-                "Tweet": "How\u2019s my swing? #Golf #PGATour https://t.co/NVujsqekFh", 
-                "TweetLink": "1138987926497386496", 
-                "Place": "Topgolf", 
-                "Time": "Thu Jun 13 01:54:17 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1109436109468119041/HpxmiCBX_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-83.9638415, 35.9824705]}, 
             "type": "Feature", 
             "properties": {
