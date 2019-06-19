@@ -52,6 +52,19 @@
                 "Time": "Wed Jun 19 01:06:02 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2989210599/ff66b28b1d6a9a849d8490933db0ca30_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.8511765, 35.935017]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SeeMorePutters", 
+                "Name": "SeeMore Putters", 
+                "Tweet": "\u201cSimplicity is the ultimate sophistication.\u201d \u2014Leonardo da Vinci\n\u2022\nFind out more at https://t.co/H954ZAArDg\n\u2022\u2026 https://t.co/qMywDDtBjU", 
+                "TweetLink": "1141175010045726721", 
+                "Place": "Franklin", 
+                "Time": "Wed Jun 19 02:44:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1138108661044264962/AmQJk75Y_normal.jpg"
+            }
         }
     ]
 }
