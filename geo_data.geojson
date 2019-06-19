@@ -52,6 +52,19 @@
                 "Time": "Tue Jun 18 02:56:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1027760348613541888/ze8zYcnt_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-77.1631025, 39.087055]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "brb408wpb", 
+                "Name": "Bruce Baldwin", 
+                "Tweet": "Best video I\u2019ve seen in a long time  #PGATour", 
+                "TweetLink": "1141150109431939073", 
+                "Place": "Rockville", 
+                "Time": "Wed Jun 19 01:06:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2989210599/ff66b28b1d6a9a849d8490933db0ca30_normal.jpeg"
+            }
         }
     ]
 }
