@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-83.9638415, 35.9824705]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GrnEyedBanditTN", 
-                "Name": "D Caruthers", 
-                "Tweet": "What a par save by @TigerWoods at 14! #USOpen #PGATour", 
-                "TweetLink": "1139336519133667328", 
-                "Place": "Knoxville", 
-                "Time": "Fri Jun 14 00:59:28 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1052152004297060352/tKax97MX_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-118.1361935, 34.1938085]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "KyBermel", 
-                "Name": "Kyle Bermel", 
-                "Tweet": "Switching back and forth between NBAand the PGA! #Merica #NBAFinal2019 #PGATour", 
-                "TweetLink": "1139341392235229184", 
-                "Place": "Altadena", 
-                "Time": "Fri Jun 14 01:18:50 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1050243559486439424/qaIR97W-_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
             "type": "Feature", 
             "properties": {
@@ -64,6 +38,19 @@
                 "Place": "San Diego", 
                 "Time": "Sat Jun 15 03:18:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3195325790/da660106cdf45e2c2d0973409f083588_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Birdie18th", 
+                "Name": "Birdie 18", 
+                "Tweet": "Btw - hats off to Maureen Madill for her lovely, brilliant, magical #USOpen coverage on @SiriusXMPGATOUR No collywo\u2026 https://t.co/XThrVJZvo7", 
+                "TweetLink": "1140815612765040640", 
+                "Place": "Portland", 
+                "Time": "Tue Jun 18 02:56:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027760348613541888/ze8zYcnt_normal.jpg"
             }
         }
     ]
