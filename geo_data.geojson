@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "ig69", 
-                "Name": "ig69", 
-                "Tweet": "#beauty #beautiful #evening #friday #fridayevening #beach #park #ocean #sunset #views #sand #flowers #california\u2026 https://t.co/EnXMe24GxW", 
-                "TweetLink": "1139733812722708480", 
-                "Place": "San Diego", 
-                "Time": "Sat Jun 15 03:18:10 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3195325790/da660106cdf45e2c2d0973409f083588_normal.jpeg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-122.630908, 45.536402]}, 
             "type": "Feature", 
             "properties": {
@@ -77,6 +64,19 @@
                 "Place": "Austin", 
                 "Time": "Wed Jun 19 03:17:55 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3480857601/cc31f1548497be5f7abaf4fac3510e67_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Tour_Junkies", 
+                "Name": "Tour Junkies", 
+                "Tweet": "3 In Front of the Paywall articles here on One Groove Low\n\n@AshleyMorrisson #EuropeanTour Write Up \u2705 \n\n@TRUmav\u2026 https://t.co/1au4Piv2NG", 
+                "TweetLink": "1141468916658638848", 
+                "Place": "Georgia", 
+                "Time": "Wed Jun 19 22:12:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/843885305098719232/Zeo9e8aU_normal.jpg"
             }
         }
     ]
