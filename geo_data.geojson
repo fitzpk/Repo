@@ -65,6 +65,19 @@
                 "Time": "Wed Jun 19 02:52:10 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1089962879879704576/2AYM0LWC_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "drscotthaydon", 
+                "Name": "M. Scott Haydon, MD", 
+                "Tweet": "@KipHenley Maybe @holly_sonders loops #dresscode #PGATour", 
+                "TweetLink": "1141183300570099713", 
+                "Place": "Austin", 
+                "Time": "Wed Jun 19 03:17:55 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3480857601/cc31f1548497be5f7abaf4fac3510e67_normal.jpeg"
+            }
         }
     ]
 }
