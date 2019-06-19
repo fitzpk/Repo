@@ -65,6 +65,19 @@
                 "Time": "Wed Jun 19 02:44:59 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1138108661044264962/AmQJk75Y_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-95.767914, 36.087925]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "918Golfer", 
+                "Name": "Kyle Pendleton \ud83c\udfcc\ufe0f", 
+                "Tweet": "76. #tips #bestlife #PGATour https://t.co/D8oXjPQxEP", 
+                "TweetLink": "1141176819657392128", 
+                "Place": "Broken Arrow Golf And Athletic Club", 
+                "Time": "Wed Jun 19 02:52:10 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1089962879879704576/2AYM0LWC_normal.jpg"
+            }
         }
     ]
 }
