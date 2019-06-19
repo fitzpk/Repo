@@ -104,6 +104,19 @@
                 "Time": "Wed Jun 19 22:59:01 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Accident cleared in #TorreyPines on 5 NB before Carmel Vly Rd #SDtraffic https://t.co/m44DG3Obgr", 
+                "TweetLink": "1141487339308384256", 
+                "Place": "San Diego", 
+                "Time": "Wed Jun 19 23:26:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
