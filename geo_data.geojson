@@ -5,19 +5,6 @@
             "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
-                "Handle": "TotalTrafficSD", 
-                "Name": "TTWN San Diego", 
-                "Tweet": "Motorcycle crash in middle lanes in #TorreyPines on 5 NB before Carmel Vly Rd #SDtraffic https://t.co/m44DG45MF1", 
-                "TweetLink": "1139669675611234304", 
-                "Place": "San Diego", 
-                "Time": "Fri Jun 14 23:03:19 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
-            "type": "Feature", 
-            "properties": {
                 "Handle": "ig69", 
                 "Name": "ig69", 
                 "Tweet": "#beauty #beautiful #evening #friday #fridayevening #beach #park #ocean #sunset #views #sand #flowers #california\u2026 https://t.co/EnXMe24GxW", 
