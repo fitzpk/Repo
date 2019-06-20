@@ -143,6 +143,19 @@
                 "Time": "Thu Jun 20 00:16:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "@TaylorMadeGolf CEO David Abeles, former #PGATour Caddy @ALanoII, the @LPGA Class A Teaching Pro @SueWieger join th\u2026 https://t.co/5gRbcPmiZX", 
+                "TweetLink": "1141508730443509761", 
+                "Place": "Georgia", 
+                "Time": "Thu Jun 20 00:51:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
         }
     ]
 }
