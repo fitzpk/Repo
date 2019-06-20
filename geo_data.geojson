@@ -130,6 +130,19 @@
                 "Time": "Wed Jun 19 23:32:18 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TotalTrafficSD", 
+                "Name": "TTWN San Diego", 
+                "Tweet": "Earlier accident in #TorreyPines on 5 SB after Coronado Brg, stopped traffic back to 805, delay of 126 mins\u2026 https://t.co/1IIy60EOgo", 
+                "TweetLink": "1141499983440547840", 
+                "Place": "San Diego", 
+                "Time": "Thu Jun 20 00:16:18 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/439099999696089089/US6yXLPB_normal.png"
+            }
         }
     ]
 }
