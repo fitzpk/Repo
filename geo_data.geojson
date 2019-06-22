@@ -156,6 +156,32 @@
                 "Time": "Sat Jun 22 21:32:19 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/997206649399009280/a4aHO52A_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-78.0003165, 38.471623]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "stead_patrick", 
+                "Name": "Patrick Stead", 
+                "Tweet": "Watching PGA Tournament commentators are saying nice shot when players are 20ft away from hole and leaving it short\u2026 https://t.co/PvlMQQjp00", 
+                "TweetLink": "1142578892055678976", 
+                "Place": "Culpeper", 
+                "Time": "Sat Jun 22 23:43:30 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/806292283301699584/aFfLHpKv_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-111.931711, 34.1682535]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "tedaust", 
+                "Name": "Ted Aust", 
+                "Tweet": "Chez must have seen this tweet about being a middling tour player...\ud83d\ude09 #PGATour #TravelersChampionship\u2026 https://t.co/67eKGEC0RD", 
+                "TweetLink": "1142579602784546817", 
+                "Place": "Arizona", 
+                "Time": "Sat Jun 22 23:46:20 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/477654044572663808/fleW8w-u_normal.jpeg"
+            }
         }
     ]
 }
