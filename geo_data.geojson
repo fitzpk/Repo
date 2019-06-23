@@ -156,6 +156,19 @@
                 "Time": "Sun Jun 23 21:45:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1032620506657251328/kXBJH6DG_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-71.0914005, 42.780778]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "TheFav_orite", 
+                "Name": "M.L Flagg", 
+                "Tweet": "@TPCRH #PGATour #TheTravelers #Championship The moment got to big for the local guy Keegan Bradley. It\u2019s great to h\u2026 https://t.co/uKjWBpSK90", 
+                "TweetLink": "1142915460251471875", 
+                "Place": "Haverhill", 
+                "Time": "Sun Jun 23 22:00:54 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046231447395356673/6GpFfSTG_normal.jpg"
+            }
         }
     ]
 }
