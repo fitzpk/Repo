@@ -182,6 +182,32 @@
                 "Time": "Sun Jun 23 22:14:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/477654044572663808/fleW8w-u_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.9719265, 38.362844]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theKC10ib", 
+                "Name": "KC10IB", 
+                "Tweet": "I'm glad Chez Reavie won. #PGATour", 
+                "TweetLink": "1142920881515028480", 
+                "Place": "Vacaville", 
+                "Time": "Sun Jun 23 22:22:27 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111763777559498752/0QyMKDt-_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-121.9719265, 38.362844]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "theKC10ib", 
+                "Name": "KC10IB", 
+                "Tweet": "Miguel Angel Jiminez approves of Keegan Bradley finishing second today. #PGATour", 
+                "TweetLink": "1142921635403460608", 
+                "Place": "Vacaville", 
+                "Time": "Sun Jun 23 22:25:26 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1111763777559498752/0QyMKDt-_normal.jpg"
+            }
         }
     ]
 }
