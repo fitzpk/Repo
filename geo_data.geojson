@@ -130,6 +130,19 @@
                 "Time": "Sat Jun 22 23:46:20 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/477654044572663808/fleW8w-u_normal.jpeg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-72.667302, 41.605932]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "Contreezus", 
+                "Name": "Con Treez", 
+                "Tweet": "#PGATour #TravelersChampionship \ud83d\ude0e\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f https://t.co/v92Z0a0hlL", 
+                "TweetLink": "1142901017169879042", 
+                "Place": "Cromwell", 
+                "Time": "Sun Jun 23 21:03:31 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1120463461128052736/rlxmc8uK_normal.jpg"
+            }
         }
     ]
 }
