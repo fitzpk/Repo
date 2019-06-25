@@ -143,6 +143,19 @@
                 "Time": "Tue Jun 25 17:40:05 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.126428, 42.426398]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DGnetiks", 
+                "Name": "Dave Genette", 
+                "Tweet": "Detroit is ready! Been an awesome couple of days and I\u2019m excited to see the @RocketClassic tee off! #RocketClassic\u2026 https://t.co/0lDK0NptEz", 
+                "TweetLink": "1143645008488206338", 
+                "Place": "Detroit Golf Club", 
+                "Time": "Tue Jun 25 22:19:52 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948295365236809728/pT2hpcos_normal.jpg"
+            }
         }
     ]
 }
