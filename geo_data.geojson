@@ -156,6 +156,19 @@
                 "Time": "Tue Jun 25 22:19:52 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/948295365236809728/pT2hpcos_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JRoseWXYZ", 
+                "Name": "Justin Rose", 
+                "Tweet": "Live TV is the best TV. Check out our rocketclassic special on @wxyzdetroit! \n\u2022\n\u2022\n#RocketMortgageClassic #PGA\u2026 https://t.co/prd5CJr9d8", 
+                "TweetLink": "1143665977881714689", 
+                "Place": "Detroit", 
+                "Time": "Tue Jun 25 23:43:12 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1141061423516344322/RafJGB8U_normal.jpg"
+            }
         }
     ]
 }
