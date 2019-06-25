@@ -130,6 +130,19 @@
                 "Time": "Tue Jun 25 12:55:51 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "NoahPGA", 
+                "Name": "Noah Vinyard", 
+                "Tweet": "#detroit #pgatour #rocketmortgage #golftecevents #fedexcup #schwabgolf @ Detroit Golf Club https://t.co/KyDBGlplaE", 
+                "TweetLink": "1143574599105466371", 
+                "Place": "Detroit", 
+                "Time": "Tue Jun 25 17:40:05 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/780799901894582272/7BpHi6Wo_normal.jpg"
+            }
         }
     ]
 }
