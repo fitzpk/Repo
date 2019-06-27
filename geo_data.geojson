@@ -2,19 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-81.5167515, 41.0808775]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "supergolfdude", 
-                "Name": "Ed Balaun", 
-                "Tweet": "@TaylorMadeGolf do you guys make a hat that would fit Chez Revie? He looks like a little boy wearing his Dad\u2019s hat.\u2026 https://t.co/vhnZ806vKJ", 
-                "TweetLink": "1142545878198231040", 
-                "Place": "Akron", 
-                "Time": "Sat Jun 22 21:32:19 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/997206649399009280/a4aHO52A_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-78.0003165, 38.471623]}, 
             "type": "Feature", 
             "properties": {
