@@ -169,6 +169,149 @@
                 "Time": "Tue Jun 25 23:43:12 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1141061423516344322/RafJGB8U_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-94.5592815, 39.1000485]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "raysfan50", 
+                "Name": "Richard Johns", 
+                "Tweet": "@GolfCentral  Trip has so many guys that should win multiple tournaments each year that there would never be any fi\u2026 https://t.co/SXAsdeSOnZ", 
+                "TweetLink": "1143824483326791685", 
+                "Place": "Kansas City", 
+                "Time": "Wed Jun 26 10:13:02 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/458747970830102528/sP4OSiGA_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[19.889614, -33.8044735]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "JacquinHess", 
+                "Name": "JacquinHess", 
+                "Tweet": "Will be live on @vvsportsradio at 13h00 with @Mocchachinoochi &amp; @MotshidisiM talking\n#GaryPlayerClass\u2026 https://t.co/Ccr0Z0WGpa", 
+                "TweetLink": "1143833698208534529", 
+                "Place": "Robertson", 
+                "Time": "Wed Jun 26 10:49:39 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/975826761211576320/vKCWf9HR_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.7620395, 42.2547805]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "golfbloggercom", 
+                "Name": "Golfblogger.Com", 
+                "Tweet": "I'm at the @RocketClassic in Detroit this week. This is the sixteenth, part of a three hole stretch named for Detro\u2026 https://t.co/gIOiwKXSRq", 
+                "TweetLink": "1143857454654087168", 
+                "Place": "Albion", 
+                "Time": "Wed Jun 26 12:24:03 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/986782571726913536/Qwg47wmD_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.126428, 42.426398]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "G87Mac", 
+                "Name": "Garrett McInerney", 
+                "Tweet": "Caught up with recent US Open Champ @GaryWoodland. All smiles. Congrats \n#PGATour #Golf https://t.co/dWMvOy4O66", 
+                "TweetLink": "1143859960373293056", 
+                "Place": "Detroit Golf Club", 
+                "Time": "Wed Jun 26 12:34:01 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893674291245588480/8hJTrbF4_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CSteveSimms", 
+                "Name": "Steve Simms", 
+                "Tweet": "A golf course isn't a study about golf, but a place for experiencing golf. Perhaps we need a Christ course.\u2026 https://t.co/t7xz43QBfR", 
+                "TweetLink": "1143867148630208512", 
+                "Place": "Nashville", 
+                "Time": "Wed Jun 26 13:02:34 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1131519377424166913/M33skG6J_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CSteveSimms", 
+                "Name": "Steve Simms", 
+                "Tweet": "Perhaps instead of Professional Golf Association, PGA means Pastor's Gathered Audience. #professionalGolf #PGA\u2026 https://t.co/Lq6170dDH3", 
+                "TweetLink": "1143898580744359936", 
+                "Place": "Nashville", 
+                "Time": "Wed Jun 26 15:07:28 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1131519377424166913/M33skG6J_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-86.791549, 36.200008]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CSteveSimms", 
+                "Name": "Steve Simms", 
+                "Tweet": "It often seems to me that there is much more awe &amp; astonishment on the PGA tour than there is in most church servic\u2026 https://t.co/LNjuztRI9F", 
+                "TweetLink": "1143898887045955584", 
+                "Place": "Nashville", 
+                "Time": "Wed Jun 26 15:08:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1131519377424166913/M33skG6J_normal.png"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.259054, 32.917728]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WeekendExplorer", 
+                "Name": "Weekend Explorer\u00ae", 
+                "Tweet": "Torrey Pines State Natural Reserve is a must see any time of the year! #torreypines #torreypinesbeach\u2026 https://t.co/mRF6N2MFW4", 
+                "TweetLink": "1143911493462679552", 
+                "Place": "Torrey Pines State Beach", 
+                "Time": "Wed Jun 26 15:58:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/788800261019938817/TZeOeQeN_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "vr_sportsbar", 
+                "Name": "Virtual Sports Bar", 
+                "Tweet": "That feeling you get when the pgatour comes to Detroit, MI and you got tickets for the inaugural rocketclassic detr\u2026 https://t.co/ne1VQx6xHI", 
+                "TweetLink": "1143961874398089217", 
+                "Place": "Detroit", 
+                "Time": "Wed Jun 26 19:18:59 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1091825184259092481/t9tnf0k2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.099288, 42.3527865]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DanLeach971", 
+                "Name": "Dan Leach", 
+                "Tweet": "Great read by the @burchie_kid .Fowler really seems to be genuinely enjoying himself as the de facto ambassador of\u2026 https://t.co/9xsaQZGC8Z", 
+                "TweetLink": "1143995319807442945", 
+                "Place": "Detroit", 
+                "Time": "Wed Jun 26 21:31:53 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/916460356897304576/VNHRd_8Q_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-3.8821965, 57.580107]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ghwgolftours", 
+                "Name": "GHW Golf Tours", 
+                "Tweet": "Kicking off their golf tour with a round on nairndunbar \u26f3\n\n#nairndunbar #highlands #golfer #golfing #golflife\u2026 https://t.co/i9GuMA8jim", 
+                "TweetLink": "1144003333159624705", 
+                "Place": "Nairn", 
+                "Time": "Wed Jun 26 22:03:43 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785557485830766592/RXkRL7lT_normal.jpg"
+            }
         }
     ]
 }
