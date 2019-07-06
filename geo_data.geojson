@@ -1,4 +1,31 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "The always energetic &amp; entertaining Jack Diehl, #PGA Class A Teaching Professional, joins Next on the Tee and helps\u2026 https://t.co/tqP28tQOJZ", 
+                "TweetLink": "1147601744769294337", 
+                "Place": "Georgia", 
+                "Time": "Sat Jul 06 20:22:32 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ctmascaro", 
+                "Name": "Chris Mascaro", 
+                "Tweet": "@GOLF_com Top 100 Instructor @timcusickgolf talks about his book The Four Keys to Improve Your Game + tips for how\u2026 https://t.co/y7mK3pM27O", 
+                "TweetLink": "1147602317455368192", 
+                "Place": "Georgia", 
+                "Time": "Sat Jul 06 20:24:48 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990266321593032709/6Dgs52ON_normal.jpg"
+            }
+        }
+    ]
 }
