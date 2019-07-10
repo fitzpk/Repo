@@ -52,6 +52,19 @@
                 "Time": "Sat Jul 06 20:30:09 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1054382278233616384/smg_s5_E_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-6.81351, 54.667202]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WhistlerGolf", 
+                "Name": "WHISTLER GOLF CLUB", 
+                "Tweet": "Could be an interesting week! Who you got? #theopen ##royalportrush #nikegolf #pgatour @ Royal Portrush Golf Club https://t.co/fKBzQLRAKG", 
+                "TweetLink": "1149092824706670592", 
+                "Place": "Northern Ireland", 
+                "Time": "Wed Jul 10 23:07:33 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/529689151033978880/St204d0C_normal.png"
+            }
         }
     ]
 }
