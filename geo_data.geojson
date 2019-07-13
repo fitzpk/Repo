@@ -26,6 +26,19 @@
                 "Time": "Sat Jul 13 14:36:22 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1122713258614509569/lgK2t7K1_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "BrianJacobsgolf", 
+                "Name": "Brian Jacobs Golf", 
+                "Tweet": "Thank you @ctmascaro you\u2019re the best!!", 
+                "TweetLink": "1150104459445452806", 
+                "Place": "New York", 
+                "Time": "Sat Jul 13 18:07:25 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
+            }
         }
     ]
 }
