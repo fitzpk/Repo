@@ -65,6 +65,19 @@
                 "Time": "Sun Jul 14 14:28:31 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/636895299563184128/1jDKB6Kx_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.4032515, 41.489768]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "AdamJRossow", 
+                "Name": "Adam Rossow", 
+                "Tweet": "A few more from #JDC19. Championship Sunday awaits. #pgatour #golf @ John Deere Classic https://t.co/PxpwirG93B", 
+                "TweetLink": "1150418955367899136", 
+                "Place": "Silvis", 
+                "Time": "Sun Jul 14 14:57:07 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1110996796745101313/kEeBKGpt_normal.jpg"
+            }
         }
     ]
 }
