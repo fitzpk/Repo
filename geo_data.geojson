@@ -91,6 +91,19 @@
                 "Time": "Sun Jul 14 15:49:34 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/507267221442154496/qxKjNzt7_normal.png"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-90.392304, 41.478276]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "McNeillJared", 
+                "Name": "#ReleaseRussell", 
+                "Tweet": "Greetings from the @JDCLASSIC and the Trophy Club Suite.\n\nI could get used to this.\n\n#johndeereclassic #pgatour\u2026 https://t.co/hOzlwEKVLh", 
+                "TweetLink": "1150464139267117056", 
+                "Place": "TPC Deere Run", 
+                "Time": "Sun Jul 14 17:56:40 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123952634707283969/Gx1moJ0O_normal.jpg"
+            }
         }
     ]
 }
