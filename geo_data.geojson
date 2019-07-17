@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-6.81351, 54.667202]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "WhistlerGolf", 
-                "Name": "WHISTLER GOLF CLUB", 
-                "Tweet": "Could be an interesting week! Who you got? #theopen ##royalportrush #nikegolf #pgatour @ Royal Portrush Golf Club https://t.co/fKBzQLRAKG", 
-                "TweetLink": "1149092824706670592", 
-                "Place": "Northern Ireland", 
-                "Time": "Wed Jul 10 23:07:33 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/529689151033978880/St204d0C_normal.png"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-90.597442, 41.537943]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "LauraGenis", 
-                "Name": "Laura Genis", 
-                "Tweet": "I love hearing of the positive experience the #PGATour players &amp; staff have here in #Illinois  #VisitQuadCities\u2026 https://t.co/CBPGx18v65", 
-                "TweetLink": "1150051348194451456", 
-                "Place": "Davenport", 
-                "Time": "Sat Jul 13 14:36:22 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1122713258614509569/lgK2t7K1_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "BrianJacobsgolf", 
-                "Name": "Brian Jacobs Golf", 
-                "Tweet": "Thank you @ctmascaro you\u2019re the best!!", 
-                "TweetLink": "1150104459445452806", 
-                "Place": "New York", 
-                "Time": "Sat Jul 13 18:07:25 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1021462575077179392/wkZftFjF_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-117.2634995, 32.9589275]}, 
             "type": "Feature", 
             "properties": {
