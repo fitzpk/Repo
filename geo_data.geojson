@@ -65,6 +65,19 @@
                 "Time": "Sun Jul 14 17:56:40 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1123952634707283969/Gx1moJ0O_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-8.6450685, 54.193422]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "ShenaFee", 
+                "Name": "\u2728Shena Feehily\u2728", 
+                "Tweet": "@Karhanen sooo i got you in the local golf club draw #tubbercurrygolfclub any chance you could go out and win a gir\u2026 https://t.co/fg8Vz3Xd0e", 
+                "TweetLink": "1151622394232131586", 
+                "Place": "Sligo", 
+                "Time": "Wed Jul 17 22:39:09 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/991344270899666944/8Ep9YIId_normal.jpg"
+            }
         }
     ]
 }
