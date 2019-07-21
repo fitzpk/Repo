@@ -52,6 +52,32 @@
                 "Time": "Sat Jul 20 22:27:37 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1083560421477502977/4Gc4rvWm_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.0251105, 40.521189]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jackiemck412", 
+                "Name": "Jackie", 
+                "Tweet": "Right about now, the guys who missed the cut at the #BritishOpen feel a whole lot better about not making it to Sunday. #PGATour \ud83c\udf28\ud83d\udca6\ud83d\udca8\u2614\ufe0f", 
+                "TweetLink": "1152964413890207744", 
+                "Place": "Ross Township", 
+                "Time": "Sun Jul 21 15:31:51 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/805413775771860992/d-ZaHgMW_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-80.0251105, 40.521189]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "jackiemck412", 
+                "Name": "Jackie", 
+                "Tweet": "Right about now, the guys who missed the cut at the #TheOpen feel a whole lot better about not making it to Sunday. #PGATour \ud83c\udf28\ud83d\udca6\ud83d\udca8\u2614\ufe0f\u26f3\ufe0f", 
+                "TweetLink": "1152965123570581504", 
+                "Place": "Ross Township", 
+                "Time": "Sun Jul 21 15:34:41 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/805413775771860992/d-ZaHgMW_normal.jpg"
+            }
         }
     ]
 }
