@@ -52,6 +52,19 @@
                 "Time": "Sun Jul 21 15:34:41 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/805413775771860992/d-ZaHgMW_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-117.559707, 33.929913]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "CoachErikGolf", 
+                "Name": "Coach Erik Golf", 
+                "Tweet": "Which do you prefer? Which do you think would help you produce the most solid strike? PC:AP. Coach Erik Golf Coache\u2026 https://t.co/l5yh24frQQ", 
+                "TweetLink": "1153294390040961024", 
+                "Place": "Norco", 
+                "Time": "Mon Jul 22 13:23:04 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
+            }
         }
     ]
 }
