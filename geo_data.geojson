@@ -65,6 +65,19 @@
                 "Time": "Mon Jul 22 13:23:04 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-84.285151, 39.862183]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "SusanEngle50", 
+                "Name": "Susan Engle", 
+                "Tweet": "My amazing roster for The Open Championship #PGATOUR Fantasy golf.  Now check out my golf please  https://t.co/e6PXG8PzXQ", 
+                "TweetLink": "1154068039073259520", 
+                "Place": "Englewood", 
+                "Time": "Wed Jul 24 16:37:16 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1038258666665857025/9elTtxVN_normal.jpg"
+            }
         }
     ]
 }
