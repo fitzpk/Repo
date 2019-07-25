@@ -2,32 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-117.559707, 33.929913]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "CoachErikGolf", 
-                "Name": "Coach Erik Golf", 
-                "Tweet": "Variations/Creativity/Sequence: Step Drill, High/Low Drill, Kneeling Drivers. \n.\n.\n\n.\n.\n#golfer #golfday\u2026 https://t.co/JTjN1gddOH", 
-                "TweetLink": "1152694362704191488", 
-                "Place": "Norco", 
-                "Time": "Sat Jul 20 21:38:46 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/800429338554339328/Q1BzRzrY_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-76.5467855, 42.90196]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "GotoCaddie", 
-                "Name": "Go To Caddie", 
-                "Tweet": "My Caddie Pro and My Caddie  Tour DIY yardage books will soon be available in Europe @GreenRabbitGolf \n.\n.\u2026 https://t.co/cvvy02vw1C", 
-                "TweetLink": "1152706654506487808", 
-                "Place": "Melrose Park", 
-                "Time": "Sat Jul 20 22:27:37 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1083560421477502977/4Gc4rvWm_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-80.0251105, 40.521189]}, 
             "type": "Feature", 
             "properties": {
