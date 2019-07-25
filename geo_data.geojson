@@ -26,6 +26,19 @@
                 "Time": "Wed Jul 24 16:37:16 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1038258666665857025/9elTtxVN_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-89.778824, 35.055624]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "WesCustomKicks", 
+                "Name": "Wes Custom Kicks", 
+                "Tweet": "Puts WCK x @TaylorMadeGolf head covers in the bag, shoots 62 to take the solo lead at the @WGCFedEx. \ud83d\udc40\n\n@jonrahm\u2019s\u2026 https://t.co/xux3QorBo9", 
+                "TweetLink": "1154514515385470976", 
+                "Place": "TPC Southwind", 
+                "Time": "Thu Jul 25 22:11:24 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1153792062426251266/acIcbEk7_normal.jpg"
+            }
         }
     ]
 }
