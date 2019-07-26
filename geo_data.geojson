@@ -39,6 +39,19 @@
                 "Time": "Thu Jul 25 22:11:24 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1153792062426251266/acIcbEk7_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "mike_caridi", 
+                "Name": "Michael Caridi", 
+                "Tweet": "Pok\u00e9mon Go\nBottle Flipping\nGangnam Style\nPlanking\n\nHo Sung Choi\u2019s swing\n\n*A list of stuff that got old quickly.\u2026 https://t.co/OWXtiSLXnT", 
+                "TweetLink": "1154553868987953155", 
+                "Place": "Melbourne", 
+                "Time": "Fri Jul 26 00:47:47 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907460838583234562/keA1hjoz_normal.jpg"
+            }
         }
     ]
 }
