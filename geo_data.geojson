@@ -39,6 +39,19 @@
                 "Time": "Fri Jul 26 00:47:47 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/907460838583234562/keA1hjoz_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "DavidSalituro", 
+                "Name": "David Salituro", 
+                "Tweet": "A week after tragic missed cut at home in the Open Championship, Rory McIlroy back at the top of the leaderboard at\u2026 https://t.co/pmzN2v15mX", 
+                "TweetLink": "1155246296510451712", 
+                "Place": "Brampton", 
+                "Time": "Sat Jul 27 22:39:15 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123794874258591756/6-o01gil_normal.jpg"
+            }
         }
     ]
 }
