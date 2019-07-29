@@ -39,6 +39,19 @@
                 "Time": "Sat Jul 27 22:39:15 +0000 2019", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1123794874258591756/6-o01gil_normal.jpg"
             }
+        }, 
+        {
+            "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
+            "type": "Feature", 
+            "properties": {
+                "Handle": "rnbednarek", 
+                "Name": "Ryan Bednarek \u26f3", 
+                "Tweet": "Brooks Koepka is on fire! And he deserves everything that's coming to him! #PGATour @BKoepka", 
+                "TweetLink": "1155674397002346496", 
+                "Place": "Arlington", 
+                "Time": "Mon Jul 29 03:00:22 +0000 2019", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1145341202239238144/ZqNQ0EaV_normal.jpg"
+            }
         }
     ]
 }
