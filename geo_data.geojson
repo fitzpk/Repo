@@ -2,45 +2,6 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {"type":"Point", "coordinates":[-89.778824, 35.055624]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "WesCustomKicks", 
-                "Name": "Wes Custom Kicks", 
-                "Tweet": "Puts WCK x @TaylorMadeGolf head covers in the bag, shoots 62 to take the solo lead at the @WGCFedEx. \ud83d\udc40\n\n@jonrahm\u2019s\u2026 https://t.co/xux3QorBo9", 
-                "TweetLink": "1154514515385470976", 
-                "Place": "TPC Southwind", 
-                "Time": "Thu Jul 25 22:11:24 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1153792062426251266/acIcbEk7_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[145.0531355, -37.9725665]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "mike_caridi", 
-                "Name": "Michael Caridi", 
-                "Tweet": "Pok\u00e9mon Go\nBottle Flipping\nGangnam Style\nPlanking\n\nHo Sung Choi\u2019s swing\n\n*A list of stuff that got old quickly.\u2026 https://t.co/OWXtiSLXnT", 
-                "TweetLink": "1154553868987953155", 
-                "Place": "Melbourne", 
-                "Time": "Fri Jul 26 00:47:47 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/907460838583234562/keA1hjoz_normal.jpg"
-            }
-        }, 
-        {
-            "geometry": {"type":"Point", "coordinates":[-79.7595915, 43.724971]}, 
-            "type": "Feature", 
-            "properties": {
-                "Handle": "DavidSalituro", 
-                "Name": "David Salituro", 
-                "Tweet": "A week after tragic missed cut at home in the Open Championship, Rory McIlroy back at the top of the leaderboard at\u2026 https://t.co/pmzN2v15mX", 
-                "TweetLink": "1155246296510451712", 
-                "Place": "Brampton", 
-                "Time": "Sat Jul 27 22:39:15 +0000 2019", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1123794874258591756/6-o01gil_normal.jpg"
-            }
-        }, 
-        {
             "geometry": {"type":"Point", "coordinates":[-97.1356375, 32.70185]}, 
             "type": "Feature", 
             "properties": {
