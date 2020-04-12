@@ -152,6 +152,25 @@
                     50.8717925
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1173802104189870080/spjuOV_j_normal.jpg",
+                "Name": "David Grivette",
+                "Handle": "DavidGrivette",
+                "Tweet": "Join me in my Easter festivities which includes thinking about David Bowie as Pontious Pilate and nothing else. https://t.co/zViED4nmHh",
+                "TweetLink": "1249366773297745922",
+                "Place": "Texas Department Of Motor Vehicles-Camp Hubbard",
+                "Time": "Sun Apr 12 16:00:25 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.756099,
+                    30.31158
+                ]
+            }
         }
     ]
 }
