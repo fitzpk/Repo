@@ -247,6 +247,44 @@
                     -23.313257
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933678916358860802/Ikv2KiuA_normal.jpg",
+                "Name": "La Maga",
+                "Handle": "FinestraLau",
+                "Tweet": "@JuanmaSN Te dije! Artic Monkeys, Leonard Cohen, Radiohead, Johnny Cash, David Bowie \ud83d\ude0d",
+                "TweetLink": "1249409565390770178",
+                "Place": "Asuncion",
+                "Time": "Sun Apr 12 18:50:27 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.6060175,
+                    -25.300264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1181240593181216768/3KNjwcZN_normal.jpg",
+                "Name": "Laila, mam\u00e1 de los cuervitos.",
+                "Handle": "Laila_NPM",
+                "Tweet": "Excelente, amo a Bowie \n(y me peino como \u00e9l).",
+                "TweetLink": "1249410409708130304",
+                "Place": "Naucalpan de Ju\u00e1rez",
+                "Time": "Sun Apr 12 18:53:49 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.310428,
+                    19.473794
+                ]
+            }
         }
     ]
 }
