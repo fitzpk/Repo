@@ -19,6 +19,25 @@
                     34.721886
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1245573549701488641/0Y0sU8Ly_normal.jpg",
+                "Name": "Wade Williams",
+                "Handle": "Sgt_ChiliPepper",
+                "Tweet": "M\u00e1s o menos, soy Wade en todas partes casi pero twiteo mostrando siempre lo que pienso :D. Es un problema de person\u2026 https://t.co/PNknX0HSta",
+                "TweetLink": "1249198636526903297",
+                "Place": "Merlo",
+                "Time": "Sun Apr 12 04:52:18 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.7484645,
+                    -34.7028055
+                ]
+            }
         }
     ]
 }
