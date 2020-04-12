@@ -190,6 +190,63 @@
                     53.3549025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1109864612156108801/os7gRvsL_normal.jpg",
+                "Name": "Becky Day",
+                "Handle": "BeckyBrightSide",
+                "Tweet": "E A S T E R \ud83d\udc23 Strange one this year, Holly is at her dads and Nora still doesn\u2019t really know what\u2019s happening so ap\u2026 https://t.co/3xcTxehNhu",
+                "TweetLink": "1249407573133889537",
+                "Place": "Huddersfield",
+                "Time": "Sun Apr 12 18:42:32 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.811758,
+                    53.6473925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249366403154575364/dv82d2p7_normal.jpg",
+                "Name": "Brianna Phillips",
+                "Handle": "brianna_lynn144",
+                "Tweet": "Please?",
+                "TweetLink": "1249407708912123910",
+                "Place": "Oklahoma",
+                "Time": "Sun Apr 12 18:43:05 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.716992,
+                    35.3090465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985599152301182976/wUxzv8oM_normal.jpg",
+                "Name": "Jofre",
+                "Handle": "Jo_freee",
+                "Tweet": "N\u00e3o tem coisa melhor do que curtir um excelente som e cl\u00e1ssico. \nDavid Bowie \u00e9 BOM PRA GARAI... em Franco da Rocha https://t.co/C018vTB0Wt",
+                "TweetLink": "1249407881209880580",
+                "Place": "Franco da Rocha",
+                "Time": "Sun Apr 12 18:43:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73896,
+                    -23.313257
+                ]
+            }
         }
     ]
 }
