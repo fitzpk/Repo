@@ -76,6 +76,44 @@
                     53.4198785
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1176239305515098112/9IchwQ7U_normal.jpg",
+                "Name": "Mary E Miranda",
+                "Handle": "MaryEMiranda",
+                "Tweet": "First pic is my eggs I found! And the following pics the kids opening all the mini toys plus everyone found their 4\u2026 https://t.co/nE1H7NGZgM",
+                "TweetLink": "1249443502821433346",
+                "Place": "Blaine",
+                "Time": "Sun Apr 12 21:05:19 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7354995,
+                    48.986979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1245093575752384518/x71sZ7JL_normal.jpg",
+                "Name": "Jen",
+                "Handle": "jennorwood",
+                "Tweet": "Mini eggs before bed? Yep",
+                "TweetLink": "1249443554419752966",
+                "Place": "March",
+                "Time": "Sun Apr 12 21:05:31 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0857475,
+                    52.5560045
+                ]
+            }
         }
     ]
 }
