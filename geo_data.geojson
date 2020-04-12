@@ -1,4 +1,24 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1225820631868026886/FuKpnxXS_normal.jpg",
+                "Name": "David Benitez",
+                "Handle": "davidBenitezR",
+                "Tweet": "@LaInsoportableV Sii, antes se cre\u00eda que era un signo \u00fanico de personas o animales positivos al virus de la Rabia.\u2026 https://t.co/o2Azli7yWi",
+                "TweetLink": "1249399561220689923",
+                "Place": "Medell\u00edn",
+                "Time": "Sun Apr 12 18:10:42 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.619213,
+                    6.270883
+                ]
+            }
+        }
+    ]
 }
