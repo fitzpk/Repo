@@ -152,6 +152,44 @@
                     42.7391215
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246712381943812097/tfHKZfcT_normal.jpg",
+                "Name": "\u219e Shawnee Watson \u21a0",
+                "Handle": "ShawneeWats",
+                "Tweet": "This is why I like him",
+                "TweetLink": "1249405874113777666",
+                "Place": "Illinois",
+                "Time": "Sun Apr 12 18:35:47 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1241287012138745856/iratVKoH_normal.jpg",
+                "Name": "Katieeee Maher \ud83d\udc69\ud83c\udffc\u200d\ud83e\uddb0",
+                "Handle": "KatieeMaher2017",
+                "Tweet": "Mini eggs are amazing \ud83d\ude0d\ud83c\udf6b",
+                "TweetLink": "1249406321184686080",
+                "Place": "Dublin City",
+                "Time": "Sun Apr 12 18:37:34 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2476215,
+                    53.3549025
+                ]
+            }
         }
     ]
 }
