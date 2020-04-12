@@ -38,6 +38,25 @@
                     53.5558195
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1037249664242700289/c3JAFcDU_normal.jpg",
+                "Name": "sylvie",
+                "Handle": "sylvie_b",
+                "Tweet": "Living Room egg hunt\ud83d\udc23 \u2714\ufe0f Quarantine friendly Easter Basket Swag \ud83d\udc30(aka Legos, Puzzles, Books!), Mini Kinder Choco Eg\u2026 https://t.co/VenvxfDzSh",
+                "TweetLink": "1249435171738324992",
+                "Place": "San Francisco",
+                "Time": "Sun Apr 12 20:32:12 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4359785,
+                    37.7706565
+                ]
+            }
         }
     ]
 }
