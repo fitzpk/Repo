@@ -57,6 +57,25 @@
                     34.777811
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246817249551364101/d-l5YjRe_normal.jpg",
+                "Name": "J. Domestic Wardle",
+                "Handle": "nrbmbr",
+                "Tweet": "@anthonymccann @Finnattentive @deanatweets The boys really aren\u2019t getting my David Bowie impression.",
+                "TweetLink": "1249343572274556930",
+                "Place": "Fat Ass Pass",
+                "Time": "Sun Apr 12 14:28:13 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.316286,
+                    55.010253
+                ]
+            }
         }
     ]
 }
