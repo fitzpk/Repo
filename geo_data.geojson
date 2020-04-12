@@ -57,6 +57,25 @@
                     51.027664
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1150289446388023296/esyEdiVW_normal.jpg",
+                "Name": "Gill Martin",
+                "Handle": "Gill_MartinCA",
+                "Tweet": "Thank you. @MattTheChaplain and I delivered 147 bags at @HMPEastwoodPark with activity, reflection, Bible Study mat\u2026 https://t.co/5s8Wpwuoil",
+                "TweetLink": "1249402684152655881",
+                "Place": "Wotton-under-Edge",
+                "Time": "Sun Apr 12 18:23:07 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.349995,
+                    51.636267
+                ]
+            }
         }
     ]
 }
