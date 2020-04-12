@@ -19,6 +19,25 @@
                     53.4569525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1221135044502151168/JKQtMM9f_normal.jpg",
+                "Name": "Carson",
+                "Handle": "sertivemusic",
+                "Tweet": "Mini eggs are the best candy/chocolate please argue with me",
+                "TweetLink": "1249432609664274432",
+                "Place": "Edmonton",
+                "Time": "Sun Apr 12 20:22:02 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
         }
     ]
 }
