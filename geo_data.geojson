@@ -12,7 +12,10 @@
                 "Place": "Lagos",
                 "Time": "Sun Apr 12 02:26:25 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[3.528163, 6.534467]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[3.528163, 6.534467]"
+            }
         },
         {
             "type": "Feature",
@@ -25,7 +28,10 @@
                 "Place": "Oklahoma",
                 "Time": "Sun Apr 12 02:26:30 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-98.716992, 35.3090465]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-98.716992, 35.3090465]"
+            }
         },
         {
             "type": "Feature",
@@ -38,7 +44,10 @@
                 "Place": "Guatemala",
                 "Time": "Sun Apr 12 02:26:38 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-90.224221, 15.7724675]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-90.224221, 15.7724675]"
+            }
         },
         {
             "type": "Feature",
@@ -51,7 +60,10 @@
                 "Place": "North Las Vegas",
                 "Time": "Sun Apr 12 02:26:40 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-115.133373, 36.2491245]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-115.133373, 36.2491245]"
+            }
         },
         {
             "type": "Feature",
@@ -64,7 +76,10 @@
                 "Place": "Antigua and Barbuda",
                 "Time": "Sun Apr 12 02:26:50 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-62.0027275, 17.3308015]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-62.0027275, 17.3308015]"
+            }
         },
         {
             "type": "Feature",
@@ -77,7 +92,10 @@
                 "Place": "Bridgewater",
                 "Time": "Sun Apr 12 02:27:18 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-64.5268025, 44.381408]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-64.5268025, 44.381408]"
+            }
         },
         {
             "type": "Feature",
@@ -90,7 +108,10 @@
                 "Place": "Penarth",
                 "Time": "Sun Apr 12 02:27:18 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-3.1858425, 51.4358875]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-3.1858425, 51.4358875]"
+            }
         },
         {
             "type": "Feature",
@@ -103,7 +124,10 @@
                 "Place": "Bijnor",
                 "Time": "Sun Apr 12 02:27:24 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[78.130476, 29.378791]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[78.130476, 29.378791]"
+            }
         },
         {
             "type": "Feature",
@@ -116,7 +140,10 @@
                 "Place": "Antioch",
                 "Time": "Sun Apr 12 02:27:41 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-121.796444, 37.9856605]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-121.796444, 37.9856605]"
+            }
         },
         {
             "type": "Feature",
@@ -129,7 +156,10 @@
                 "Place": "Et Taous",
                 "Time": "Sun Apr 12 02:27:42 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-4.017551, 30.86433]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-4.017551, 30.86433]"
+            }
         },
         {
             "type": "Feature",
@@ -142,7 +172,10 @@
                 "Place": "Calgary",
                 "Time": "Sun Apr 12 02:28:06 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-114.087851, 51.027664]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-114.087851, 51.027664]"
+            }
         },
         {
             "type": "Feature",
@@ -155,7 +188,10 @@
                 "Place": "Guildford",
                 "Time": "Sun Apr 12 02:28:16 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-0.5701175, 51.2364205]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-0.5701175, 51.2364205]"
+            }
         },
         {
             "type": "Feature",
@@ -168,7 +204,10 @@
                 "Place": "Papua New Guinea",
                 "Time": "Sun Apr 12 02:28:18 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[150.166411, -6.263483]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[150.166411, -6.263483]"
+            }
         },
         {
             "type": "Feature",
@@ -181,7 +220,10 @@
                 "Place": "Galway",
                 "Time": "Sun Apr 12 02:28:18 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-9.1065045, 53.343313]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-9.1065045, 53.343313]"
+            }
         },
         {
             "type": "Feature",
@@ -194,7 +236,10 @@
                 "Place": "New Jersey",
                 "Time": "Sun Apr 12 02:28:19 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-74.7243235, 40.0730405]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-74.7243235, 40.0730405]"
+            }
         },
         {
             "type": "Feature",
@@ -207,7 +252,10 @@
                 "Place": "Streetsville",
                 "Time": "Sun Apr 12 02:28:22 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-79.725382, 43.600422]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-79.725382, 43.600422]"
+            }
         },
         {
             "type": "Feature",
@@ -220,7 +268,10 @@
                 "Place": "Nashville",
                 "Time": "Sun Apr 12 02:28:30 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-86.791549, 36.200008]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-86.791549, 36.200008]"
+            }
         },
         {
             "type": "Feature",
@@ -233,7 +284,10 @@
                 "Place": "Maiwand Kabob",
                 "Time": "Sun Apr 12 02:28:30 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-76.935115, 39.110012]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-76.935115, 39.110012]"
+            }
         },
         {
             "type": "Feature",
@@ -246,7 +300,10 @@
                 "Place": "Staten Island",
                 "Time": "Sun Apr 12 02:28:39 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-74.153947, 40.572376]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-74.153947, 40.572376]"
+            }
         },
         {
             "type": "Feature",
@@ -259,7 +316,10 @@
                 "Place": "Muscat",
                 "Time": "Sun Apr 12 02:28:42 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[58.4641695, 23.549159]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[58.4641695, 23.549159]"
+            }
         },
         {
             "type": "Feature",
@@ -272,7 +332,10 @@
                 "Place": "West End",
                 "Time": "Sun Apr 12 02:28:49 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-123.137756, 49.2876985]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-123.137756, 49.2876985]"
+            }
         },
         {
             "type": "Feature",
@@ -285,7 +348,10 @@
                 "Place": "\u0e17\u0e48\u0e32\u0e09\u0e32\u0e07",
                 "Time": "Sun Apr 12 02:28:59 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[99.190554, 9.260214]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[99.190554, 9.260214]"
+            }
         },
         {
             "type": "Feature",
@@ -298,7 +364,10 @@
                 "Place": "Nevada",
                 "Time": "Sun Apr 12 02:29:08 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-117.0226945, 38.502147]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-117.0226945, 38.502147]"
+            }
         },
         {
             "type": "Feature",
@@ -311,7 +380,10 @@
                 "Place": "Amatl\u00e1n de los Reyes",
                 "Time": "Sun Apr 12 02:29:22 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-96.8880495, 18.872371]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-96.8880495, 18.872371]"
+            }
         },
         {
             "type": "Feature",
@@ -324,7 +396,10 @@
                 "Place": "Melbourne",
                 "Time": "Sun Apr 12 02:29:35 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[145.0531355, -37.9725665]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[145.0531355, -37.9725665]"
+            }
         },
         {
             "type": "Feature",
@@ -337,7 +412,10 @@
                 "Place": "Streetsville",
                 "Time": "Sun Apr 12 02:30:02 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-79.725382, 43.600422]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-79.725382, 43.600422]"
+            }
         },
         {
             "type": "Feature",
@@ -350,7 +428,10 @@
                 "Place": "Riobamba",
                 "Time": "Sun Apr 12 02:30:05 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-78.647795, -1.707219]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-78.647795, -1.707219]"
+            }
         },
         {
             "type": "Feature",
@@ -363,7 +444,10 @@
                 "Place": "Uttar Pradesh",
                 "Time": "Sun Apr 12 02:30:32 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[80.8675545, 27.1397585]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[80.8675545, 27.1397585]"
+            }
         },
         {
             "type": "Feature",
@@ -376,7 +460,10 @@
                 "Place": "San Juan",
                 "Time": "Sun Apr 12 02:30:38 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-66.058368, 18.3841655]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-66.058368, 18.3841655]"
+            }
         },
         {
             "type": "Feature",
@@ -389,7 +476,10 @@
                 "Place": "S\u00e3o Paulo",
                 "Time": "Sun Apr 12 02:30:46 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-46.5955455, -23.682803]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-46.5955455, -23.682803]"
+            }
         },
         {
             "type": "Feature",
@@ -402,7 +492,682 @@
                 "Place": "Tunja",
                 "Time": "Sun Apr 12 02:30:57 +0000 2020"
             },
-            "geometry": "{\"type\":\"Point\", \"coordinates\":[-73.38497, 5.4904705]}"
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-73.38497, 5.4904705]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/878771184283897856/isqi1rGW_normal.jpg",
+                "Name": "ROCIO AVALOS ALMEIDA",
+                "Handle": "RocioAlmeida967",
+                "Tweet": "#SNTEsalud \u2695\ufe0f\n\nCon compromiso\u2714\ufe0f y solidaridad\u2714\ufe0f M\u00e9xico \ud83c\uddf2\ud83c\uddfd saldr\u00e1 adelante de la emergencia sanitaria por el\u2026 https://t.co/AKNiSVLMPn",
+                "TweetLink": "1249164248242061312",
+                "Place": "Centro",
+                "Time": "Sun Apr 12 02:35:39 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-92.9164995, 18.0219595]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1150964866905182208/9IQn8uY9_normal.jpg",
+                "Name": "Jazmin \ud83d\udc9b\ud83d\udc99\u2665\ufe0f",
+                "Handle": "jazharb",
+                "Tweet": "Cuando se usa la mentira es f\u00e1cil quedar como tonto; no hay mentira que no salga a la luz ni cr\u00edmen que no sea cast\u2026 https://t.co/SlfKGqqcNd",
+                "TweetLink": "1249164266437050371",
+                "Place": "Raleigh",
+                "Time": "Sun Apr 12 02:35:44 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-78.657837, 35.8439815]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1222864747311308800/m3MAxH8N_normal.jpg",
+                "Name": "Yulian Soriano",
+                "Handle": "Ysoriano_34",
+                "Tweet": "Que bueno, el pa\u00eds lo necesita, pero sigues siendo un inepto y no ser\u00e1s presidente...",
+                "TweetLink": "1249164356367122433",
+                "Place": "Baltimore",
+                "Time": "Sun Apr 12 02:36:05 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-76.620482, 39.284713]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1166714421428703234/ShAOEuB2_normal.jpg",
+                "Name": "Mary Joy Esclamado",
+                "Handle": "marialigaya_ph",
+                "Tweet": "Mga yawa!",
+                "TweetLink": "1249164360070631424",
+                "Place": "Davao City",
+                "Time": "Sun Apr 12 02:36:06 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[125.4432615, 7.3175825]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1047393767777619970/xhQaLJ4m_normal.jpg",
+                "Name": "KOIKIMEDIA",
+                "Handle": "KoikiMedia",
+                "Tweet": "Face of the rogue officer Taloju Martins, who extorted N40,000 from a man who went to buy foodstuffs around his are\u2026 https://t.co/ODTNxhLDHO",
+                "TweetLink": "1249164377871331328",
+                "Place": "Enfield",
+                "Time": "Sun Apr 12 02:36:10 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-0.0991635, 51.6452755]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/845416349463711747/S8haZnXj_normal.jpg",
+                "Name": "Amanda Rodriguez",
+                "Handle": "amandacuba19",
+                "Tweet": "Lo mejor para ver esta cuarentena...Un Paso Adelante \n@antena3com @UPA_France \n\n#actrizespa\u00f1ola #adelaramos\u2026 https://t.co/l2ohnqtPX5",
+                "TweetLink": "1249164417012465665",
+                "Place": "Miami",
+                "Time": "Sun Apr 12 02:36:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-80.2333285, 25.7823535]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919889098185125888/Q7xgTR7__normal.jpg",
+                "Name": "Adzizi",
+                "Handle": "adzizi",
+                "Tweet": "Dairy Free/Vegan Mushroom Cream of Soup #foodporn #mushroomsoup #adzizikitchen #vegan #veganfood #veganrecipes\u2026 https://t.co/8CO38Fwnsp",
+                "TweetLink": "1249164420829384706",
+                "Place": "Kuching",
+                "Time": "Sun Apr 12 02:36:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[110.333028, 1.4292295]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1101400775832461312/NANot_21_normal.jpg",
+                "Name": "Khalid Ameer Rafique",
+                "Handle": "Profkhalid",
+                "Tweet": "Supporting our partners in the fight against #Covid19. Consignment of hydroxichloroquine from India arrived at Newa\u2026 https://t.co/nasyRZAXSr",
+                "TweetLink": "1249164455520370688",
+                "Place": "Ahmadabad City",
+                "Time": "Sun Apr 12 02:36:29 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[72.570232, 23.013959]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1224541203103805441/ho8mCDtF_normal.jpg",
+                "Name": "JR du chocolat",
+                "Handle": "JRNovakoc",
+                "Tweet": "Al menos ya somos el nueve y no el 4 \ud83d\ude05",
+                "TweetLink": "1249164460310376449",
+                "Place": "Centro",
+                "Time": "Sun Apr 12 02:36:30 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-92.9164995, 18.0219595]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1191945493347213312/Oi9h7RJ8_normal.jpg",
+                "Name": "Bobby Moss",
+                "Handle": "chaloooga",
+                "Tweet": "I just found out that Sturgill Simpson has #COVID19 get well soon! Our thoughts and prayers are with you and everyo\u2026 https://t.co/5lpEWfDF8x",
+                "TweetLink": "1249164475246284800",
+                "Place": "South Carolina",
+                "Time": "Sun Apr 12 02:36:33 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-80.926628, 33.6311395]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1102078931077922816/TIo6JMnd_normal.jpg",
+                "Name": "Kimani Williams \ud83d\udc8b",
+                "Handle": "beautycutie95",
+                "Tweet": "Who knew fridges could be so rude? #COVID19 #StayAtHome #boredinthehouse #TikTok https://t.co/FFX6FviT5z",
+                "TweetLink": "1249164490744225795",
+                "Place": "Tulsa",
+                "Time": "Sun Apr 12 02:36:37 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-95.913642, 36.1093915]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/835545420864466944/1C_TpBRh_normal.jpg",
+                "Name": "D-Sizzle",
+                "Handle": "DSane206",
+                "Tweet": "#DateNight with #bae consists of #takeout #MexicanFood these days. 2 #chicken #enchiladas and 1 #taco with a\u2026 https://t.co/tbwIuZtfOX",
+                "TweetLink": "1249164507638894598",
+                "Place": "Seattle",
+                "Time": "Sun Apr 12 02:36:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-122.3306025, 47.614817]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1048094597346250752/ZcEr3Yf6_normal.jpg",
+                "Name": "John Janetzko",
+                "Handle": "jjanetzko",
+                "Tweet": "This tweet thread is savage: Both in the incompetence of the president, but also the bad-ass-ness of this reporter\u2026 https://t.co/ErZ3SajNnX",
+                "TweetLink": "1249164544993382403",
+                "Place": "Menlo Park",
+                "Time": "Sun Apr 12 02:36:50 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-122.1746685, 37.4619215]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242451080753094656/hoj7gcvN_normal.jpg",
+                "Name": "#8128",
+                "Handle": "JayJayHumble",
+                "Tweet": "Are they going to force them to build thier own gallows next?  Sickening\n\n#Murica\n#COVID19",
+                "TweetLink": "1249164546801008640",
+                "Place": "Kitchener",
+                "Time": "Sun Apr 12 02:36:50 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-80.4764035, 43.43024]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244774912079704064/ooc108qS_normal.jpg",
+                "Name": "Karri Ann Anderson",
+                "Handle": "KarriAnnPikula",
+                "Tweet": "To all those on the frontline. Thank you! #DistanceHugs #Frontline #COVID19 https://t.co/km8U9m1gRY",
+                "TweetLink": "1249164572893876224",
+                "Place": "Minnesota",
+                "Time": "Sun Apr 12 02:36:57 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-93.3613205, 46.4418605]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1229110178450067456/wh9NkkwP_normal.jpg",
+                "Name": "Frankie Caballes",
+                "Handle": "ThePreamble2",
+                "Tweet": "Day 16: EOS \ud83c\udfe0\ud83d\ude05\n\n#covid_19 #covid19 #coronacation https://t.co/JprZc51VN4",
+                "TweetLink": "1249164662207320065",
+                "Place": "S Hotel and Residences",
+                "Time": "Sun Apr 12 02:37:18 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[123.887963, 10.316858]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1185192325837922307/RB88i0w7_normal.jpg",
+                "Name": "Phyllis Bennett (nan",
+                "Handle": "PhyllisNan",
+                "Tweet": "Well i wish they could send me a bottle!! I have looked for any..cant find any in Wilson County N.C. #Proctor&amp;Gamble",
+                "TweetLink": "1249164695770222592",
+                "Place": "North Carolina",
+                "Time": "Sun Apr 12 02:37:26 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-79.861034, 35.1704985]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/793084433880403968/Ntk-piBo_normal.jpg",
+                "Name": "BPCL Pune Retail",
+                "Handle": "BPCRetailPune",
+                "Tweet": "Responsible food distribution with social distancing to assist lower income households in the #COVID19 era by our d\u2026 https://t.co/ZG4Biu06jl",
+                "TweetLink": "1249164780306341888",
+                "Place": "Pune",
+                "Time": "Sun Apr 12 02:37:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[73.884382, 18.520764]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1159271787114352640/YtOaAjku_normal.jpg",
+                "Name": "Larry K Robinson",
+                "Handle": "larryk101969",
+                "Tweet": "#QWorldWide #PainIsComing #WWG1WGA #GreatAwakening",
+                "TweetLink": "1249164812791304193",
+                "Place": "Spanish Fork",
+                "Time": "Sun Apr 12 02:37:54 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-111.642986, 40.11563]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/802725981081522176/MjH_fiDg_normal.jpg",
+                "Name": "Dusty's Bar & Grill",
+                "Handle": "dustysdenton",
+                "Tweet": "Check out our new survival buckets! #covid19 #quarantine #survivalbucket #dentondelivery #dentontx #happyeaster\u2026 https://t.co/wDGCx5KEcR",
+                "TweetLink": "1249164834668785664",
+                "Place": "Denton",
+                "Time": "Sun Apr 12 02:37:59 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-97.1147705, 33.2024955]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/798179652841811968/tcwsTFxQ_normal.jpg",
+                "Name": "Avraham Berkowitz",
+                "Handle": "GlobalRabbi",
+                "Tweet": "@DarrenCriss @CDCFound Thank you for supporting the frontline Healthcare workers fighting #COVID19 Our Heros! https://t.co/GZ28K9abwp",
+                "TweetLink": "1249164880940339201",
+                "Place": "Brooklyn",
+                "Time": "Sun Apr 12 02:38:10 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-73.9487755, 40.655138]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246071422348185610/i63OhwvM_normal.jpg",
+                "Name": "Jean Lain\u00e9",
+                "Handle": "BloJlaine911",
+                "Tweet": "https://t.co/bb79y4nvr8\nhttps://t.co/GBKJEk8Qzw\nWWG1WGA!!!\nQ",
+                "TweetLink": "1249164890453008386",
+                "Place": "Qu\u00e9bec",
+                "Time": "Sun Apr 12 02:38:12 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-71.3410585, 46.855857]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1144825762018713601/bjeUY9OM_normal.jpg",
+                "Name": "gigidivici \ud83d\ude4f\u2764\ud83c\uddfa\ud83c\uddf8",
+                "Handle": "gigidivici",
+                "Tweet": "#WWG1WGAWORLDWIDE  Heroes! Thank you! https://t.co/F6D8dO8CJs",
+                "TweetLink": "1249164899751809031",
+                "Place": "Crestwood",
+                "Time": "Sun Apr 12 02:38:15 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-85.460404, 38.3430515]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1153058914407198720/2IG-Qj6E_normal.jpg",
+                "Name": "Impulso Deportivo",
+                "Handle": "impulsodep",
+                "Tweet": "@VladiH16 jugador de @nacionaloficial deja su mensaje de cuidarnos. .\n.\n.\n#ImpulsoDeportivo #UnidosEsMejor\u2026 https://t.co/tOxfem5r1t",
+                "TweetLink": "1249164969872101377",
+                "Place": "Barranquilla",
+                "Time": "Sun Apr 12 02:38:31 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-74.849933, 10.958073]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1138151469788647424/tQfW0A85_normal.jpg",
+                "Name": "Kait Walush\ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f",
+                "Handle": "kait_walush",
+                "Tweet": "Easter weekend is one of my favorite times down the shore\ud83d\ude2d\ud83d\udc94",
+                "TweetLink": "1249165024456826881",
+                "Place": "Pennsylvania",
+                "Time": "Sun Apr 12 02:38:44 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-77.604684, 41.1179365]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/944312241624555520/V2qhs3zL_normal.jpg",
+                "Name": "Thomas A. Fitzgerald",
+                "Handle": "CadillacRiver",
+                "Tweet": "@Pontifex Don't be an idiot. #COVID19 is a real health crisis. #StayAtHome Why isn't the Catholic Church using thei\u2026 https://t.co/OyalrzQU5K",
+                "TweetLink": "1249165030962204678",
+                "Place": "Los Angeles",
+                "Time": "Sun Apr 12 02:38:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-118.4119065, 34.0207895]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1238599890038599682/b3MikMsK_normal.jpg",
+                "Name": "Saudith Magela\ud83c\udf49",
+                "Handle": "SauMagela",
+                "Tweet": "Que hijueputas! Los m\u00e9dicos no tiene garant\u00edas @IvanDuque @MinSaludCol haga algo por el amor de Dios! Los m\u00e9dicos,\u2026 https://t.co/KwdAjiNd8v",
+                "TweetLink": "1249165036918104066",
+                "Place": "Valledupar",
+                "Time": "Sun Apr 12 02:38:47 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-73.463286, 10.3244505]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1232484422974410752/OhQvaevz_normal.jpg",
+                "Name": "\ud83c\udf1fFACTS\ud83c\udf1fMATTER\ud83c\udf1f",
+                "Handle": "fAcTsMaTeR",
+                "Tweet": "Q'd",
+                "TweetLink": "1249165062041894912",
+                "Place": "South Roxana",
+                "Time": "Sun Apr 12 02:38:53 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-90.059311, 38.823065]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/944240372477300736/p1hQNOo9_normal.jpg",
+                "Name": "Sharlene McDuffie",
+                "Handle": "mc_duffie1",
+                "Tweet": "I needed to see this! \ud83e\udd86",
+                "TweetLink": "1249165083411873794",
+                "Place": "Seat Pleasant",
+                "Time": "Sun Apr 12 02:38:58 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-76.899536, 38.900883]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248769941723021313/rx9nMeh2_normal.jpg",
+                "Name": "venezuela2016",
+                "Handle": "imonsa",
+                "Tweet": "Ciertamente ojal\u00e1 reaccionen ...",
+                "TweetLink": "1249165096556920833",
+                "Place": "Petare",
+                "Time": "Sun Apr 12 02:39:02 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-66.815766, 10.485083]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249087198567239692/TfEwx-sl_normal.jpg",
+                "Name": "\u2728",
+                "Handle": "bbykhaii",
+                "Tweet": "Yesza...since i am an insurance agent, the takaful industry initiative make me proud",
+                "TweetLink": "1249165104442224641",
+                "Place": "Gelong",
+                "Time": "Sun Apr 12 02:39:03 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[100.40955, 6.3034165]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1017333933581615105/lijLThhq_normal.jpg",
+                "Name": "Apple Taton",
+                "Handle": "AppleTaton",
+                "Tweet": "#TravelFromHome\n#StayHome\ud83c\udfe0\n#Covid19 @ Olkhon Island https://t.co/1q6UyxyU4s",
+                "TweetLink": "1249165124713304067",
+                "Place": "\u041e\u043b\u044c\u0445\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "Time": "Sun Apr 12 02:39:08 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[107.107007, 53.476174]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1190276758693658625/8_65je6d_normal.jpg",
+                "Name": "\u2112\u2134\ud835\udcc7\ud835\udcbe\ud835\udca2\ud835\udcbe\ud835\udcc7\ud835\udcc1 \ud83e\udd8b #WWG1WGA \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 IFBAP",
+                "Handle": "LoriGirl_Texas",
+                "Tweet": "#3946\n\nhttps://t.co/UUajQYCAIg\nWWG1WGA!!!\nQ",
+                "TweetLink": "1249165160675246083",
+                "Place": "Santa Fe",
+                "Time": "Sun Apr 12 02:39:17 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-95.1221375, 29.3810045]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/551209220541284352/bdB3M4cJ_normal.jpeg",
+                "Name": "Marilyn McDole",
+                "Handle": "WIActivist",
+                "Tweet": "LBJ-Goldwater 1964.",
+                "TweetLink": "1249165171702075393",
+                "Place": "Oregon",
+                "Time": "Sun Apr 12 02:39:19 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-89.3924115, 42.9138395]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248812322019254272/BTEURSir_normal.jpg",
+                "Name": "Mary Hudzinski",
+                "Handle": "IAM4DUKE",
+                "Tweet": "So proud to be a Cree employee. \u2728",
+                "TweetLink": "1249165220167245831",
+                "Place": "North Carolina",
+                "Time": "Sun Apr 12 02:39:31 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-79.861034, 35.1704985]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000072492068/f8db62a42ef5465cd164e6621f41a6e7_normal.jpeg",
+                "Name": "Dawn Scott",
+                "Handle": "dawnerscott",
+                "Tweet": "Jefferson county #Arkansas coroner reports 4 #COVID19 deaths so far: \n1.  Date of Death: 04/04/2020 female age rang\u2026 https://t.co/Uyxziv704N",
+                "TweetLink": "1249165224114098179",
+                "Place": "Little Rock",
+                "Time": "Sun Apr 12 02:39:32 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-92.342322, 34.721886]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3356474142/3e46f3d6003fe1f5fe344f2a994206c0_normal.jpeg",
+                "Name": "Devin Newsom",
+                "Handle": "DevinNewsom",
+                "Tweet": "You know it\u2019s bad when even @FoxNews thinks @GovStitt is wrong in not issuing a state wide shelter in place order..\u2026 https://t.co/mSclbvLK4R",
+                "TweetLink": "1249165271601946624",
+                "Place": "Moore",
+                "Time": "Sun Apr 12 02:39:43 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-97.4636445, 35.327468]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1031620973840216064/cNjNTz9v_normal.jpg",
+                "Name": "Lu\u00eds carlos Vieiira",
+                "Handle": "VieiiraLuis",
+                "Tweet": "Desejo um muito obrigado ao G,Miotto do Cm/s que nos orgulha muito pois aqui em Cruz Alta rs o 29 gac/ ap e a Easa\u2026 https://t.co/j8w95pmMOy",
+                "TweetLink": "1249165298319667201",
+                "Place": "Cruz Alta",
+                "Time": "Sun Apr 12 02:39:50 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-53.5191935, -28.717196]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246795437341847552/qzznFOxU_normal.jpg",
+                "Name": "Ethan \"I am not the meeting host\" Harp",
+                "Handle": "EthanHarpNews",
+                "Tweet": "@edflinkinp @LBCeleste Here\u2019s a much better compressed photo, taken by a professional here in New York City a few w\u2026 https://t.co/OnYkGQDphn",
+                "TweetLink": "1249165480687996929",
+                "Place": "Manhattan",
+                "Time": "Sun Apr 12 02:40:33 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-73.9685415, 40.780709]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/637463126682656768/8Inp0n_y_normal.jpg",
+                "Name": "LUZMITA",
+                "Handle": "Luzdelahoz",
+                "Tweet": "Hacemos un llamado a su marido alias \" el se\u00f1or de las ligas\" para que devuelva algunos fajos de billetes que se em\u2026 https://t.co/CDAgcjMGQ0",
+                "TweetLink": "1249165506394849280",
+                "Place": "Iztapalapa",
+                "Time": "Sun Apr 12 02:40:39 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[-99.050461, 19.3427885]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248020816207294464/AAqyXNUz_normal.jpg",
+                "Name": "Miyase I\u015f\u0131k",
+                "Handle": "miyaseisik16",
+                "Tweet": "Adam \u00fcslubunu bozmadan, nazik bir \u015fekilde uzun uzun yazarak y\u00fcr\u00fcd\u00fc yaa.. \ud83d\ude48\nBunlar hep #covid19 dan \ud83d\ude0e https://t.co/Spy1U3O42o",
+                "TweetLink": "1249165541727756295",
+                "Place": "Bursa",
+                "Time": "Sun Apr 12 02:40:48 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[29.1205295, 40.202796]"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884450261816680448/VyuNf5qU_normal.jpg",
+                "Name": "Anish Aravind",
+                "Handle": "anisharavind",
+                "Tweet": "@LionelJDPaul @tanvi_gautam @AbhijitBhaduri @MahasWorld @leenasahijwani @kshankar21 @PrabirJha @aquilbusrai\u2026 https://t.co/YuonZKVBbm",
+                "TweetLink": "1249165658518106112",
+                "Place": "Kanayannur",
+                "Time": "Sun Apr 12 02:41:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": "[76.350955, 9.947274]"
+            }
         }
     ]
 }
