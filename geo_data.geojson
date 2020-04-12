@@ -399,6 +399,25 @@
                     41.6168475
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239645918204317696/Cdvqxp3o_normal.jpg",
+                "Name": "vm \u274a",
+                "Handle": "tentwentysixpm",
+                "Tweet": "@coco_mathes reminds me, i gotta go buy some cadbury mini eggs.",
+                "TweetLink": "1249427147925540864",
+                "Place": "Los Angeles",
+                "Time": "Sun Apr 12 20:00:19 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
