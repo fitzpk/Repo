@@ -38,6 +38,25 @@
                     -34.7028055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2993444511/e40ccce8f69518c8ac9c42373cc6cf84_normal.jpeg",
+                "Name": "\u30c1\u30c3\u30dd\u30b0\u30e9\u30d5\u30a3\u30a2",
+                "Handle": "tipografia_",
+                "Tweet": "\u266aDavid Bowie/Let\u2019s Dance #nowplaying \u5834\u6240: \u30c1\u30c3\u30dd\u30b0\u30e9\u30d5\u30a3\u30a2 https://t.co/3amauA0gdy",
+                "TweetLink": "1249200527205969920",
+                "Place": "\u8c4a\u4e2d\u5e02",
+                "Time": "Sun Apr 12 04:59:49 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.474644,
+                    34.777811
+                ]
+            }
         }
     ]
 }
