@@ -1,4 +1,24 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1219963848364564486/aZk6bbLx_normal.jpg",
+                "Name": "Shelley",
+                "Handle": "IgnatiusJR",
+                "Tweet": "Man. Watched Perks of Being a Wallflower tonight. Then all these Hulu ads from Walmart. So much David Bowie \u201cHeroes.\u201d \u2600\ufe0f",
+                "TweetLink": "1249198021239242760",
+                "Place": "Little Rock",
+                "Time": "Sun Apr 12 04:49:51 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.342322,
+                    34.721886
+                ]
+            }
+        }
+    ]
 }
