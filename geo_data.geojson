@@ -19,6 +19,44 @@
                     6.270883
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1224148804393406464/DNa3IGNS_normal.jpg",
+                "Name": "Michelle",
+                "Handle": "m_sleblanc",
+                "Tweet": "I wish I had mini-eggs. #easter",
+                "TweetLink": "1249401406919933956",
+                "Place": "Dieppe",
+                "Time": "Sun Apr 12 18:18:02 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.6859945,
+                    46.0780865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1149736713448673280/RJfZE6yh_normal.jpg",
+                "Name": "Rob \ud83e\udd20",
+                "Handle": "leaningcowboy",
+                "Tweet": "@SCUBADubois There's a lot of mini-eggs.",
+                "TweetLink": "1249401464973193217",
+                "Place": "Calgary",
+                "Time": "Sun Apr 12 18:18:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
+                ]
+            }
         }
     ]
 }
