@@ -418,6 +418,44 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1142168960479191040/cZAPA0r-_normal.jpg",
+                "Name": "Lisa J \u2661\u256a\u2661",
+                "Handle": "enye6447_lisa",
+                "Tweet": "Yas.....dont not disturb #TheNest #bbcscotland #minieggs #perfect @martin_compston https://t.co/8WAVw9Wq8z",
+                "TweetLink": "1249428624467427330",
+                "Place": "Helensburgh",
+                "Time": "Sun Apr 12 20:06:11 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.730067,
+                    56.006441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/569513517930127360/RmW4ef0D_normal.png",
+                "Name": "KB",
+                "Handle": "KBNeuroinfo",
+                "Tweet": "@indigorehab Mini eggs were everything I dreamed of https://t.co/wbC0oT1kn9",
+                "TweetLink": "1249429283040366592",
+                "Place": "Crickhowell",
+                "Time": "Sun Apr 12 20:08:49 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1366405,
+                    51.861173
+                ]
+            }
         }
     ]
 }
