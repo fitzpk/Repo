@@ -380,6 +380,25 @@
                     55.8209155
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242541294775345153/wbBvRBA9_normal.jpg",
+                "Name": "Ophelia37",
+                "Handle": "Susana15582187",
+                "Tweet": "Quin parell!!! I el vestit de Tina \ud83d\ude0d\nTina Turner - Tonight (with David Bowie) https://t.co/7DQgyZgXR0",
+                "TweetLink": "1249415040689672192",
+                "Place": "Sentmenat",
+                "Time": "Sun Apr 12 19:12:13 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1276895,
+                    41.6168475
+                ]
+            }
         }
     ]
 }
