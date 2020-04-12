@@ -76,6 +76,25 @@
                     55.010253
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1234945625155874817/TkP4G0Or_normal.jpg",
+                "Name": "B\u00e1rbara Scarambone",
+                "Handle": "babee",
+                "Tweet": "o @NexoJornal tamb\u00e9m falou sobre: https://t.co/8wvLvTGpgw",
+                "TweetLink": "1249347637024894976",
+                "Place": "Sao Paulo",
+                "Time": "Sun Apr 12 14:44:23 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.5955455,
+                    -23.682803
+                ]
+            }
         }
     ]
 }
