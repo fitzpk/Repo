@@ -114,6 +114,44 @@
                     37.2691755
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1101179629547581440/DLihDRyu_normal.jpg",
+                "Name": "Esme Skye Velasquez\u200b",
+                "Handle": "Saffronian_ES",
+                "Tweet": "Wow, so I introduced David Bowie to someone. I'm so surprised &amp; very upset they had no idea who they were, even my\u2026 https://t.co/qODcy1mgNm",
+                "TweetLink": "1249354339614969862",
+                "Place": "Vallejo",
+                "Time": "Sun Apr 12 15:11:01 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2302225,
+                    38.114777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1219182402838265857/sO5UjNxv_normal.jpg",
+                "Name": "Liz Beardsworth",
+                "Handle": "LizzieBee2",
+                "Tweet": "First in an occasional series of people sounding like other people. To me. Not that you asked. Always think Rebel R\u2026 https://t.co/v1rE15bQpP",
+                "TweetLink": "1249354893942497282",
+                "Place": "Hastings",
+                "Time": "Sun Apr 12 15:13:13 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.565823,
+                    50.8717925
+                ]
+            }
         }
     ]
 }
