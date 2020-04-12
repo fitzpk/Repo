@@ -114,6 +114,44 @@
                     53.906042
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1219010165908955136/sH1qMnva_normal.jpg",
+                "Name": "Taylor Ando (Imeson)",
+                "Handle": "TaylorImeson",
+                "Tweet": "If you have not finished a bag of @cadbury mini eggs by now on your own, you are not celebrating isolation Easter right.",
+                "TweetLink": "1249404625276583937",
+                "Place": "Fort Erie",
+                "Time": "Sun Apr 12 18:30:50 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0140985,
+                    42.87171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1202802586895749120/FlxnI6Wf_normal.jpg",
+                "Name": "eastcoastphoenix",
+                "Handle": "EstCoastPhoenix",
+                "Tweet": "It\u2019s just me and the dogs this Easter. Been eating a few Cadbury mini eggs here and there and watching #CupcakeandDino. Good enough for me.",
+                "TweetLink": "1249404668133937152",
+                "Place": "Latham",
+                "Time": "Sun Apr 12 18:31:00 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.763825,
+                    42.7391215
+                ]
+            }
         }
     ]
 }
