@@ -95,6 +95,25 @@
                     -23.682803
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1218340965510868993/OHSt1sai_normal.jpg",
+                "Name": "Jessica Dang",
+                "Handle": "jessicadangsays",
+                "Tweet": "One of the characters in my Seinfeld-esque dream last night was a mix between David Spade, David Bowie and Ricky Ge\u2026 https://t.co/rJXmdtk4Ap",
+                "TweetLink": "1249352448751194114",
+                "Place": "California",
+                "Time": "Sun Apr 12 15:03:30 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
