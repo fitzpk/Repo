@@ -285,6 +285,25 @@
                     19.473794
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027715521/Image0008_normal.JPG",
+                "Name": "gregory palacios",
+                "Handle": "gregthebanker",
+                "Tweet": "Just watched a great documentary on David Bowie, David Bowie: Finding Fame on Showtime a must see.",
+                "TweetLink": "1249411622059167745",
+                "Place": "Alhambra",
+                "Time": "Sun Apr 12 18:58:38 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.136676,
+                    34.0855965
+                ]
+            }
         }
     ]
 }
