@@ -76,6 +76,44 @@
                     51.636267
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246662350415040514/Q19bIioX_normal.jpg",
+                "Name": "Morgan Johns",
+                "Handle": "Johns06Morgan",
+                "Tweet": "just realized that mini eggs are just egg-shaped smarties",
+                "TweetLink": "1249403197149634560",
+                "Place": "Parry Sound",
+                "Time": "Sun Apr 12 18:25:09 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.037905,
+                    45.350126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1206542451323920384/Xle6sT7__normal.jpg",
+                "Name": "Martin Nesbitt",
+                "Handle": "mnesbitt70",
+                "Tweet": "@neilparkinson74 Mini eggs.\n. ..... yum",
+                "TweetLink": "1249403549563392000",
+                "Place": "Louth",
+                "Time": "Sun Apr 12 18:26:33 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.395643,
+                    53.906042
+                ]
+            }
         }
     ]
 }
