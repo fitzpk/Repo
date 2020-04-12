@@ -304,6 +304,25 @@
                     34.0855965
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1240794875756453889/PJ-Mt8cp_normal.jpg",
+                "Name": "Karen Sharples",
+                "Handle": "Kagsy25",
+                "Tweet": "When I'm not eating Cadbury mini eggs,I'm eatin these; obsessed , Dairy milk buttons ice cream cones, yummy in ma t\u2026 https://t.co/29Cy5e06lL",
+                "TweetLink": "1249412582861156358",
+                "Place": "Rainhill",
+                "Time": "Sun Apr 12 19:02:27 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.764813,
+                    53.4140275
+                ]
+            }
         }
     ]
 }
