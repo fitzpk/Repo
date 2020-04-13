@@ -190,6 +190,25 @@
                     51.358931
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233826688167010305/3cqmXccO_normal.jpg",
+                "Name": "Jojo",
+                "Handle": "humanjuggler",
+                "Tweet": "@sueveneer @ryanmichler I've been to work and I've eaten a shit load of mini eggs.",
+                "TweetLink": "1249801719594258434",
+                "Place": "Brixworth",
+                "Time": "Mon Apr 13 20:48:44 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.903591,
+                    52.3305875
+                ]
+            }
         }
     ]
 }
