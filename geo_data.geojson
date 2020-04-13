@@ -171,6 +171,25 @@
                     51.066643
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1073902471905505281/XeTO0sMy_normal.jpg",
+                "Name": "Eloise",
+                "Handle": "eloisekuljanic",
+                "Tweet": "Petition for mini eggs and creme eggs to be in shops all year round",
+                "TweetLink": "1249798984606068736",
+                "Place": "Croydon",
+                "Time": "Mon Apr 13 20:37:52 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092633,
+                    51.358931
+                ]
+            }
         }
     ]
 }
