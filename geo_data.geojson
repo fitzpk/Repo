@@ -76,6 +76,44 @@
                     55.012153
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233690552421535744/IxvqmywE_normal.jpg",
+                "Name": "\ud835\ude95\ud835\ude8a\ud835\ude9e\ud835\ude9b\ud835\ude8e\ud835\ude97",
+                "Handle": "laurxnhyde",
+                "Tweet": "@gbs_erin woah woah woah erin. mini eggs are heavenly",
+                "TweetLink": "1249748909141962752",
+                "Place": "West Kilbride",
+                "Time": "Mon Apr 13 17:18:53 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.858497,
+                    55.689195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/850014981689143299/xVemSbKP_normal.jpg",
+                "Name": "Dawn Torrington DBFY",
+                "Handle": "bizforyourself",
+                "Tweet": "Working on biz while munching on Cadbury's mini eggs! #EasterMonday. How are you spending yours? @VAServicesBecci\u2026 https://t.co/i4sLKJhvul",
+                "TweetLink": "1249748976317988864",
+                "Place": "Oldham",
+                "Time": "Mon Apr 13 17:19:09 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1168695,
+                    53.5428655
+                ]
+            }
         }
     ]
 }
