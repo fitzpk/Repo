@@ -1,4 +1,24 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233153838338756614/FXiKfaeT_normal.jpg",
+                "Name": "Rebecca \ud83e\ude90",
+                "Handle": "rebeccahamptoxn",
+                "Tweet": "PERIOD",
+                "TweetLink": "1249690243286081537",
+                "Place": "Cambridge",
+                "Time": "Mon Apr 13 13:25:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135916,
+                    52.200974
+                ]
+            }
+        }
+    ]
 }
