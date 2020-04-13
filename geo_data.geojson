@@ -114,6 +114,25 @@
                     53.5428655
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1247082198416719872/YFKbnhUq_normal.jpg",
+                "Name": "Andy Fitchet",
+                "Handle": "AndyFitchet",
+                "Tweet": "I CAN'T STOP EATING THE MINI EGGS. \n\nSEND HELP.\n\nAnd by that I mean more mini eggs as I have fewer than 10 left.",
+                "TweetLink": "1249751518653415426",
+                "Place": "Andover",
+                "Time": "Mon Apr 13 17:29:15 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4949325,
+                    51.2128565
+                ]
+            }
         }
     ]
 }
