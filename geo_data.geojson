@@ -133,6 +133,25 @@
                     51.2128565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1189335864415051776/3_9Fu4rO_normal.jpg",
+                "Name": "almondbutter chip",
+                "Handle": "carlyflwr",
+                "Tweet": "Ashley showed me a picture of mini cadburry eggs and said I\u2019m buying these little bitches today",
+                "TweetLink": "1249752381530812418",
+                "Place": "Alafaya",
+                "Time": "Mon Apr 13 17:32:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1850665,
+                    28.529141
+                ]
+            }
         }
     ]
 }
