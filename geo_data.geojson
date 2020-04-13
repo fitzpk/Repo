@@ -38,6 +38,25 @@
                     53.4569525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239295800561319936/6ayKkTOl_normal.jpg",
+                "Name": "Laura Stirling",
+                "Handle": "laura_stirling",
+                "Tweet": "Loving having more time to cook. Brekkie this morning comprised Mexican scrambled eggs on crispy chorizo. Lunch was\u2026 https://t.co/b5Pony5H4a",
+                "TweetLink": "1249740458760253442",
+                "Place": "Reading",
+                "Time": "Mon Apr 13 16:45:19 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9820305,
+                    51.452524
+                ]
+            }
         }
     ]
 }
