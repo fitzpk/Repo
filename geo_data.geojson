@@ -285,6 +285,25 @@
                     45.248791
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1237915297358716930/qcG5gO7u_normal.jpg",
+                "Name": "Jan Lentzos",
+                "Handle": "Jan_Lentzos",
+                "Tweet": "I\u2019m feeling very grateful for my surprise Easter gifts... \u263a\ufe0f\n#Surprise #EasterGifts #Aldi #Pi\u00f1ataChick #MiniEggs\u2026 https://t.co/vhKsYw3LvH",
+                "TweetLink": "1249866252438380544",
+                "Place": "Silsden",
+                "Time": "Tue Apr 14 01:05:10 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.940163,
+                    53.9134215
+                ]
+            }
         }
     ]
 }
