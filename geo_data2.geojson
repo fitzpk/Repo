@@ -1,4 +1,291 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233153838338756614/FXiKfaeT_normal.jpg",
+                "Name": "Rebecca \ud83e\ude90",
+                "Handle": "rebeccahamptoxn",
+                "Tweet": "PERIOD",
+                "TweetLink": "1249690243286081537",
+                "Place": "Cambridge",
+                "Time": "Mon Apr 13 13:25:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135916,
+                    52.200974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244737112001384448/Vuh87yu8_normal.jpg",
+                "Name": "Martin",
+                "Handle": "marsne93",
+                "Tweet": "@Maltease81 *opens 3rd bag of mini eggs* https://t.co/HsO55MVKrp",
+                "TweetLink": "1249691639339237376",
+                "Place": "Manchester",
+                "Time": "Mon Apr 13 13:31:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.23348,
+                    53.4569525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239295800561319936/6ayKkTOl_normal.jpg",
+                "Name": "Laura Stirling",
+                "Handle": "laura_stirling",
+                "Tweet": "Loving having more time to cook. Brekkie this morning comprised Mexican scrambled eggs on crispy chorizo. Lunch was\u2026 https://t.co/b5Pony5H4a",
+                "TweetLink": "1249740458760253442",
+                "Place": "Reading",
+                "Time": "Mon Apr 13 16:45:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9820305,
+                    51.452524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249746411379449856/Ae9TZG5__normal.jpg",
+                "Name": "Chelsea",
+                "Handle": "Inmyheadgrande_",
+                "Tweet": "The smell of mini eggs is fucking beaut",
+                "TweetLink": "1249747129209364486",
+                "Place": "United Kingdom",
+                "Time": "Mon Apr 13 17:11:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4468685,
+                    55.012153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233690552421535744/IxvqmywE_normal.jpg",
+                "Name": "\ud835\ude95\ud835\ude8a\ud835\ude9e\ud835\ude9b\ud835\ude8e\ud835\ude97",
+                "Handle": "laurxnhyde",
+                "Tweet": "@gbs_erin woah woah woah erin. mini eggs are heavenly",
+                "TweetLink": "1249748909141962752",
+                "Place": "West Kilbride",
+                "Time": "Mon Apr 13 17:18:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.858497,
+                    55.689195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/850014981689143299/xVemSbKP_normal.jpg",
+                "Name": "Dawn Torrington DBFY",
+                "Handle": "bizforyourself",
+                "Tweet": "Working on biz while munching on Cadbury's mini eggs! #EasterMonday. How are you spending yours? @VAServicesBecci\u2026 https://t.co/i4sLKJhvul",
+                "TweetLink": "1249748976317988864",
+                "Place": "Oldham",
+                "Time": "Mon Apr 13 17:19:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1168695,
+                    53.5428655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1247082198416719872/YFKbnhUq_normal.jpg",
+                "Name": "Andy Fitchet",
+                "Handle": "AndyFitchet",
+                "Tweet": "I CAN'T STOP EATING THE MINI EGGS. \n\nSEND HELP.\n\nAnd by that I mean more mini eggs as I have fewer than 10 left.",
+                "TweetLink": "1249751518653415426",
+                "Place": "Andover",
+                "Time": "Mon Apr 13 17:29:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4949325,
+                    51.2128565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1189335864415051776/3_9Fu4rO_normal.jpg",
+                "Name": "almondbutter chip",
+                "Handle": "carlyflwr",
+                "Tweet": "Ashley showed me a picture of mini cadburry eggs and said I\u2019m buying these little bitches today",
+                "TweetLink": "1249752381530812418",
+                "Place": "Alafaya",
+                "Time": "Mon Apr 13 17:32:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1850665,
+                    28.529141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1161630699117563904/4SNLbUCn_normal.jpg",
+                "Name": "Wertherdog",
+                "Handle": "emmerrrrr",
+                "Tweet": "Mini eggs are god tier",
+                "TweetLink": "1249796386628841474",
+                "Place": "Canmore",
+                "Time": "Mon Apr 13 20:27:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.327674,
+                    51.066643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1073902471905505281/XeTO0sMy_normal.jpg",
+                "Name": "Eloise",
+                "Handle": "eloisekuljanic",
+                "Tweet": "Petition for mini eggs and creme eggs to be in shops all year round",
+                "TweetLink": "1249798984606068736",
+                "Place": "Croydon",
+                "Time": "Mon Apr 13 20:37:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092633,
+                    51.358931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1233826688167010305/3cqmXccO_normal.jpg",
+                "Name": "Jojo",
+                "Handle": "humanjuggler",
+                "Tweet": "@sueveneer @ryanmichler I've been to work and I've eaten a shit load of mini eggs.",
+                "TweetLink": "1249801719594258434",
+                "Place": "Brixworth",
+                "Time": "Mon Apr 13 20:48:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.903591,
+                    52.3305875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1228899183328997376/OzcyFL_7_normal.jpg",
+                "Name": "Gabrielle Barnhill",
+                "Handle": "gabbyhurd1",
+                "Tweet": "I eat Cadbury chocolate mini eggs like I can\u2019t gain weight eating them.",
+                "TweetLink": "1249846936166957057",
+                "Place": "Oklahoma",
+                "Time": "Mon Apr 13 23:48:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.716992,
+                    35.3090465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1148766550930972672/KK7nFOHZ_normal.jpg",
+                "Name": "Eric Vanden Eykel",
+                "Handle": "evandeneykel",
+                "Tweet": "Correct.",
+                "TweetLink": "1249847249565290496",
+                "Place": "Roanoke",
+                "Time": "Mon Apr 13 23:49:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.95791,
+                    37.2744885
+                ]
+            }
+        }
+    ]
 }
