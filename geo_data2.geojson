@@ -286,6 +286,50 @@
                     37.2744885
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973702214027038720/eLu1W0y8_normal.jpg",
+                "Name": "Jaime Barclay",
+                "Handle": "jaimebarclay",
+                "Tweet": "Typically the Monday after Easter I'm rushing to the stores to buy up all of the discounted Cadbury mini eggs and s\u2026 https://t.co/f4NHPCi7qo",
+                "TweetLink": "1249849630281682945",
+                "Place": "Brooklyn",
+                "Time": "Mon Apr 13 23:59:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487755,
+                    40.655138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1186770147136167938/HHXOqlmD_normal.jpg",
+                "Name": "Melissa Staddon (she/her)",
+                "Handle": "staddon_melissa",
+                "Tweet": "Cadbury mini eggs and Schitt's Creek. My Monday evening",
+                "TweetLink": "1249851638669508609",
+                "Place": "Ottawa",
+                "Time": "Tue Apr 14 00:07:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8001415,
+                    45.248791
+                ]
+            }
         }
     ]
 }
