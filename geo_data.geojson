@@ -133,6 +133,25 @@
                     55.8583025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1668080357/Front_normal.jpg",
+                "Name": "Oliver's Coffee House",
+                "Handle": "OliversSherbs",
+                "Tweet": "I've spent the WHOLE day scrubbing and cleaning so yes, I've just eaten a bag of Mini Eggs as a reward",
+                "TweetLink": "1250446166661136387",
+                "Place": "Sherborne",
+                "Time": "Wed Apr 15 15:29:32 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.521192,
+                    50.9489265
+                ]
+            }
         }
     ]
 }
