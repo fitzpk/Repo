@@ -76,6 +76,25 @@
                     53.119871
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1165722409653198851/ooy0SRU__normal.jpg",
+                "Name": "MissHeardGeog",
+                "Handle": "GeogHeard",
+                "Tweet": "Post Easter baking with the left over mini eggs \ud83d\ude0d https://t.co/LLmFDNDOTe",
+                "TweetLink": "1250433784383586305",
+                "Place": "Reading",
+                "Time": "Wed Apr 15 14:40:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9820305,
+                    51.452524
+                ]
+            }
         }
     ]
 }
