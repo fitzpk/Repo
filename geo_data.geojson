@@ -95,6 +95,25 @@
                     51.452524
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920881446180540416/ZC4i5vqe_normal.jpg",
+                "Name": "Richard McInnes",
+                "Handle": "TheTichur",
+                "Tweet": "The wife just asked me where the rest of the Belgian chocolate mini eggs are? Telt her they must a fledged \ud83e\udd37",
+                "TweetLink": "1250440642183827458",
+                "Place": "Harrogate",
+                "Time": "Wed Apr 15 15:07:35 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.541876,
+                    53.991231
+                ]
+            }
         }
     ]
 }
