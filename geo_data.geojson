@@ -4,25 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1161630699117563904/4SNLbUCn_normal.jpg",
-                "Name": "Wertherdog",
-                "Handle": "emmerrrrr",
-                "Tweet": "Mini eggs are god tier",
-                "TweetLink": "1249796386628841474",
-                "Place": "Canmore",
-                "Time": "Mon Apr 13 20:27:33 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.327674,
-                    51.066643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1073902471905505281/XeTO0sMy_normal.jpg",
                 "Name": "Eloise",
                 "Handle": "eloisekuljanic",
