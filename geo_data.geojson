@@ -190,6 +190,25 @@
                     51.8963135
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "Name": "Blair Mayne",
+                "Handle": "BlairMayne1",
+                "Tweet": "Hoarding confession: just bought 8 packets of mini eggs at Tesco\u2019s, on offer at 25p a packet!",
+                "TweetLink": "1250479102202699780",
+                "Place": "Northern Ireland",
+                "Time": "Wed Apr 15 17:40:25 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.81351,
+                    54.667202
+                ]
+            }
         }
     ]
 }
