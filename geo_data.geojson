@@ -4,25 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1186770147136167938/HHXOqlmD_normal.jpg",
-                "Name": "Melissa Staddon (she/her)",
-                "Handle": "staddon_melissa",
-                "Tweet": "Cadbury mini eggs and Schitt's Creek. My Monday evening",
-                "TweetLink": "1249851638669508609",
-                "Place": "Ottawa",
-                "Time": "Tue Apr 14 00:07:06 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.8001415,
-                    45.248791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1237915297358716930/qcG5gO7u_normal.jpg",
                 "Name": "Jan Lentzos",
                 "Handle": "Jan_Lentzos",
