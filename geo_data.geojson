@@ -152,6 +152,44 @@
                     50.9489265
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1204323802143973376/QrQZdiPn_normal.jpg",
+                "Name": "Matty.",
+                "Handle": "matty_stamp_",
+                "Tweet": "Am I too late for the old 'stick some cadburys mini eggs on a chocolate cupcake because it's Easter' fad?\u2026 https://t.co/r7Nwcho43J",
+                "TweetLink": "1250468982819258374",
+                "Place": "Bar Hill",
+                "Time": "Wed Apr 15 17:00:12 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0206035,
+                    52.2526185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1172981631910580224/8jXY35-3_normal.jpg",
+                "Name": "Ashleigh J",
+                "Handle": "MrsBlondielocks",
+                "Tweet": "Wednesday (?) afternoon bath, mini eggs and thatchers ros\u00e9\nLockdown could be worse \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\n#thatchers #minieggs\u2026 https://t.co/uyTKiNNFhA",
+                "TweetLink": "1250469137836576768",
+                "Place": "Cheltenham",
+                "Time": "Wed Apr 15 17:00:49 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0877745,
+                    51.8963135
+                ]
+            }
         }
     ]
 }
