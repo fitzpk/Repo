@@ -19,6 +19,25 @@
                     43.832313
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1231841070750691330/-5HuF1F-_normal.jpg",
+                "Name": "James Blackwell",
+                "Handle": "BlackwellJ_",
+                "Tweet": "I\u2019m really big on those little mini solid chocolate Easter eggs",
+                "TweetLink": "1250321107103580162",
+                "Place": "Sydney",
+                "Time": "Wed Apr 15 07:12:36 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
