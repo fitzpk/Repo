@@ -4,44 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1228899183328997376/OzcyFL_7_normal.jpg",
-                "Name": "Gabrielle Barnhill",
-                "Handle": "gabbyhurd1",
-                "Tweet": "I eat Cadbury chocolate mini eggs like I can\u2019t gain weight eating them.",
-                "TweetLink": "1249846936166957057",
-                "Place": "Oklahoma",
-                "Time": "Mon Apr 13 23:48:25 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.716992,
-                    35.3090465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1148766550930972672/KK7nFOHZ_normal.jpg",
-                "Name": "Eric Vanden Eykel",
-                "Handle": "evandeneykel",
-                "Tweet": "Correct.",
-                "TweetLink": "1249847249565290496",
-                "Place": "Roanoke",
-                "Time": "Mon Apr 13 23:49:39 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.95791,
-                    37.2744885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/973702214027038720/eLu1W0y8_normal.jpg",
                 "Name": "Jaime Barclay",
                 "Handle": "jaimebarclay",
