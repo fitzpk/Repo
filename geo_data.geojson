@@ -209,6 +209,25 @@
                     54.667202
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1216442965972922368/bXN-BYGG_normal.jpg",
+                "Name": "AMY BOWLING",
+                "Handle": "coolkitten29",
+                "Tweet": "@TonyMaudsley1 This made me nearly choke on my mini eggs \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "TweetLink": "1250492190041747462",
+                "Place": "Grantown-on-Spey",
+                "Time": "Wed Apr 15 18:32:25 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.611716,
+                    57.3286565
+                ]
+            }
         }
     ]
 }
