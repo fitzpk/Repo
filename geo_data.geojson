@@ -4,25 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-                "Name": "Marlina Hildebrandt",
-                "Handle": "MPHildebrandt",
-                "Tweet": "@MrsCaringi Alivia says \u201cmini eggs are my favourite too!\u201d",
-                "TweetLink": "1250077881457414145",
-                "Place": "Caledon",
-                "Time": "Tue Apr 14 15:06:06 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.9195185,
-                    43.832313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1231841070750691330/-5HuF1F-_normal.jpg",
                 "Name": "James Blackwell",
                 "Handle": "BlackwellJ_",
