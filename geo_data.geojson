@@ -285,6 +285,25 @@
                     51.4516565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248781569684316160/2l38PWuw_normal.jpg",
+                "Name": "Gazray \ud83d\udc7b",
+                "Handle": "Gazray",
+                "Tweet": "I\u2019ve been vegan for fucking ages now but tell you what bloody tests me, mini eggs \ud83e\udd5a there\u2019s no alternative",
+                "TweetLink": "1250834593583857665",
+                "Place": "Kirkintilloch",
+                "Time": "Thu Apr 16 17:13:01 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.145042,
+                    55.9315235
+                ]
+            }
         }
     ]
 }
