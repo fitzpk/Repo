@@ -228,6 +228,25 @@
                     51.292942
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/992099388632772608/cTDxkxH__normal.jpg",
+                "Name": "Helen Say",
+                "Handle": "HelenCBL",
+                "Tweet": "Think I've consumed my own bodyweight in tea and Cadbury mini eggs today #day21oflockdown #copywriters #freelancing",
+                "TweetLink": "1250815520678567936",
+                "Place": "Hemel Hempstead",
+                "Time": "Thu Apr 16 15:57:13 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4675695,
+                    51.7522795
+                ]
+            }
         }
     ]
 }
