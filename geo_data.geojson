@@ -190,6 +190,25 @@
                     52.2526185
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1250774122243784704/5z3Hd1r7_normal.jpg",
+                "Name": "Laura",
+                "Handle": "Lauraleanne1982",
+                "Tweet": "@ROSAZAMBONINI Although I definitely would eat a family size bag of mini eggs previously xx",
+                "TweetLink": "1250793777951801346",
+                "Place": "Cleland",
+                "Time": "Thu Apr 16 14:30:49 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9087085,
+                    55.8046005
+                ]
+            }
         }
     ]
 }
