@@ -4,177 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1224807080781062144/xqWTdY1y_normal.jpg",
-                "Name": "chels",
-                "Handle": "chelsearoebuck_",
-                "Tweet": "Bags of mini eggs are 25p in Tesco \ud83d\ude31",
-                "TweetLink": "1250417834275958784",
-                "Place": "Rainworth",
-                "Time": "Wed Apr 15 13:36:57 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.118967,
-                    53.119871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1165722409653198851/ooy0SRU__normal.jpg",
-                "Name": "MissHeardGeog",
-                "Handle": "GeogHeard",
-                "Tweet": "Post Easter baking with the left over mini eggs \ud83d\ude0d https://t.co/LLmFDNDOTe",
-                "TweetLink": "1250433784383586305",
-                "Place": "Reading",
-                "Time": "Wed Apr 15 14:40:20 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.9820305,
-                    51.452524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/920881446180540416/ZC4i5vqe_normal.jpg",
-                "Name": "Richard McInnes",
-                "Handle": "TheTichur",
-                "Tweet": "The wife just asked me where the rest of the Belgian chocolate mini eggs are? Telt her they must a fledged \ud83e\udd37",
-                "TweetLink": "1250440642183827458",
-                "Place": "Harrogate",
-                "Time": "Wed Apr 15 15:07:35 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.541876,
-                    53.991231
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1068067721668173824/ma6y-qSB_normal.jpg",
-                "Name": "Scott Mowat",
-                "Handle": "smowat87",
-                "Tweet": "@CarDar87 @Jane_Arthur_ @hazelsimHT Super simple... 400g of chocolate and a tin of condensed milk into the microwav\u2026 https://t.co/YaolSo3BAT",
-                "TweetLink": "1250441285522960398",
-                "Place": "Glasgow",
-                "Time": "Wed Apr 15 15:10:09 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.2417515,
-                    55.8583025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1668080357/Front_normal.jpg",
-                "Name": "Oliver's Coffee House",
-                "Handle": "OliversSherbs",
-                "Tweet": "I've spent the WHOLE day scrubbing and cleaning so yes, I've just eaten a bag of Mini Eggs as a reward",
-                "TweetLink": "1250446166661136387",
-                "Place": "Sherborne",
-                "Time": "Wed Apr 15 15:29:32 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.521192,
-                    50.9489265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1204323802143973376/QrQZdiPn_normal.jpg",
-                "Name": "Matty.",
-                "Handle": "matty_stamp_",
-                "Tweet": "Am I too late for the old 'stick some cadburys mini eggs on a chocolate cupcake because it's Easter' fad?\u2026 https://t.co/r7Nwcho43J",
-                "TweetLink": "1250468982819258374",
-                "Place": "Bar Hill",
-                "Time": "Wed Apr 15 17:00:12 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0206035,
-                    52.2526185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1172981631910580224/8jXY35-3_normal.jpg",
-                "Name": "Ashleigh J",
-                "Handle": "MrsBlondielocks",
-                "Tweet": "Wednesday (?) afternoon bath, mini eggs and thatchers ros\u00e9\nLockdown could be worse \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\n#thatchers #minieggs\u2026 https://t.co/uyTKiNNFhA",
-                "TweetLink": "1250469137836576768",
-                "Place": "Cheltenham",
-                "Time": "Wed Apr 15 17:00:49 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.0877745,
-                    51.8963135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-                "Name": "Blair Mayne",
-                "Handle": "BlairMayne1",
-                "Tweet": "Hoarding confession: just bought 8 packets of mini eggs at Tesco\u2019s, on offer at 25p a packet!",
-                "TweetLink": "1250479102202699780",
-                "Place": "Northern Ireland",
-                "Time": "Wed Apr 15 17:40:25 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.81351,
-                    54.667202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1216442965972922368/bXN-BYGG_normal.jpg",
-                "Name": "AMY BOWLING",
-                "Handle": "coolkitten29",
-                "Tweet": "@TonyMaudsley1 This made me nearly choke on my mini eggs \ud83d\ude02\ud83d\ude02\ud83d\ude02",
-                "TweetLink": "1250492190041747462",
-                "Place": "Grantown-on-Spey",
-                "Time": "Wed Apr 15 18:32:25 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.611716,
-                    57.3286565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1204323802143973376/QrQZdiPn_normal.jpg",
                 "Name": "Matty.",
                 "Handle": "matty_stamp_",
@@ -302,6 +131,25 @@
                 "coordinates": [
                     -4.145042,
                     55.9315235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/823237295885139968/WRlqMvZN_normal.jpg",
+                "Name": "Keith Pinto",
+                "Handle": "kpintodjosxt13",
+                "Tweet": "Cadbury Mini Eggs Doughnut from timhortons . It was so good! Thanks @tpintophotOG , honey! I love you! \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\u2026 https://t.co/pSQCkmN2P8",
+                "TweetLink": "1250838517485363202",
+                "Place": "Toronto",
+                "Time": "Thu Apr 16 17:28:36 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
                 ]
             }
         }
