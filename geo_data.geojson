@@ -1,24 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1246196766988554242/wy0F3gMF_normal.jpg",
-                "Name": "\ud83c\uddfb\ud83c\uddea\ud83c\udde8\ud83c\uddf4 Eduardo Acosta\ud83c\udde8\ud83c\uddf4\ud83c\uddfb\ud83c\uddea",
-                "Handle": "Eduardogolf75",
-                "Tweet": "#quedateencasa #golf #golfing #golfer #golfgram #golfstagram #golfingreport #golfaddict #golfcourse #golfishard\u2026 https://t.co/UeWBd4Rhhg",
-                "TweetLink": "1251577083005976578",
-                "Place": "Cartagena",
-                "Time": "Sat Apr 18 18:23:24 +0000 2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.5496355,
-                    10.3904485
-                ]
-            }
-        }
-    ]
+    "features": []
 }
