@@ -6764,6 +6764,937 @@
                     18.0219595
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000854014873997317/NDQ1v-Ec_normal.jpg",
+                "Name": "Julia Peter",
+                "Handle": "julesp__",
+                "Tweet": "My friend in NC is a non-essential worker, but her boss believes #COVID19 is grossly exaggerated by liberal media.\u2026 https://t.co/4PQylt0jlC",
+                "TweetLink": "1252026059123548161",
+                "Place": "Brooklyn",
+                "Time": "Mon Apr 20 00:07:28 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487755,
+                    40.655138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/495335432939245568/Cjjk7Snm_normal.jpeg",
+                "Name": "Markus In The Darkus",
+                "Handle": "MarkusInDarkus",
+                "Tweet": "Sunday Night Live 933wmmr w a #FillInTheBlockHouseParty Weekend continuing until midnight. 215-263-WMMR Or TEXT: 39\u2026 https://t.co/1nwbBuunIp",
+                "TweetLink": "1252026082112557057",
+                "Place": "Pennsylvania",
+                "Time": "Mon Apr 20 00:07:34 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/745420922568450048/Z_rjTXao_normal.jpg",
+                "Name": "Ra\u00fal Sald\u00edvar PS",
+                "Handle": "raulsaldivarps",
+                "Tweet": "Hoy, que se cumplen los #87A\u00f1osPS, la pandemia del #Covid19 evidencia desigualdades e injusticias y nos insta a seg\u2026 https://t.co/a8gh2Nw9RE",
+                "TweetLink": "1252026148806066177",
+                "Place": "La Serena",
+                "Time": "Mon Apr 20 00:07:50 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0158865,
+                    -29.834815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1063120550518767616/no661PrN_normal.jpg",
+                "Name": "Renato Reyes",
+                "Handle": "renitrader",
+                "Tweet": "Apenas termine esta crisis,el gobierno debe implementar la cta de ahorros obligatoria en soles a partir del No DNI.\u2026 https://t.co/0H3eGQCbdp",
+                "TweetLink": "1252026170079657991",
+                "Place": "Miraflores",
+                "Time": "Mon Apr 20 00:07:55 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0255285,
+                    -12.119845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251958065487917056/7gBNt_Hv_normal.jpg",
+                "Name": "Ronda Burleson",
+                "Handle": "RondaBurleson",
+                "Tweet": "Sunday, Monday Quarantine Days, Tuesday, Wednesday Quarantine Days..Hmmm I think this is already a song, different\u2026 https://t.co/v6IHoVYfOO",
+                "TweetLink": "1252026170582990849",
+                "Place": "Pearland",
+                "Time": "Mon Apr 20 00:07:55 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3268995,
+                    29.5478845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248507669716938754/zMG7ZsPH_normal.jpg",
+                "Name": "Felipe \ud83c\udd71\ufe0f",
+                "Handle": "ofelipeb",
+                "Tweet": "Finalmente algu\u00e9m capacitado e com coragem de comentar como a MSM brasileira est\u00e1 fazendo um p\u00e9ssimo trabalho duran\u2026 https://t.co/TcXBlKScO4",
+                "TweetLink": "1252026201444679681",
+                "Place": "Rio de Janeiro",
+                "Time": "Mon Apr 20 00:08:02 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.441578,
+                    -22.9114215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/745420922568450048/Z_rjTXao_normal.jpg",
+                "Name": "Ra\u00fal Sald\u00edvar PS",
+                "Handle": "raulsaldivarps",
+                "Tweet": "Hoy, que se cumplen los #87A\u00f1osPS, la pandemia del #Covid19 evidencia desigualdades e injusticias y nos insta a seg\u2026 https://t.co/CbQg1MPX4o",
+                "TweetLink": "1252026202749112321",
+                "Place": "La Serena",
+                "Time": "Mon Apr 20 00:08:02 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0158865,
+                    -29.834815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1191431453541748738/T7nT3lzA_normal.jpg",
+                "Name": "Maria Ball",
+                "Handle": "mrsmariaball",
+                "Tweet": "Great graphic by @Emily_M_Eng at @seattletimes using @UW #COVID19 data showing when states *should* be able to some\u2026 https://t.co/u5QKrxNbpx",
+                "TweetLink": "1252026216036495360",
+                "Place": "Seattle",
+                "Time": "Mon Apr 20 00:08:06 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3306025,
+                    47.614817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1081458675288555520/NeZ6rn3t_normal.jpg",
+                "Name": "Nifty Dami \u26a1\ufe0f",
+                "Handle": "nifty_tweet",
+                "Tweet": "Hommies \ud83d\udcaa\n\n.\n#fliptheswitch #fliptheswitchchallenge #popdaddychallenge #bopdaddychallenge #covid #covid19 @ Social\u2026 https://t.co/Fhjrnivk0k",
+                "TweetLink": "1252026224018427908",
+                "Place": "Samaru",
+                "Time": "Mon Apr 20 00:08:07 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.646177,
+                    11.157514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249066861339324419/O9tynvUi_normal.jpg",
+                "Name": "TUNJI",
+                "Handle": "Tunjimike",
+                "Tweet": "Melania Trump said she is weeping for Africa.\n\nSame thing that am seeing but I am rebuking it. Lord please have mer\u2026 https://t.co/FgSrXJLNEC",
+                "TweetLink": "1252026241231851521",
+                "Place": "Ikorudu",
+                "Time": "Mon Apr 20 00:08:12 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.505413,
+                    6.6258965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248995733212033024/AIGkibvB_normal.jpg",
+                "Name": "Portland Adventure Tours",
+                "Handle": "SarahBott",
+                "Tweet": "Thank you, Portland artists! \ud83c\udfa8",
+                "TweetLink": "1252026258877104129",
+                "Place": "Portland",
+                "Time": "Mon Apr 20 00:08:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.630908,
+                    45.536402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1237634790033100800/LbCjBlWI_normal.jpg",
+                "Name": "Diario de Puebla",
+                "Handle": "DiariodePuebla",
+                "Tweet": "#EnVivo conferencia de prensa, autoridades de la Secretar\u00eda de Salud en #M\u00e9xico...\n\nSituaci\u00f3n del #coronavirus en\u2026 https://t.co/AFsjmPcg1c",
+                "TweetLink": "1252026276677894145",
+                "Place": "Puebla",
+                "Time": "Mon Apr 20 00:08:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.1542665,
+                    19.0322295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251574332389761026/fDgttxyo_normal.jpg",
+                "Name": "\ud835\udc11\ud835\udc1e\ud835\udc27\ud835\udc1a\ud835\udc2d\ud835\udc28",
+                "Handle": "renatomusca",
+                "Tweet": "Sono tre giorni che compro roba senza motivo solo per sentirmi gratificato...sono shopping compulsivo....aiuto\u2026 https://t.co/LjO71WuYfP",
+                "TweetLink": "1252026294344310784",
+                "Place": "Locri",
+                "Time": "Mon Apr 20 00:08:24 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.238517,
+                    38.235584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1245952542132953089/qXIoUFwo_normal.jpg",
+                "Name": "Emma Lewis",
+                "Handle": "Petchary",
+                "Tweet": "A good anti-stigma message from Rev Karl Johnson. #COVID19",
+                "TweetLink": "1252026334118907904",
+                "Place": "Jamaica",
+                "Time": "Mon Apr 20 00:08:34 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.275953,
+                    18.1154075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953022206862397442/Bv1wWV8A_normal.jpg",
+                "Name": "Kilian Hanratty",
+                "Handle": "KilianHanratty",
+                "Tweet": "Oh so much anger on twitter ... #COVID19",
+                "TweetLink": "1252026393698983941",
+                "Place": "Meath",
+                "Time": "Mon Apr 20 00:08:48 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7754335,
+                    53.649918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/594593043765792769/MTNXEZ24_normal.jpg",
+                "Name": "Jeff Hartzer",
+                "Handle": "jeffhartzer",
+                "Tweet": "Just in...MASK NOT APPROVED! #SundayFunnies #COVID19 https://t.co/kk13g9WUCT",
+                "TweetLink": "1252026417342066689",
+                "Place": "Albuquerque",
+                "Time": "Mon Apr 20 00:08:54 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.632718,
+                    35.1170025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/763598317523730436/K5FDICI5_normal.jpg",
+                "Name": "Kevin Rissmiller",
+                "Handle": "RissmillerRM",
+                "Tweet": "I worked hard serving people food in Waffle House to pay my rent\n\nNOW I'M\n\nHOMELESS\n\nHUNGRY\n\nBROKE\n\nAND ASKING FOR\u2026 https://t.co/m8ERrz1Eem",
+                "TweetLink": "1252026422631239680",
+                "Place": "Florida",
+                "Time": "Mon Apr 20 00:08:55 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/644374592639729664/neX-wMRz_normal.jpg",
+                "Name": "Kristi Searle",
+                "Handle": "kristisearle",
+                "Tweet": "Sunday funday COVID/social distancing style \n#COVIDLIFE\n#covid19\n#physicaldistancing\n#2metres\n#stayaway2metres\u2026 https://t.co/xdjOgS6CBf",
+                "TweetLink": "1252026464268140544",
+                "Place": "Vancouver",
+                "Time": "Mon Apr 20 00:09:05 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.123581,
+                    49.257639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3425756995/78f92ada888583caf1228d13449927a3_normal.jpeg",
+                "Name": "TheOriginalFoodNinja",
+                "Handle": "TheFoodNinja1",
+                "Tweet": "Tired of cooking...made myself a mini charcuterie plate and salad. Serrano ham, pepperettes, brie, marble cheddar,\u2026 https://t.co/suMROPrB7L",
+                "TweetLink": "1252026528021524482",
+                "Place": "Toronto",
+                "Time": "Mon Apr 20 00:09:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1250942789132509184/JYa5kjZc_normal.jpg",
+                "Name": "UWEC Alumni",
+                "Handle": "PoshyKimW",
+                "Tweet": "Ordered my LS top + donated $$$. Great cause &amp; now I add to my SS shirt! @Connellybooks #SaveIndieBooks Stay sage e\u2026 https://t.co/wzjcVSG6xW",
+                "TweetLink": "1252026536779083776",
+                "Place": "Chandler",
+                "Time": "Mon Apr 20 00:09:22 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8808735,
+                    33.2824505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248507669716938754/zMG7ZsPH_normal.jpg",
+                "Name": "Felipe \ud83c\udd71\ufe0f",
+                "Handle": "ofelipeb",
+                "Tweet": "Finalmente algu\u00e9m capacitado e com coragem de comentar como a MSM brasileira est\u00e1 fazendo um p\u00e9ssimo trabalho duran\u2026 https://t.co/xsd1XeIvEx",
+                "TweetLink": "1252026546291986433",
+                "Place": "Rio de Janeiro",
+                "Time": "Mon Apr 20 00:09:24 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.441578,
+                    -22.9114215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/763598317523730436/K5FDICI5_normal.jpg",
+                "Name": "Kevin Rissmiller",
+                "Handle": "RissmillerRM",
+                "Tweet": "I worked hard serving people food in Waffle House to pay my rent\n\nNOW I'M\n\nHOMELESS\n\nHUNGRY\n\nBROKE\n\nAND ASKING FOR\u2026 https://t.co/2LFru362Xn",
+                "TweetLink": "1252026606417256450",
+                "Place": "Florida",
+                "Time": "Mon Apr 20 00:09:39 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1205991545700265984/hNgkwFNG_normal.jpg",
+                "Name": "matheus ramos de assis \ud83d\udd34\ud83c\udde7\ud83c\uddf7\u26ab\ud83d\udd4a\ufe0f\ud83c\udf0e\ud83c\udf0d\ud83c\udf0f\ud83c\udccf\ud83e\udd18\ud83d\udc7c\ud83c\udfe1",
+                "Handle": "matheusramosfut",
+                "Tweet": "#TogetherAtHome #FerrugemEmCasa #HENRIQUEEJULIANO #coronavirus #ThankYouBTS #COVID\u30fc19 #temblorgt #COVID19\u2026 https://t.co/aWVWZmbowE",
+                "TweetLink": "1252026615875461120",
+                "Place": "Jaboat\u00e3o dos Guararapes",
+                "Time": "Mon Apr 20 00:09:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35.003737,
+                    -8.1485835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1024441031691886592/KYBranVq_normal.jpg",
+                "Name": "Ryan Laughlin",
+                "Handle": "RyanLaughlinKOB",
+                "Tweet": "The @GovMLG is live during a Tribal Communities virtual town on @NMPBS.  She is addressing the outbreak of #COVID19\u2026 https://t.co/h12PTVO6Wh",
+                "TweetLink": "1252026656794963969",
+                "Place": "Albuquerque",
+                "Time": "Mon Apr 20 00:09:51 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.632718,
+                    35.1170025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1149384431578341378/1yRUmq_4_normal.jpg",
+                "Name": "Erin Tobz (Tobz)",
+                "Handle": "ErinTobz",
+                "Tweet": "Our first responders need the proper #PPE!!! They need face masks, surgical masks and sanitizing products.\u2026 https://t.co/kPl1p61JQs",
+                "TweetLink": "1252026682048946176",
+                "Place": "Houston",
+                "Time": "Mon Apr 20 00:09:57 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4464865,
+                    29.838495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242908734139097092/fnEVzJ0-_normal.jpg",
+                "Name": "\u26a187PUNTO3\u1d34\u1d30 MUCHA M\u00daSICA\ud83d\udcfb\ud83d\udea9",
+                "Handle": "87punto3",
+                "Tweet": "#ACTUALIZACI\u00d3N\u2b55| Se muestran la evoluci\u00f3n de los pacientes con #coronavirus #covid19.\ud83d\udc47\ud83d\ude37\n\n\ud83d\udd38 Ambulatorio -5,212- 63.0\u2026 https://t.co/eWShv26QpU",
+                "TweetLink": "1252026718010912768",
+                "Place": "Palacio Nacional",
+                "Time": "Mon Apr 20 00:10:05 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.131023,
+                    19.43256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1230816994699726848/Y03hQQeV_normal.jpg",
+                "Name": "Diane Aubry",
+                "Handle": "dianeaubryparis",
+                "Tweet": "Vielen Dank @BenjAlvarez1",
+                "TweetLink": "1252026729604042752",
+                "Place": "Paris",
+                "Time": "Mon Apr 20 00:10:08 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.347003,
+                    48.8588335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985209373835321345/vXDJOdRB_normal.jpg",
+                "Name": "Sean Woolbright",
+                "Handle": "swoolbright1",
+                "Tweet": "I said this two months ago",
+                "TweetLink": "1252026747203342337",
+                "Place": "Columbus",
+                "Time": "Mon Apr 20 00:10:12 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.4093905,
+                    33.5076145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/675782172448415744/4DkXfguh_normal.jpg",
+                "Name": "Shon Parker",
+                "Handle": "Shon1994Shon",
+                "Tweet": "So we are clear, and to wrap up any misunderstandings, COVID-19 has killed more in the US than the 18-19 flu YEAR..\u2026 https://t.co/8DeGKvvoar",
+                "TweetLink": "1252026757164736512",
+                "Place": "St Paul",
+                "Time": "Mon Apr 20 00:10:15 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.1056485,
+                    44.9415155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1006909556369354752/sk8HhwDN_normal.jpg",
+                "Name": "\u266bZmuzik\u266b\u2122",
+                "Handle": "zmuzikpraDoocer",
+                "Tweet": "Today\u2019s mask #covid19 #mask @ Cooper-Young, Memphis https://t.co/FfyQcbNW99",
+                "TweetLink": "1252026764076843009",
+                "Place": "Memphis",
+                "Time": "Mon Apr 20 00:10:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.922029,
+                    35.1335205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248736655424413696/wN40Up7__normal.jpg",
+                "Name": "Kokrajhar",
+                "Handle": "kokrajhar_town",
+                "Tweet": "Diabetic and hypertension patient must take extra precautionary measures.",
+                "TweetLink": "1252026778723291136",
+                "Place": "Assam",
+                "Time": "Mon Apr 20 00:10:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.8603845,
+                    26.0523505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1131586376745537537/EYVu2dxu_normal.png",
+                "Name": "Jeanne Clark",
+                "Handle": "JeanneKCC",
+                "Tweet": "Thank you for standing firm for safety and sanity",
+                "TweetLink": "1252026785337925632",
+                "Place": "Pittsburgh",
+                "Time": "Mon Apr 20 00:10:21 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9806895,
+                    40.431389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/777958636844945408/BGtiFr2a_normal.jpg",
+                "Name": "J. Benito Valarezo L",
+                "Handle": "yoJocho",
+                "Tweet": "\"Aguas mansas\"\n.\n.\n.\n.\n.\n.\n.\n#art #draw #acuarela #cuarentena #guayaquil #ecuador #covid19 en Guayaquil, Ecuador https://t.co/BpPuGiGh3x",
+                "TweetLink": "1252026785899991044",
+                "Place": "Guayaquil",
+                "Time": "Mon Apr 20 00:10:21 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.091193,
+                    -2.512995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/815730363909701633/p8YJjv78_normal.jpg",
+                "Name": "David Lee Evans",
+                "Handle": "David_Lee_Evans",
+                "Tweet": "@robreiner Just listened to Hannity show, he's going with  'It was the Democrats who down played this pandemic...\"\u2026 https://t.co/gdxWUFVDLO",
+                "TweetLink": "1252026795999854599",
+                "Place": "Philadelphia",
+                "Time": "Mon Apr 20 00:10:24 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.117998,
+                    40.0048655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1090637770199105538/wb-m7XnM_normal.jpg",
+                "Name": "Gustavo M. Alfaro",
+                "Handle": "GMALFARO",
+                "Tweet": "\ud83d\udd34AHORA | Nuevo reporte epidemiol\u00f3gico del @MinSaludSantaFe , confirmando un nuevo caso de #COVID19 en la provincia.\u2026 https://t.co/ckRuJTevto",
+                "TweetLink": "1252026817587875847",
+                "Place": "Santa F\u00e9",
+                "Time": "Mon Apr 20 00:10:29 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.674902,
+                    -31.6191365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246931273572069376/SN64496S_normal.jpg",
+                "Name": "Mardi Gras Photo Booth",
+                "Handle": "Mardigrasbooth",
+                "Tweet": "Glad to help anytime!",
+                "TweetLink": "1252026819898941441",
+                "Place": "Burlington",
+                "Time": "Mon Apr 20 00:10:30 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.820465,
+                    43.381396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1227590540650336258/OwwH4vDy_normal.jpg",
+                "Name": "Vinny The Teacher",
+                "Handle": "vinnytheteacher",
+                "Tweet": "Arreeee",
+                "TweetLink": "1252026864786382849",
+                "Place": "Antiguo Cuscatlan",
+                "Time": "Mon Apr 20 00:10:40 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.3158035,
+                    13.6268735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242162252817428480/lxNGtgKL_normal.jpg",
+                "Name": "UR",
+                "Handle": "yingku2014",
+                "Tweet": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e33\u0e1c\u0e31\u0e14\u0e2b\u0e21\u0e35\u0e48\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07100 \u0e01\u0e25\u0e48\u0e2d\u0e07\u0e44\u0e1b\u0e41\u0e08\u0e01\u0e04\u0e19\u0e43\u0e19\u0e0a\u0e38\u0e21\u0e0a\u0e19\u0e40\u0e2d\u0e37\u0e49\u0e2d\u0e2d\u0e32\u0e17\u0e23 \u0e40\u0e14\u0e34\u0e21\u0e40\u0e23\u0e32\u0e40\u0e0a\u0e48\u0e32\u0e15\u0e36\u0e01\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e2d\u0e19\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e31\u0e1a\u0e14\u0e39\u0e41\u0e25\u0e23\u0e30\u0e1a\u0e1a\u0e04\u0e2d\u0e21\u0e41\u0e15\u0e48\u0e14\u0e49\u0e27\u0e22 \u0e28\u2026 https://t.co/k6rsj6Jzqa",
+                "TweetLink": "1252026948617826304",
+                "Place": "Amphoe Bang Bua Thong",
+                "Time": "Mon Apr 20 00:11:00 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3900385,
+                    13.9314925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1196640953710329856/W2_XgVyT_normal.jpg",
+                "Name": "Jugada Prefabricada",
+                "Handle": "JPrefabricada",
+                "Tweet": "#Ent\u00e9rate | Un caso m\u00e1s de #Covid19 en la #SerieA \ud83e\udda0 \ud83d\ude37 \n\n#MassimoCellino da por perdida la temporada de la #SerieA.\u2026 https://t.co/TdLmp5JwKy",
+                "TweetLink": "1252026974316486668",
+                "Place": "Iztapalapa",
+                "Time": "Mon Apr 20 00:11:06 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.050461,
+                    19.3427885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1215381306252517376/KxMNphv5_normal.jpg",
+                "Name": "blackness everdeen \ud83d\udc3a",
+                "Handle": "traceyecorder",
+                "Tweet": "\u2198\ufe0f This is dangerous and why right wing media is a public health hazard.",
+                "TweetLink": "1252027029236510720",
+                "Place": "Oakland",
+                "Time": "Mon Apr 20 00:11:19 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2286855,
+                    37.791994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242908734139097092/fnEVzJ0-_normal.jpg",
+                "Name": "\u26a187PUNTO3\u1d34\u1d30 MUCHA M\u00daSICA\ud83d\udcfb\ud83d\udea9",
+                "Handle": "87punto3",
+                "Tweet": "#ACTUALIZACI\u00d3N\u2b55| Se muestra el tipo de paciente seg\u00fan la clasificaci\u00f3n de resultado #coronavirus #covid19.\ud83d\udc47\ud83d\ude37\u2026 https://t.co/Yko8mupv2n",
+                "TweetLink": "1252027030721441793",
+                "Place": "Palacio Nacional",
+                "Time": "Mon Apr 20 00:11:20 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.131023,
+                    19.43256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/862818399226920960/pPkh2E8-_normal.jpg",
+                "Name": "Amy Barnes",
+                "Handle": "amybarnes_usa",
+                "Tweet": "The death penalty needs to end. State sanctioned killing is still murder.",
+                "TweetLink": "1252027042138337285",
+                "Place": "Georgia",
+                "Time": "Mon Apr 20 00:11:23 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1221513031550586880/fSOZOdt5_normal.jpg",
+                "Name": "trumperTS",
+                "Handle": "trumperts",
+                "Tweet": "If 1% of those who are unemployed from #COVID19 commit suicide or fall ill from other related causes, that is a qua\u2026 https://t.co/jRnH89b5uS",
+                "TweetLink": "1252027055601889280",
+                "Place": "Los Angeles",
+                "Time": "Mon Apr 20 00:11:26 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1252021542642475008/kQJSMMnu_normal.jpg",
+                "Name": "@stormzyyoung",
+                "Handle": "Zayn_Young45",
+                "Tweet": "New freestyle \ud83c\udf99\ufe0f\ud83c\udf99\ufe0f by Stormzyyoung\ud83d\ude4ftag @djkaywise\n#COVID19 #FunkeAkindeleSpeaks #TogetherAtHome #lockdown\u2026 https://t.co/eKKu5ziGzr",
+                "TweetLink": "1252027075411804162",
+                "Place": "Lagos",
+                "Time": "Mon Apr 20 00:11:30 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.528163,
+                    6.534467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1252013532092260352/ST9SjI3y_normal.jpg",
+                "Name": "URGEAN",
+                "Handle": "ur_GeanAddico",
+                "Tweet": "#FunkeAkindeleSpeaks #day24oflockdown #Palghar #ThankYouBTS #moblynching #daterush #COVID19",
+                "TweetLink": "1252027102595092486",
+                "Place": "Accra",
+                "Time": "Mon Apr 20 00:11:37 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1842935,
+                    5.6231985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1136680107685416962/rvIp6fpD_normal.jpg",
+                "Name": "Ronald Perez Escobar",
+                "Handle": "drronaldperez",
+                "Tweet": "The Real One Fiesta Line",
+                "TweetLink": "1252027106470526977",
+                "Place": "Panchimalco",
+                "Time": "Mon Apr 20 00:11:38 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.213322,
+                    13.73488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/861714775591575553/GEoxSsW9_normal.jpg",
+                "Name": "edgiesversion",
+                "Handle": "edgiesversion",
+                "Tweet": "@JennaEllisEsq Everyone is stuck in Feb. 2020. \n\n@POTUS got the ball rolling Jan.  31 when he issued a travel ban f\u2026 https://t.co/2teuYC0oy8",
+                "TweetLink": "1252027139400097797",
+                "Place": "Upper Arlington",
+                "Time": "Mon Apr 20 00:11:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0731845,
+                    40.0265965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1225607583991357441/XmEq89Wz_normal.jpg",
+                "Name": "Daniel Lopez \ud83c\udfe6",
+                "Handle": "DanielLopez8a",
+                "Tweet": "@lexveritas78 @OPSOMSMexico Exacto; y esa misma se liber\u00f3 por decreto para comprar al precio que sea por #COVID19 m\u2026 https://t.co/zeSTHesULB",
+                "TweetLink": "1252027150535782400",
+                "Place": "Cuautitl\u00e1n Izcalli",
+                "Time": "Mon Apr 20 00:11:48 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.233657,
+                    19.6562895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208949548107927553/pQMJaM79_normal.jpg",
+                "Name": "Ra\u00fal Eduardo Opazo",
+                "Handle": "ProfeRaulOpazo",
+                "Tweet": "Jaime Ma\u00f1alich 19/03: \u201cHemos acordado ayer con el embajador de #Ma\u00f1alichDejaDeMentir #RenunciaMa\u00f1alich\u2026 https://t.co/WGWn5lfq10",
+                "TweetLink": "1252027174284075010",
+                "Place": "Santiago",
+                "Time": "Mon Apr 20 00:11:54 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6596155,
+                    -33.4521615
+                ]
+            }
         }
     ]
 }
