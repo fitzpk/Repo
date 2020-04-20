@@ -9633,6 +9633,519 @@
                     10.483539
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1236812206429409281/bQ1mJcbI_normal.jpg",
+                "Name": "Gustavo Assun\u00e7\u00e3o",
+                "Handle": "gustavoasuncao",
+                "Tweet": "@FabioPorchat, minha m\u00e3e e eu assistindo \u00e0 retirada de 04 unhas encravadas num canal do YouTube! Quem mais?? Amamos\u2026 https://t.co/e3GVR3oCuf",
+                "TweetLink": "1252030723575418880",
+                "Place": "Belo Horizonte",
+                "Time": "Mon Apr 20 00:26:00 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9598225,
+                    -19.918692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242908734139097092/fnEVzJ0-_normal.jpg",
+                "Name": "\u26a187PUNTO3\u1d34\u1d30 MUCHA M\u00daSICA\ud83d\udcfb\ud83d\udea9",
+                "Handle": "87punto3",
+                "Tweet": "#ACTUALIZACI\u00d3N\u2b55| Gustavo Reyes Ter\u00e1n Coordinador de Institutos Nacionales de Salud explica la atenci\u00f3n m\u00e9dica a pac\u2026 https://t.co/bMEQItRrek",
+                "TweetLink": "1252030812385665025",
+                "Place": "Palacio Nacional",
+                "Time": "Mon Apr 20 00:26:21 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.131023,
+                    19.43256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1243206260159283201/IhAgMBeY_normal.jpg",
+                "Name": "MF",
+                "Handle": "0891mexicana",
+                "Tweet": "This is my home. It\u2019s upsetting but I get really bent out of shape to see others (in the comments) pass judgment. T\u2026 https://t.co/HepmrkmF3Q",
+                "TweetLink": "1252030812834484225",
+                "Place": "Kansas",
+                "Time": "Mon Apr 20 00:26:22 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.319925,
+                    38.498196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/831990893695684615/dVXUEGIj_normal.jpg",
+                "Name": "Abraham Cho",
+                "Handle": "abrahamcho",
+                "Tweet": "This is why I love New York.\n\n#COVID19 #coronavirus https://t.co/Vem65SVC4z",
+                "TweetLink": "1252030831629078535",
+                "Place": "Manhattan",
+                "Time": "Mon Apr 20 00:26:26 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685415,
+                    40.780709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242272813404360707/c63-aBp7_normal.jpg",
+                "Name": "Mariana F. Sanz Bassotto \u23c3 \ud83d\udc9c",
+                "Handle": "Mariana_FSanz",
+                "Tweet": "Hace como yo, a partir de ma\u00f1ana es obligatorio el uso de tapa bocas.\n\nSi sal\u00eds usa barbijo, es para cuidarnos y po\u2026 https://t.co/v1wUoLhV5a",
+                "TweetLink": "1252030851896008705",
+                "Place": "Ciudad del Libertador General San Mart\u00edn",
+                "Time": "Mon Apr 20 00:26:31 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.5641745,
+                    -34.544659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251298573091667973/SWjJCNoj_normal.jpg",
+                "Name": "Tom Reynolds \u274c",
+                "Handle": "TomReynolds_AU",
+                "Tweet": "Despite all the current doom and gloom, I think the economy will come roaring back. I think the 20s will be like po\u2026 https://t.co/JKcwOBSmpB",
+                "TweetLink": "1252030859982434305",
+                "Place": "Melbourne",
+                "Time": "Mon Apr 20 00:26:33 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/915305700011716608/IU7-3ajQ_normal.jpg",
+                "Name": "GLADIATOR",
+                "Handle": "cerveraalbert78",
+                "Tweet": "#YoConIglesias ni a tomar un agua, se\u00f1ores que este gobierno nos lleva a salir del Euro, despertar!!! Cuanto antes\u2026 https://t.co/xRK6qBaTeV",
+                "TweetLink": "1252030900428247040",
+                "Place": "La Pobla de Vallbona",
+                "Time": "Mon Apr 20 00:26:42 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.544596,
+                    39.6073705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1250153741606481920/NNxh6DGM_normal.jpg",
+                "Name": "Mariam Sabri",
+                "Handle": "mariamsabri",
+                "Tweet": "3yo has declared she wants to be \u2018a scientist who studies germs\u2019 when she grows up. We\u2019ve come a long way from dino\u2026 https://t.co/U24hQptbVP",
+                "TweetLink": "1252030953603469313",
+                "Place": "Berkeley",
+                "Time": "Mon Apr 20 00:26:55 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2795215,
+                    37.8758455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246234759749079040/xY__mb4O_normal.jpg",
+                "Name": "\ud835\udc74\ud835\udc82\ud835\udc8f\ud835\udc96\ud835\udc86\ud835\udc8d \ud835\udc6e\ud835\udc82\ud835\udc93\ud835\udc82\ud835\udc9a\ud83d\udca1\ud835\udc69\ud835\udc8a\ud835\udc9b \ud835\udc74\ud835\udc82\ud835\udc8f\ud835\udc82\ud835\udc88\ud835\udc86\ud835\udc93",
+                "Handle": "bizzionario",
+                "Tweet": "No veo que la curva este bajando \u2639\ufe0f",
+                "TweetLink": "1252030966614429697",
+                "Place": "Monsefu",
+                "Time": "Mon Apr 20 00:26:58 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8328915,
+                    -6.867538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1162207415086931970/i2w-66gR_normal.jpg",
+                "Name": "Daniel Nava",
+                "Handle": "vampd27N",
+                "Tweet": "Deber\u00edan de escribir un lado bro o hacer un documental, \"Como hacen los venezolanos y su gobierno para aguantar un\u2026 https://t.co/DsvbJoOMMh",
+                "TweetLink": "1252030971836133376",
+                "Place": "Maracay",
+                "Time": "Mon Apr 20 00:26:59 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.608333,
+                    10.265334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1213203038275428352/RpLaOznB_normal.jpg",
+                "Name": "Radio Panam\u00e1",
+                "Handle": "radiopanama",
+                "Tweet": "Comunicado N\u00b055\n@MINSAPma #RadioPanama #Panama #COVID19 https://t.co/AU9izFiz7R",
+                "TweetLink": "1252031005541752833",
+                "Place": "Panam\u00e1",
+                "Time": "Mon Apr 20 00:27:07 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0954175,
+                    8.421673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251708022415646722/6_6rofND_normal.jpg",
+                "Name": "Lucas Thomaz com Z e sem H",
+                "Handle": "lucasmthomaz2",
+                "Tweet": "Eu depois da quarentena louco p rebolar a raba e beber horrores!\n#coronavirusbrasil #LGBTQemCasa #TogetherAtHome\u2026 https://t.co/95bNjBc6Hh",
+                "TweetLink": "1252031035438780417",
+                "Place": "Luzi\u00e2nia",
+                "Time": "Mon Apr 20 00:27:15 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.0221925,
+                    -16.5552415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248087739611971585/jh2h1_lF_normal.jpg",
+                "Name": "Tootie",
+                "Handle": "Bajdaj",
+                "Tweet": "They stupid",
+                "TweetLink": "1252031142141853702",
+                "Place": "Gulfport",
+                "Time": "Mon Apr 20 00:27:40 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.069133,
+                    30.426027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1083782053198512129/6ThzZapk_normal.jpg",
+                "Name": "LIMI\u2708LESS",
+                "Handle": "HeeroChima",
+                "Tweet": "What\u2019s to be said again???",
+                "TweetLink": "1252031145384050689",
+                "Place": "Ikeja",
+                "Time": "Mon Apr 20 00:27:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318066,
+                    6.590611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2277786682/2raseaopmfcaxsowlu15_normal.jpeg",
+                "Name": "Brkkn81",
+                "Handle": "brkkn81",
+                "Tweet": "Kar\u015f\u0131 kald\u0131r\u0131mdaki sorumsuz yarat\u0131klar\u0131n hal ve davran\u0131\u015flar\u0131... \nX: Abi hay\u0131rd\u0131r vir\u00fcs m\u00fc var h\u0131?\nY: Korona var b\u0131r\u2026 https://t.co/LfgX9v19q9",
+                "TweetLink": "1252031145350516737",
+                "Place": "Bursa",
+                "Time": "Mon Apr 20 00:27:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.027112,
+                    40.0983865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1218185913207001089/Syi1cjDz_normal.jpg",
+                "Name": "Joseph Zmuda, PhD, MPH",
+                "Handle": "ZmudaJoseph",
+                "Tweet": "@LuisTrib @TribLIVE @jeremyfaust @CNN Nice weather today-6 teens playing basketball outside-not practicing safe dis\u2026 https://t.co/mLYM6t28wd",
+                "TweetLink": "1252031196999139333",
+                "Place": "Ohio",
+                "Time": "Mon Apr 20 00:27:53 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0931635,
+                    40.5463505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1547453604/Pinkney_normal.jpg",
+                "Name": "Dr. Pinkney",
+                "Handle": "UppityNegreaux",
+                "Tweet": "No news here, Alexa has been saying this.\ud83e\udd37\u200d\u2640\ufe0f",
+                "TweetLink": "1252031219652493313",
+                "Place": "Ruston",
+                "Time": "Mon Apr 20 00:27:59 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.6338345,
+                    32.5369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251520830246354945/NUdAPDGY_normal.jpg",
+                "Name": "Ma.EugeniaGonz\u00e1lez",
+                "Handle": "ARIAMEU",
+                "Tweet": "Escuchemos a quienes saben.",
+                "TweetLink": "1252031266616197123",
+                "Place": "Coacalco de Berrioz\u00e1bal",
+                "Time": "Mon Apr 20 00:28:10 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.0903035,
+                    19.626005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/830534866617954305/N1zl7FsY_normal.jpg",
+                "Name": "Vinny (#testtracetreat) Arora MD MAPP",
+                "Handle": "FutureDocs",
+                "Tweet": "Note that cities that adopted swift public health action in 1918 had greater economic recovery after the flu pandem\u2026 https://t.co/nGDg970dRg",
+                "TweetLink": "1252031290867683333",
+                "Place": "Chicago",
+                "Time": "Mon Apr 20 00:28:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.732013,
+                    41.8335845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1252016442641391618/K9G6no-C_normal.jpg",
+                "Name": "Grace Krokosz",
+                "Handle": "empowergracewi",
+                "Tweet": "@Truth_Mortar @SpeakerVos @wisgop @DiamondandSilk Oh so upset! #VoteBlueToSaveAmerica #VoteBlueNoMatterWho\u2026 https://t.co/2RDP81ptkQ",
+                "TweetLink": "1252031294151831553",
+                "Place": "Pleasant Prairie",
+                "Time": "Mon Apr 20 00:28:16 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.876758,
+                    42.533542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/997403609082937344/mh_VGMcu_normal.jpg",
+                "Name": "Shaw Sebastian",
+                "Handle": "millseba",
+                "Tweet": "It was great catching up with you guys!! @MBLBoP #2017",
+                "TweetLink": "1252031296752300032",
+                "Place": "Philadelphia",
+                "Time": "Mon Apr 20 00:28:17 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.117998,
+                    40.0048655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/592316735107297281/NGi7XrEJ_normal.jpg",
+                "Name": "Tammy B",
+                "Handle": "nazcat",
+                "Tweet": "Pok\u00e9mon go poll. #pokemongo how has your shiny catches been since  #COVID19 lockdown? #incense #shinypokemon",
+                "TweetLink": "1252031341106954240",
+                "Place": "Strathroy-Caradoc",
+                "Time": "Mon Apr 20 00:28:27 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.533817,
+                    42.906181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983222077049196544/RTjEUt0o_normal.jpg",
+                "Name": "odumosu david",
+                "Handle": "daveson50",
+                "Tweet": "If you leave your house God punish you",
+                "TweetLink": "1252031379107467264",
+                "Place": "Ikorudu",
+                "Time": "Mon Apr 20 00:28:37 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.505413,
+                    6.6258965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1217333352711237632/jnpARuDl_normal.jpg",
+                "Name": "Segun Mayor",
+                "Handle": "segunmayor",
+                "Tweet": "Eighty-six new cases of #COVID19 have been reported;\n\n70 in Lagos\n7 in FCT\n3 in Katsina\n3 in Akwa Ibom\n1 in Jigawa\u2026 https://t.co/2H90EYHqr9",
+                "TweetLink": "1252031382479687680",
+                "Place": "Ikeja",
+                "Time": "Mon Apr 20 00:28:37 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318066,
+                    6.590611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/456600051876245505/-08r1BhR_normal.jpeg",
+                "Name": "Cielo",
+                "Handle": "cielomorenopy",
+                "Tweet": "La meta no es parar la epidemia, la meta es contagiarnos paulatinamente Dr. @guillesequera \n#covid19 #cuarentena #QuedateEnCasaPy",
+                "TweetLink": "1252031385159819264",
+                "Place": "Central",
+                "Time": "Mon Apr 20 00:28:38 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.485178,
+                    -25.546591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1192902390741184512/JO0humIY_normal.jpg",
+                "Name": "Ahmed",
+                "Handle": "1hmedZahid",
+                "Tweet": "Majority of 10/12 grade students are just wasting time. They can't study in these stressful days but can watch 3 mo\u2026 https://t.co/RZJArE2ADC",
+                "TweetLink": "1252031396736118788",
+                "Place": "Punjab",
+                "Time": "Mon Apr 20 00:28:41 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.3554985,
+                    30.8641075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1241040679507300354/1IexQ-ee_normal.jpg",
+                "Name": "Mark \ud83c\udf0a\ud83c\uddfa\ud83c\uddf8\u2696\ufe0f\ud83e\udde9\ud83c\udfb8\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83e\udd43",
+                "Handle": "AutismGrldCheez",
+                "Tweet": "This",
+                "TweetLink": "1252031419330723841",
+                "Place": "Westlake",
+                "Time": "Mon Apr 20 00:28:46 +0000 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9215795,
+                    41.4445855
+                ]
+            }
         }
     ]
 }
