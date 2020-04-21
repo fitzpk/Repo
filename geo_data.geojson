@@ -13248,6 +13248,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2468069859/image_normal.jpg",
+                "Name": "TEM",
+                "Handle": "tmanthey1",
+                "Tweet": "No seersucker hat or coat????",
+                "TweetLink": "1252394535650332673",
+                "Place": "Metairie",
+                "Time": "Tue Apr 21 00:31:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1786295,
+                    30.001244
+                ]
+            }
         }
     ]
 }
